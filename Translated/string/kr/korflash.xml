@@ -3976,4 +3976,5 @@
   <!-- UIRandomCoupon -->
   <key id="$s_random_coupon_payback_text" value="今日蘑菇币返利！" />
   <key id="$s_random_coupon_sale_text" value="今日折扣福利！" />
+  <key id="$s_lead_skill_title" value="領導技能" />
 </ms2>

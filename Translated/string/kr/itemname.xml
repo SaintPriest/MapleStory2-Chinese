@@ -21465,6 +21465,7 @@
   <key id="20210052" name="双人表情动作：月圆之夜" />
   <key id="20210053" name="双人表情动作：行礼" />
   <key id="20210054" name="双人表情动作：行礼" />
+  <key id="20210055" name="雙人表情動作：與小雞拍手" />
   <key id="20211001" class="New가챠전용" name="双人表情动作：一言为定" />
   <key id="20211002" class="New가챠전용" name="双人表情动作：初雪" />
   <key id="20211003" class="New가챠전용" name="双人表情动作：甜蜜糖果" />
@@ -24880,33 +24881,35 @@
   <key id="22201015" class="randomBox" name="小黄鸭摩登硬币（第12期）" feature="ItemCN" />
   <key id="22201016" class="randomBox" name="小黄鸭摩登硬币（第16期）" />
   <key id="22201016" class="randomBox" name="小黄鸭摩登硬币（第13期）" feature="ItemCN" />
-  <key id="22201017" class="randomBox" name="小黄鸭靓耀硬币（第1期）" />
-  <key id="22201018" class="randomBox" name="小黄鸭靓耀硬币（第2期）" />
-  <key id="22201019" class="randomBox" name="小黄鸭靓耀硬币（第3期）" />
-  <key id="22201020" class="randomBox" name="小黄鸭靓耀硬币（第4期）" />
-  <key id="22201021" class="randomBox" name="小黄鸭靓耀硬币（第5期）" />
-  <key id="22201022" class="randomBox" name="小黄鸭靓耀硬币（第6期）" />
-  <key id="22201023" class="randomBox" name="小黄鸭靓耀硬币（第7期）" />
-  <key id="22201024" class="randomBox" name="小黄鸭靓耀硬币（第8期）" />
-  <key id="22201025" name="小黄鸭靓耀硬币（第9期）" />
-  <key id="22201026" name="小黄鸭靓耀硬币（第10期）" />
-  <key id="22201027" name="小黄鸭靓耀硬币（第11期）" />
-  <key id="22201028" name="小黄鸭靓耀硬币（第12期）" />
-  <key id="22201029" name="小黄鸭靓耀硬币（第13期）" />
-  <key id="22201030" name="小黄鸭靓耀硬币（第14期）" />
-  <key id="22201031" name="小黄鸭靓耀硬币（第14期）" />
-  <key id="22201032" name="小黄鸭靓耀硬币（第15期）" />
-  <key id="22201033" name="小黄鸭靓耀硬币（第16期）" />
-  <key id="22201034" name="小黄鸭靓耀硬币（第17期）" />
-  <key id="22201035" name="小黄鸭靓耀硬币（第18期）" />
-  <key id="22201036" name="小黄鸭靓耀硬币（第19期）" />
-  <key id="22201037" name="小黄鸭靓耀硬币（第20期）" />
-  <key id="22201038" name="小黄鸭靓耀硬币（第21期）" feature="22_02" />
-  <key id="22201039" name="小黄鸭靓耀硬币（第22期）" feature="22_03" />
-  <key id="22201040" name="小黄鸭靓耀硬币（第23期）" feature="22_04" />
-  <key id="22201041" name="小黄鸭靓耀硬币（第24期）" feature="22_05" />
-  <key id="22201042" name="22년 7월 더키의 꾸미기 코인" feature="22_06" />
-  <key id="22201043" name="22년 8월 더키의 꾸미기 코인" feature="22_07" />
+  <key id="22201017" class="randomBox" name="小黃鴨靚耀硬幣（第1期）" />
+  <key id="22201018" class="randomBox" name="小黃鴨靚耀硬幣（第2期）" />
+  <key id="22201019" class="randomBox" name="小黃鴨靚耀硬幣（第3期）" />
+  <key id="22201020" class="randomBox" name="小黃鴨靚耀硬幣（第4期）" />
+  <key id="22201021" class="randomBox" name="小黃鴨靚耀硬幣（第5期）" />
+  <key id="22201022" class="randomBox" name="小黃鴨靚耀硬幣（第6期）" />
+  <key id="22201023" class="randomBox" name="小黃鴨靚耀硬幣（第7期）" />
+  <key id="22201024" class="randomBox" name="小黃鴨靚耀硬幣（第8期）" />
+  <key id="22201025" name="小黄鸭靚耀硬幣（第9期）" />
+  <key id="22201026" name="小黄鸭靚耀硬幣（第10期）" />
+  <key id="22201027" name="小黃鴨靚耀硬幣（第11期）" />
+  <key id="22201028" name="小黃鴨靚耀硬幣（第12期）" />
+  <key id="22201029" name="小黃鴨靚耀硬幣（第13期）" />
+  <key id="22201030" name="小黃鴨靚耀硬幣（第14期）" />
+  <key id="22201031" name="小黃鴨靚耀硬幣（第14期）" />
+  <key id="22201032" name="小黃鴨靚耀硬幣（第15期）" />
+  <key id="22201033" name="小黃鴨靚耀硬幣（第16期）" />
+  <key id="22201034" name="小黃鴨靚耀硬幣（第17期）" />
+  <key id="22201035" name="小黃鴨靚耀硬幣（第18期）" />
+  <key id="22201036" name="小黃鴨靚耀硬幣（第19期）" />
+  <key id="22201037" name="小黃鴨靚耀硬幣（第20期）" />
+  <key id="22201038" name="小黃鴨靚耀硬幣（第21期）" feature="22_02" />
+  <key id="22201039" name="小黃鴨靚耀硬幣（第22期）" feature="22_03" />
+  <key id="22201040" name="小黃鴨靚耀硬幣（第23期）" feature="22_04" />
+  <key id="22201041" name="小黃鴨靚耀硬幣（第24期）" feature="22_05" />
+  <key id="22201042" name="小黃鴨靚耀硬幣（22年7月）" feature="22_06" />
+  <key id="22201043" name="小黃鴨靚耀硬幣（22年8月）" feature="22_07" />
+  <key id="22201067" name="小黃鴨靚耀硬幣（22年9月）" feature="22_08" />
+  <key id="22201069" name="小黃鴨靚耀硬幣（22年10月）" feature="22_09" />
   <key id="22201051" name="1월 1차 더키의 꾸미기 코인" feature="Develop" />
   <key id="22201052" name="1월 2차 더키의 꾸미기 코인" feature="Develop" />
   <key id="22201053" name="2월 1차 더키의 꾸미기 코인" feature="Develop" />
@@ -24931,21 +24934,21 @@
   <key id="22201072" name="11월 2차 더키의 꾸미기 코인" feature="Develop" />
   <key id="22201073" name="12월 1차 더키의 꾸미기 코인" feature="Develop" />
   <key id="22201074" name="12월 2차 더키의 꾸미기 코인" feature="Develop" />
-  <key id="22202001" class="randomBox" name="绿水灵奇趣硬币（第1期）" />
-  <key id="22202002" class="randomBox" name="绿水灵奇趣硬币（第2期）" />
-  <key id="22202002" class="randomBox" name="绿水灵奇趣硬币（第1期）" feature="ItemCN" />
-  <key id="22202003" class="randomBox" name="绿水灵奇趣硬币（第3期）" />
-  <key id="22202003" class="randomBox" name="绿水灵奇趣硬币（第2期）" feature="ItemCN" />
-  <key id="22202004" class="randomBox" name="绿水灵奇趣硬币（第4期）" />
-  <key id="22202004" class="randomBox" name="绿水灵奇趣硬币（第3期）" feature="ItemCN" />
-  <key id="22202005" class="randomBox" name="绿水灵奇趣硬币（第5期）" />
-  <key id="22202005" class="randomBox" name="绿水灵奇趣硬币（第4期）" feature="ItemCN" />
-  <key id="22202006" class="randomBox" name="绿水灵奇趣硬币（第6期）" />
-  <key id="22202006" class="randomBox" name="绿水灵奇趣硬币（第5期）" feature="ItemCN" />
-  <key id="22202007" class="randomBox" name="绿水灵奇趣硬币（第7期）" />
-  <key id="22202007" class="randomBox" name="绿水灵奇趣硬币（第6期）" feature="ItemCN" />
-  <key id="22202008" class="randomBox" name="绿水灵奇趣硬币（第8期）" />
-  <key id="22202008" class="randomBox" name="绿水灵奇趣硬币（第7期）" feature="ItemCN" />
+  <key id="22202001" class="randomBox" name="綠水靈奇趣硬幣（第1期）" />
+  <key id="22202002" class="randomBox" name="綠水靈奇趣硬幣（第2期）" />
+  <key id="22202002" class="randomBox" name="綠水靈奇趣硬幣（第1期）" feature="ItemCN" />
+  <key id="22202003" class="randomBox" name="綠水靈奇趣硬幣（第3期）" />
+  <key id="22202003" class="randomBox" name="綠水靈奇趣硬幣（第2期）" feature="ItemCN" />
+  <key id="22202004" class="randomBox" name="綠水靈奇趣硬幣（第4期）" />
+  <key id="22202004" class="randomBox" name="綠水靈奇趣硬幣（第3期）" feature="ItemCN" />
+  <key id="22202005" class="randomBox" name="綠水靈奇趣硬幣（第5期）" />
+  <key id="22202005" class="randomBox" name="綠水靈奇趣硬幣（第4期）" feature="ItemCN" />
+  <key id="22202006" class="randomBox" name="綠水靈奇趣硬幣（第6期）" />
+  <key id="22202006" class="randomBox" name="綠水靈奇趣硬幣（第5期）" feature="ItemCN" />
+  <key id="22202007" class="randomBox" name="綠水靈奇趣硬幣（第7期）" />
+  <key id="22202007" class="randomBox" name="綠水靈奇趣硬幣（第6期）" feature="ItemCN" />
+  <key id="22202008" class="randomBox" name="綠水靈奇趣硬幣（第8期）" />
+  <key id="22202008" class="randomBox" name="綠水靈奇趣硬幣（第7期）" feature="ItemCN" />
   <key id="22204001" class="randomBox" name="ITEMNAME_22204001_NAME:[F]ItemKR" feature="ItemKR" />
   <key id="22204002" class="randomBox" name="ITEMNAME_22204002_NAME:[F]ItemKR" feature="ItemKR" />
   <key id="22204003" class="randomBox" name="ITEMNAME_22204003_NAME:[F]ItemKR" feature="ItemKR" />
@@ -26480,9 +26483,9 @@
   <key id="30001517" name="阴影世界远征队纪念币" feature="ItemCN" />
   <key id="30001518" name="种子袋：特里尼安街" />
   <key id="30001519" name="种子袋：巴翁树" />
-  <key id="30001520" name="ITEMNAME_30001520_NAME:[F]ItemKR" feature="ItemKR" />
+  <key id="30001520" name="馬比諾吉幣" feature="ItemKR" />
   <key id="30001521" name="黄金彩虹碎片" />
-  <key id="30001522" name="ITEMNAME_30001522_NAME:[F]ItemKR" feature="ItemKR" />
+  <key id="30001522" name="捉迷藏硬幣" feature="ItemKR" />
   <key id="30001523" name="捉迷藏币" feature="ItemCN" />
   <key id="30001524" name="冬季图章硬币" feature="ItemKR" />
   <key id="30001525" name="冬季图章硬币" feature="ItemCN" />
@@ -26490,7 +26493,8 @@
   <key id="30001527" name="春季活动币" feature="22_03" />
   <key id="30001528" name="克拉克的信" feature="EpicApocalypse04" />
   <key id="30001529" name="蔚蓝夏季活动硬币" feature="22_06" />
-  <key id="30001530" name="황금 무지개 조각" />
+  <key id="30001530" name="金色彩虹雕塑" />
+  <key id="30001531" name="秋季蘑菇活動硬幣" feature="22_09" />
   <key id="30050859" class="enchant" name="传说级属性固定卷轴（武器）" feature="OptionBlock02" />
   <key id="30050860" class="enchant" name="传说级属性固定卷轴（防具）" feature="OptionBlock02" />
   <key id="30050889" class="enchant" name="传说级属性固定卷轴（饰品）" feature="OptionBlock02" />
@@ -34923,6 +34927,7 @@
   <key id="59200355" class="package" name="热带时装礼包" />
   <key id="59200356" name="雄伟之翼外形礼包" />
   <key id="59200357" class="package" name="仙鹟之羽套装礼包" />
+  <key id="59200358" name="維修補償套餐一" />
   <key id="59200359" class="package" name="猫咪管家套装礼包" />
   <key id="59200360" class="package" name="南瓜巫师套装礼包" feature="ItemCN" />
   <key id="59200361" class="package" name="白狐套装礼包" />
