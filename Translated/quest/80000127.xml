@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment locale="KR">
+		<quest>
+			<basic questID="80000127" questType="2" chapterID="8027" standardLevel="50" eventTag="20161110_weapon3" useNavi="FALSE" />
+			<require level="50" />
+			<start npc="11001002" />
+			<complete npc="11001003" />
+			<completeReward>
+				<essentialJobItem code="20300534" rank="4" count="1" />
+				<essentialJobItem code="20300535" rank="4" count="1" />
+				<essentialJobItem code="20300536" rank="4" count="1" />
+				<essentialJobItem code="20300537" rank="4" count="1" />
+				<essentialJobItem code="20300538" rank="4" count="1" />
+				<essentialJobItem code="20300539" rank="4" count="1" />
+				<essentialJobItem code="20300540" rank="4" count="1" />
+				<essentialJobItem code="20300541" rank="4" count="1" />
+				<essentialJobItem code="20300542" rank="4" count="1" />
+				<essentialJobItem code="20300543" rank="4" count="1" />
+				<essentialJobItem code="20300544" rank="4" count="1" />
+			</completeReward>
+		</quest>
+	</environment>
+</ms2>

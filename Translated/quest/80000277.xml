@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment locale="CN">
+		<quest>
+			<basic questID="80000277" questType="2" chapterID="8094" account="2" standardLevel="15" repeatable="2" usePeriod="1440" eventTag="CN_20170425_nunber1" useNavi="FALSE" />
+			<require level="15" groupID="8094" dayOfWeek="1,2,3,4,5,6,7" />
+			<start npc="11003139" />
+			<complete npc="11003139" />
+			<completeReward>
+				<essentialItem code="30000745" rank="1" count="3" />
+			</completeReward>
+			<progressMap progressMap="02000107" />
+			<condition type="map" code="02000107" />
+		</quest>
+	</environment>
+</ms2>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="TimeAttackDungeonWeekly">
+		<quest>
+			<basic questID="10002740" questType="1" chapterID="216" standardLevel="50" repeatable="3" usePeriod="fri" useNavi="FALSE" />
+			<require level="50" dayOfWeek="1,2,3,4,5,6,7" />
+			<start npc="11001241" />
+			<complete npc="11001241" />
+			<completeReward exp="2754750" relativeExp="quest" money="21000">
+				<essentialItem code="59200180" rank="1" count="7" />
+				<globalEssentialItem code="59200180" rank="1" count="7" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000048" />
+			<condition type="trigger" code="10roundpass" value="1" />
+		</quest>
+	</environment>
+</ms2>

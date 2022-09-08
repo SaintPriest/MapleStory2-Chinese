@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Quest2017">
+		<quest>
+			<basic questID="60100155" chapterID="5016" standardLevel="17" useNavi="TRUE" />
+			<require level="17" quest="60100150" />
+			<start npc="11000215" />
+			<complete npc="11001116" />
+			<completeReward exp="10453" relativeExp="epicQuest" money="2050">
+				<essentialItem code="20000022" rank="1" count="7" />
+				<essentialItem code="20000028" rank="1" count="7" />
+				<essentialJobItem code="11300958" rank="3" count="1" />
+				<essentialJobItem code="11300963" rank="3" count="1" />
+				<essentialJobItem code="11300969" rank="3" count="1" />
+				<essentialJobItem code="11300975" rank="3" count="1" />
+				<essentialJobItem code="11301020" rank="3" count="1" />
+				<globalEssentialItem code="20000022" rank="1" count="3" />
+				<globalEssentialItem code="20000028" rank="1" count="3" />
+				<globalEssentialJobItem code="11300958" rank="2" count="1" />
+				<globalEssentialJobItem code="11300963" rank="2" count="1" />
+				<globalEssentialJobItem code="11300969" rank="2" count="1" />
+				<globalEssentialJobItem code="11300975" rank="2" count="1" />
+				<globalEssentialJobItem code="11301020" rank="2" count="1" />
+			</completeReward>
+			<progressMap progressMap="02000167" />
+		</quest>
+	</environment>
+</ms2>

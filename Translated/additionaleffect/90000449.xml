@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" group="90000449" useInGameTime="1" durationTick="7200000" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<MotionProperty startEffect="Additional/Hp/Eff_Additional_SpecialRecovery_Cast.xml" />
+		<StatusProperty>
+			<SpecialAbility segrate="0.5" seg_fishingrewardrate="0.5" seg_playinstrumentrewardrate="0.5" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/Item/icon/20000439.png" />
+	</level>
+</ms2>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="FameContents_EP1_01">
+		<quest>
+			<basic questID="91000031" chapterID="10006" standardLevel="50" disableGiveup="1" useNavi="TRUE" alliance="greenhood" />
+			<require level="50" quest="91000030" />
+			<dispatch type="directAccept" field="2000019" portal="1" />
+			<start npc="11003782" />
+			<complete npc="11003782" />
+			<completeReward exp="5437860" relativeExp="epicQuest" money="7000">
+				<essentialItem code="20301121" rank="4" count="1" />
+			</completeReward>
+			<progressMap progressMap="02000019" />
+			<condition type="item_exist" code="30001034" value="10">
+				<navi map="2000019" type="npc" code="21000215,21000216,21000217" />
+			</condition>
+		</quest>
+	</environment>
+</ms2>

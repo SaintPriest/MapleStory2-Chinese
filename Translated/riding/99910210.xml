@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<riding>
+		<basic id="99910210" type="battle" kfm="21000388_M_DarkSlingBrown" scale="1.5" hideRider="true" battleLife="false" useRidingUI="true" rideSummonCastTime="1" walkSpeed="0.5" runSpeed="1" runXSpeed="1" idleXMotion="Idle_A" runXMotion="Run_A" rideBone="Eff_Head" rideTranslation="0,20,50" rideRotation="0,180,270" />
+		<collision width="80" height="135" depth="80" />
+		<shadow scale="165" />
+		<faceCamera lookAtPosition="5,-5,30" cameraPosition="255,0,150" />
+		<stat str="25" dex="25" int="25" luk="25" hp="1000" hp_rgp="10" hp_inv="100" sp="100" sp_rgp="1" sp_inv="1000" ep="120" ep_rgp="20" ep_inv="500" asp="100" msp="130" atp="82" evp="76" cap="48" cad="250" car="50" ndd="999999" jmp="130" pap="150" map="160" wapmin="250" wapmax="230" rmsp="100" bap="500" />
+	</riding>
+</ms2>

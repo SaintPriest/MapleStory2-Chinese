@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" durationTick="600000" deadKeepEffect="1" logoutClearEffect="1" leaveFieldClearEffect="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="0.15" nddrate="0.1" paprate="0.1" maprate="0.1" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/PvPBalanceRevision_Lv1.png" isHideCooltime="1" />
+	</level>
+	<level>
+		<BasicProperty level="2" durationTick="600000" deadKeepEffect="1" logoutClearEffect="1" leaveFieldClearEffect="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="0.45" nddrate="0.2" paprate="0.2" maprate="0.2" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/PvPBalanceRevision_Lv2.png" isHideCooltime="1" />
+	</level>
+	<level>
+		<BasicProperty level="3" durationTick="600000" deadKeepEffect="1" logoutClearEffect="1" leaveFieldClearEffect="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="0.9" nddrate="0.3" paprate="0.3" maprate="0.3" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/PvPBalanceRevision_Lv3.png" isHideCooltime="1" />
+	</level>
+	<level>
+		<BasicProperty level="4" durationTick="600000" deadKeepEffect="1" logoutClearEffect="1" leaveFieldClearEffect="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="1.2" nddrate="0.4" paprate="0.4" maprate="0.4" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/PvPBalanceRevision_Lv4.png" isHideCooltime="1" />
+	</level>
+	<level>
+		<BasicProperty level="5" durationTick="600000" deadKeepEffect="1" logoutClearEffect="1" leaveFieldClearEffect="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="1.8" nddrate="0.5" paprate="0.5" maprate="0.5" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/PvPBalanceRevision_Lv5.png" isHideCooltime="1" />
+	</level>
+	<level>
+		<BasicProperty level="6" durationTick="600000" deadKeepEffect="1" logoutClearEffect="1" leaveFieldClearEffect="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="2.5" nddrate="0.7" paprate="0.7" maprate="0.7" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/PvPBalanceRevision_Lv6.png" isHideCooltime="1" />
+	</level>
+	<level>
+		<BasicProperty level="7" durationTick="600000" deadKeepEffect="1" logoutClearEffect="1" leaveFieldClearEffect="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="3" nddrate="0.8" paprate="0.8" maprate="0.8" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/PvPBalanceRevision_Lv7.png" isHideCooltime="1" />
+	</level>
+	<level>
+		<BasicProperty level="8" durationTick="600000" deadKeepEffect="1" logoutClearEffect="1" leaveFieldClearEffect="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="4.5" nddrate="0.9" paprate="0.9" maprate="0.9" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/PvPBalanceRevision_Lv8.png" isHideCooltime="1" />
+	</level>
+	<level>
+		<BasicProperty level="9" durationTick="600000" deadKeepEffect="1" logoutClearEffect="1" leaveFieldClearEffect="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="6" nddrate="1" paprate="1" maprate="1" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/PvPBalanceRevision_Lv9.png" isHideCooltime="1" />
+	</level>
+</ms2>

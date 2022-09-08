@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<riding>
+		<basic id="20910002" type="default" kfm="20910002_UGC_NakedBeast_01" scale="0.5" rideSummonCastTime="2" runSpeed="2.625" runXSpeed="4.87" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="10" useRidingNavi="1" rideBone="Body_Point01" rideTranslation="0,10,-13" rideRotation="90,180,270" rideAniPC="Ride_Idle_G" />
+		<collision height="130" />
+		<shadow scale="130" />
+		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
+	</riding>
+</ms2>

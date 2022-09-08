@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="LapentaFrontierQuest">
+		<quest>
+			<basic questID="50100280" chapterID="4089" standardLevel="60" disableGiveup="1" useNavi="TRUE" />
+			<require level="60" quest="50100270" />
+			<dispatch type="monologueAccept" field="2000260" portal="5" />
+			<start npc="11003060" />
+			<complete npc="11003060" />
+			<completeReward exp="11468984" relativeExp="epicQuest" money="8500">
+				<essentialItem code="20301254" rank="4" count="1" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000260" />
+			<condition type="trigger" code="snowqueenerda" value="1">
+				<navi type="npc" code="21421327" />
+				<navi type="npc" code="29000194" />
+			</condition>
+		</quest>
+	</environment>
+</ms2>

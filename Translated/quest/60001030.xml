@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="RuneBlader">
+		<quest>
+			<basic questID="60001030" chapterID="5003" standardLevel="20" locking="1" useNavi="FALSE" />
+			<require level="20" job="90" quest="10002910" />
+			<start npc="11001246" />
+			<complete npc="11001279" />
+			<completeReward exp="28125" relativeExp="epicQuest" money="2500">
+				<essentialItem code="11300420" rank="3" count="1" />
+				<essentialItem code="11600376" rank="3" count="1" />
+				<essentialItem code="20000022" rank="1" count="8" />
+				<essentialItem code="20000028" rank="1" count="8" />
+				<globalEssentialItem code="11300420" rank="3" count="1" />
+				<globalEssentialItem code="11600376" rank="3" count="1" />
+				<globalEssentialItem code="20000023" rank="1" count="3" />
+				<globalEssentialItem code="20000029" rank="1" count="3" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000059" />
+			<gotoNpc enable="1" gotoField="2000059" gotoPortal="5" />
+			<condition type="trigger" code="EscapeHallstatt" value="1" />
+		</quest>
+	</environment>
+</ms2>

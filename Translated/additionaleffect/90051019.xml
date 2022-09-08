@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="1" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.1" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.1" mapDamageR="0.1" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="2" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.11" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.11" mapDamageR="0.11" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="3" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.12" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.12" mapDamageR="0.12" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="4" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.13" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.13" mapDamageR="0.13" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="5" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.14" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.14" mapDamageR="0.14" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="6" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.15" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.15" mapDamageR="0.15" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="7" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.16" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.16" mapDamageR="0.16" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="8" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.17" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.17" mapDamageR="0.17" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="9" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.18" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.18" mapDamageR="0.18" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="10" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.19" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.19" mapDamageR="0.19" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="11" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.2" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.2" mapDamageR="0.2" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="12" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.21" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.21" mapDamageR="0.21" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="13" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.22" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.22" mapDamageR="0.22" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="14" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.23" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.23" mapDamageR="0.23" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="15" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.24" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.24" mapDamageR="0.24" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="16" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.25" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.25" mapDamageR="0.25" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="17" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.26" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.26" mapDamageR="0.26" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="18" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.27" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.27" mapDamageR="0.27" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="19" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.28" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.28" mapDamageR="0.28" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="20" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.29" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.29" mapDamageR="0.29" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="21" durationTick="12000" clearEffectFromPVPZone="1" />
+		<MotionProperty keepEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Keep_01.xml" stopEffect="Item/Use/Maid/Eff_Item_DarkEnergy_Stop_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat hprate="-0.3" />
+		</StatusProperty>
+		<OffensiveProperty papDamageR="0.3" mapDamageR="0.3" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/90051013.png" />
+	</level>
+</ms2>

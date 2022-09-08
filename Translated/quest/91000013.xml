@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="FameContents">
+		<quest>
+			<basic questID="91000013" chapterID="10005" standardLevel="50" disableGiveup="1" useNavi="FALSE" alliance="mapleunion" useReEntryHiddenMap="1" />
+			<require level="50" quest="91000010" />
+			<dispatch type="directComplete" field="2000422" portal="2" />
+			<start npc="11003585" />
+			<complete npc="11003682" />
+			<completeReward exp="12688340" relativeExp="epicQuest" money="7000" />
+			<progressMap progressMap="52010038" />
+			<condition type="trigger" code="skyfortress_takeoff" />
+		</quest>
+	</environment>
+</ms2>

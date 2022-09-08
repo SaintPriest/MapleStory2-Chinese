@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<riding>
+		<basic id="50600309" type="default" kfm="50600309_R_Rotationcup" rideSummonCastTime="0.08" runSpeed="5.25" runXSpeed="7" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="15" pressXEffectRun="Item/Ride/Eff_Item_Ride_50600309_R_Rotationcup_SpRun.xml" useRidingNavi="1" rideBone="Ride_A" rideAniPC="Ride_Idle_058" rideAniPC_Idle="Ride_Idle_058" rideAniPC_Run="Ride_Idle_058" rideAniPC_Jump="Ride_Idle_058" rideAniPC_SP_Idle="Ride_Sp_Idle_058" rideAniPC_SP_Run="Ride_Sp_Run_058" rideAniPC_SP_Jump="Ride_Sp_Idle_058" />
+		<collision width="80" height="135" depth="80" />
+		<shadow scale="165" />
+		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
+	</riding>
+</ms2>

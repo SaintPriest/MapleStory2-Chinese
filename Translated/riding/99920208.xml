@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<riding feature="MassiveHideAndSeek">
+		<basic id="99920208" type="object" kfm="11000740_Pia" nif="11000740_Pia" hideRider="true" runSpeed="4" idleXMotion="" runXMotion="" nameTagHide="1" rideAniPC="" />
+		<collision width="120" height="130" depth="120" physic="true" />
+		<stat hp="5000" msp="100" jmp="100" rmsp="50" />
+	</riding>
+</ms2>

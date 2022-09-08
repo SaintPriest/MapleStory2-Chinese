@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" durationTick="3000" ignoreReduceTimeCondition="1" />
+		<MotionProperty abnormalImmuneBreak="1" />
+		<CancelEffectProperty cancelEffectCodes="50003110,50003111,50003112,50003115,50003113,50003114,50003115,50001550" />
+		<UIProperty iconOnOff="0" />
+	</level>
+</ms2>

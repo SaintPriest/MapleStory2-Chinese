@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<beginCondition>
+			<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals">
+				<compareStat hp="0.5" func="Greater" />
+			</owner>
+		</beginCondition>
+		<BasicProperty level="1" keepCondition="99" />
+		<MotionProperty clearCondition="0" />
+		<StatusProperty>
+			<Stat nddrate="-0.9" />
+		</StatusProperty>
+		<UIProperty iconOnOff="0" />
+	</level>
+</ms2>

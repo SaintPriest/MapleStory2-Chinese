@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" delayTick="3000" keepCondition="99" />
+		<MotionProperty keepEffect="NPC/Skill/BoogieBlue/Eff_BoogieBlue_DefenceUp_IceProtect_Keep.xml" abnormalImmuneBreak="1" />
+		<ImmuneEffectProperty immuneBuffCategories="8" />
+		<StatusProperty>
+			<SpecialAbility firedamagereducerate="-300" />
+		</StatusProperty>
+		<DefensiveProperty papDamageR="0.99" mapDamageR="0.99" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterDefenceUp.png" />
+	</level>
+</ms2>

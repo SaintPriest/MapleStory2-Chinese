@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment locale="KR">
+		<quest>
+			<basic questID="80000001" questType="2" chapterID="8000" account="2" standardLevel="1" autoStart="1" eventTag="20160114_Luckybox" useNavi="FALSE" />
+			<require level="1" />
+			<start npc="11001484" />
+			<complete npc="11001484" />
+			<completeReward money="100">
+				<essentialItem code="50600125" rank="3" count="1" />
+			</completeReward>
+			<progressMap progressMap="02000064" />
+			<condition type="openitembox" code="20300133" value="50" />
+		</quest>
+	</environment>
+</ms2>

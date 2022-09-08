@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment locale="KR">
+		<quest>
+			<basic questID="80000006" questType="2" chapterID="8003" account="2" standardLevel="50" repeatable="2" usePeriod="1440" eventTag="20160317_Hero" useNavi="FALSE" />
+			<require level="50" groupID="8003" dayOfWeek="1,2,3,4,5,6,7" />
+			<start npc="11001484" />
+			<complete npc="11001484" />
+			<completeReward>
+				<essentialItem code="20300168" rank="1" count="1" />
+			</completeReward>
+			<condition type="item_exist" code="30000526" value="6" />
+		</quest>
+	</environment>
+</ms2>

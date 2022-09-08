@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="TimeAttackDungeon" locale="KR">
+		<quest>
+			<basic questID="10002860" questType="1" chapterID="222" standardLevel="50" repeatable="3" usePeriod="fri" locking="1" useNavi="FALSE" />
+			<require level="50" />
+			<start npc="11001228" />
+			<complete npc="11001228" />
+			<completeReward exp="2754750" money="7000">
+				<globalEssentialItem code="0" rank="0" count="0" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000048" />
+			<condition type="trigger" code="20roundpass" value="1" />
+		</quest>
+	</environment>
+</ms2>

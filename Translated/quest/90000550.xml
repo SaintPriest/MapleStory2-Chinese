@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="ContentsGuide01">
+		<quest>
+			<basic questID="90000550" questType="1" chapterID="9057" standardLevel="49" disableGiveup="1" exceptChapterClear="1" locking="1" tabIndex="1" useNavi="FALSE" />
+			<notify completeUiEffect="success" />
+			<require level="49" />
+			<start npc="11001866" />
+			<complete npc="11001866" />
+			<completeReward exp="1113300" relativeExp="epicQuest" money="6850" />
+			<condition type="trigger" code="PerformanceWithNPC" value="1" />
+		</quest>
+	</environment>
+</ms2>

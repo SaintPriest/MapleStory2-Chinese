@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<riding>
+		<basic id="90000058" type="default" kfm="UGC_NakedBeast_04" rideSummonCastTime="0.1" runSpeed="4.6" runXSpeed="6.5" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="15" pressXEffectIdle="Item/Ride/Eff_Item_Ride_NakedBeast_SpRun_Sound.xml" pressXEffectRun="Item/Ride/Eff_Item_Ride_NakedBeast_SpRun_Sound.xml" useRidingNavi="1" rideBone="Body_Point01" rideTranslation="0,20,-29" rideRotation="90,180,270" rideAniPC="Ride_Idle_G" />
+		<shadow scale="170" />
+		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
+	</riding>
+</ms2>

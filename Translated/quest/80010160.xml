@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment locale="CN">
+		<quest>
+			<basic questID="80010160" questType="2" chapterID="81031" account="2" standardLevel="50" usePeriod="4320" eventTag="20180608_MushkingCN" useNavi="FALSE" />
+			<require level="50" groupID="81031" dayOfWeek="1,6,7" />
+			<start npc="11003139" />
+			<complete npc="11003139" />
+			<completeReward>
+				<essentialItem code="30001105" rank="1" count="5" />
+			</completeReward>
+			<condition type="jump" code="2000423" value="15" />
+		</quest>
+	</environment>
+</ms2>

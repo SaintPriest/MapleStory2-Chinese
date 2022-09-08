@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<additional id="65000000">
+		<level level="1" stringParam="1">
+			<Motion invokeEffect="1" />
+			<SpecialAbility>
+				<v type="hp" value="100" />
+			</SpecialAbility>
+		</level>
+	</additional>
+	<additional id="65000001">
+		<level level="1" stringParam="2">
+			<Motion invokeEffect="1" />
+			<SpecialAbility>
+				<v type="hp" value="200" />
+			</SpecialAbility>
+		</level>
+	</additional>
+	<additional id="65000002">
+		<level level="1" stringParam="3">
+			<Motion invokeEffect="1" />
+			<SpecialAbility>
+				<v type="hp" value="300" />
+			</SpecialAbility>
+		</level>
+	</additional>
+</ms2>

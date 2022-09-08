@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Quest2017">
+		<quest>
+			<basic questID="60100180" chapterID="5016" standardLevel="18" useNavi="TRUE" />
+			<require level="18" quest="60100175" />
+			<start npc="11000533" />
+			<complete npc="11000211" />
+			<completeReward exp="17176" relativeExp="epicQuest" money="2200">
+				<essentialItem code="20000022" rank="1" count="7" />
+				<essentialItem code="20000028" rank="1" count="7" />
+				<essentialJobItem code="11400824" rank="3" count="1" />
+				<essentialJobItem code="11400829" rank="3" count="1" />
+				<essentialJobItem code="11400864" rank="3" count="1" />
+				<essentialJobItem code="11500731" rank="3" count="1" />
+				<essentialJobItem code="11500736" rank="3" count="1" />
+				<essentialJobItem code="11500770" rank="3" count="1" />
+				<essentialJobItem code="12200433" rank="3" count="1" />
+				<essentialJobItem code="12200437" rank="3" count="1" />
+				<globalEssentialItem code="20000022" rank="1" count="3" />
+				<globalEssentialItem code="20000028" rank="1" count="3" />
+				<globalEssentialJobItem code="11400824" rank="2" count="1" />
+				<globalEssentialJobItem code="11400829" rank="2" count="1" />
+				<globalEssentialJobItem code="11400864" rank="2" count="1" />
+				<globalEssentialJobItem code="11500731" rank="2" count="1" />
+				<globalEssentialJobItem code="11500736" rank="2" count="1" />
+				<globalEssentialJobItem code="11500770" rank="2" count="1" />
+				<globalEssentialJobItem code="12200433" rank="2" count="1" />
+				<globalEssentialJobItem code="12200437" rank="2" count="1" />
+			</completeReward>
+			<progressMap progressMap="02000148" />
+			<condition type="talk_in" code="11003334" target="32" value="1">
+				<navi type="npc" code="11003334" />
+			</condition>
+		</quest>
+	</environment>
+</ms2>

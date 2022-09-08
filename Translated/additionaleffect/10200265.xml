@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level feature="JobChange_02">
+		<BasicProperty level="1" durationTick="30000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Berserker/Eff_Berserker_FightAlone_Start_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat nddrate="0.02" paprate="0.035" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10200261_buff.png" />
+		<conditionSkill level="2" skillID="10200265" skillTarget="1">
+			<beginCondition>
+				<owner hasBuffID="10200264" hasBuffLevel="0" hasBuffOwner="1" hasBuffCount="2" hasBuffCountCompare="Equals" eventCondition="10" />
+			</beginCondition>
+		</conditionSkill>
+	</level>
+	<level feature="JobChange_02">
+		<BasicProperty level="2" durationTick="30000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Berserker/Eff_Berserker_FightAlone_Start_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat nddrate="0.04" paprate="0.07" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10200262_buff.png" />
+		<conditionSkill level="3" skillID="10200265" skillTarget="1">
+			<beginCondition>
+				<owner hasBuffID="10200264" hasBuffLevel="0" hasBuffOwner="1" hasBuffCount="3" hasBuffCountCompare="Equals" eventCondition="10" />
+			</beginCondition>
+		</conditionSkill>
+	</level>
+	<level feature="JobChange_02">
+		<BasicProperty level="3" durationTick="30000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Berserker/Eff_Berserker_FightAlone_Start_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat nddrate="0.06" paprate="0.105" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10200263_buff.png" />
+		<conditionSkill level="4" skillID="10200265" skillTarget="1">
+			<beginCondition>
+				<owner hasBuffID="10200264" hasBuffLevel="0" hasBuffOwner="1" hasBuffCount="4" hasBuffCountCompare="Equals" eventCondition="10" />
+			</beginCondition>
+		</conditionSkill>
+	</level>
+	<level feature="JobChange_02">
+		<BasicProperty level="4" durationTick="30000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Berserker/Eff_Berserker_FightAlone_Start_01.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat nddrate="0.08" paprate="0.14" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10200264_buff.png" />
+		<conditionSkill level="5" skillID="10200265" skillTarget="1">
+			<beginCondition>
+				<owner hasBuffID="10200264" hasBuffLevel="0" hasBuffOwner="1" hasBuffCount="5" hasBuffCountCompare="Equals" eventCondition="10" />
+			</beginCondition>
+		</conditionSkill>
+	</level>
+	<level feature="JobChange_02">
+		<BasicProperty level="5" durationTick="30000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Berserker/Eff_Berserker_FightAlone_Start_02.xml" keepEffect="CH/Skill/Berserker/Eff_Berserker_FightAlone_Keep_02.xml" stopEffect="CH/Skill/Berserker/Eff_Berserker_FightAlone_Stop_02.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat nddrate="0.1" paprate="0.175" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10200265_buff.png" />
+		<conditionSkill level="5" skillID="10200265" skillTarget="1">
+			<beginCondition>
+				<owner hasBuffID="10200264" hasBuffLevel="0" hasBuffOwner="1" hasBuffCount="5" hasBuffCountCompare="Equals" eventCondition="10" />
+			</beginCondition>
+		</conditionSkill>
+	</level>
+</ms2>

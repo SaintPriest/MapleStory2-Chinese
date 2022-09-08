@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment locale="KR">
+		<quest>
+			<basic questID="89000424" questType="5" chapterID="8989" account="2" standardLevel="1" autoStart="1" disableGiveup="1" eventTag="201812_KRgalleryevent" useNavi="FALSE" />
+			<require level="1" />
+			<completeReward>
+				<essentialItem code="20300040" rank="1" count="1" />
+			</completeReward>
+			<remoteComplete useRemote="1" />
+			<eventMission event="gallery" />
+			<condition type="map" code="63000075" value="5" />
+		</quest>
+	</environment>
+</ms2>

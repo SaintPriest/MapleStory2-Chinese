@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment locale="CN">
+		<quest>
+			<basic questID="80010096" questType="2" chapterID="81023" account="2" standardLevel="10" repeatable="2" usePeriod="1440" eventTag="20180412_hideandseek" useNavi="FALSE" />
+			<require level="10" groupID="81021" dayOfWeek="1,2,3,4,5,6,7" />
+			<start npc="11001002" />
+			<complete npc="11001002" />
+			<completeReward>
+				<essentialItem code="30001106" rank="1" count="1" />
+			</completeReward>
+			<condition type="user_find" code="dict:{effectId:90001015, effectLevel:1}" target="dict:{level:40 100, gender:1, jobId:40}" value="1" />
+		</quest>
+	</environment>
+</ms2>

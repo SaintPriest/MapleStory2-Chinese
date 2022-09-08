@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="BattleField51to55">
+		<quest>
+			<basic questID="30000217" questType="1" chapterID="3074" standardLevel="50" repeatable="2" usePeriod="1440" useNavi="FALSE" />
+			<require level="50" groupID="3999" dayOfWeek="1,2,3,4,5,6,7" />
+			<start npc="11001179" />
+			<complete npc="11001179" />
+			<completeReward relativeExp="quest" money="21000" lu="1">
+				<essentialItem code="30000448" rank="4" count="5" />
+				<globalEssentialItem code="30000448" rank="4" count="5" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000260" />
+			<condition type="npc" code="23000026" value="1" />
+		</quest>
+	</environment>
+</ms2>

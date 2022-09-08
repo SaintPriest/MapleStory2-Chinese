@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<beginCondition applyPvPZoneType="1">
+			<requireSkillCodes code="800001" />
+			<requireSkillCodes code="800002" />
+			<requireSkillCodes code="800011" />
+			<requireSkillCodes code="800021" />
+			<requireSkillCodes code="800022" />
+			<requireSkillCodes code="800023" />
+			<requireSkillCodes code="800024" />
+			<requireSkillCodes code="800031" />
+			<requireSkillCodes code="900001" />
+			<requireSkillCodes code="900011" />
+			<requireSkillCodes code="900021" />
+			<requireSkillCodes code="900022" />
+			<requireSkillCodes code="900031" />
+			<owner hasBuffID="90050751" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="2" hasBuffCountCompare="Equals" />
+		</beginCondition>
+		<BasicProperty level="1" keepCondition="99" doNotClearEffectFromEnterPVPZone="1" />
+		<UIProperty iconOnOff="0" />
+		<conditionSkill level="1" skillID="90050748" skillTarget="1">
+			<beginCondition>
+				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="7" />
+			</beginCondition>
+		</conditionSkill>
+	</level>
+</ms2>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" durationTick="99999000" />
+		<MotionProperty keepEffect="NPC/Skill/IceSoldierSword/Eff_DefenceUp_IceProtect_SnowIceGolemBaby_Keep.xml" abnormalImmuneBreak="1" />
+		<ImmuneEffectProperty immuneBuffCategories="8" />
+		<StatusProperty>
+			<SpecialAbility firedamagereducerate="-4" />
+		</StatusProperty>
+		<DefensiveProperty papDamageR="0.7" mapDamageR="0.7" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterDefenceUp.png" />
+	</level>
+	<level>
+		<BasicProperty level="2" durationTick="99999000" />
+		<MotionProperty keepEffect="NPC/Skill/IceSoldierSword/Eff_DefenceUp_IceProtect_SnowIceGolem_Keep.xml" abnormalImmuneBreak="1" />
+		<ImmuneEffectProperty immuneBuffCategories="8" />
+		<StatusProperty>
+			<SpecialAbility firedamagereducerate="-4" />
+		</StatusProperty>
+		<DefensiveProperty papDamageR="0.7" mapDamageR="0.7" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterDefenceUp.png" />
+	</level>
+	<level>
+		<BasicProperty level="3" durationTick="99999000" />
+		<MotionProperty keepEffect="NPC/Skill/IceSoldierSword/Eff_DefenceUp_IceProtect_IceSoldierSword_Keep.xml" abnormalImmuneBreak="1" />
+		<ImmuneEffectProperty immuneBuffCategories="8" />
+		<StatusProperty>
+			<SpecialAbility firedamagereducerate="-4" />
+		</StatusProperty>
+		<DefensiveProperty papDamageR="0.7" mapDamageR="0.7" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterDefenceUp.png" />
+	</level>
+	<level>
+		<BasicProperty level="4" durationTick="99999000" />
+		<MotionProperty keepEffect="NPC/Skill/IceSoldierSword/Eff_DefenceUp_IceProtect_IceSoldierSpear_Keep.xml" abnormalImmuneBreak="1" />
+		<ImmuneEffectProperty immuneBuffCategories="8" />
+		<StatusProperty>
+			<SpecialAbility firedamagereducerate="-4" />
+		</StatusProperty>
+		<DefensiveProperty papDamageR="0.7" mapDamageR="0.7" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterDefenceUp.png" />
+	</level>
+	<level>
+		<BasicProperty level="5" durationTick="99999000" />
+		<MotionProperty keepEffect="NPC/Skill/IceSoldierSword/Eff_DefenceUp_IceProtect_IceSoldierMace_Keep.xml" abnormalImmuneBreak="1" />
+		<ImmuneEffectProperty immuneBuffCategories="8" />
+		<StatusProperty>
+			<SpecialAbility firedamagereducerate="-4" />
+		</StatusProperty>
+		<DefensiveProperty papDamageR="0.7" mapDamageR="0.7" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterDefenceUp.png" />
+	</level>
+</ms2>

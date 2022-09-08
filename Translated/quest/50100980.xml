@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Kritias_Epic01">
+		<quest>
+			<basic questID="50100980" chapterID="4092" standardLevel="70" disableGiveup="1" useNavi="TRUE" />
+			<require level="70" quest="50100970" />
+			<start npc="11004396" />
+			<complete npc="11004395" />
+			<completeReward exp="2283447" relativeExp="epicQuest" money="10000">
+				<essentialItem code="20301256" rank="4" count="1" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02020030" />
+			<condition type="interact_object" code="10001396" value="1" />
+		</quest>
+	</environment>
+</ms2>

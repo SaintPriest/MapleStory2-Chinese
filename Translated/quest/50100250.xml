@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="LapentaFrontierQuest">
+		<quest>
+			<basic questID="50100250" chapterID="4089" standardLevel="60" disableGiveup="1" useNavi="TRUE" />
+			<require level="60" quest="50100240" />
+			<start npc="11003063" />
+			<complete npc="11003063" />
+			<completeReward exp="11468984" relativeExp="epicQuest" money="8500">
+				<essentialItem code="20301106" rank="1" count="10" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000263" />
+			<condition type="item_exist" code="30000723" value="10">
+				<navi type="interact" code="10001123" />
+			</condition>
+			<condition type="item_exist" code="30000724" value="10">
+				<navi map="2000264" type="npc" code="21000258" />
+			</condition>
+		</quest>
+	</environment>
+</ms2>

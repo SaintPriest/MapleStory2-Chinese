@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<beginCondition applyPvPZoneType="1">
+			<requireMapCodes code="2000353" />
+			<requireMapCodes code="2000321" />
+			<requireMapCodes code="2000313" />
+			<requireMapCodes code="2000316" />
+			<requireMapCodes code="2000315" />
+			<requireMapCodes code="2000356" />
+			<requireMapCodes code="2000351" />
+			<requireMapCodes code="2000352" />
+			<requireMapCodes code="2000319" />
+			<requireMapCodes code="2000314" />
+			<requireMapCodes code="2000318" />
+			<requireMapCodes code="2000357" />
+			<requireMapCodes code="2000312" />
+			<requireMapCodes code="2000317" />
+			<requireMapCodes code="2000354" />
+			<requireMapCodes code="2000322" />
+			<requireMapCodes code="2010049" />
+			<requireMapCodes code="2010050" />
+			<requireMapCodes code="2000290" />
+			<requireMapCodes code="2000066" />
+			<requireMapCodes code="2000281" />
+			<requireMapCodes code="2000282" />
+			<requireMapCodes code="2000283" />
+			<requireMapCodes code="2000284" />
+			<requireMapCodes code="2000252" />
+			<requireMapCodes code="2000253" />
+			<requireMapCodes code="2000254" />
+			<requireMapCodes code="2000241" />
+			<requireMapCodes code="2000242" />
+			<requireMapCodes code="2000243" />
+			<requireMapCodes code="2000244" />
+			<requireMapCodes code="2000245" />
+			<requireMapCodes code="2000246" />
+			<requireMapCodes code="2000247" />
+			<requireMapCodes code="2000248" />
+			<requireMapCodes code="2000249" />
+			<requireMapCodes code="2000251" />
+			<requireMapCodes code="2000244" />
+			<requireMapCodes code="2000245" />
+			<requireMapCodes code="2000246" />
+			<requireMapCodes code="2000247" />
+			<requireMapCodes code="2000248" />
+			<requireMapCodes code="2000249" />
+			<requireMapCodes code="2000251" />
+			<requireMapCodes code="2000248" />
+			<requireMapCodes code="2000249" />
+			<requireMapCodes code="2000251" />
+			<requireMapCodes code="2000298" />
+			<requireMapCodes code="2000299" />
+			<requireMapCodes code="2000300" />
+			<requireMapCodes code="2000301" />
+			<requireMapCodes code="2000302" />
+			<requireMapCodes code="2000303" />
+			<requireMapCodes code="2000304" />
+			<requireMapCodes code="2000292" />
+			<requireMapCodes code="2000293" />
+			<requireMapCodes code="2000294" />
+			<requireMapCodes code="2000295" />
+			<requireMapCodes code="2000296" />
+			<requireMapCodes code="2000297" />
+			<requireMapCodes code="2010069" />
+			<requireMapCodes code="2000338" />
+			<requireMapCodes code="2000344" />
+			<requireMapCodes code="2000345" />
+			<requireMapCodes code="2000349" />
+			<requireMapCodes code="2010054" />
+			<requireMapCodes code="2000335" />
+			<requireMapCodes code="2000336" />
+			<requireMapCodes code="2000337" />
+			<requireMapCodes code="2000325" />
+			<requireMapCodes code="2000328" />
+			<requireMapCodes code="2000329" />
+			<requireMapCodes code="2000334" />
+			<requireMapCodes code="2000331" />
+			<requireMapCodes code="2000346" />
+			<requireMapCodes code="2000347" />
+			<requireMapCodes code="2000348" />
+			<requireMapCodes code="2010070" />
+			<requireMapCodes code="2010052" />
+			<requireMapCodes code="3000001" />
+			<requireMapCodes code="3100001" />
+			<requireMapCodes code="3100002" />
+			<requireMapCodes code="3100003" />
+			<requireMapCodes code="3100004" />
+			<requireMapCodes code="3100005" />
+			<requireMapCodes code="3100006" />
+			<requireMapCodes code="3100007" />
+			<requireMapCodes code="3100008" />
+			<requireMapCodes code="3100009" />
+			<requireMapCodes code="3100010" />
+			<requireMapCodes code="3100011" />
+			<requireMapCodes code="3100012" />
+			<requireMapCodes code="3100013" />
+			<requireMapCodes code="3100014" />
+			<requireMapCodes code="3100015" />
+			<requireMapCodes code="2000376" />
+			<requireMapCodes code="2000378" />
+			<requireMapCodes code="2000379" />
+		</beginCondition>
+		<BasicProperty level="1" buffSubType="256" durationTick="1800000" deadKeepEffect="1" logoutClearEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<DefensiveProperty papDamageR="0.2" mapDamageR="0.2" />
+		<UIProperty icon="./Data/Resource/Image/Skill/icon/110000010.png" iconOnOff="0" />
+	</level>
+</ms2>

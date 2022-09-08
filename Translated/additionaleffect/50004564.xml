@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" durationTick="9999000" intervalTick="800" resetCondition="1" dotCondition="1" />
+		<MotionProperty abnormalImmuneBreak="1" />
+		<RecoveryProperty hpValue="30001" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterHPRecovery.png" isHideCooltime="1" />
+		<splashSkill level="2" skillID="99999727" immediateActive="1" />
+	</level>
+</ms2>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment>
+		<quest>
+			<basic questID="70210037" questType="3" repeatable="1" useNavi="FALSE" />
+			<require maxLevel="32" />
+			<completeReward relativeExp="dailymissionLevelUp" missionPoint="30">
+				<essentialItem code="30000928" rank="1" count="1" />
+			</completeReward>
+			<guide guideType="daily_pick_repeat" guideIcon="dungeon" guideMinLevel="29" guideMaxLevel="32" guideGroup="LevelUp" />
+			<condition type="interact_object" code="10000766,10000767,10000768,10000769" value="1" />
+		</quest>
+	</environment>
+</ms2>

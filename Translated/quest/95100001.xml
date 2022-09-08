@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment locale="CN">
+		<quest>
+			<basic questID="95100001" questType="2" chapterID="9510" account="2" standardLevel="10" locking="1" useNavi="FALSE" />
+			<require level="10" />
+			<start npc="11003377" />
+			<complete npc="11003377" />
+		</quest>
+	</environment>
+</ms2>
