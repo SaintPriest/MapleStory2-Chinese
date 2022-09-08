@@ -18,5 +18,5 @@ Coming soon
 Discord: bishop#2239
 
 
-##補充
+## 補充
 如果有更好的翻譯，請發布issue，並附上說明或請聯絡我
