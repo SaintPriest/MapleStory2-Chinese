@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+  <key id="1" name="从敌人那里获得的经验值增加" desc="seg" />
+  <key id="2" name="击杀时获得的金币增加" desc="smd" />
+  <key id="3" name="游泳速度提升" desc="sss" />
+  <key id="4" name="冲锋距离增加" desc="dashDistance" />
+  <key id="5" name="增加最终攻击力" desc="finalAttackPower" />
+  <key id="6" name="武器攻击力" desc="wapRate" />
+  <key id="7" name="总伤害增加" desc="finalAdditionalDamage" />
+  <key id="8" name="暴击伤害提高" desc="cri" />
+  <key id="9" name="攻击普通怪物时，伤害增加" desc="sgi" />
+  <key id="10" name="根据命中提高战斗力" desc="atpToBap" />
+  <key id="11" name="攻击精英怪物时，伤害增加" desc="sgi_elite" />
+  <key id="12" name="攻击首领怪物时伤害增加" desc="sgi_boss" />
+  <key id="13" name="击败怪物时，恢复生命" desc="killHPRestore" />
+  <key id="14" name="击败时恢复能量" desc="killSPRestore" />
+  <key id="15" name="击败时恢复体力" desc="killEPRestore" />
+  <key id="16" name="恢复技能效果增加" desc="heal" />
+  <key id="17" name="队友获得的恢复技能效果增加" desc="receivedhealincrease" />
+  <key id="18" name="寒冰伤害增加" desc="iceDamage" />
+  <key id="19" name="火焰伤害增加" desc="fireDamage" />
+  <key id="20" name="暗黑伤害增加" desc="darkDamage" />
+  <key id="21" name="神圣伤害提高" desc="lightDamage" />
+  <key id="22" name="毒素伤害增加" desc="poisonDamage" />
+  <key id="23" name="闪电伤害增加" desc="thunderDamage" />
+  <key id="24" name="近战伤害增加" desc="nddincrease" />
+  <key id="25" name="远程伤害增加" desc="lddincrease" />
+  <key id="26" name="物理抵抗力穿透" desc="parpen" />
+  <key id="27" name="魔法抵抗力穿透" desc="marpen" />
+  <key id="28" name="寒冰伤害减少" desc="icedamagereduce" />
+  <key id="29" name="火焰伤害减少" desc="firedamagereduce" />
+  <key id="30" name="暗黑伤害减少" desc="darkdamagereduce" />
+  <key id="31" name="神圣伤害减少" desc="lightdamagereduce" />
+  <key id="32" name="毒素伤害减少" desc="poisondamagereduce" />
+  <key id="33" name="闪电伤害减少" desc="thunderdamagereduce" />
+  <key id="34" name="无法行动时间减少" desc="stunReduce" />
+  <key id="35" name="技能冷却时间减少" desc="skillCooldown" />
+  <key id="36" name="状态异常时间减少" desc="conditionReduce" />
+  <key id="37" name="近战伤害减少" desc="nearDistanceDamageReduce" />
+  <key id="38" name="远程伤害减少" desc="longDistanceDamageReduce" />
+  <key id="39" name="击退抵抗" desc="KnockBackReduce" />
+  <key id="40" name="力量" desc="strRate" />
+  <key id="41" name="敏捷" desc="dexRate" />
+  <key id="42" name="智力" desc="intRate" />
+  <key id="43" name="幸运" desc="lukRate" />
+  <key id="44" name="生命" desc="hpRate" />
+  <key id="45" name="生命重生周期" desc="hpInvRate" />
+  <key id="46" name="能量" desc="spRate" />
+  <key id="47" name="能量重生周期" desc="spInvRate" />
+  <key id="48" name="击杀时获得的道具的掉落概率增加" desc="npcKillDropItemIncRate" />
+  <key id="49" name="完成任务时获得的经验值增加" desc="seg_questReward" />
+  <key id="50" name="体力" desc="epRate" />
+  <key id="51" name="体力重生周期" desc="epInvRate" />
+  <key id="52" name="攻击速度" desc="aspRate" />
+  <key id="53" name="移动速度" desc="mspRate" />
+  <key id="54" name="PVP攻击力" desc="pvpdamageincrease" />
+  <key id="55" name="PVP防御力" desc="pvpdamagereduce" />
+  <key id="56" name="增加公会经验值" desc="improveguildexp" />
+  <key id="57" name="增加公会金币" desc="improveguildcoin" />
+  <key id="58" name="增加活动经验珠获得量" desc="improvemassiveeventbexpball" />
+  <key id="59" name="钓鱼时获得的经验值增加" desc="seg_fishingReward" />
+  <key id="60" name="游戏厅通关经验值增加" desc="seg_arcadeReward" />
+  <key id="61" name="演奏乐器时获得的经验值增加" desc="seg_playinstrumentReward" />
+  <key id="62" name="增加管家经验值获得量" desc="improve_maid_mood" />
+  <key id="63" name="管家制作材料折扣" desc="reduce_maid_recipe" />
+  <key id="64" name="减少金币交易手续费" desc="reduce_meso_trade_fee" />
+  <key id="65" name="强化材料折扣" desc="reduce_enchant_matrial_fee" />
+  <key id="66" name="蘑菇币复活折扣" desc="reduce_merat_revival_fee" />
+  <key id="67" name="增加采矿获得量" desc="improve_mining_reward_item" />
+  <key id="68" name="增加畜牧获得量" desc="improve_breeding_reward_item" />
+  <key id="69" name="增加铁匠经验值获得量" desc="improve_blacksmithing_reward_mastery" />
+  <key id="70" name="增加工艺熟练度" desc="improve_engraving_reward_mastery" />
+  <key id="71" name="增加采集获得量" desc="improve_gathering_reward_item" />
+  <key id="72" name="栽培获得量增加" desc="improve_farming_reward_item" />
+  <key id="73" name="增加炼金熟练度" desc="improve_alchemist_reward_mastery" />
+  <key id="74" name="增加料理熟练度" desc="improve_cooking_reward_mastery" />
+  <key id="75" name="增加采集中获得的经验值" desc="improve_acquire_gathering_exp" />
+  <key id="76" name="增加制作中获得的经验值" desc="improve_acquire_manufacturing_exp" />
+  <key id="77" name="1级(1)习得技能等级增加" desc="skill_levelup_tier_1" />
+  <key id="78" name="1级(2)习得技能等级增加" desc="skill_levelup_tier_2" />
+  <key id="79" name="10级习得技能等级增加" desc="skill_levelup_tier_3" />
+  <key id="80" name="13级习得技能等级增加" desc="skill_levelup_tier_4" />
+  <key id="81" name="16级习得技能等级增加" desc="skill_levelup_tier_5" />
+  <key id="82" name="19级习得技能等级增加" desc="skill_levelup_tier_6" />
+  <key id="83" name="22级习得技能等级增加" desc="skill_levelup_tier_7" />
+  <key id="84" name="25级习得技能等级增加" desc="skill_levelup_tier_8" />
+  <key id="85" name="28级习得技能等级增加" desc="skill_levelup_tier_9" />
+  <key id="86" name="31级习得技能等级增加" desc="skill_levelup_tier_10" />
+  <key id="87" name="34级习得技能等级增加" desc="skill_levelup_tier_11" />
+  <key id="88" name="37级习得技能等级增加" desc="skill_levelup_tier_12" />
+  <key id="89" name="40级习得技能等级增加" desc="skill_levelup_tier_13" />
+  <key id="90" name="43级习得技能等级增加" desc="skill_levelup_tier_14" />
+  <key id="91" name="增加冒险岛有奖竞猜经验值" desc="improve_massive_ox_exp" />
+  <key id="92" name="增加陷阱大师经验值" desc="improve_massive_trapmaster_exp" />
+  <key id="93" name="增加终极生存赛经验值" desc="improve_massive_finalsurvival_exp" />
+  <key id="94" name="增加疯狂酷跑经验值" desc="improve_massive_crazyrunner_exp" />
+  <key id="95" name="增加玩具城大逃脱经验值" desc="improve_massive_escape_exp" />
+  <key id="96" name="增加弹弹海滩经验值" desc="improve_massive_springbeach_exp" />
+  <key id="97" name="增加爱的抱抱经验值" desc="improve_massive_dancedance_exp" />
+  <key id="98" name="提高冒险岛有奖竞猜移动速度" desc="improve_massive_ox_msp" />
+  <key id="99" name="提高陷阱大师移动速度" desc="improve_massive_trapmaster_msp" />
+  <key id="100" name="提高终极生存赛移动速度" desc="improve_massive_finalsurvival_msp" />
+  <key id="101" name="提高疯狂酷跑移动速度" desc="improve_massive_crazyrunner_msp" />
+  <key id="102" name="提高玩具城大逃脱移动速度" desc="improve_massive_escape_msp" />
+  <key id="103" name="提高弹弹海滩移动速度" desc="improve_massive_springbeach_msp" />
+  <key id="104" name="提高爱的抱抱移动速度" desc="improve_massive_dancedance_msp" />
+  <key id="105" name="攻击时出现能量珠" desc="npc_hit_reward_sp_ball" />
+  <key id="106" name="攻击时出现体力珠" desc="npc_hit_reward_ep_ball" />
+  <key id="107" name="增加勇气徽章获得量" desc="improve_honor_token" />
+  <key id="108" name="PVP获得经验值增加" desc="improve_pvp_exp" />
+  <key id="109" name="在黑暗洪流中造成的伤害增加" desc="improve_darkstream_damage" />
+  <key id="110" name="降低在黑暗洪流中受到的伤害" desc="reduce_darkstream_recive_damage" />
+  <key id="111" name="智力提高到跟力量一样" desc="strToInt" />
+  <key id="112" name="2倍钓鱼熟练度" desc="fishing_double_mastery" />
+  <key id="113" name="2倍演奏熟练度" desc="playinstrument_double_mastery" />
+  <key id="114" name="完成探险地区的移动速度提高" desc="complete_fieldmission_msp" />
+  <key id="115" name="飞行坐骑上升速度提高" desc="improve_glide_vertical_velocity" />
+  <key id="116" name="坐骑移动速度" desc="rmspRate" />
+  <key id="117" name="攻击时，削弱对方防御力效果" desc="additionaleffect_95000012" />
+  <key id="118" name="攻击时，削弱对方攻击力效果" desc="additionaleffect_95000014" />
+  <key id="119" name="命中" desc="atpRate" />
+  <key id="120" name="回避" desc="evpRate" />
+  <key id="121" name="暴击命中" desc="capRate" />
+  <key id="122" name="暴击回避" desc="carRate" />
+  <key id="123" name="防御力" desc="nddRate" />
+  <key id="124" name="跳跃力" desc="jmpRate" />
+  <key id="125" name="物理攻击力" desc="papRate" />
+  <key id="126" name="魔法攻击力" desc="mapRate" />
+  <key id="127" name="物理抵抗力" desc="parRate" />
+  <key id="128" name="魔法抵抗力" desc="marRate" />
+  <key id="129" name="缩短体力恢复周期" desc="reduce_recovery_ep_inv" />
+  <key id="130" name="提高武器最大攻击力" desc="improve_stat_wap_u" />
+  <key id="131" name="采矿时按指定概率产物增加2倍" desc="mining_double_reward" />
+  <key id="132" name="畜牧生产时按指定概率产物增加2倍" desc="breeding_double_reward" />
+  <key id="133" name="采集时按指定概率产物增加2倍" desc="gathering_double_reward" />
+  <key id="134" name="栽培时按指定概率产物增加2倍" desc="farming_double_reward" />
+  <key id="135" name="铁匠生产时按指定概率产物增加2倍" desc="blacksmithing_double_reward" />
+  <key id="136" name="工艺生产时按指定概率产物增加2倍" desc="engraving_double_reward" />
+  <key id="137" name="炼金生产时按指定概率产物增加2倍" desc="alchemist_double_reward" />
+  <key id="138" name="制作料理时按指定概率产物增加2倍" desc="cooking_double_reward" />
+  <key id="139" name="采矿熟练度按指定概率增加2倍" desc="mining_double_mastery" />
+  <key id="140" name="畜牧熟练度按指定概率增加2倍" desc="breeding_double_mastery" />
+  <key id="141" name="采集熟练度按指定概率增加2倍" desc="gathering_double_mastery" />
+  <key id="142" name="栽培熟练度按指定概率增加2倍" desc="farming_double_mastery" />
+  <key id="143" name="铁匠熟练度按指定概率增加2倍" desc="blacksmithing_double_mastery" />
+  <key id="144" name="工艺熟练度按指定概率增加2倍" desc="engraving_double_mastery" />
+  <key id="145" name="炼金熟练度按指定概率增加2倍" desc="alchemist_double_mastery" />
+  <key id="146" name="料理熟练度按指定概率增加2倍" desc="cooking_double_mastery" />
+  <key id="147" name="提高混沌副本中的武器攻击力" desc="improve_chaosraid_wap" />
+  <key id="148" name="提高混沌副本中的攻击速度" desc="improve_chaosraid_asp" />
+  <key id="149" name="提高混沌副本中的命中率" desc="improve_chaosraid_atp" />
+  <key id="150" name="提高混沌副本中的生命值" desc="improve_chaosraid_hp" />
+  <key id="151" name="增加体力珠和能量珠的恢复量" desc="improve_recovery_ball" />
+  <key id="152" name="力量" desc="str" />
+  <key id="153" name="敏捷" desc="dex" />
+  <key id="154" name="智力" desc="int" />
+  <key id="155" name="幸运" desc="luk" />
+  <key id="156" name="宠物捕捉奖励获得量增加" desc="improve_pettrap_reward" />
+  <key id="157" name="提高采矿生产效率" desc="mining_multiaction" />
+  <key id="158" name="提高畜牧生产效率" desc="breeding_multiaction" />
+  <key id="159" name="提高采集生产效率" desc="gathering_multiaction" />
+  <key id="160" name="提高栽培生产效率" desc="farming_multiaction" />
+  <key id="161" name="提升魔都酷跑经验值" desc="improve_massive_sh_crazyrunner_exp" />
+  <key id="162" name="提升魔都酷跑移动速度" desc="improve_massive_sh_crazyrunner_msp" />
+  <key id="163" name="根据最大生命值减少攻击伤害" desc="reduce_damage_by_targetmaxhp" />
+  <key id="180" name="生命" desc="hp" />
+  <key id="181" name="生命恢复" desc="hp_rgp" />
+  <key id="182" name="能量" desc="sp" />
+  <key id="183" name="能量恢复" desc="sp_rgp" />
+  <key id="184" name="体力" desc="ep" />
+  <key id="185" name="体力重生周期" desc="ep_inv" />
+  <key id="186" name="攻击速度" desc="asp" />
+  <key id="187" name="移动速度" desc="msp" />
+  <key id="188" name="命中" desc="atp" />
+  <key id="189" name="回避" desc="evp" />
+  <key id="190" name="暴击命中" desc="cap" />
+  <key id="191" name="暴击伤害" desc="cad" />
+  <key id="192" name="暴击回避" desc="car" />
+  <key id="193" name="防御力" desc="ndd" />
+  <key id="194" name="完全防御" desc="abp" />
+  <key id="195" name="物理攻击力" desc="pap" />
+  <key id="196" name="魔法攻击力" desc="map" />
+  <key id="197" name="物理抵抗力" desc="par" />
+  <key id="198" name="魔法抵抗力" desc="mar" />
+  <key id="199" name="防御穿透" desc="pen" />
+  <key id="200" name="坐骑移动速度" desc="rmsp" />
+  <key id="201" name="战斗力" desc="bap" />
+  <key id="202" name="暴击命中（无视限制）" desc="cap_ignore_limit" />
+  <key id="203" name="暴击伤害（无视限制）" desc="cad_ignore_limit" />
+  <key id="204" name="完全回避" desc="aevp" />
+  <key id="205" name="暴击命中" desc="cap_ignore_limit_extra" />
+  <key id="206" name="生命恢复技能效果降低" desc="reduce_do_heal_hp" />
+  <key id="1001" name="从敌人那里获得的经验值增加{0:0.1f}%" desc="seg" />
+  <key id="1002" name="击杀时获得的金币增加{0:0.1f}%" desc="smd" />
+  <key id="1003" name="游泳速度提高{0:0.1f}%" desc="sss" />
+  <key id="1004" name="冲锋距离增加{0:d}" desc="dashDistance" />
+  <key id="1005" name="最终攻击力增加{0:0.1f}%" desc="finalAttackPower" />
+  <key id="1006" name="武器攻击力{0:0.1f}%" desc="wapRate" />
+  <key id="1007" name="总伤害增加{0:0.1f}%" desc="finalAdditionalDamage" />
+  <key id="1008" name="暴击伤害增加{0:0.1f}%" desc="cri" />
+  <key id="1009" name="攻击普通怪物时，伤害增加{0:0.1f}%" desc="sgi" />
+  <key id="1010" name="增加相当于命中{0:0.1f}%的战斗力" desc="atpToBap" />
+  <key id="1011" name="攻击精英怪物时，伤害增加{0:0.1f}%" desc="sgi_elite" />
+  <key id="1012" name="攻击首领怪物时，伤害增加{0:0.1f}%" desc="sgi_boss" />
+  <key id="1013" name="击败怪物时，恢复{0:d}点生命" desc="killHPRestore" />
+  <key id="1014" name="击败时恢复{0:d}能量" desc="killSPRestore" />
+  <key id="1015" name="击败时恢复{0:d}体力" desc="killEPRestore" />
+  <key id="1016" name="恢复技能效果增加{0:0.1f}%" desc="heal" />
+  <key id="1017" name="队友获得的恢复技能效果增加{0:0.1f}%" desc="receivedhealincrease" />
+  <key id="1018" name="寒冰伤害增加{0:0.1f}%" desc="iceDamage" />
+  <key id="1019" name="火焰伤害增加{0:0.1f}%" desc="fireDamage" />
+  <key id="1020" name="暗黑伤害增加{0:0.1f}%" desc="darkDamage" />
+  <key id="1021" name="神圣伤害增加{0:0.1f}%" desc="lightDamage" />
+  <key id="1022" name="毒素伤害增加{0:0.1f}%" desc="poisonDamage" />
+  <key id="1023" name="闪电伤害增加{0:0.1f}%" desc="thunderDamage" />
+  <key id="1024" name="近战伤害增加{0:0.1f}%" desc="nddincrease" />
+  <key id="1025" name="远程伤害增加{0:0.1f}%" desc="lddincrease" />
+  <key id="1026" name="物理抵抗力穿透{0:0.1f}%" desc="parpen" />
+  <key id="1027" name="魔法抵抗力穿透{0:0.1f}%" desc="marpen" />
+  <key id="1028" name="寒冰伤害减少{0:0.1f}%" desc="icedamagereduce" />
+  <key id="1029" name="火焰伤害减少{0:0.1f}%" desc="firedamagereduce" />
+  <key id="1030" name="暗黑伤害减少{0:0.1f}%" desc="darkdamagereduce" />
+  <key id="1031" name="神圣伤害减少{0:0.1f}%" desc="lightdamagereduce" />
+  <key id="1032" name="毒素伤害减少{0:0.1f}%" desc="poisondamagereduce" />
+  <key id="1033" name="闪电伤害减少{0:0.1f}%" desc="thunderdamagereduce" />
+  <key id="1034" name="无法行动时间减少{0:0.1f}%" desc="stunReduce" />
+  <key id="1035" name="技能冷却时间减少{0:0.1f}%" desc="skillCooldown" />
+  <key id="1036" name="状态异常时间减少{0:0.1f}%" desc="conditionReduce" />
+  <key id="1037" name="近战伤害减少{0:0.1f}%" desc="nearDistanceDamageReduce" />
+  <key id="1038" name="远程伤害减少{0:0.1f}%" desc="longDistanceDamageReduce" />
+  <key id="1039" name="击退抵抗 {0:d}" desc="KnockBackReduce" />
+  <key id="1040" name="装备时，力量增加{0:0.1f}%" desc="strRate" />
+  <key id="1041" name="装备时，敏捷增加{0:0.1f}%" desc="dexRate" />
+  <key id="1042" name="装备时，智力增加{0:0.1f}%" desc="intRate" />
+  <key id="1043" name="装备时，幸运增加{0:0.1f}%" desc="lukRate" />
+  <key id="1044" name="生命{0:0.1f}%" desc="hpRate" />
+  <key id="1045" name="生命重生周期{0:0.1f}%" desc="hpInvRate" />
+  <key id="1046" name="能量{0:0.1f}%" desc="spRate" />
+  <key id="1047" name="能量重生周期{0:0.1f}%" desc="spInvRate" />
+  <key id="1048" name="击杀时获得的道具掉落率增加{0:0.1f}%" desc="npcKillDropItemIncRate" />
+  <key id="1049" name="完成任务时获得的经验值增加{0:0.1f}%" desc="seg_questReward" />
+  <key id="1050" name="体力 {0:0.1f}%" desc="epRate" />
+  <key id="1051" name="体力重生周期 {0:0.1f}%" desc="epInvRate" />
+  <key id="1052" name="攻击速度 {0:0.1f}%" desc="aspRate" />
+  <key id="1053" name="移动速度 {0:0.1f}%" desc="mspRate" />
+  <key id="1054" name="PVP攻击力 {0:d}" desc="pvpdamageincrease" />
+  <key id="1055" name="PVP防御力 {0:d}" desc="pvpdamagereduce" />
+  <key id="1056" name="公会经验值增加{0:0.1f}%" desc="improveguildexp" />
+  <key id="1057" name="公会金币增加{0:0.1f}%" desc="improveguildcoin" />
+  <key id="1058" name="活动经验珠获得量增加{0:0.1f}%" desc="improvemassiveeventbexpball" />
+  <key id="1059" name="钓鱼时获得的经验值增加{0:0.1f}%" desc="seg_fishingReward" />
+  <key id="1060" name="游戏厅通关经验值增加{0:0.1f}%" desc="seg_arcadeReward" />
+  <key id="1061" name="演奏乐器时获得的经验值增加{0:0.1f}%" desc="seg_playinstrumentReward" />
+  <key id="1062" name="管家经验值获得量增加{0:0.1f}%" desc="improve_maid_mood" />
+  <key id="1063" name="管家制作材料折扣{0:0.1f}%" desc="reduce_maid_recipe" />
+  <key id="1064" name="金币交易手续费减少{0:0.1f}%" desc="reduce_meso_trade_fee" />
+  <key id="1065" name="强化材料折扣{0:0.1f}%" desc="reduce_enchant_matrial_fee" />
+  <key id="1066" name="蘑菇币复活折扣{0:0.1f}%" desc="reduce_merat_revival_fee" />
+  <key id="1067" name="采矿获得量增加{0:0.1f}%" desc="improve_mining_reward_item" />
+  <key id="1068" name="畜牧获得量增加{0:0.1f}%" desc="improve_breeding_reward_item" />
+  <key id="1069" name="铁匠经验值获得量增加{0:0.1f}%" desc="improve_blacksmithing_reward_mastery" />
+  <key id="1070" name="工艺熟练度增加{0:0.1f}%" desc="improve_engraving_reward_mastery" />
+  <key id="1071" name="采集获得量增加{0:0.1f}%" desc="improve_gathering_reward_item" />
+  <key id="1072" name="栽培获得量增加{0:0.1f}%" desc="improve_farming_reward_item" />
+  <key id="1073" name="炼金熟练度增加{0:0.1f}%" desc="improve_alchemist_reward_mastery" />
+  <key id="1074" name="料理熟练度增加{0:0.1f}%" desc="improve_cooking_reward_mastery" />
+  <key id="1075" name="采集中获得的经验值增加{0:0.1f}%" desc="improve_acquire_gathering_exp" />
+  <key id="1076" name="制作中获得的经验值增加{0:0.1f}%" desc="improve_acquire_manufacturing_exp" />
+  <key id="1091" name="冒险岛有奖竞猜经验值增加{0:0.1f}%" desc="improve_massive_ox_exp" />
+  <key id="1092" name="陷阱大师经验值增加{0:0.1f}%" desc="improve_massive_trapmaster_exp" />
+  <key id="1093" name="终极生存赛经验值增加{0:0.1f}%" desc="improve_massive_finalsurvival_exp" />
+  <key id="1094" name="疯狂酷跑经验值增加{0:0.1f}%" desc="improve_massive_crazyrunner_exp" />
+  <key id="1095" name="玩具城大逃脱经验值增加{0:0.1f}%" desc="improve_massive_escape_exp" />
+  <key id="1096" name="弹弹海滩经验值增加{0:0.1f}%" desc="improve_massive_springbeach_exp" />
+  <key id="1097" name="爱的抱抱经验值增加{0:0.1f}%" desc="improve_massive_dancedance_exp" />
+  <key id="1098" name="冒险岛有奖竞猜移动速度提高{0}%" desc="improve_massive_ox_msp" />
+  <key id="1099" name="陷阱大师移动速度提高{0}%" desc="improve_massive_trapmaster_msp" />
+  <key id="1100" name="终极生存赛移动速度提高{0}%" desc="improve_massive_finalsurvival_msp" />
+  <key id="1101" name="疯狂酷跑移动速度提高{0}%" desc="improve_massive_crazyrunner_msp" />
+  <key id="1102" name="玩具城大逃脱移动速度提高{0}%" desc="improve_massive_escape_msp" />
+  <key id="1103" name="弹弹海滩移动速度提高{0}%" desc="improve_massive_springbeach_msp" />
+  <key id="1104" name="爱的抱抱移动速度提高{0}%" desc="improve_massive_dancedance_msp" />
+  <key id="1105" name="攻击时，有{0:0.1f}%的几率出现能量珠" desc="npc_hit_reward_sp_ball" />
+  <key id="1106" name="攻击时，有{0:0.1f}%的几率出现体力珠" desc="npc_hit_reward_ep_ball" />
+  <key id="1107" name="勇气徽章获得量增加{0:0.1f}%" desc="improve_honor_token" />
+  <key id="1108" name="PVP获得经验值增加{0:0.1f}%" desc="improve_pvp_exp" />
+  <key id="1109" name="在黑暗洪流中造成的伤害增加{0:0.1f}%" desc="improve_darkstream_damage" />
+  <key id="1110" name="在黑暗洪流中受到的伤害降低{0:0.1f}%" desc="reduce_darkstream_recive_damage" />
+  <key id="1111" name="智力提高至力量的{0:0.1f}%" desc="strToInt" />
+  <key id="1112" name="钓鱼熟练度有{0:0.1f}%的概率增加2倍" desc="fishing_double_mastery" />
+  <key id="1113" name="演奏熟练度有{0:0.1f}%的概率增加2倍" desc="playinstrument_double_mastery" />
+  <key id="1114" name="完成探险地区的移动速度提高{0}%" desc="complete_fieldmission_msp" />
+  <key id="1115" name="飞行坐骑上升速度提高{0:0.1f}%" desc="improve_glide_vertical_velocity" />
+  <key id="1116" name="坐骑移动速度{0:0.1f}%" desc="rmspRate" />
+  <key id="1117" name="攻击时，将对方的防御力效果削弱{0}" desc="additionaleffect_95000012" />
+  <key id="1118" name="攻击时，将对方的攻击力效果削弱{0}" desc="additionaleffect_95000014" />
+  <key id="1119" name="命中 {0:0.1f}%" desc="atpRate" />
+  <key id="1120" name="回避 {0:0.1f}%" desc="evpRate" />
+  <key id="1121" name="暴击命中 {0:0.1f}%" desc="capRate" />
+  <key id="1122" name="暴击回避 {0:0.1f}%" desc="carRate" />
+  <key id="1123" name="防御力 {0:0.1f}%" desc="nddRate" />
+  <key id="1124" name="跳跃力 {0:0.1f}%" desc="jmpRate" />
+  <key id="1125" name="物理攻击力 {0:0.1f}%" desc="papRate" />
+  <key id="1126" name="魔法攻击力 {0:0.1f}%" desc="mapRate" />
+  <key id="1127" name="物理抵抗力{0:0.1f}%" desc="parRate" />
+  <key id="1128" name="魔法抵抗力 {0:0.1f}%" desc="marRate" />
+  <key id="1129" name="体力恢复周期缩短{0:0.1f}%" desc="reduce_recovery_ep_inv" />
+  <key id="1130" name="武器最大攻击力提高{0:0.1f}%" desc="improve_stat_wap_u" />
+  <key id="1131" name="采矿时，有{0:0.1f}%几率获得2倍出产物" desc="mining_double_reward" />
+  <key id="1132" name="畜牧时，有{0:0.1f}%几率获得2倍出产物" desc="breeding_double_reward" />
+  <key id="1133" name="采集时，有{0:0.1f}%几率获得2倍出产物" desc="gathering_double_reward" />
+  <key id="1134" name="栽培时，有{0:0.1f}%几率获得2倍出产物" desc="farming_double_reward" />
+  <key id="1135" name="铁匠生产时，有{0:0.1f}%的概率产物增加2倍" desc="blacksmithing_double_reward" />
+  <key id="1136" name="工艺生产时，有{0:0.1f}%的概率产物增加2倍" desc="engraving_double_reward" />
+  <key id="1137" name="炼金生产时，有{0:0.1f}%的概率产物增加2倍" desc="alchemist_double_reward" />
+  <key id="1138" name="制作料理时，有{0:0.1f}%的概率产物增加2倍" desc="cooking_double_reward" />
+  <key id="1139" name="采矿熟练度有{0:0.1f}%的概率增加2倍" desc="mining_double_mastery" />
+  <key id="1140" name="畜牧熟练度有{0:0.1f}%的概率增加2倍" desc="breeding_double_mastery" />
+  <key id="1141" name="采集熟练度有{0:0.1f}%的概率增加2倍" desc="gathering_double_mastery" />
+  <key id="1142" name="栽培熟练度有{0:0.1f}%的概率增加2倍" desc="farming_double_mastery" />
+  <key id="1143" name="铁匠熟练度有{0:0.1f}%的概率增加2倍" desc="blacksmithing_double_mastery" />
+  <key id="1144" name="工艺熟练度有{0:0.1f}%的概率增加2倍" desc="engraving_double_mastery" />
+  <key id="1145" name="炼金熟练度有{0:0.1f}%的概率增加2倍" desc="alchemist_double_mastery" />
+  <key id="1146" name="料理熟练度有{0:0.1f}%的概率增加2倍" desc="cooking_double_mastery" />
+  <key id="1147" name="混沌副本中的武器攻击力提高{0:0.1f}%" desc="improve_chaosraid_wap" />
+  <key id="1148" name="在混沌副本中攻击速度提高{0}%" desc="improve_chaosraid_asp" />
+  <key id="1149" name="混沌副本中的命中率提高{0}" desc="improve_chaosraid_atp" />
+  <key id="1150" name="混沌副本中的生命值提高{0}" desc="improve_chaosraid_hp" />
+  <key id="1151" name="体力珠和能量珠的恢复量增加{0:0.1f}%" desc="improve_recovery_ball" />
+  <key id="1152" name="力量 {0}" desc="str" />
+  <key id="1153" name="敏捷 {0}" desc="dex" />
+  <key id="1154" name="智力 {0}" desc="int" />
+  <key id="1155" name="幸运 {0}" desc="luk" />
+  <key id="1156" name="额外获得宠物捕捉奖励{0}次" desc="improve_pettrap_reward" />
+  <key id="1157" name="提高采矿生产效率" desc="mining_multiaction" />
+  <key id="1158" name="提高畜牧生产效率" desc="breeding_multiaction" />
+  <key id="1159" name="提高采集生产效率" desc="gathering_multiaction" />
+  <key id="1160" name="提高栽培生产效率" desc="farming_multiaction" />
+  <key id="1161" name="提升魔都酷跑经验值{0:0.1f}%" desc="improve_massive_sh_crazyrunner_exp" />
+  <key id="1162" name="提升魔都酷跑移动速度{0}" desc="improve_massive_sh_crazyrunner_msp" />
+  <key id="1163" name="根据最大生命值，减少{0:0.1f}%攻击伤害" desc="reduce_damage_by_targetmaxhp" />
+  <key id="1180" name="最大生命增加{0}" desc="hp" />
+  <key id="1181" name="生命恢复{0}" desc="hp_rgp" />
+  <key id="1182" name="最大能量增加{0}" desc="sp" />
+  <key id="1183" name="能量恢复 {0}" desc="sp_rgp" />
+  <key id="1184" name="体力 {0}" desc="ep" />
+  <key id="1185" name="体力重生周期 {0}" desc="ep_inv" />
+  <key id="1186" name="攻击速度 {0}%" desc="asp" />
+  <key id="1187" name="移动速度 {0}%" desc="msp" />
+  <key id="1188" name="命中 {0}" desc="atp" />
+  <key id="1189" name="回避 {0}" desc="evp" />
+  <key id="1190" name="暴击命中 {0}" desc="cap" />
+  <key id="1191" name="暴击伤害 {0}" desc="cad" />
+  <key id="1192" name="暴击回避 {0}" desc="car" />
+  <key id="1193" name="防御力 {0}" desc="ndd" />
+  <key id="1194" name="完全防御 {0:0.1f}%" desc="abp" />
+  <key id="1195" name="物理攻击力 {0}" desc="pap" />
+  <key id="1196" name="魔法攻击力 {0}" desc="map" />
+  <key id="1197" name="物理抵抗力{0}" desc="par" />
+  <key id="1198" name="魔法抵抗力 {0}" desc="mar" />
+  <key id="1199" name="防御穿透 {0:0.1f}%" desc="pen" />
+  <key id="1200" name="坐骑移动速度 {0}%" desc="rmsp" />
+  <key id="1201" name="战斗力 {0}" desc="bap" />
+  <key id="1202" name="暴击命中（无视限制）{0}" desc="cap_ignore_limit" />
+  <key id="1203" name="暴击伤害（无视限制）{0}" desc="cad_ignore_limit" />
+  <key id="1204" name="完全回避 {0:0.1f}%" desc="aevp" />
+  <key id="1205" name="暴击命中{0:0.1f}%" desc="cap_ignore_limit_extra" />
+  <key id="1206" name="生命恢复技能效果降低{0:0.1f}%" desc="reduce_do_heal_hp" />
+</ms2>

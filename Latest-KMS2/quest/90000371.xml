@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Season1">
+		<quest>
+			<basic questID="90000371" chapterID="9039" standardLevel="26" locking="1" useNavi="FALSE" />
+			<require level="26" quest="90000370,10002290" />
+			<start npc="11000610" />
+			<complete npc="11000610" />
+			<completeReward exp="82575" relativeExp="epicQuest" money="3400">
+				<essentialItem code="20000214" rank="1" count="5" />
+			</completeReward>
+			<progressMap progressMap="03000014" />
+			<condition type="item_exist" code="20000102" value="10" />
+		</quest>
+	</environment>
+</ms2>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<skill id="43000001" comment="검은군단 미사일 포트 (군단전)">
+		<basic>
+			<ui attackType="2" />
+			<kinds rangeType="2" element="1" />
+		</basic>
+		<level value="1">
+			<detectProperty rangeType="cylinder" distance="99999" rangeOffset="0,0,-2200" height="9999" />
+			<motion sequenceName="Attack_01_A" motionEffect="NPC/Skill/Missileport/Eff_Missileport_Attack_01_A_Cast.xml">
+				<attack point="p0" targetCount="4" magicPathID="6404" attacktype="2" attackMethodType="1" brokenOffence="1" unrideOnHit="1" compulsionType="1">
+					<range rangeType="cylinder" distance="99999" rangeOffset="0,0,-2200" height="9999" applyTarget="1" castTarget="1" />
+					<arrow overlap="1" collision="75,75,75" effect="NPC/Skill/Missileport/Eff_Missileport_Attack_01_A_Ball.xml" effectRemain="NPC/Skill/Missileport/Eff_Missileport_Attack_01_A_Ball_remain.xml" />
+					<damage attackMaterial="1" />
+					<actionSkill skillID="43000011" level="1" removeDelay="1500" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+	<skill id="43000011" comment="검은군단 미사일 포트 (군단전)">
+		<basic mainType="30">
+			<ui attackType="2" />
+			<kinds rangeType="2" element="1" />
+		</basic>
+		<level value="1">
+			<detectProperty rangeType="cylinder" distance="300" height="300" />
+			<motion motionEffect="NPC/Skill/Missileport/Eff_Missileport_Attack_01_A_Cast_Splash.xml" faceTarget="0">
+				<attack point="p0" targetCount="10" attacktype="2" brokenOffence="1" unrideOnHit="1" compulsionType="1">
+					<range rangeType="cylinder" distance="300" height="300" applyTarget="1" castTarget="1" />
+					<damage rate="0.25" effectHit="CH/Common/Eff_Common_Fire_Hit.xml" push="1" pushdistance="150" pushduration="0.2" pushEaseType="1" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+</ms2>

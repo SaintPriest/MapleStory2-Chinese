@@ -1,0 +1,3935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<item id="15000000">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000000.png" category="BH" blackMarketCategory="150_equip" gearScore="1">
+				<sell price="241" />
+			</property>
+			<limit recommendJobs="20" transferType="5" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000000" />
+		</environment>
+	</item>
+	<item id="15000001">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000001.png" category="BH" blackMarketCategory="150_equip" gearScore="10">
+				<sell price="472,590,755,944,1156,1392" />
+			</property>
+			<limit recommendJobs="20" levelLimit="10" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000001" />
+			<option constantID="150010101" randomID="15000001" optionLevel="10" />
+		</environment>
+	</item>
+	<item id="15000002">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000002.png" category="BH" blackMarketCategory="150_equip" gearScore="12">
+				<sell price="558,698,893,1116,1367,1646" />
+			</property>
+			<limit recommendJobs="20" levelLimit="12" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000002" />
+			<option constantID="150010101" randomID="15000001" optionLevel="12" />
+		</environment>
+	</item>
+	<item id="15000003">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000003.png" category="BH" blackMarketCategory="150_equip" gearScore="14">
+				<sell price="658,823,1053,1316,1612,1941" />
+			</property>
+			<limit recommendJobs="20" levelLimit="14" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000003" />
+			<option constantID="150010101" randomID="15000001" optionLevel="14" />
+		</environment>
+	</item>
+	<item id="15000004">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000004.png" category="BH" blackMarketCategory="150_equip" gearScore="16">
+				<sell price="770,963,1232,1540,1887,2272" />
+			</property>
+			<limit recommendJobs="20" levelLimit="16" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000004" />
+			<option constantID="150010101" randomID="15000004" optionLevel="16" />
+		</environment>
+	</item>
+	<item id="15000005">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000005.png" category="BH" blackMarketCategory="150_equip" gearScore="18">
+				<sell price="894,1118,1430,1788,2190,2637" />
+			</property>
+			<limit recommendJobs="20" levelLimit="18" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000005" />
+			<option constantID="150010101" randomID="15000004" optionLevel="18" />
+		</environment>
+	</item>
+	<item id="15000006">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000006.png" category="BH" blackMarketCategory="150_equip" gearScore="20">
+				<sell price="1032,1290,1651,2064,2528,3044" />
+			</property>
+			<limit recommendJobs="20" levelLimit="20" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000006" />
+			<option constantID="150010101" randomID="15000006" optionLevel="20" />
+		</environment>
+	</item>
+	<item id="15000007">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000007.png" category="BH" blackMarketCategory="150_equip" gearScore="22">
+				<sell price="1182,1478,1891,2364,2896,3487" />
+			</property>
+			<limit recommendJobs="20" levelLimit="22" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000007" />
+			<option constantID="150010101" randomID="15000006" optionLevel="22" />
+		</environment>
+	</item>
+	<item id="15000008">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000008.png" category="BH" blackMarketCategory="150_equip" gearScore="22">
+				<sell price="1182,1478,1891,2364,2896,3487" />
+			</property>
+			<limit recommendJobs="20" levelLimit="22" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000008" />
+			<option constantID="150010201" randomID="15000008" optionLevel="22" />
+		</environment>
+	</item>
+	<item id="15000009">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000009.png" category="BH" blackMarketCategory="150_equip" gearScore="24">
+				<sell price="1345,1681,2152,2690,3295,3968" />
+			</property>
+			<limit recommendJobs="20" levelLimit="24" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000009" />
+			<option constantID="150010101" randomID="15000006" optionLevel="24" />
+		</environment>
+	</item>
+	<item id="15000010">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000010.png" category="BH" blackMarketCategory="150_equip" gearScore="24">
+				<sell price="1345,1681,2152,2690,3295,3968" />
+			</property>
+			<limit recommendJobs="20" levelLimit="24" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000010" />
+			<option constantID="150010201" randomID="15000008" optionLevel="24" />
+		</environment>
+	</item>
+	<item id="15000011">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000011.png" category="BH" blackMarketCategory="150_equip" gearScore="31">
+				<sell price="3822" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000011" />
+			<option constantID="150010101" randomID="15000008" optionLevel="31" />
+		</environment>
+	</item>
+	<item id="15000012">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000012.png" category="BH" blackMarketCategory="150_equip" gearScore="33">
+				<sell price="3822" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000012" />
+			<option constantID="150010101" randomID="15000008" optionLevel="33" />
+		</environment>
+	</item>
+	<item id="15000013">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000013.png" category="BH" blackMarketCategory="150_equip" gearScore="42">
+				<sell price="3110,3888,4976,6220,7620,9175" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" transferType="2" shopSell="1" enableBreak="1" />
+			<effect battleIdle="Item\Eff_FlameDivineSword_Battle.xml" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000013" />
+			<option constantID="15000013" optionLevel="40" />
+		</environment>
+	</item>
+	<item id="15000014">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000014.png" category="BH" blackMarketCategory="150_equip" remakeDisable="true" gearScore="40">
+				<sell price="6220" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000014" />
+			<option constantID="15000014" randomID="15000014" optionLevel="40" />
+		</environment>
+	</item>
+	<item id="15000015">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000015.png" category="BH" blackMarketCategory="150_equip" remakeDisable="true" gearScore="35">
+				<sell price="4942" />
+			</property>
+			<limit recommendJobs="20" levelLimit="35" transferType="5" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000015" />
+			<option constantID="15000015" randomID="15000015" optionLevel="35" />
+		</environment>
+	</item>
+	<item id="15000016">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000016.png" category="BH" blackMarketCategory="150_equip" remakeDisable="true" gearScore="54" rePackingLimitCount="3" rePackingItemConsumeCount="100" globalRePackingItemConsumeCount="0">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000016" />
+			<option constantID="15000016" randomID="15000016" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000017">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000017.png" category="BH" blackMarketCategory="150_equip" gearScore="10">
+				<sell price="472,590,755,944,1156,1392" />
+			</property>
+			<limit recommendJobs="20" levelLimit="10" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000017" />
+			<option constantID="150010201" randomID="15000008" optionLevel="10" />
+		</environment>
+	</item>
+	<item id="15000018">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000018.png" category="BH" blackMarketCategory="150_equip" gearScore="12">
+				<sell price="558,698,893,1116,1367,1646" />
+			</property>
+			<limit recommendJobs="20" levelLimit="12" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000018" />
+			<option constantID="150010201" randomID="15000008" optionLevel="12" />
+		</environment>
+	</item>
+	<item id="15000019">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000019.png" category="BH" blackMarketCategory="150_equip" gearScore="14">
+				<sell price="658,823,1053,1316,1612,1941" />
+			</property>
+			<limit recommendJobs="20" levelLimit="14" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000019" />
+			<option constantID="150010201" randomID="15000008" optionLevel="14" />
+		</environment>
+	</item>
+	<item id="15000020">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000020.png" category="BH" blackMarketCategory="150_equip" gearScore="16">
+				<sell price="770,963,1232,1540,1887,2272" />
+			</property>
+			<limit recommendJobs="20" levelLimit="16" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000020" />
+			<option constantID="150010201" randomID="15000008" optionLevel="16" />
+		</environment>
+	</item>
+	<item id="15000021">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000021.png" category="BH" blackMarketCategory="150_equip" gearScore="18">
+				<sell price="894,1118,1430,1788,2190,2637" />
+			</property>
+			<limit recommendJobs="20" levelLimit="18" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000021" />
+			<option constantID="150010201" randomID="15000008" optionLevel="18" />
+		</environment>
+	</item>
+	<item id="15000022">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000022.png" category="BH" blackMarketCategory="150_equip" gearScore="20">
+				<sell price="1032,1290,1651,2064,2528,3044" />
+			</property>
+			<limit recommendJobs="20" levelLimit="20" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000022" />
+			<option constantID="150010201" randomID="15000008" optionLevel="20" />
+		</environment>
+	</item>
+	<item id="15000023">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000023.png" category="BH" blackMarketCategory="150_equip" gearScore="25">
+				<sell price="1432,1790,2291,2864,3508,4224" />
+			</property>
+			<limit recommendJobs="20" levelLimit="25" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000023" />
+			<option constantID="15000023" randomID="15000008" optionLevel="25" />
+		</environment>
+	</item>
+	<item id="15000024">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="2" />
+			<tool itemPreset="15000024" />
+		</environment>
+	</item>
+	<item id="15000025">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<effect enchantShape="101" />
+			<material attack="2" />
+			<tool itemPreset="15000025" />
+		</environment>
+	</item>
+	<item id="15000026">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<effect enchantShape="101" />
+			<material attack="2" />
+			<tool itemPreset="15000026" />
+		</environment>
+	</item>
+	<item id="15000027">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000027.png" category="BH" blackMarketCategory="150_equip" gearScore="10">
+				<sell price="472" />
+			</property>
+			<limit recommendJobs="20" levelLimit="10" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000027" />
+			<option constantID="15000027" optionLevel="10" />
+		</environment>
+	</item>
+	<item id="15000028">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000028.png" category="BH" blackMarketCategory="150_equip" gearScore="21">
+				<sell price="2707" />
+			</property>
+			<limit recommendJobs="20" levelLimit="21" transferType="4" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000028" />
+			<option constantID="150010101" randomID="15000008" optionLevel="21" />
+		</environment>
+	</item>
+	<item id="15000029">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000029.png" category="BH" blackMarketCategory="150_equip" gearScore="23">
+				<sell price="3092" />
+			</property>
+			<limit recommendJobs="20" levelLimit="23" transferType="4" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000029" />
+			<option constantID="150010101" randomID="15000008" optionLevel="23" />
+		</environment>
+	</item>
+	<item id="15000030">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000030.png" category="BH" blackMarketCategory="150_equip" gearScore="25">
+				<sell price="3508" />
+			</property>
+			<limit recommendJobs="20" levelLimit="25" transferType="4" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000030" />
+			<option constantID="150010101" randomID="15000008" optionLevel="25" />
+		</environment>
+	</item>
+	<item id="15000031">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000031.png" category="BH" blackMarketCategory="150_equip" gearScore="27">
+				<sell price="3954" />
+			</property>
+			<limit recommendJobs="20" levelLimit="27" transferType="4" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000031" />
+			<option constantID="150010101" randomID="15000008" optionLevel="27" />
+		</environment>
+	</item>
+	<item id="15000032">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000032.png" category="BH" blackMarketCategory="150_equip" gearScore="29">
+				<sell price="4432" />
+			</property>
+			<limit recommendJobs="20" levelLimit="29" transferType="4" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000032" />
+			<option constantID="150010101" randomID="15000008" optionLevel="29" />
+		</environment>
+	</item>
+	<item id="15000033">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000033.png" category="BH" blackMarketCategory="150_equip" gearScore="31">
+				<sell price="4942" />
+			</property>
+			<limit recommendJobs="20" levelLimit="31" transferType="4" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000033" />
+			<option constantID="150010101" randomID="15000008" optionLevel="31" />
+		</environment>
+	</item>
+	<item id="15000034">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000034.png" category="BH" blackMarketCategory="150_equip" gearScore="26">
+				<sell price="1521,1901,2434,3042,3726,4487" />
+			</property>
+			<limit recommendJobs="20" levelLimit="26" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000034" />
+			<option constantID="150010101" randomID="15000006" optionLevel="26" />
+		</environment>
+	</item>
+	<item id="15000035">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000035.png" category="BH" blackMarketCategory="150_equip" gearScore="28">
+				<sell price="1710,2138,2736,3420,4190,5045" />
+			</property>
+			<limit recommendJobs="20" levelLimit="28" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000035" />
+			<option constantID="150010101" randomID="15000006" optionLevel="28" />
+		</environment>
+	</item>
+	<item id="15000036">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000036.png" category="BH" blackMarketCategory="150_equip" gearScore="30">
+				<sell price="1911,2389,3058,3822,4682,5637" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000036" />
+			<option constantID="150010101" randomID="15000006" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000037">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000037.png" category="BH" blackMarketCategory="150_equip" gearScore="32">
+				<sell price="2125,2656,3400,4250,5206,6269" />
+			</property>
+			<limit recommendJobs="20" levelLimit="32" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000037" />
+			<option constantID="150010101" randomID="15000006" optionLevel="32" />
+		</environment>
+	</item>
+	<item id="15000038">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000038.png" category="BH" blackMarketCategory="150_equip" gearScore="34">
+				<sell price="2352,2940,3763,4704,5762,6938" />
+			</property>
+			<limit recommendJobs="20" levelLimit="34" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000038" />
+			<option constantID="150010101" randomID="15000006" optionLevel="34" />
+		</environment>
+	</item>
+	<item id="15000039">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000039.png" category="BH" blackMarketCategory="150_equip" gearScore="1">
+				<sell price="241,301,386,482,590,711" />
+			</property>
+			<limit recommendJobs="20" transferType="3" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000039" />
+			<option constantID="15000039" randomID="15000039" />
+		</environment>
+	</item>
+	<item id="15000040">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000040.png" category="BH" blackMarketCategory="150_equip" gearScore="50" rePackingLimitCount="3" rePackingItemConsumeCount="75">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000040" />
+			<option constantID="150010101" randomID="15000009" optionLevel="52" />
+		</environment>
+	</item>
+	<item id="15000041">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000041.png" category="BH" blackMarketCategory="150_equip" gearScore="52">
+				<sell price="11339" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" enableBreak="1" exceptEnchant="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90030531,90030561" level="1,1" />
+			<tool itemPreset="15000041" />
+			<option constantID="15000041" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000042">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000042.png" category="BH" blackMarketCategory="150_equip" gearScore="52" rePackingLimitCount="3" rePackingItemConsumeCount="75">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000042" />
+			<option constantID="150010101" randomID="15000009" optionLevel="54" />
+		</environment>
+	</item>
+	<item id="15000043">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000043.png" category="BH" blackMarketCategory="150_equip" gearScore="52" rePackingLimitCount="3" rePackingItemConsumeCount="75" globalRePackingItemConsumeCount="0">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000043" />
+			<option constantID="150010201" randomID="15000009" optionLevel="55" />
+		</environment>
+	</item>
+	<item id="15000044">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000044.png" category="BH" blackMarketCategory="150_equip" gearScore="54" rePackingLimitCount="3" rePackingItemConsumeCount="75">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000044" />
+			<option constantID="150010101" randomID="15000009" optionLevel="56" />
+		</environment>
+	</item>
+	<item id="15000045">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000045.png" category="BH" blackMarketCategory="150_equip" gearScore="42">
+				<sell price="6220" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000045" />
+			<option constantID="150010101" randomID="15000008" optionLevel="42" />
+		</environment>
+	</item>
+	<item id="15000046">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000046.png" category="BH" blackMarketCategory="150_equip" gearScore="41">
+				<sell price="6220" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000046" />
+			<option constantID="150010101" randomID="15000008" optionLevel="41" />
+		</environment>
+	</item>
+	<item id="15000047">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000047.png" category="BH" blackMarketCategory="150_equip" gearScore="50" rePackingLimitCount="3" rePackingItemConsumeCount="75">
+				<sell price="4628,5785,7405,9256,11339,13653" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000047" />
+			<option constantID="150010201" randomID="15000009" optionLevel="53" />
+		</environment>
+	</item>
+	<item id="15000048">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000001.png" category="BH" blackMarketCategory="150_equip" gearScore="36">
+				<sell price="2592,3240,4147,5184,6350,7646" />
+			</property>
+			<limit recommendJobs="20" levelLimit="36" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000001" />
+			<option constantID="150010101" randomID="15000006" optionLevel="36" />
+		</environment>
+	</item>
+	<item id="15000049">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000002.png" category="BH" blackMarketCategory="150_equip" gearScore="38">
+				<sell price="2845,3556,4552,5690,6970,8393" />
+			</property>
+			<limit recommendJobs="20" levelLimit="38" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000002" />
+			<option constantID="150010101" randomID="15000006" optionLevel="38" />
+		</environment>
+	</item>
+	<item id="15000050">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000003.png" category="BH" blackMarketCategory="150_equip" gearScore="40">
+				<sell price="3110,3888,4976,6220,7620,9175" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000003" />
+			<option constantID="150010101" randomID="15000006" optionLevel="40" />
+		</environment>
+	</item>
+	<item id="15000051">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000004.png" category="BH" blackMarketCategory="150_equip" gearScore="42">
+				<sell price="3388,4235,5421,6776,8301,9995" />
+			</property>
+			<limit recommendJobs="20" levelLimit="42" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000004" />
+			<option constantID="150010101" randomID="15000006" optionLevel="42" />
+		</environment>
+	</item>
+	<item id="15000052">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000005.png" category="BH" blackMarketCategory="150_equip" gearScore="44">
+				<sell price="3679,4599,5886,7358,9014,10853" />
+			</property>
+			<limit recommendJobs="20" levelLimit="44" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000005" />
+			<option constantID="150010101" randomID="15000006" optionLevel="44" />
+		</environment>
+	</item>
+	<item id="15000053">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000006.png" category="BH" blackMarketCategory="150_equip" gearScore="46">
+				<sell price="3983,4979,6373,7966,9758,11750" />
+			</property>
+			<limit recommendJobs="20" levelLimit="46" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000006" />
+			<option constantID="150010101" randomID="15000006" optionLevel="46" />
+		</environment>
+	</item>
+	<item id="15000054">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000007.png" category="BH" blackMarketCategory="150_equip" gearScore="48">
+				<sell price="4299,5374,6878,8598,10533,12682" />
+			</property>
+			<limit recommendJobs="20" levelLimit="48" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000007" />
+			<option constantID="150010101" randomID="15000006" optionLevel="48" />
+		</environment>
+	</item>
+	<item id="15000055">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000008.png" category="BH" blackMarketCategory="150_equip" gearScore="50" rePackingLimitCount="3" rePackingItemConsumeCount="75" globalRePackingItemConsumeCount="0">
+				<sell price="4628,5785,7405,9256,11339,13653" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000008" />
+			<option constantID="150010101" randomID="15000007" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000056">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000056.png" category="BH" blackMarketCategory="150_equip" gearScore="26">
+				<sell price="1521,1901,2434,3042,3726,4487" />
+			</property>
+			<limit recommendJobs="20" levelLimit="26" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000056" />
+			<option constantID="150010201" randomID="15000008" optionLevel="26" />
+		</environment>
+	</item>
+	<item id="15000057">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000057.png" category="BH" blackMarketCategory="150_equip" gearScore="28">
+				<sell price="1710,2138,2736,3420,4190,5045" />
+			</property>
+			<limit recommendJobs="20" levelLimit="28" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000057" />
+			<option constantID="150010201" randomID="15000008" optionLevel="28" />
+		</environment>
+	</item>
+	<item id="15000058">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000058.png" category="BH" blackMarketCategory="150_equip" gearScore="30">
+				<sell price="1911,2389,3058,3822,4682,5637" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000058" />
+			<option constantID="150010201" randomID="15000008" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000059">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000059.png" category="BH" blackMarketCategory="150_equip" gearScore="32">
+				<sell price="2125,2656,3400,4250,5206,6269" />
+			</property>
+			<limit recommendJobs="20" levelLimit="32" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000059" />
+			<option constantID="150010201" randomID="15000008" optionLevel="32" />
+		</environment>
+	</item>
+	<item id="15000060">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000060.png" category="BH" blackMarketCategory="150_equip" gearScore="34">
+				<sell price="2352,2940,3763,4704,5762,6938" />
+			</property>
+			<limit recommendJobs="20" levelLimit="34" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000060" />
+			<option constantID="150010201" randomID="15000008" optionLevel="34" />
+		</environment>
+	</item>
+	<item id="15000061">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000061.png" category="BH" blackMarketCategory="150_equip" gearScore="36">
+				<sell price="2592,3240,4147,5184,6350,7646" />
+			</property>
+			<limit recommendJobs="20" levelLimit="36" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000061" />
+			<option constantID="150010201" randomID="15000008" optionLevel="36" />
+		</environment>
+	</item>
+	<item id="15000062">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000062.png" category="BH" blackMarketCategory="150_equip" gearScore="38">
+				<sell price="2845,3556,4552,5690,6970,8393" />
+			</property>
+			<limit recommendJobs="20" levelLimit="38" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000062" />
+			<option constantID="150010201" randomID="15000008" optionLevel="38" />
+		</environment>
+	</item>
+	<item id="15000063">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000063.png" category="BH" blackMarketCategory="150_equip" gearScore="40">
+				<sell price="3110,3888,4976,6220,7620,9175" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000063" />
+			<option constantID="150010201" randomID="15000008" optionLevel="40" />
+		</environment>
+	</item>
+	<item id="15000064">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000064.png" category="BH" blackMarketCategory="150_equip" gearScore="42">
+				<sell price="3388,4235,5421,6776,8301,9995" />
+			</property>
+			<limit recommendJobs="20" levelLimit="42" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000064" />
+			<option constantID="150010201" randomID="15000008" optionLevel="42" />
+		</environment>
+	</item>
+	<item id="15000065">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000065.png" category="BH" blackMarketCategory="150_equip" gearScore="44">
+				<sell price="3679,4599,5886,7358,9014,10853" />
+			</property>
+			<limit recommendJobs="20" levelLimit="44" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000065" />
+			<option constantID="150010201" randomID="15000008" optionLevel="44" />
+		</environment>
+	</item>
+	<item id="15000066">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000063.png" category="BH" blackMarketCategory="150_equip" gearScore="46">
+				<sell price="3983,4979,6373,7966,9758,11750" />
+			</property>
+			<limit recommendJobs="20" levelLimit="46" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000063" />
+			<option constantID="150010201" randomID="15000008" optionLevel="46" />
+		</environment>
+	</item>
+	<item id="15000067">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000064.png" category="BH" blackMarketCategory="150_equip" gearScore="48">
+				<sell price="4299,5374,6878,8598,10533,12682" />
+			</property>
+			<limit recommendJobs="20" levelLimit="48" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000064" />
+			<option constantID="150010201" randomID="15000008" optionLevel="48" />
+		</environment>
+	</item>
+	<item id="15000068">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000065.png" category="BH" blackMarketCategory="150_equip" gearScore="50" rePackingLimitCount="3" rePackingItemConsumeCount="75" globalRePackingItemConsumeCount="0">
+				<sell price="4628,5785,7405,9256,11339,13653" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000065" />
+			<option constantID="150010201" randomID="15000009" optionLevel="51" />
+		</environment>
+	</item>
+	<item id="15000069">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000001.png" category="BH" blackMarketCategory="150_equip" gearScore="11">
+				<sell price="514,643,822,1028,1259,1516" />
+			</property>
+			<limit recommendJobs="20" levelLimit="11" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000001" />
+			<option constantID="15000069" optionLevel="11" />
+		</environment>
+	</item>
+	<item id="15000070">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000002.png" category="BH" blackMarketCategory="150_equip" gearScore="15">
+				<sell price="712,890,1139,1424,1744,2100" />
+			</property>
+			<limit recommendJobs="20" levelLimit="15" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000002" />
+			<option constantID="15000070" optionLevel="15" />
+		</environment>
+	</item>
+	<item id="15000071">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000003.png" category="BH" blackMarketCategory="150_equip" gearScore="19">
+				<sell price="961,1201,1538,1922,2354,2835" />
+			</property>
+			<limit recommendJobs="20" levelLimit="19" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000003" />
+			<option constantID="15000071" optionLevel="19" />
+		</environment>
+	</item>
+	<item id="15000072">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000004.png" category="BH" blackMarketCategory="150_equip" gearScore="23">
+				<sell price="1262,1578,2019,2524,3092,3723" />
+			</property>
+			<limit recommendJobs="20" levelLimit="23" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000004" />
+			<option constantID="15000072" optionLevel="23" />
+		</environment>
+	</item>
+	<item id="15000073">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000005.png" category="BH" blackMarketCategory="150_equip" gearScore="27">
+				<sell price="1614,2018,2582,3228,3954,4761" />
+			</property>
+			<limit recommendJobs="20" levelLimit="27" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000005" />
+			<option constantID="15000073" optionLevel="27" />
+		</environment>
+	</item>
+	<item id="15000074">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000006.png" category="BH" blackMarketCategory="150_equip" gearScore="31">
+				<sell price="2017,2521,3227,4034,4942,5950" />
+			</property>
+			<limit recommendJobs="20" levelLimit="31" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000006" />
+			<option constantID="15000074" optionLevel="31" />
+		</environment>
+	</item>
+	<item id="15000075">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000007.png" category="BH" blackMarketCategory="150_equip" gearScore="35">
+				<sell price="2471,3089,3954,4942,6054,7289" />
+			</property>
+			<limit recommendJobs="20" levelLimit="35" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000007" />
+			<option constantID="15000075" optionLevel="35" />
+		</environment>
+	</item>
+	<item id="15000076">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000008.png" category="BH" blackMarketCategory="150_equip" gearScore="39">
+				<sell price="2976,3720,4762,5952,7291,8779" />
+			</property>
+			<limit recommendJobs="20" levelLimit="39" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000008" />
+			<option constantID="15000076" optionLevel="39" />
+		</environment>
+	</item>
+	<item id="15000077">
+		<environment>
+			<property rank="2" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000009.png" category="BH" blackMarketCategory="150_equip" gearScore="43">
+				<sell price="4415" />
+			</property>
+			<limit recommendJobs="20" levelLimit="43" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000009" />
+			<option constantID="15000077" optionLevel="43" />
+		</environment>
+	</item>
+	<item id="15000078">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000010.png" category="BH" blackMarketCategory="150_equip" gearScore="47">
+				<sell price="6622" />
+			</property>
+			<limit recommendJobs="20" levelLimit="47" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000010" />
+			<option constantID="15000078" optionLevel="47" />
+		</environment>
+	</item>
+	<item id="15000079">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="2" />
+			<tool itemPreset="15000079" />
+		</environment>
+	</item>
+	<item id="15000081">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000056.png" category="BH" blackMarketCategory="150_equip" gearScore="15">
+				<sell price="1424" />
+			</property>
+			<limit recommendJobs="20" levelLimit="15" transferType="5" globalTransferType="3" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000056" />
+			<option constantID="150010101" randomID="15000008" optionLevel="15" />
+		</environment>
+	</item>
+	<item id="15000082">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000057.png" category="BH" blackMarketCategory="150_equip" gearScore="21">
+				<sell price="2210" />
+			</property>
+			<limit recommendJobs="20" levelLimit="21" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000057" />
+			<option constantID="150010101" randomID="15000008" optionLevel="21" />
+		</environment>
+	</item>
+	<item id="15000083">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000058.png" category="BH" blackMarketCategory="150_equip" gearScore="30">
+				<sell price="3822" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000058" />
+			<option constantID="150010201" randomID="15000008" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000084">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000013.png" category="BH" blackMarketCategory="150_equip" gearScore="32">
+				<sell price="3822" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" transferType="2" shopSell="1" />
+			<effect battleIdle="Item\Eff_FlameDivineSword_Battle.xml" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000013" />
+			<option constantID="15000084" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000085">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000060.png" category="BH" blackMarketCategory="150_equip" gearScore="30">
+				<sell price="3822" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000060" />
+			<option constantID="150010101" randomID="15000008" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000086">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000058.png" category="BH" blackMarketCategory="150_equip" gearScore="32">
+				<sell price="4250" />
+			</property>
+			<limit recommendJobs="20" levelLimit="32" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000058" />
+			<option constantID="150010101" randomID="15000008" optionLevel="32" />
+		</environment>
+	</item>
+	<item id="15000087">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000059.png" category="BH" blackMarketCategory="150_equip" gearScore="35">
+				<sell price="4942" />
+			</property>
+			<limit recommendJobs="20" levelLimit="35" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000059" />
+			<option constantID="150010101" randomID="15000008" optionLevel="35" />
+		</environment>
+	</item>
+	<item id="15000088">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000060.png" category="BH" blackMarketCategory="150_equip" gearScore="37">
+				<sell price="5434" />
+			</property>
+			<limit recommendJobs="20" levelLimit="37" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000060" />
+			<option constantID="150010101" randomID="15000008" optionLevel="37" />
+		</environment>
+	</item>
+	<item id="15000089">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000061.png" category="BH" blackMarketCategory="150_equip" gearScore="40">
+				<sell price="6220" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000061" />
+			<option constantID="150010101" randomID="15000008" optionLevel="40" />
+		</environment>
+	</item>
+	<item id="15000090">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000043.png" category="BH" blackMarketCategory="150_equip" gearScore="42">
+				<sell price="6220" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" transferType="5" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000043" />
+			<option constantID="15000090" randomID="15000090" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000091">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000091.png" category="BH" blackMarketCategory="150_equip" remakeDisable="true" gearScore="30">
+				<sell price="3822" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" transferType="5" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000091" />
+			<option constantID="15000091" randomID="15000091" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000093">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000006.png" category="BH" blackMarketCategory="150_equip" gearScore="30">
+				<sell price="1911,2389,3058,3822,4682,5637" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000006" />
+			<option constantID="15000093" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000094">
+		<environment>
+			<property type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000007.png" category="BH" blackMarketCategory="150_equip" gearScore="40">
+				<sell price="3110,3888,4976,6220,7620,9175" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000007" />
+			<option constantID="15000094" optionLevel="40" />
+		</environment>
+	</item>
+	<item id="15000095">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000009.png" category="BH" blackMarketCategory="150_equip" gearScore="30">
+				<sell price="3822" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" transferType="1" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000009" />
+			<option constantID="15000095" randomID="15000008" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000096">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000042.png" category="BH" blackMarketCategory="150_equip" gearScore="31">
+				<sell price="3822" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" transferType="1" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000042" />
+			<option constantID="15000096" randomID="15000008" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000097">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000001.png" category="BH" blackMarketCategory="150_equip" gearScore="10" />
+			<limit recommendJobs="20" levelLimit="10" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000001" />
+			<option constantID="15000097" optionLevel="10" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000098">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000002.png" category="BH" blackMarketCategory="150_equip" gearScore="12" />
+			<limit recommendJobs="20" levelLimit="12" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000002" />
+			<option constantID="15000098" optionLevel="12" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000099">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000003.png" category="BH" blackMarketCategory="150_equip" gearScore="15" />
+			<limit recommendJobs="20" levelLimit="15" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000003" />
+			<option constantID="15000099" optionLevel="15" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000100">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000004.png" category="BH" blackMarketCategory="150_equip" gearScore="18" />
+			<limit recommendJobs="20" levelLimit="18" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000004" />
+			<option constantID="15000100" optionLevel="18" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000101">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000005.png" category="BH" blackMarketCategory="150_equip" gearScore="21" />
+			<limit recommendJobs="20" levelLimit="21" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000005" />
+			<option constantID="15000101" optionLevel="21" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000102">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000006.png" category="BH" blackMarketCategory="150_equip" gearScore="24" />
+			<limit recommendJobs="20" levelLimit="24" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000006" />
+			<option constantID="15000102" optionLevel="24" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000103">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000007.png" category="BH" blackMarketCategory="150_equip" gearScore="27" />
+			<limit recommendJobs="20" levelLimit="27" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000007" />
+			<option constantID="15000103" optionLevel="27" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000104">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000008.png" category="BH" blackMarketCategory="150_equip" gearScore="30" />
+			<limit recommendJobs="20" levelLimit="30" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000008" />
+			<option constantID="15000104" optionLevel="30" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000105">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000009.png" category="BH" blackMarketCategory="150_equip" gearScore="33" />
+			<limit recommendJobs="20" levelLimit="33" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000009" />
+			<option constantID="15000105" optionLevel="33" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000106">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000010.png" category="BH" blackMarketCategory="150_equip" gearScore="36" />
+			<limit recommendJobs="20" levelLimit="36" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000010" />
+			<option constantID="15000106" optionLevel="36" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000107">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000011.png" category="BH" blackMarketCategory="150_equip" gearScore="39" />
+			<limit recommendJobs="20" levelLimit="39" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000011" />
+			<option constantID="15000107" optionLevel="39" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000108">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="2" />
+			<tool itemPreset="15000108" />
+		</environment>
+	</item>
+	<item id="15000110">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="2" />
+			<tool itemPreset="15000110" />
+		</environment>
+	</item>
+	<item id="15000112">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000112" />
+		</environment>
+	</item>
+	<item id="15000113">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<effect battleIdle="Item\Eff_FlameDivineSword_Battle.xml" />
+			<material attack="4" />
+			<tool itemPreset="15000113" />
+		</environment>
+	</item>
+	<item id="15000114">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000114" />
+		</environment>
+	</item>
+	<item id="15000115">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000012.png" category="BH" blackMarketCategory="150_equip" gearScore="40">
+				<sell price="6220" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000012" />
+			<option constantID="150010201" randomID="15000008" optionLevel="40" />
+		</environment>
+	</item>
+	<item id="15000116">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000059.png" category="BH" blackMarketCategory="150_equip" gearScore="40">
+				<sell price="6220" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" transferType="1" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000059" />
+			<option constantID="15000116" randomID="15000008" optionLevel="40" />
+		</environment>
+	</item>
+	<item id="15000117">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000061.png" category="BH" blackMarketCategory="150_equip" gearScore="41">
+				<sell price="6220" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" transferType="1" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000061" />
+			<option constantID="150010201" randomID="15000008" optionLevel="41" />
+		</environment>
+	</item>
+	<item id="15000118">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<effect enchantShape="102" />
+			<material attack="4" />
+			<tool itemPreset="15000118" />
+		</environment>
+	</item>
+	<item id="15000119">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000119" />
+		</environment>
+	</item>
+	<item id="15000120">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000063.png" category="BH" blackMarketCategory="150_equip" gearScore="42" />
+			<limit recommendJobs="20" levelLimit="42" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000063" />
+			<option constantID="15000120" optionLevel="42" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000121">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000064.png" category="BH" blackMarketCategory="150_equip" gearScore="45" />
+			<limit recommendJobs="20" levelLimit="45" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000064" />
+			<option constantID="15000121" optionLevel="45" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000122">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000065.png" category="BH" blackMarketCategory="150_equip" gearScore="48" />
+			<limit recommendJobs="20" levelLimit="48" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000065" />
+			<option constantID="15000122" optionLevel="48" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000123">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000064.png" category="BH" blackMarketCategory="150_equip" gearScore="43">
+				<sell price="7064" />
+			</property>
+			<limit recommendJobs="20" levelLimit="43" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000064" />
+			<option constantID="150010201" randomID="15000008" optionLevel="43" />
+		</environment>
+	</item>
+	<item id="15000124">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000065.png" category="BH" blackMarketCategory="150_equip" gearScore="47">
+				<sell price="8278" />
+			</property>
+			<limit recommendJobs="20" levelLimit="47" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000065" />
+			<option constantID="150010201" randomID="15000008" optionLevel="47" />
+		</environment>
+	</item>
+	<item id="15000125">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000006.png" category="BH" blackMarketCategory="150_equip" gearScore="52">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="1" globalTransferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000006" />
+			<option constantID="15000125" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000126">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000007.png" category="BH" blackMarketCategory="150_equip" gearScore="54">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="1" globalTransferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000007" />
+			<option constantID="15000126" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000127">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000178.png" category="BH" blackMarketCategory="150_equip" gearScore="57">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="1" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051122" level="1" />
+			<tool itemPreset="15000178" />
+			<option constantID="150010101" randomID="15000009" optionLevel="56" />
+		</environment>
+	</item>
+	<item id="15000128">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000128" />
+		</environment>
+	</item>
+	<item id="15000129">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000013.png" category="BH" blackMarketCategory="150_equip" gearScore="52">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" />
+			<effect battleIdle="Item\Eff_FlameDivineSword_Battle.xml" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000013" />
+			<option constantID="15000129" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000130">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000059.png" category="BH" blackMarketCategory="150_equip" gearScore="50">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000059" />
+			<option constantID="15000130" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000131">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000131" />
+		</environment>
+	</item>
+	<item id="15000132">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000132" />
+		</environment>
+	</item>
+	<item id="15000133">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000001.png" category="BH" blackMarketCategory="150_equip" gearScore="10">
+				<sell price="755" />
+			</property>
+			<limit recommendJobs="20" levelLimit="10" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000001" />
+			<option constantID="15000133" optionLevel="10" />
+		</environment>
+	</item>
+	<item id="15000134">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000002.png" category="BH" blackMarketCategory="150_equip" gearScore="15">
+				<sell price="1139" />
+			</property>
+			<limit recommendJobs="20" levelLimit="15" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000002" />
+			<option constantID="15000134" optionLevel="15" />
+		</environment>
+	</item>
+	<item id="15000135">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000003.png" category="BH" blackMarketCategory="150_equip" gearScore="20">
+				<sell price="1651" />
+			</property>
+			<limit recommendJobs="20" levelLimit="20" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000003" />
+			<option constantID="15000135" optionLevel="20" />
+		</environment>
+	</item>
+	<item id="15000136">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000004.png" category="BH" blackMarketCategory="150_equip" gearScore="25">
+				<sell price="2291" />
+			</property>
+			<limit recommendJobs="20" levelLimit="25" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000004" />
+			<option constantID="15000136" optionLevel="25" />
+		</environment>
+	</item>
+	<item id="15000137">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000005.png" category="BH" blackMarketCategory="150_equip" gearScore="30">
+				<sell price="3058" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000005" />
+			<option constantID="15000137" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000138">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000006.png" category="BH" blackMarketCategory="150_equip" gearScore="35">
+				<sell price="3954" />
+			</property>
+			<limit recommendJobs="20" levelLimit="35" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000006" />
+			<option constantID="15000138" optionLevel="35" />
+		</environment>
+	</item>
+	<item id="15000139">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000007.png" category="BH" blackMarketCategory="150_equip" gearScore="40">
+				<sell price="4976" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000007" />
+			<option constantID="15000139" optionLevel="40" />
+		</environment>
+	</item>
+	<item id="15000140">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000008.png" category="BH" blackMarketCategory="150_equip" gearScore="45">
+				<sell price="6126" />
+			</property>
+			<limit recommendJobs="20" levelLimit="45" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000008" />
+			<option constantID="15000140" optionLevel="45" />
+		</environment>
+	</item>
+	<item id="15000141">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000009.png" category="BH" blackMarketCategory="150_equip" gearScore="50">
+				<sell price="7405" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000009" />
+			<option constantID="15000141" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000142">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000189.png" category="BH" blackMarketCategory="150_equip" gearScore="54" rePackingLimitCount="3" rePackingItemConsumeCount="75" globalRePackingLimitCount="1" globalRePackingItemConsumeCount="4" globalRePackingScrollID="10000001,10000003">
+				<sell price="11339" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050011" level="1" />
+			<tool itemPreset="15000189" />
+			<option constantID="15000142" randomID="15000142" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000143">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000132" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000132" />
+		</environment>
+	</item>
+	<item id="15000144">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000144" />
+		</environment>
+	</item>
+	<item id="15000145">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000145" />
+		</environment>
+	</item>
+	<item id="15000147">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000042.png" category="BH" blackMarketCategory="150_equip" gearScore="52">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="1" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000042" />
+			<option constantID="15000147" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000148">
+		<environment feature="ItemKR">
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="4" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000148" />
+		</environment>
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="4" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="3" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000148" />
+		</environment>
+	</item>
+	<item id="15000149">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000149.png" category="BH" blackMarketCategory="150_equip" gearScore="56" rePackingLimitCount="3" rePackingItemConsumeCount="100" globalRePackingItemConsumeCount="0">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050221" level="1" />
+			<tool itemPreset="15000149" />
+			<option constantID="15000149" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000150">
+		<environment feature="ItemKR">
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000031.png" category="BH" blackMarketCategory="150_equip" gearScore="54" rePackingLimitCount="3" rePackingItemConsumeCount="75">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000031" />
+			<option constantID="15000150" randomID="15000150" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000151">
+		<environment>
+			<basic originID="15050151" />
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000191.png" category="BH" blackMarketCategory="150_equip" gearScore="54" rePackingLimitCount="3" rePackingItemConsumeCount="75">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050807" level="1" />
+			<tool itemPreset="15000191" />
+			<option constantID="15000151" randomID="13400144" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000152">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000190.png" category="BH" blackMarketCategory="150_equip" gearScore="54" rePackingLimitCount="3" rePackingItemConsumeCount="75" globalRePackingLimitCount="1" globalRePackingItemConsumeCount="4" globalRePackingScrollID="10000001,10000003">
+				<sell price="11339" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050810" level="1" />
+			<tool itemPreset="15000190" />
+			<option constantID="15000152" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000153">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000153.png" category="BH" blackMarketCategory="150_equip" gearScore="56">
+				<sell price="11339" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" enableBreak="1" />
+			<effect idle="Item\Passive\Eff_Item_BalrogLargeSword_Keep_01.xml" battleIdle="Item\Passive\Eff_Item_BalrogLargeSword_Keep_01.xml" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050531,90050533,90050534,90050535,90050536,90050537,90050539,90051210" level="1,1,1,1,1,1,1,1" />
+			<tool itemPreset="15000153" />
+			<option constantID="15000153" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000154">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000154" />
+		</environment>
+	</item>
+	<item id="15000155">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000155" />
+		</environment>
+	</item>
+	<item id="15000156">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000155" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000155" />
+		</environment>
+	</item>
+	<item id="15000158">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000002.png" category="BH" blackMarketCategory="150_equip" gearScore="10">
+				<sell price="755" />
+			</property>
+			<limit recommendJobs="20" levelLimit="10" transferType="1" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000002" />
+			<option constantID="15000158" optionLevel="10" />
+		</environment>
+	</item>
+	<item id="15000159">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000003.png" category="BH" blackMarketCategory="150_equip" gearScore="13">
+				<sell price="1212" />
+			</property>
+			<limit recommendJobs="20" levelLimit="13" transferType="1" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000003" />
+			<option constantID="15000159" optionLevel="13" />
+		</environment>
+	</item>
+	<item id="15000164">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000001.png" category="BH" blackMarketCategory="150_equip" gearScore="10">
+				<sell price="755" />
+			</property>
+			<limit recommendJobs="20" levelLimit="10" transferType="1" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000001" />
+			<option constantID="15000164" optionLevel="10" />
+		</environment>
+	</item>
+	<item id="15000165">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000002.png" category="BH" blackMarketCategory="150_equip" gearScore="15">
+				<sell price="1139" />
+			</property>
+			<limit recommendJobs="20" levelLimit="15" transferType="1" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000002" />
+			<option constantID="15000165" optionLevel="15" />
+		</environment>
+	</item>
+	<item id="15000166">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000003.png" category="BH" blackMarketCategory="150_equip" gearScore="20">
+				<sell price="1651" />
+			</property>
+			<limit recommendJobs="20" levelLimit="20" transferType="1" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000003" />
+			<option constantID="15000166" optionLevel="20" />
+		</environment>
+	</item>
+	<item id="15000167">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000004.png" category="BH" blackMarketCategory="150_equip" gearScore="25">
+				<sell price="2291" />
+			</property>
+			<limit recommendJobs="20" levelLimit="25" transferType="1" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000004" />
+			<option constantID="15000167" optionLevel="25" />
+		</environment>
+	</item>
+	<item id="15000168">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000005.png" category="BH" blackMarketCategory="150_equip" gearScore="30">
+				<sell price="3822" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" transferType="1" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000005" />
+			<option constantID="15000168" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000170">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000170" />
+		</environment>
+	</item>
+	<item id="15000171">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000002.png" category="BH" blackMarketCategory="150_equip" gearScore="10">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="10" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000002" />
+			<option constantID="15000171" optionLevel="10" />
+		</environment>
+	</item>
+	<item id="15000172">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000004.png" category="BH" blackMarketCategory="150_equip" gearScore="20">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="20" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000004" />
+			<option constantID="15000172" optionLevel="20" />
+		</environment>
+	</item>
+	<item id="15000173">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000006.png" category="BH" blackMarketCategory="150_equip" gearScore="30">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000006" />
+			<option constantID="15000173" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000174">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000009.png" category="BH" blackMarketCategory="150_equip" gearScore="40">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000009" />
+			<option constantID="15000174" optionLevel="40" />
+		</environment>
+	</item>
+	<item id="15000175">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000035.png" category="BH" blackMarketCategory="150_equip" gearScore="50">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000035" />
+			<option constantID="15000175" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000176">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000176" />
+		</environment>
+	</item>
+	<item id="15000177">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000177" />
+		</environment>
+	</item>
+	<item id="15000179">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000013.png" category="BH" blackMarketCategory="150_equip" gearScore="50">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" enableBreak="1" />
+			<effect battleIdle="Item\Eff_FlameDivineSword_Battle.xml" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000013" />
+			<option constantID="15000179" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000180">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000161.png" category="BH" blackMarketCategory="150_equip" gearScore="50">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000161" />
+			<option constantID="15000180" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000181">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000181" />
+		</environment>
+	</item>
+	<item id="15000184">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000002.png" category="BH" blackMarketCategory="150_equip" gearScore="12">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="10" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000002" />
+			<option constantID="15000184" optionLevel="10" />
+		</environment>
+	</item>
+	<item id="15000185">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000004.png" category="BH" blackMarketCategory="150_equip" gearScore="22">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="20" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000004" />
+			<option constantID="15000185" optionLevel="20" />
+		</environment>
+	</item>
+	<item id="15000186">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000006.png" category="BH" blackMarketCategory="150_equip" gearScore="32">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000006" />
+			<option constantID="15000186" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000187">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000009.png" category="BH" blackMarketCategory="150_equip" gearScore="42">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000009" />
+			<option constantID="15000187" optionLevel="40" />
+		</environment>
+	</item>
+	<item id="15000188">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000035.png" category="BH" blackMarketCategory="150_equip" gearScore="52">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000035" />
+			<option constantID="15000188" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000192">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000044.png" category="BH" blackMarketCategory="150_equip" gearScore="54" />
+			<life usePeriod="43200" />
+			<limit recommendJobs="20" levelLimit="50" transferType="2" enableBreak="1" exceptEnchant="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000044" />
+			<option constantID="15000192" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000193">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000163.png" category="BH" blackMarketCategory="150_equip" gearScore="57">
+				<sell price="11339" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050752" level="1" />
+			<tool itemPreset="15000163" />
+			<option constantID="15000193" randomID="13100194" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000194">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000163.png" category="BH" blackMarketCategory="150_equip" gearScore="57">
+				<sell price="11339" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050741,90050743,90050752,90009500" level="1,1,1,1" />
+			<tool itemPreset="15000163" />
+			<option constantID="15000194" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000195">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000028.png" category="BH" blackMarketCategory="150_equip" gearScore="57">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050807" level="1" />
+			<tool itemPreset="15000028" />
+			<option constantID="15000195" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000196">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000162.png" category="BH" blackMarketCategory="150_equip" gearScore="50">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000162" />
+			<option constantID="15000196" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000198">
+		<environment feature="ItemKR">
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000198" />
+		</environment>
+	</item>
+	<item id="15000199">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000199" />
+		</environment>
+	</item>
+	<item id="15000200">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000199" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableSocketTransfer="false" />
+			<material attack="4" />
+			<tool itemPreset="15000199" />
+		</environment>
+	</item>
+	<item id="15000201">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000199" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableSocketTransfer="false" />
+			<material attack="4" />
+			<tool itemPreset="15000199" />
+		</environment>
+	</item>
+	<item id="15000202">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="99" category="RHLH" blackMarketCategory="150_skin" />
+			<ucc mesh="Point01" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" enableRegisterMeratMarket="1" />
+			<material attack="4" />
+			<tool itemPreset="15000202" />
+		</environment>
+	</item>
+	<item id="15000204">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000037.png" category="BH" blackMarketCategory="150_equip" gearScore="7" />
+			<limit recommendJobs="20" transferType="2" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000037" />
+			<option constantID="15000204" />
+		</environment>
+	</item>
+	<item id="15000205">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000189.png" category="BH" blackMarketCategory="150_equip" gearScore="54" />
+			<life usePeriod="21600" />
+			<limit recommendJobs="20" levelLimit="50" transferType="2" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050011" level="1" />
+			<tool itemPreset="15000189" />
+			<option constantID="15000142" randomID="15000142" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000206">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000047.png" category="BH" blackMarketCategory="150_equip" gearScore="54" />
+			<life usePeriod="43200" />
+			<limit recommendJobs="20" levelLimit="50" transferType="2" exceptEnchant="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000047" />
+			<option constantID="15000206" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000207">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000047.png" category="BH" blackMarketCategory="150_equip" gearScore="54" />
+			<limit recommendJobs="20" levelLimit="50" transferType="2" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000047" />
+			<option constantID="15000207" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000208">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="2" skinType="3" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000208" />
+		</environment>
+	</item>
+	<item id="15000210">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000197.png" category="BH" blackMarketCategory="150_equip" gearScore="60">
+				<sell price="9940" />
+			</property>
+			<limit recommendJobs="20" levelLimit="52" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000197" />
+			<option constantID="150010101" randomID="15000210" optionLevel="52" optionLevelFactor="61" />
+		</environment>
+	</item>
+	<item id="15000211">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000200.png" category="BH" blackMarketCategory="150_equip" gearScore="62">
+				<sell price="10650" />
+			</property>
+			<limit recommendJobs="20" levelLimit="54" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000200" />
+			<option constantID="150010101" randomID="15000150" optionLevel="54" optionLevelFactor="65" />
+		</environment>
+	</item>
+	<item id="15000212">
+		<environment feature="ItemKR">
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000157.png" category="BH" blackMarketCategory="150_equip" gearScore="60" rePackingLimitCount="3" rePackingItemConsumeCount="100">
+				<sell price="9940" />
+			</property>
+			<limit recommendJobs="20" levelLimit="52" transferType="5" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050893" level="1" />
+			<tool itemPreset="15000157" />
+			<option constantID="15000212" optionLevel="52" />
+		</environment>
+	</item>
+	<item id="15000213">
+		<environment feature="ItemKR">
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000209.png" category="BH" blackMarketCategory="150_equip" gearScore="62" rePackingLimitCount="3" rePackingItemConsumeCount="100">
+				<sell price="10650" />
+			</property>
+			<limit recommendJobs="20" levelLimit="54" transferType="5" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050921" level="1" />
+			<tool itemPreset="15000209" />
+			<option constantID="15000213" optionLevel="54" />
+		</environment>
+	</item>
+	<item id="15000214">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000203.png" category="BH" blackMarketCategory="150_equip" gearScore="65">
+				<sell price="13948" />
+			</property>
+			<limit recommendJobs="20" levelLimit="56" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050987,90050752" level="1,1" />
+			<tool itemPreset="15000203" />
+			<option constantID="15000214" randomID="15000214" optionLevel="56" />
+		</environment>
+	</item>
+	<item id="15000215">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000203.png" category="BH" blackMarketCategory="150_equip" gearScore="65">
+				<sell price="13948" />
+			</property>
+			<limit recommendJobs="20" levelLimit="56" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90009501,90050974,90050976,90050752" level="1,1,1,1" />
+			<tool itemPreset="15000203" />
+			<option constantID="15000215" optionLevel="56" />
+		</environment>
+	</item>
+	<item id="15000216">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000216" />
+		</environment>
+	</item>
+	<item id="15000217">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000162.png" category="BH" blackMarketCategory="150_equip" gearScore="50" />
+			<life expirationPeriod="2017-02-09-07-00-00" />
+			<limit recommendJobs="20" levelLimit="50" transferType="2" exceptEnchant="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000162" />
+			<option constantID="15000217" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000218">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000169.png" category="BH" blackMarketCategory="150_equip" gearScore="64">
+				<sell price="11386" />
+			</property>
+			<limit recommendJobs="20" levelLimit="56" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000169" />
+			<option constantID="150010101" randomID="15000150" optionLevel="56" optionLevelFactor="69" />
+		</environment>
+	</item>
+	<item id="15000219">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000219" />
+		</environment>
+		<environment feature="ItemKR">
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000219" />
+		</environment>
+	</item>
+	<item id="15000220">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000013.png" category="BH" blackMarketCategory="150_equip" gearScore="50">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000013" />
+			<option constantID="15000220" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000221">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000161.png" category="BH" blackMarketCategory="150_equip" gearScore="50">
+				<sell price="1" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000161" />
+			<option constantID="15000221" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000222">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" slotIcon="./Data/Resource/Image/item/icon/15000149.png" category="BH" blackMarketCategory="150_equip" gearScore="56" />
+			<limit recommendJobs="20" levelLimit="50" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050221" level="1" />
+			<tool itemPreset="15000149" />
+			<option constantID="15000149" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000223">
+		<environment feature="ItemKR">
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000223" />
+		</environment>
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000223" />
+		</environment>
+	</item>
+	<item id="15000224">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000005.png" category="BH" blackMarketCategory="150_equip" gearScore="7" />
+			<limit recommendJobs="20" transferType="2" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000005" />
+			<option constantID="15000224" />
+		</environment>
+	</item>
+	<item id="15000225">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000225" />
+		</environment>
+	</item>
+	<item id="15000226">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000219" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000219" />
+		</environment>
+	</item>
+	<item id="15000228">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/15000047.png" category="BH" blackMarketCategory="150_equip" gearScore="54" />
+			<limit recommendJobs="20" levelLimit="50" transferType="1" exceptEnchant="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000047" />
+			<option constantID="15000228" optionLevel="50" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000229">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="2" skinType="3" slotIcon="15000170" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000170" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000230">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000183.png" category="BH" blackMarketCategory="150_equip" gearScore="56">
+				<sell price="11339" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051072,90050752" level="1,1" />
+			<tool itemPreset="15000183" />
+			<option constantID="15000230" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000231">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000183.png" category="BH" blackMarketCategory="150_equip" gearScore="65">
+				<sell price="13948" />
+			</property>
+			<limit recommendJobs="20" levelLimit="56" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051072,90050752" level="1,1" />
+			<tool itemPreset="15000183" />
+			<option constantID="15000231" optionLevel="56" />
+		</environment>
+	</item>
+	<item id="15000232">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000232" />
+		</environment>
+	</item>
+	<item id="15000233">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000001.png" category="BH" blackMarketCategory="150_equip" gearScore="10">
+				<sell price="755" />
+			</property>
+			<limit recommendJobs="20" levelLimit="10" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000001" />
+			<option constantID="150010101" optionLevel="10" />
+		</environment>
+	</item>
+	<item id="15000234">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000002.png" category="BH" blackMarketCategory="150_equip" gearScore="12">
+				<sell price="893" />
+			</property>
+			<limit recommendJobs="20" levelLimit="12" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000002" />
+			<option constantID="150010101" optionLevel="12" />
+		</environment>
+	</item>
+	<item id="15000235">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000003.png" category="BH" blackMarketCategory="150_equip" gearScore="14">
+				<sell price="1053" />
+			</property>
+			<limit recommendJobs="20" levelLimit="14" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000003" />
+			<option constantID="150010101" optionLevel="14" />
+		</environment>
+	</item>
+	<item id="15000236">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000004.png" category="BH" blackMarketCategory="150_equip" gearScore="16">
+				<sell price="1232" />
+			</property>
+			<limit recommendJobs="20" levelLimit="16" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000004" />
+			<option constantID="150010101" optionLevel="16" />
+		</environment>
+	</item>
+	<item id="15000237">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000005.png" category="BH" blackMarketCategory="150_equip" gearScore="18">
+				<sell price="1430" />
+			</property>
+			<limit recommendJobs="20" levelLimit="18" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000005" />
+			<option constantID="150010101" optionLevel="18" />
+		</environment>
+	</item>
+	<item id="15000238">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000006.png" category="BH" blackMarketCategory="150_equip" gearScore="20">
+				<sell price="1651" />
+			</property>
+			<limit recommendJobs="20" levelLimit="20" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000006" />
+			<option constantID="150010101" optionLevel="20" />
+		</environment>
+	</item>
+	<item id="15000239">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000007.png" category="BH" blackMarketCategory="150_equip" gearScore="22">
+				<sell price="1891" />
+			</property>
+			<limit recommendJobs="20" levelLimit="22" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000007" />
+			<option constantID="150010101" optionLevel="22" />
+		</environment>
+	</item>
+	<item id="15000240">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000009.png" category="BH" blackMarketCategory="150_equip" gearScore="24">
+				<sell price="2152" />
+			</property>
+			<limit recommendJobs="20" levelLimit="24" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000009" />
+			<option constantID="150010101" optionLevel="24" />
+		</environment>
+	</item>
+	<item id="15000241">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000034.png" category="BH" blackMarketCategory="150_equip" gearScore="26">
+				<sell price="2434" />
+			</property>
+			<limit recommendJobs="20" levelLimit="26" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000034" />
+			<option constantID="150010101" optionLevel="26" />
+		</environment>
+	</item>
+	<item id="15000242">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000035.png" category="BH" blackMarketCategory="150_equip" gearScore="28">
+				<sell price="2736" />
+			</property>
+			<limit recommendJobs="20" levelLimit="28" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000035" />
+			<option constantID="150010101" optionLevel="28" />
+		</environment>
+	</item>
+	<item id="15000243">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000036.png" category="BH" blackMarketCategory="150_equip" gearScore="30">
+				<sell price="3058" />
+			</property>
+			<limit recommendJobs="20" levelLimit="30" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000036" />
+			<option constantID="150010101" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000244">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000037.png" category="BH" blackMarketCategory="150_equip" gearScore="32">
+				<sell price="3400" />
+			</property>
+			<limit recommendJobs="20" levelLimit="32" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000037" />
+			<option constantID="150010101" optionLevel="32" />
+		</environment>
+	</item>
+	<item id="15000245">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000038.png" category="BH" blackMarketCategory="150_equip" gearScore="34">
+				<sell price="3763" />
+			</property>
+			<limit recommendJobs="20" levelLimit="34" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000038" />
+			<option constantID="150010101" optionLevel="34" />
+		</environment>
+	</item>
+	<item id="15000246">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000001.png" category="BH" blackMarketCategory="150_equip" gearScore="36">
+				<sell price="4147" />
+			</property>
+			<limit recommendJobs="20" levelLimit="36" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000001" />
+			<option constantID="150010101" optionLevel="36" />
+		</environment>
+	</item>
+	<item id="15000247">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000002.png" category="BH" blackMarketCategory="150_equip" gearScore="38">
+				<sell price="4552" />
+			</property>
+			<limit recommendJobs="20" levelLimit="38" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000002" />
+			<option constantID="150010101" optionLevel="38" />
+		</environment>
+	</item>
+	<item id="15000248">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000003.png" category="BH" blackMarketCategory="150_equip" gearScore="40">
+				<sell price="4976" />
+			</property>
+			<limit recommendJobs="20" levelLimit="40" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000003" />
+			<option constantID="150010101" optionLevel="40" />
+		</environment>
+	</item>
+	<item id="15000249">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000004.png" category="BH" blackMarketCategory="150_equip" gearScore="42">
+				<sell price="5421" />
+			</property>
+			<limit recommendJobs="20" levelLimit="42" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000004" />
+			<option constantID="150010101" optionLevel="42" />
+		</environment>
+	</item>
+	<item id="15000250">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000005.png" category="BH" blackMarketCategory="150_equip" gearScore="44">
+				<sell price="5886" />
+			</property>
+			<limit recommendJobs="20" levelLimit="44" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000005" />
+			<option constantID="150010101" optionLevel="44" />
+		</environment>
+	</item>
+	<item id="15000251">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000006.png" category="BH" blackMarketCategory="150_equip" gearScore="46">
+				<sell price="6373" />
+			</property>
+			<limit recommendJobs="20" levelLimit="46" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000006" />
+			<option constantID="150010101" optionLevel="46" />
+		</environment>
+	</item>
+	<item id="15000252">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000007.png" category="BH" blackMarketCategory="150_equip" gearScore="48">
+				<sell price="6878" />
+			</property>
+			<limit recommendJobs="20" levelLimit="48" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000007" />
+			<option constantID="150010101" optionLevel="48" />
+		</environment>
+	</item>
+	<item id="15000253">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000008.png" category="BH" blackMarketCategory="150_equip" gearScore="50">
+				<sell price="7405" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000008" />
+			<option constantID="150010101" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000254">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000232" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000232" />
+		</environment>
+	</item>
+	<item id="15000255">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000232" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000232" />
+		</environment>
+	</item>
+	<item id="15000260">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000260" />
+		</environment>
+	</item>
+	<item id="15000261">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000261" />
+		</environment>
+	</item>
+	<item id="15000262">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000262" />
+		</environment>
+	</item>
+	<item id="15000263">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" globalTransferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000263" />
+		</environment>
+	</item>
+	<item id="15000264">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000262" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000262" />
+		</environment>
+	</item>
+	<item id="15000265">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000263" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000263" />
+		</environment>
+	</item>
+	<item id="15000266">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000261" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000261" />
+		</environment>
+	</item>
+	<item id="15000267">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000260" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000260" />
+		</environment>
+	</item>
+	<item id="15000268">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000262" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000262" />
+		</environment>
+	</item>
+	<item id="15000269">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000263" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000263" />
+		</environment>
+	</item>
+	<item id="15000270">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" skinType="4" category="RHLH" blackMarketCategory="150_skin" />
+			<life usePeriod="43200" />
+			<limit recommendJobs="20" transferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000270" />
+		</environment>
+	</item>
+	<item id="15000271">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" skinType="4" category="RHLH" blackMarketCategory="150_skin" />
+			<life usePeriod="43200" />
+			<limit recommendJobs="20" transferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000271" />
+		</environment>
+	</item>
+	<item id="15000272">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000001" category="BH" blackMarketCategory="150_equip" remakeDisable="true" gearScore="10" />
+			<limit recommendJobs="20" levelLimit="10" transferType="2" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000001" />
+			<option constantID="150010101" optionLevel="10" />
+		</environment>
+	</item>
+	<item id="15000273">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000002" category="BH" blackMarketCategory="150_equip" remakeDisable="true" gearScore="15" />
+			<limit recommendJobs="20" levelLimit="15" transferType="2" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000002" />
+			<option constantID="150010101" optionLevel="15" />
+		</environment>
+	</item>
+	<item id="15000274">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000003" category="BH" blackMarketCategory="150_equip" remakeDisable="true" gearScore="20" />
+			<limit recommendJobs="20" levelLimit="20" transferType="2" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000003" />
+			<option constantID="150010101" optionLevel="20" />
+		</environment>
+	</item>
+	<item id="15000275">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000004" category="BH" blackMarketCategory="150_equip" remakeDisable="true" gearScore="25" />
+			<limit recommendJobs="20" levelLimit="25" transferType="2" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000004" />
+			<option constantID="150010101" optionLevel="25" />
+		</environment>
+	</item>
+	<item id="15000276">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000005" category="BH" blackMarketCategory="150_equip" remakeDisable="true" gearScore="30" />
+			<limit recommendJobs="20" levelLimit="30" transferType="2" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000005" />
+			<option constantID="150010101" optionLevel="30" />
+		</environment>
+	</item>
+	<item id="15000277">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000006" category="BH" blackMarketCategory="150_equip" remakeDisable="true" gearScore="35" />
+			<limit recommendJobs="20" levelLimit="35" transferType="2" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000006" />
+			<option constantID="150010101" optionLevel="35" />
+		</environment>
+	</item>
+	<item id="15000278">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000007" category="BH" blackMarketCategory="150_equip" remakeDisable="true" gearScore="40" />
+			<limit recommendJobs="20" levelLimit="40" transferType="2" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000007" />
+			<option constantID="150010101" optionLevel="40" />
+		</environment>
+	</item>
+	<item id="15000279">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000009" category="BH" blackMarketCategory="150_equip" remakeDisable="true" gearScore="45" />
+			<limit recommendJobs="20" levelLimit="45" transferType="2" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000009" />
+			<option constantID="150010101" optionLevel="45" />
+		</environment>
+	</item>
+	<item id="15000280">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="3" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000280" />
+		</environment>
+	</item>
+	<item id="15000281">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000261" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000261" />
+		</environment>
+	</item>
+	<item id="15000282">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000260" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000260" />
+		</environment>
+	</item>
+	<item id="15000284">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000011" category="BH" blackMarketCategory="150_equip" gearScore="56" />
+			<limit recommendJobs="20" levelLimit="50" transferType="2" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000011" />
+			<option constantID="15000284" optionLevel="54" />
+		</environment>
+	</item>
+	<item id="15000285">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" globalTransferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000285" />
+		</environment>
+	</item>
+	<item id="15000286">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000285" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000285" />
+		</environment>
+	</item>
+	<item id="15000287">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="3" globalTransferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000287" />
+		</environment>
+	</item>
+	<item id="15000288">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="3" globalTransferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000288" />
+		</environment>
+	</item>
+	<item id="15000289">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000289" />
+		</environment>
+	</item>
+	<item id="15000290">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="3" globalTransferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000290" />
+		</environment>
+	</item>
+	<item id="15000291">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000290" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000290" />
+		</environment>
+	</item>
+	<item id="15000292">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000197.png" category="BH" blackMarketCategory="150_equip" gearScore="60" rePackingLimitCount="1" rePackingItemConsumeCount="75" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="60" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051247,90051253" level="1,1" />
+			<tool itemPreset="15000197" />
+			<option constantID="150010101" randomID="15000150" optionLevel="60" />
+		</environment>
+	</item>
+	<item id="15000293">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000157.png" category="BH" blackMarketCategory="150_equip" gearScore="60" rePackingLimitCount="1" rePackingItemConsumeCount="75" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="60" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051258,90051264" level="1,1" />
+			<tool itemPreset="15000157" />
+			<option constantID="150010101" randomID="15000150" optionLevel="60" />
+		</environment>
+	</item>
+	<item id="15000294">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000200.png" category="BH" blackMarketCategory="150_equip" gearScore="60" rePackingLimitCount="1" rePackingItemConsumeCount="75" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="60" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051269,90051275" level="1,1" />
+			<tool itemPreset="15000200" />
+			<option constantID="150010101" randomID="15000150" optionLevel="60" />
+		</environment>
+	</item>
+	<item id="15000295">
+		<environment>
+			<basic originID="15060295" />
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000254.png" category="BH" blackMarketCategory="150_equip" gearScore="60" rePackingLimitCount="1" rePackingItemConsumeCount="150" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="60" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051280,90051320" level="1,2" />
+			<tool itemPreset="15000254" />
+			<option constantID="150010101" randomID="15000214" optionLevel="60" />
+		</environment>
+	</item>
+	<item id="15000296">
+		<environment>
+			<basic originID="15060296" />
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000227.png" category="BH" blackMarketCategory="150_equip" gearScore="60" rePackingLimitCount="1" rePackingItemConsumeCount="150" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="60" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051303,90051322" level="1,2" />
+			<tool itemPreset="15000227" />
+			<option constantID="150010101" randomID="15000214" optionLevel="60" />
+		</environment>
+	</item>
+	<item id="15000297">
+		<environment>
+			<basic originID="15060297" />
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000203.png" category="BH" blackMarketCategory="150_equip" gearScore="60" rePackingLimitCount="1" rePackingItemConsumeCount="150" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="60" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051291,90051321" level="1,2" />
+			<tool itemPreset="15000203" />
+			<option constantID="150010101" randomID="15000214" optionLevel="60" />
+		</environment>
+	</item>
+	<item id="15000298">
+		<environment>
+			<basic originID="15060298" />
+			<property rank="6" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000291.png" category="BH" blackMarketCategory="150_equip" gearScore="60" />
+			<limit recommendJobs="20" levelLimit="60" transferType="4" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051340,90051341,90051343" level="1,1,1" />
+			<tool itemPreset="15000291" />
+			<option constantID="150010101" randomID="15000298" optionLevel="60" />
+		</environment>
+	</item>
+	<item id="15000299">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000288" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000288" />
+		</environment>
+	</item>
+	<item id="15000300">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="5" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000287" />
+		</environment>
+	</item>
+	<item id="15000301">
+		<environment feature="22_07">
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000301" category="BH" blackMarketCategory="150_equip" gearScore="60" rePackingLimitCount="1" rePackingItemConsumeCount="2" rePackingScrollID="10000001,10000003" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="60" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051258,90051264" level="1,1" />
+			<tool itemPreset="15000301" />
+			<option constantID="150010101" randomID="15000150" />
+		</environment>
+	</item>
+	<item id="15000302">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000011.png" category="BH" blackMarketCategory="150_equip" gearScore="56" />
+			<limit recommendJobs="20" levelLimit="60" transferType="2" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000011" />
+			<option constantID="150010101" optionLevel="60" optionLevelFactor="58" />
+		</environment>
+	</item>
+	<item id="15000303">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="3" globalTransferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000303" />
+		</environment>
+	</item>
+	<item id="15000304">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000287" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000287" />
+		</environment>
+	</item>
+	<item id="15000305">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000285" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000285" />
+		</environment>
+	</item>
+	<item id="15000306">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="3" globalTransferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000306" />
+		</environment>
+	</item>
+	<item id="15000307">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000266.png" category="BH" blackMarketCategory="150_equip" gearScore="70" rePackingLimitCount="1" rePackingItemConsumeCount="48" globalRePackingItemConsumeCount="6" globalRePackingScrollID="10000001,10000003" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="70" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000266" />
+			<option constantID="150010101" randomID="15000151" optionLevel="70" />
+		</environment>
+	</item>
+	<item id="15000308">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000257.png" category="BH" blackMarketCategory="150_equip" gearScore="70" rePackingLimitCount="1" rePackingItemConsumeCount="48" globalRePackingItemConsumeCount="6" globalRePackingScrollID="10000001,10000003" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="70" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000257" />
+			<option constantID="150010101" randomID="15000151" optionLevel="70" />
+		</environment>
+	</item>
+	<item id="15000309" />
+	<item id="15000310">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000258.png" category="BH" blackMarketCategory="150_equip" gearScore="70" rePackingLimitCount="1" rePackingItemConsumeCount="96" globalRePackingItemConsumeCount="12" globalRePackingScrollID="10000001,10000003" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="70" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051660" level="1" />
+			<tool itemPreset="15000258" />
+			<option constantID="150010101" randomID="15000215" optionLevel="70" />
+		</environment>
+	</item>
+	<item id="15000311">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000281.png" category="BH" blackMarketCategory="150_equip" gearScore="70" rePackingLimitCount="1" rePackingItemConsumeCount="96" globalRePackingItemConsumeCount="12" globalRePackingScrollID="10000001,10000003" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="70" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051676" level="1" />
+			<tool itemPreset="15000281" />
+			<option constantID="150010101" randomID="15000215" optionLevel="70" />
+		</environment>
+	</item>
+	<item id="15000312">
+		<environment>
+			<property rank="6" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000269.png" category="BH" blackMarketCategory="150_equip" gearScore="80" unlimitedEnchantMaxGrade="99" />
+			<limit recommendJobs="20" levelLimit="70" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051805,90051811" level="1,1" />
+			<tool itemPreset="15000269" />
+			<option constantID="15000312" randomID="15000299" optionLevel="70" optionLevelFactor="80" />
+		</environment>
+	</item>
+	<item id="15000313">
+		<environment>
+			<property rank="6" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000299.png" category="BH" blackMarketCategory="150_equip" gearScore="70" />
+			<limit recommendJobs="20" levelLimit="70" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051714,90051715,90051748" level="1,1,1" />
+			<tool itemPreset="15000299" />
+			<option constantID="150010101" randomID="15000299" optionLevel="70" />
+		</environment>
+	</item>
+	<item id="15000314">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000011.png" category="BH" blackMarketCategory="150_equip" gearScore="80" />
+			<limit recommendJobs="20" levelLimit="70" transferType="2" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000011" />
+			<option constantID="150010101" optionLevel="70" optionLevelFactor="95" />
+		</environment>
+	</item>
+	<item id="15000315">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="99" category="RHLH" blackMarketCategory="150_skin" />
+			<ucc mesh="15000315_UGCLargeSword02" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" enableRegisterMeratMarket="1" />
+			<material attack="4" />
+			<tool itemPreset="15000315" />
+		</environment>
+	</item>
+	<item id="15000316">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="3" globalTransferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000316" />
+		</environment>
+	</item>
+	<item id="15000317">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="3" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000317" />
+		</environment>
+	</item>
+	<item id="15000318">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000318" />
+		</environment>
+	</item>
+	<item id="15000319">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000161.png" category="BH" blackMarketCategory="150_equip" gearScore="50" />
+			<limit recommendJobs="20" levelLimit="50" transferType="2" exceptEnchant="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051633" level="1" />
+			<tool itemPreset="15000161" />
+			<option constantID="15000319" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000320">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="3" globalTransferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000320" />
+		</environment>
+	</item>
+	<item id="15000321">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="2" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="15000321" />
+		</environment>
+		<environment feature="ItemKR">
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000321" />
+		</environment>
+	</item>
+	<item id="15000322">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000317" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000317" />
+		</environment>
+	</item>
+	<item id="15000323">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000318" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableSocketTransfer="false" />
+			<material attack="4" />
+			<tool itemPreset="15000318" />
+		</environment>
+	</item>
+	<item id="15000324">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000324" />
+		</environment>
+	</item>
+	<item id="15000325">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000011.png" category="BH" blackMarketCategory="150_equip" gearScore="67" />
+			<limit recommendJobs="20" levelLimit="70" transferType="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000011" />
+			<option constantID="150010101" optionLevel="70" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="15000326">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000326" />
+		</environment>
+	</item>
+	<item id="15000327">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/15000161.png" category="BH" blackMarketCategory="150_equip" gearScore="50" />
+			<limit recommendJobs="20" levelLimit="50" transferType="2" exceptEnchant="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051822" level="1" />
+			<tool itemPreset="15000161" />
+			<option constantID="15000327" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15000328">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000068" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000068" />
+		</environment>
+	</item>
+	<item id="15000329">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000320" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000320" />
+		</environment>
+	</item>
+	<item id="15000330">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000321" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000321" />
+		</environment>
+	</item>
+	<item id="15000331">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000324" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000324" />
+		</environment>
+	</item>
+	<item id="15000332">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000321" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000321" />
+		</environment>
+	</item>
+	<item id="15000333">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000326" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000326" />
+		</environment>
+	</item>
+	<item id="15020001">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000280" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000280" />
+		</environment>
+	</item>
+	<item id="15020002">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000198" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000198" />
+		</environment>
+	</item>
+	<item id="15020181">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000181" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000181" />
+		</environment>
+	</item>
+	<item id="15020225">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000225" category="RHLH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15000225" />
+		</environment>
+	</item>
+	<item id="15029990">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="15029990" />
+		</environment>
+	</item>
+	<item id="15030040">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000040" category="BH" blackMarketCategory="150_equip" gearScore="50" rePackingLimitCount="3">
+				<sell price="7405" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000040" />
+			<option constantID="150010101" randomID="15000009" optionLevel="52" />
+		</environment>
+	</item>
+	<item id="15030042">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000042" category="BH" blackMarketCategory="150_equip" gearScore="54" rePackingLimitCount="3">
+				<sell price="7405" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000042" />
+			<option constantID="150010101" randomID="15000009" optionLevel="54" />
+		</environment>
+	</item>
+	<item id="15030047">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000047" category="BH" blackMarketCategory="150_equip" gearScore="50" rePackingLimitCount="3">
+				<sell price="7405" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000047" />
+			<option constantID="150010201" randomID="15000009" optionLevel="53" />
+		</environment>
+	</item>
+	<item id="15030055">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000008" category="BH" blackMarketCategory="150_equip" gearScore="50" rePackingLimitCount="3">
+				<sell price="7405" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000008" />
+			<option constantID="150010101" randomID="15000007" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15030068">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000065" category="BH" blackMarketCategory="150_equip" gearScore="50" rePackingLimitCount="3">
+				<sell price="7405" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000065" />
+			<option constantID="150010201" randomID="15000009" optionLevel="51" />
+		</environment>
+	</item>
+	<item id="15040040">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000040" category="BH" blackMarketCategory="150_equip" gearScore="50" rePackingLimitCount="3">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000040" />
+			<option constantID="150010101" randomID="15000009" optionLevel="52" />
+		</environment>
+	</item>
+	<item id="15040042">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000042" category="BH" blackMarketCategory="150_equip" gearScore="54" rePackingLimitCount="3">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000042" />
+			<option constantID="150010201" randomID="15000009" optionLevel="54" />
+		</environment>
+	</item>
+	<item id="15040043">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000043" category="BH" blackMarketCategory="150_equip" gearScore="55" rePackingLimitCount="3">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000043" />
+			<option constantID="150010201" randomID="15000009" optionLevel="55" />
+		</environment>
+	</item>
+	<item id="15040047">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000047" category="BH" blackMarketCategory="150_equip" gearScore="50" rePackingLimitCount="3">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000047" />
+			<option constantID="150010201" randomID="15000009" optionLevel="53" />
+		</environment>
+	</item>
+	<item id="15040055">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000008" category="BH" blackMarketCategory="150_equip" gearScore="50" rePackingLimitCount="3">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000008" />
+			<option constantID="150010101" randomID="15000007" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15040068">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000065" category="BH" blackMarketCategory="150_equip" gearScore="50" rePackingLimitCount="3">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000065" />
+			<option constantID="150010201" randomID="15000009" optionLevel="51" />
+		</environment>
+	</item>
+	<item id="15040150">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000183" category="BH" blackMarketCategory="150_equip" gearScore="58" rePackingLimitCount="3">
+				<sell price="9256" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="5" globalTransferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051127,90051155" level="1,1" />
+			<tool itemPreset="15000183" />
+			<option constantID="150010101" randomID="15000150" optionLevel="57" />
+		</environment>
+	</item>
+	<item id="15050127">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000178" category="BH" blackMarketCategory="150_equip" gearScore="57" />
+			<life usePeriod="21600" />
+			<limit recommendJobs="20" levelLimit="50" transferType="2" exceptEnchant="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051122" level="1" />
+			<tool itemPreset="15000178" />
+			<option constantID="150010101" randomID="15000009" optionLevel="56" />
+		</environment>
+	</item>
+	<item id="15050149">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000149" category="BH" blackMarketCategory="150_equip" gearScore="56" />
+			<life usePeriod="43200" />
+			<limit recommendJobs="20" levelLimit="50" transferType="2" exceptEnchant="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050221" level="1" />
+			<tool itemPreset="15000149" />
+			<option constantID="15000149" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15050151">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="15000191" category="BH" blackMarketCategory="150_equip" gearScore="55" rePackingLimitCount="1" rePackingItemConsumeCount="4" rePackingScrollID="10000001,10000003">
+				<sell price="11339" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051180,90051186,90051192" level="1,1,1" />
+			<tool itemPreset="15000191" />
+			<option constantID="150010101" randomID="13400144" optionLevel="54" />
+		</environment>
+	</item>
+	<item id="15050284">
+		<environment>
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000011" category="BH" blackMarketCategory="150_equip" gearScore="56" />
+			<life usePeriod="43200" />
+			<limit recommendJobs="20" levelLimit="50" transferType="2" exceptEnchant="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000011" />
+			<option constantID="15050284" optionLevel="54" />
+		</environment>
+	</item>
+	<item id="15060153">
+		<environment>
+			<property rank="6" type="1" subtype="50" iconCode="1" slotIcon="15000268" category="BH" blackMarketCategory="150_equip" gearScore="56">
+				<sell price="13653" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" globalTransferType="4" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90050531,90050533,90050534,90050535,90050536,90050537,90050539" level="1,1,1,1,1,1,1" />
+			<tool itemPreset="15000268" />
+			<option constantID="150010101" randomID="13100153" optionLevel="50" optionLevelFactor="61" />
+		</environment>
+	</item>
+	<item id="15060230">
+		<environment>
+			<property rank="6" type="1" subtype="50" iconCode="1" slotIcon="15000226" category="BH" blackMarketCategory="150_equip" gearScore="56">
+				<sell price="13653" />
+			</property>
+			<limit recommendJobs="20" levelLimit="50" transferType="2" shopSell="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051202,90051196" level="1,1" />
+			<tool itemPreset="15000226" />
+			<option constantID="150010101" randomID="13100231" optionLevel="50" optionLevelFactor="61" />
+		</environment>
+	</item>
+	<item id="15060292">
+		<environment>
+			<basic originID="15000292" />
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000197" category="BH" blackMarketCategory="150_equip" gearScore="60" rePackingLimitCount="1" rePackingItemConsumeCount="2" rePackingScrollID="10000001,10000003" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="60" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051247,90051253" level="1,1" />
+			<tool itemPreset="15000197" />
+			<option constantID="150010101" randomID="15000150" optionLevel="60" />
+		</environment>
+	</item>
+	<item id="15060293">
+		<environment>
+			<basic originID="15000293" />
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000157" category="BH" blackMarketCategory="150_equip" gearScore="60" rePackingLimitCount="1" rePackingItemConsumeCount="2" rePackingScrollID="10000001,10000003" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="60" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051258,90051264" level="1,1" />
+			<tool itemPreset="15000157" />
+			<option constantID="150010101" randomID="15000150" optionLevel="60" />
+		</environment>
+	</item>
+	<item id="15060294">
+		<environment>
+			<basic originID="15000294" />
+			<property rank="4" type="1" subtype="50" iconCode="1" slotIcon="15000200" category="BH" blackMarketCategory="150_equip" gearScore="60" rePackingLimitCount="1" rePackingItemConsumeCount="2" rePackingScrollID="10000001,10000003" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="60" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051269,90051275" level="1,1" />
+			<tool itemPreset="15000200" />
+			<option constantID="150010101" randomID="15000150" optionLevel="60" />
+		</environment>
+	</item>
+	<item id="15060295">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="15000254" category="BH" blackMarketCategory="150_equip" gearScore="60" rePackingLimitCount="1" rePackingItemConsumeCount="150" globalRePackingItemConsumeCount="4" globalRePackingScrollID="10000001,10000003" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="60" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051280,90051320" level="1,2" />
+			<tool itemPreset="15000254" />
+			<option constantID="150010101" randomID="15000214" optionLevel="60" />
+		</environment>
+	</item>
+	<item id="15060296">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="15000227" category="BH" blackMarketCategory="150_equip" gearScore="60" rePackingLimitCount="1" rePackingItemConsumeCount="150" globalRePackingItemConsumeCount="4" globalRePackingScrollID="10000001,10000003" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="60" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051303,90051322" level="1,2" />
+			<tool itemPreset="15000227" />
+			<option constantID="150010101" randomID="15000214" optionLevel="60" />
+		</environment>
+	</item>
+	<item id="15060297">
+		<environment>
+			<property rank="5" type="1" subtype="50" iconCode="1" slotIcon="15000203" category="BH" blackMarketCategory="150_equip" gearScore="60" rePackingLimitCount="1" rePackingItemConsumeCount="150" globalRePackingItemConsumeCount="4" globalRePackingScrollID="10000001,10000003" moveDisable="true" />
+			<limit recommendJobs="20" levelLimit="60" transferType="3" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051291,90051321" level="1,2" />
+			<tool itemPreset="15000203" />
+			<option constantID="150010101" randomID="15000214" optionLevel="60" />
+		</environment>
+	</item>
+	<item id="15060298">
+		<environment>
+			<property rank="6" type="1" subtype="50" iconCode="1" slotIcon="15000291" category="BH" blackMarketCategory="150_equip" gearScore="60" />
+			<limit recommendJobs="20" levelLimit="60" transferType="4" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051340,90051341,90051343" level="1,1,1" />
+			<tool itemPreset="15000291" />
+			<option constantID="150010101" randomID="15000298" optionLevel="60" />
+		</environment>
+	</item>
+	<item id="15060307">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000161" category="BH" blackMarketCategory="150_equip" gearScore="40" />
+			<limit recommendJobs="20" levelLimit="50" transferType="2" exceptEnchant="1" />
+			<material ui="2" attack="4" />
+			<AdditionalEffect id="90051700" level="1" />
+			<tool itemPreset="15000161" />
+			<option constantID="15060307" optionLevel="50" optionLevelFactor="40" />
+		</environment>
+	</item>
+	<item id="15070055">
+		<environment>
+			<property rank="3" type="1" subtype="50" iconCode="1" slotIcon="15000008" category="BH" blackMarketCategory="150_equip" gearScore="50" />
+			<life usePeriod="21600" />
+			<limit recommendJobs="20" levelLimit="50" transferType="2" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000008" />
+			<option constantID="150010101" randomID="15000007" optionLevel="50" />
+		</environment>
+	</item>
+	<item id="15070284">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000011" category="BH" blackMarketCategory="150_equip" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000011" />
+		</environment>
+	</item>
+	<item id="15070301">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000011" category="BH" blackMarketCategory="150_skin" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000011" />
+		</environment>
+	</item>
+	<item id="15080040">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000040" category="BH" blackMarketCategory="150_equip" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000040" />
+		</environment>
+	</item>
+	<item id="15080042">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000042" category="BH" blackMarketCategory="150_equip" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000042" />
+		</environment>
+	</item>
+	<item id="15080043">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000043" category="BH" blackMarketCategory="150_equip" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000043" />
+		</environment>
+	</item>
+	<item id="15080047">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000047" category="BH" blackMarketCategory="150_equip" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000047" />
+		</environment>
+	</item>
+	<item id="15080055">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000008" category="BH" blackMarketCategory="150_equip" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000008" />
+		</environment>
+	</item>
+	<item id="15080068">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000065" category="BH" blackMarketCategory="150_equip" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000065" />
+		</environment>
+	</item>
+	<item id="15080151">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000191" category="BH" blackMarketCategory="150_equip" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000191" />
+		</environment>
+	</item>
+	<item id="15080153">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000268" category="BH" blackMarketCategory="150_equip" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000268" />
+		</environment>
+	</item>
+	<item id="15080230">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000226" category="BH" blackMarketCategory="150_equip" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000226" />
+		</environment>
+	</item>
+	<item id="15080285">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000190" category="BH" blackMarketCategory="150_equip" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000190" />
+		</environment>
+	</item>
+	<item id="15080292">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000040" category="BH" blackMarketCategory="150_equip" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000040" />
+		</environment>
+	</item>
+	<item id="15080293">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000047" category="BH" blackMarketCategory="150_equip" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000047" />
+		</environment>
+	</item>
+	<item id="15080300">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000197" category="BH" blackMarketCategory="150_skin" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000197" />
+		</environment>
+	</item>
+	<item id="15080301">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000157" category="BH" blackMarketCategory="150_skin" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000157" />
+		</environment>
+	</item>
+	<item id="15080302">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000200" category="BH" blackMarketCategory="150_skin" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000200" />
+		</environment>
+	</item>
+	<item id="15080313">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000299" category="BH" blackMarketCategory="150_equip" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" />
+			<tool itemPreset="15000299" />
+		</environment>
+	</item>
+	<item id="15090014">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000014" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000014" />
+		</environment>
+	</item>
+	<item id="15090015">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000015" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000015" />
+		</environment>
+	</item>
+	<item id="15090016">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000016" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000016" />
+		</environment>
+	</item>
+	<item id="15090044">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000044" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000044" />
+		</environment>
+	</item>
+	<item id="15090055">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000008" category="BH" blackMarketCategory="150_equip" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000008" />
+		</environment>
+	</item>
+	<item id="15090090">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000043" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000043" />
+		</environment>
+	</item>
+	<item id="15090091">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000091" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000091" />
+		</environment>
+	</item>
+	<item id="15090127">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000178" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000178" />
+		</environment>
+	</item>
+	<item id="15090142">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000189" category="BH" blackMarketCategory="150_equip" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" />
+			<tool itemPreset="15000189" />
+		</environment>
+	</item>
+	<item id="15090149">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000149" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000149" />
+		</environment>
+	</item>
+	<item id="15090150">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000183" category="BH" blackMarketCategory="150_equip" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000183" />
+		</environment>
+	</item>
+	<item id="15090151">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000190" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000190" />
+		</environment>
+	</item>
+	<item id="15090153">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000153" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000153" />
+		</environment>
+	</item>
+	<item id="15090193">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000163" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000163" />
+		</environment>
+	</item>
+	<item id="15090194">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000163" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000163" />
+		</environment>
+	</item>
+	<item id="15090212">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000157" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000157" />
+		</environment>
+	</item>
+	<item id="15090213">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000209" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000209" />
+		</environment>
+	</item>
+	<item id="15090214">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000203" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000203" />
+		</environment>
+	</item>
+	<item id="15090215">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000203" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000203" />
+		</environment>
+	</item>
+	<item id="15090230">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000183" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000183" />
+		</environment>
+	</item>
+	<item id="15090231">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000183" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000183" />
+		</environment>
+	</item>
+	<item id="15090284">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000011" category="BH" blackMarketCategory="150_equip" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000011" />
+		</environment>
+	</item>
+	<item id="15090286">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000189" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000189" />
+		</environment>
+	</item>
+	<item id="15090287">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000182" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000182" />
+		</environment>
+	</item>
+	<item id="15090288">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000178" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000178" />
+		</environment>
+	</item>
+	<item id="15090289">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000183" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000183" />
+		</environment>
+	</item>
+	<item id="15090290">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000008" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000008" />
+		</environment>
+	</item>
+	<item id="15090291">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000065" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000065" />
+		</environment>
+	</item>
+	<item id="15090292">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000047" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000047" />
+		</environment>
+	</item>
+	<item id="15090293">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000044" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000044" />
+		</environment>
+	</item>
+	<item id="15090294">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000042" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000042" />
+		</environment>
+	</item>
+	<item id="15090296">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000016" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000016" />
+		</environment>
+	</item>
+	<item id="15090297">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000149" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000149" />
+		</environment>
+	</item>
+	<item id="15090299">
+		<environment feature="Level70Item">
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000266" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000266" />
+		</environment>
+	</item>
+	<item id="15090300">
+		<environment feature="Level70Item">
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000257" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000257" />
+		</environment>
+	</item>
+	<item id="15090301">
+		<environment feature="Level70Item">
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000258" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000258" />
+		</environment>
+	</item>
+	<item id="15090302">
+		<environment feature="Level70Item">
+			<property rank="1" type="1" subtype="50" iconCode="1" itemGroup="3" skinType="2" slotIcon="15000281" category="BH" blackMarketCategory="150_skin" />
+			<limit recommendJobs="20" transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000281" />
+		</environment>
+	</item>
+	<item id="15090303">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000254" category="BH" blackMarketCategory="150_skin" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000254" />
+		</environment>
+	</item>
+	<item id="15090304">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000227" category="BH" blackMarketCategory="150_skin" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000227" />
+		</environment>
+	</item>
+	<item id="15090305">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000203" category="BH" blackMarketCategory="150_skin" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000203" />
+		</environment>
+	</item>
+	<item id="15090306">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000291" category="BH" blackMarketCategory="150_skin" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000291" />
+		</environment>
+	</item>
+	<item id="15090307">
+		<environment>
+			<property rank="1" type="1" subtype="50" iconCode="1" skinType="2" slotIcon="15000161" category="BH" blackMarketCategory="150_skin" />
+			<limit transferType="1" enableBreak="1" />
+			<material ui="2" attack="4" />
+			<tool itemPreset="15000161" />
+		</environment>
+	</item>
+</ms2>

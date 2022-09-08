@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level feature="JobChange_01">
+		<BasicProperty level="1" group="10700081" buffSubType="1" durationTick="8000" keepCondition="5" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Start_01.xml" keepEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Keep_01.xml" stopEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Stop_01.xml" />
+		<StatusProperty>
+			<Stat mspvalue="10" paprate="0.29" maprate="0.29" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10700191_buff3.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="2" group="10700081" buffSubType="1" durationTick="8000" keepCondition="5" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Start_01.xml" keepEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Keep_01.xml" stopEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Stop_01.xml" />
+		<StatusProperty>
+			<Stat mspvalue="10" paprate="0.31" maprate="0.31" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10700191_buff3.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="3" group="10700081" buffSubType="1" durationTick="8000" keepCondition="5" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Start_01.xml" keepEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Keep_01.xml" stopEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Stop_01.xml" />
+		<StatusProperty>
+			<Stat mspvalue="10" paprate="0.33" maprate="0.33" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10700191_buff3.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="4" group="10700081" buffSubType="1" durationTick="8000" keepCondition="5" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Start_01.xml" keepEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Keep_01.xml" stopEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Stop_01.xml" />
+		<StatusProperty>
+			<Stat mspvalue="10" paprate="0.35" maprate="0.35" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10700191_buff3.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="5" group="10700081" buffSubType="1" durationTick="8000" keepCondition="5" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Start_01.xml" keepEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Keep_01.xml" stopEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Stop_01.xml" />
+		<StatusProperty>
+			<Stat mspvalue="10" paprate="0.37" maprate="0.37" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10700191_buff3.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="6" group="10700081" buffSubType="1" durationTick="8000" keepCondition="5" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Start_01.xml" keepEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Keep_01.xml" stopEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Stop_01.xml" />
+		<StatusProperty>
+			<Stat mspvalue="10" paprate="0.39" maprate="0.39" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10700191_buff3.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="7" group="10700081" buffSubType="1" durationTick="8000" keepCondition="5" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Start_01.xml" keepEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Keep_01.xml" stopEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Stop_01.xml" />
+		<StatusProperty>
+			<Stat mspvalue="10" paprate="0.41" maprate="0.41" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10700191_buff3.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="8" group="10700081" buffSubType="1" durationTick="8000" keepCondition="5" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Start_01.xml" keepEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Keep_01.xml" stopEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Stop_01.xml" />
+		<StatusProperty>
+			<Stat mspvalue="10" paprate="0.43" maprate="0.43" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10700191_buff3.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="9" group="10700081" buffSubType="1" durationTick="8000" keepCondition="5" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Start_01.xml" keepEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Keep_01.xml" stopEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Stop_01.xml" />
+		<StatusProperty>
+			<Stat mspvalue="10" paprate="0.45" maprate="0.45" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10700191_buff3.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="10" group="10700081" buffSubType="1" durationTick="8000" keepCondition="5" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Start_01.xml" keepEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Keep_01.xml" stopEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Stop_01.xml" />
+		<StatusProperty>
+			<Stat mspvalue="10" paprate="0.47" maprate="0.47" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10700191_buff3.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="11" group="10700081" buffSubType="1" durationTick="8000" keepCondition="5" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Start_01.xml" keepEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Keep_01.xml" stopEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Stop_01.xml" />
+		<StatusProperty>
+			<Stat mspvalue="10" paprate="0.49" maprate="0.49" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10700191_buff3.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="12" group="10700081" buffSubType="1" durationTick="8000" keepCondition="5" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Start_01.xml" keepEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Keep_01.xml" stopEffect="CH/Skill/Thief/Eff_Thief_BattleStep_Stop_01.xml" />
+		<StatusProperty>
+			<Stat mspvalue="10" paprate="0.51" maprate="0.51" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10700191_buff3.png" />
+	</level>
+</ms2>

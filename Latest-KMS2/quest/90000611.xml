@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="ContentsGuide01">
+		<quest>
+			<basic questID="90000611" questType="1" chapterID="9063" standardLevel="30" disableGiveup="1" tabIndex="1" forceRegistGuide="1" useNavi="FALSE" />
+			<notify completeUiEffect="success" />
+			<require level="30" quest="90000590,90000610" />
+			<start npc="11001871" />
+			<complete npc="11001871" />
+			<acceptReward>
+				<essentialItem code="40100023" rank="1" count="300" />
+				<essentialItem code="40100001" rank="1" count="10" />
+			</acceptReward>
+			<completeReward exp="89250" relativeExp="epicQuest" money="4000" />
+			<condition type="enchant_result" code="1" value="2" />
+		</quest>
+	</environment>
+</ms2>

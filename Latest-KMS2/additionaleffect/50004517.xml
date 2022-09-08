@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffType="2" durationTick="999000" intervalTick="1200" resetCondition="2" maxBuffCount="9" dotCondition="1" logoutClearEffect="1" leaveFieldClearEffect="1" coolDownTime="2.9" />
+		<MotionProperty keepEffect="NPC/Skill/BalrogMagicBurster/Eff_Additional_PlayerWeakKill_Keep.xml" IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" abnormalImmuneBreak="1" />
+		<DotDamageProperty type="2" element="5" damageByTargetMaxHP="0.34" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/BleedHPAbsorb.png" isHideCooltime="1" iconBalloonOnOff="1" />
+	</level>
+</ms2>

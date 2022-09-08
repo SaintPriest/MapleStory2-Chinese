@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Balrogitem2nd">
+		<quest>
+			<basic questID="50001370" questType="1" chapterID="4052" standardLevel="50" useNavi="TRUE" />
+			<require level="50" job="100" quest="50001360" />
+			<start npc="11001485" />
+			<complete npc="11001485" />
+			<completeReward exp="3365550" money="7000">
+				<globalEssentialItem code="0" rank="0" count="0" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000200" />
+			<condition type="interact_object" code="10001007" value="1" />
+		</quest>
+	</environment>
+</ms2>

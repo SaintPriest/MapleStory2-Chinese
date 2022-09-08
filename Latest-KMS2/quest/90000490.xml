@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="SoulBinder">
+		<quest>
+			<basic questID="90000490" chapterID="9051" standardLevel="20" autoStart="1" locking="1" useNavi="FALSE" />
+			<require level="20" job="110" quest="50001430,90000480" />
+			<start npc="11001707" />
+			<complete npc="11001707" />
+			<completeReward exp="6000" relativeExp="epicQuest" money="2500">
+				<essentialItem code="40100002" rank="3" count="1" />
+			</completeReward>
+			<progressMap progressMap="02000001" />
+			<gotoNpc enable="1" gotoField="2000001" gotoPortal="1" />
+		</quest>
+	</environment>
+</ms2>

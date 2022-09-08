@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Fame_Geo01">
+		<quest>
+			<basic questID="40002797" questType="1" chapterID="4094" standardLevel="75" repeatable="2" tabIndex="2" useNavi="TRUE" />
+			<require level="75" quest="91001010" progressQuest="94000330" />
+			<start npc="11004574" />
+			<complete npc="11004574" />
+			<progressMap progressMap="02020066,02020067,02020068" />
+			<condition type="npc" code="25022203" value="30">
+				<navi map="2020066" type="npc" code="25022203" />
+			</condition>
+			<condition type="npc" code="25022305" value="30">
+				<navi map="2020067" type="npc" code="25022305" />
+			</condition>
+			<condition type="npc" code="25022408" value="30">
+				<navi map="2020068" type="npc" code="25022408" />
+			</condition>
+		</quest>
+	</environment>
+</ms2>

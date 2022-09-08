@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" group="1" buffType="2" buffSubType="2" durationTick="3000" resetCondition="1" />
+		<MotionProperty keepEffect="NPC/Skill/YetiTwoHeadWhite/Eff_YetiTwoHeadWhite_FrozenCube_Keep.xml" stopEffect="NPC/Skill/YetiTwoHeadWhite/Eff_YetiTwoHeadWhite_FrozenCube_Stop.xml" IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" stun="7" abnormalImmuneBreak="1" />
+		<DefensiveProperty papDamageR="-0.5" mapDamageR="-0.5" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/IceCubePrison.png" />
+	</level>
+	<level>
+		<BasicProperty level="2" group="1" buffType="2" buffSubType="2" durationTick="6000" resetCondition="1" />
+		<MotionProperty keepEffect="NPC/Skill/YetiTwoHeadWhite/Eff_YetiTwoHeadWhite_FrozenCube_Keep.xml" stopEffect="NPC/Skill/YetiTwoHeadWhite/Eff_YetiTwoHeadWhite_FrozenCube_Stop.xml" IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" stun="7" abnormalImmuneBreak="1" />
+		<DefensiveProperty papDamageR="-0.5" mapDamageR="-0.5" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/IceCubePrison.png" />
+	</level>
+	<level>
+		<BasicProperty level="3" group="1" buffType="2" buffSubType="2" durationTick="15000" resetCondition="1" />
+		<MotionProperty keepEffect="NPC/Skill/YetiTwoHeadWhite/Eff_YetiTwoHeadWhite_FrozenCube_Keep.xml" stopEffect="NPC/Skill/YetiTwoHeadWhite/Eff_YetiTwoHeadWhite_FrozenCube_Stop.xml" IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" stun="7" abnormalImmuneBreak="1" />
+		<DefensiveProperty papDamageR="-0.5" mapDamageR="-0.5" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/IceCubePrison.png" />
+	</level>
+</ms2>

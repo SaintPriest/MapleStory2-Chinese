@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<item id="70200001">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200001" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200001.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200002">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200002" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200002.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200003">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200003" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200003.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200004">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200004" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200004.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200005">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200005" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200005.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200006">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200006" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200006.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200007">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200007" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200007.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200008">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200008" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200008.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200009">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200009" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200009.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200010">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200010" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200010.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200011">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200011" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200011.png" doNotPreview="1" />
+			<limit transferType="1" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="70200012">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200012" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200012.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200013">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200013" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200013.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200014">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200014" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200014.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200015">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200015" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200015.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200016">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200016" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200016.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200017">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200017" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200017.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200018">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200018" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200018.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200019">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200019" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200019.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200020">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200020" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200020.png" doNotPreview="1" />
+			<limit transferType="1" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="70200021">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200021" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200021.png" doNotPreview="1" />
+			<life usePeriod="10080" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200022">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200022" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200022.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200023">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200023" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200023.png" doNotPreview="1" />
+			<limit transferType="1" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="70200024">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200024" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200024.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200025">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200025" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200025.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200026">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200026" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200026.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200027">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200027" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200027.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200028">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200028" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200028.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200029">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200029" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200029.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200030">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200030" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200030.png" doNotPreview="1" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200031">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200031" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200031.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200032">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200032" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200032.png" doNotPreview="1" />
+			<life usePeriod="4320" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200033">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200032" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200032.png" doNotPreview="1" />
+			<life usePeriod="10080" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200034">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200034" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200034.png" doNotPreview="1" />
+			<life usePeriod="4320" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200035">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200034" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200034.png" doNotPreview="1" />
+			<life usePeriod="10080" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200036">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200030" slotIcon="70200030" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200030.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200037">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200037" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200037.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200038">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200038" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200038.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200039">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200039" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200039.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200040">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200040" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200040.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200041">
+		<environment feature="ItemKR">
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200041" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200041.png" doNotPreview="1" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200041" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200041.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200042">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200042" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200042.png" doNotPreview="1" />
+			<life usePeriod="4320" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200043">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200042" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200043.png" doNotPreview="1" />
+			<life usePeriod="10080" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200044">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200044" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200044.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200045">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200045" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200045.png" doNotPreview="1" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200046">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200024" slotIcon="70200024" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200024.png" doNotPreview="1" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200047">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200002" slotIcon="70200002" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200002.png" doNotPreview="1" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200048">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200030" slotIcon="70200030" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200030.png" doNotPreview="1" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200049">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200042" slotIcon="70200043" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200043.png" doNotPreview="1" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200050">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200012" slotIcon="70200012" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200012.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200051">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200008" slotIcon="70200008" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200008.png" doNotPreview="1" />
+			<life usePeriod="4320" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200052">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200022" slotIcon="70200022" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200022.png" doNotPreview="1" />
+			<life usePeriod="4320" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200053" />
+	<item id="70200054" />
+	<item id="70200055">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200055" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200055.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200056">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200056" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200056.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200057">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200057" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200057.png" doNotPreview="1" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200058">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200058" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200058.png" doNotPreview="1" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="70200059">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200023" slotIcon="70200023" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200023.png" doNotPreview="1" />
+			<limit transferType="1" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="70200060">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200015" slotIcon="70200015" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200015.png" doNotPreview="1" />
+			<life usePeriod="43200" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200061">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200057" slotIcon="70200057" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200057.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200062">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200062" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200062.png" doNotPreview="1" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200063">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200063" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200063.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200064">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200042" slotIcon="70200042" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200042.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200065" />
+	<item id="70200066" />
+	<item id="70200067" />
+	<item id="70200068" />
+	<item id="70200069" />
+	<item id="70200070" />
+	<item id="70200071" />
+	<item id="70200072" />
+	<item id="70200073" />
+	<item id="70200074" />
+	<item id="70200075" />
+	<item id="70200076" />
+	<item id="70200077">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200077" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200077.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200078">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" param1="70200078" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200078.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200079">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" param1="70200079" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200079.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200080">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" param1="70200080" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200080.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200081">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" param1="70200081" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200081.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200082">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" param1="70200082" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200082.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200083">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200083" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200083.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200084">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200084" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200084.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200085">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200085" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200085.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200086">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200086" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200086.png" doNotPreview="1" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200087">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200087" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200087.png" doNotPreview="1" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200088">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200088" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200088.png" doNotPreview="1" />
+			<limit transferType="2" globalTransferType="1" />
+		</environment>
+	</item>
+	<item id="70200089">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200089" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200089.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200090">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200086" slotIcon="70200086" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200086.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200091">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200087" slotIcon="70200087" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200087.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200092">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200092" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200092.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200093">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200089" slotIcon="70200089" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200089.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200094">
+		<environment>
+			<property rank="4" type="7" subtype="3" iconCode="20" param1="70200094" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200094.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200095">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200095" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200095.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200096">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200096" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200096.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200097">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200097" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200097.png" doNotPreview="1" />
+			<limit transferType="2" globalTransferType="1" />
+		</environment>
+	</item>
+	<item id="70200098">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200098" slotIcon="70200098" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200098.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200099">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200099" slotIcon="70200099" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200099.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200100">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200100" slotIcon="70200100" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200100.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200101">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200101" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200101.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200102">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200002" slotIcon="70200002" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200002.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200103">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200103" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200103.png" doNotPreview="1" />
+			<limit transferType="2" globalTransferType="1" />
+		</environment>
+	</item>
+	<item id="70200104">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200104" slotIcon="70200104" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200104.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200105">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200105" slotIcon="70200105" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200105.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200106">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200106" slotIcon="70200106" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200106.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200107">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200107" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200107.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200108">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200108" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200108.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200109">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200109" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200109.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200110">
+		<environment feature="WorldChampionMushroom">
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200110" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200110.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200111">
+		<environment feature="WorldChampionMushroom">
+			<property rank="2" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200111" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200111.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200112">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200112" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200112.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200113">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200113" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200113.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200114">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200114" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200114.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200115">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200115" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200115.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200116">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200116" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200116.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200117">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200117" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200117.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200118">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200118" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200118.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200119">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200119" slotIcon="70200119" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200119.png" doNotPreview="1" />
+			<limit transferType="3" globalTransferType="1" />
+		</environment>
+	</item>
+	<item id="70200120">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200120" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200120.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200121">
+		<environment feature="WorldChampionMushroom">
+			<property rank="2" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200111" slotIcon="70200111" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200111.png" doNotPreview="1" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="70200122">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200122" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200122.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200123">
+		<environment>
+			<property rank="2" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200123" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200123.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200124">
+		<environment feature="Kritias_2018_12">
+			<property rank="1" type="7" subtype="3" iconCode="20" param1="70200124" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200124.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200125">
+		<environment feature="Kritias_2018_12">
+			<property rank="1" type="7" subtype="3" iconCode="20" param1="70200125" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200125.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200126">
+		<environment feature="Kritias_2018_12">
+			<property rank="1" type="7" subtype="3" iconCode="20" param1="70200126" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200126.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200127">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200127" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200127.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200128">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200128" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200128.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200129">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200129" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200129.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200130">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200130" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200130.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200131">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200131" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200131.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200132">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200132" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200132.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200133">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200133" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200133.png" doNotPreview="1" />
+			<limit transferType="1" globalTransferType="3" />
+		</environment>
+	</item>
+	<item id="70200134">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200134" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200134.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200135">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200135" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200135.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200136">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200136" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200136.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200137">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200137" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200137.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200138">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200138" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200138.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200139">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200139" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200139.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200140">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200140" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200140.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200141">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200141" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200141.png" doNotPreview="1" />
+			<limit transferType="1" globalTransferType="2" />
+		</environment>
+	</item>
+	<item id="70200142">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200142" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200142.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200143">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200143" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200143.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200144">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200144" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200144.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200145">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200145" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200145.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200146">
+		<environment feature="ItemKR">
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200146" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200146.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200147">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200147" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200147.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200148">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200148" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200148.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200149">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200149" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200149.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200150">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200150" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200150.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200151">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200151" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200151.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200152">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200152" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200152.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200153">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200153" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200153.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200154">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200154" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200154.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200155">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200155" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200155.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200156">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200156" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200156.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200157">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200157" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200157.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200158">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200158" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200158.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200159">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200159" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200159.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200160">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200160" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200160.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200161">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200161" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200161.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200162">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200162" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200162.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200163">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200163" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200163.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200164">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200164" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200164.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200165">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200141" slotIcon="70200141" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200141.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200166">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200151" slotIcon="70200151" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200151.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200167">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200112" slotIcon="70200112" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200112.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200168">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" param1="70200168" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200168.png" doNotPreview="1" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="70200169">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200169" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200169.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200170">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200170" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200170.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200171" />
+	<item id="70200172">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200172" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200172.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200173">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200058" slotIcon="70200058" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200058.png" doNotPreview="1" />
+			<limit transferType="1" enableSocketTransfer="false" />
+		</environment>
+	</item>
+	<item id="70200174">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200174" slotIcon="70200174" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200174.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200175">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200175" slotIcon="70200175" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200175.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200176">
+		<environment feature="22_06">
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200176" slotIcon="70200176" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200176.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200177">
+		<environment feature="22_06">
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200177" slotIcon="70200177" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200177.png" doNotPreview="1" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200178">
+		<environment feature="22_06">
+			<property rank="2" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200177" slotIcon="70200177" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200177.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200179">
+		<environment feature="22_09">
+			<property rank="2" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200179" slotIcon="70200179" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200179.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70200180">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200142" slotIcon="70200142" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200142.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210001">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200014" slotIcon="70200014" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200014.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210002">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200105" slotIcon="70200105" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200105.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210003">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200152" slotIcon="70200152" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200152.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210004">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200002" slotIcon="70200002" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200002.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210005">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200001" slotIcon="70200001" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200001.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210006">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200140" slotIcon="70200140" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200140.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210007">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200028" slotIcon="70200028" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200028.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210008">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200106" slotIcon="70200106" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200106.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210009">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200155" slotIcon="70200155" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200155.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210010">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200097" slotIcon="70200097" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200097.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210011">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200104" slotIcon="70200104" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200104.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210012">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200092" slotIcon="70200092" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200092.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210013">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70210013" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70210013.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210014">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70210014" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70210014.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210015">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70210015" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70210015.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210016">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70210016" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70210016.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210017">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70210017" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70210017.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210018">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200160" slotIcon="70200160" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200160.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70210019">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="3" param1="70200105" slotIcon="70200105" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70200105.png" doNotPreview="1" />
+			<life expirationType="2" numberOfWeeksMonths="2" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70220001">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70200135" slotIcon="70200135" category="SYSTEM" blackMarketCategory="20" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70220002">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70220002" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70220002.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70220003">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70220003" slotIcon="70220003" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70220003.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="70220004">
+		<environment>
+			<property rank="1" type="7" subtype="3" iconCode="20" itemGroup="2" param1="70220004" slotIcon="70220004" category="SYSTEM" blackMarketCategory="20" movie="./Data/Resource/Image/Item/icon/EtcPreview/70220004.png" doNotPreview="1" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+</ms2>

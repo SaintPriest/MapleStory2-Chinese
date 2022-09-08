@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level feature="JobChange_01">
+		<BasicProperty level="1" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.08" firedamagerate="-0.08" thunderdamagerate="0.08" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="2" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.16" firedamagerate="-0.16" thunderdamagerate="0.16" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="3" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.24" firedamagerate="-0.24" thunderdamagerate="0.24" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="4" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.32" firedamagerate="-0.32" thunderdamagerate="0.32" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="5" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.4" firedamagerate="-0.4" thunderdamagerate="0.4" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="6" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.48" firedamagerate="-0.48" thunderdamagerate="0.48" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="7" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.56" firedamagerate="-0.56" thunderdamagerate="0.56" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="8" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.64" firedamagerate="-0.64" thunderdamagerate="0.64" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="9" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.72" firedamagerate="-0.72" thunderdamagerate="0.72" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="10" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.8" firedamagerate="-0.8" thunderdamagerate="0.8" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="11" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.88" firedamagerate="-0.88" thunderdamagerate="0.88" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="12" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.96" firedamagerate="-0.96" thunderdamagerate="0.96" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="13" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="1.04" firedamagerate="-1.04" thunderdamagerate="1.04" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="14" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="1.12" firedamagerate="-1.12" thunderdamagerate="1.12" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="15" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="1.2" firedamagerate="-1.2" thunderdamagerate="1.2" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="16" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="1.28" firedamagerate="-1.28" thunderdamagerate="1.28" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="17" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="1.36" firedamagerate="-1.36" thunderdamagerate="1.36" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="18" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="1.44" firedamagerate="-1.44" thunderdamagerate="1.44" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="19" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="1.52" firedamagerate="-1.52" thunderdamagerate="1.52" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="20" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<CancelEffectProperty cancelCheckSameCaster="1" cancelEffectCodes="10300211,10300212" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="1.6" firedamagerate="-1.6" thunderdamagerate="1.6" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+</ms2>

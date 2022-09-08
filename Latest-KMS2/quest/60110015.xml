@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Mastery05">
+		<quest>
+			<basic questID="60110015" questType="1" chapterID="5020" standardLevel="50" useNavi="TRUE" />
+			<require level="50" quest="60110010" />
+			<start npc="11003870" />
+			<complete npc="11003871" />
+			<acceptReward>
+				<essentialItem code="30001128" rank="1" count="1" />
+			</acceptReward>
+			<completeReward exp="786150" money="6400">
+				<essentialItem code="20000347" rank="1" count="3" />
+				<globalEssentialItem code="20000347" rank="1" count="3" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000424" />
+			<condition type="item_exist" code="30001128" value="1">
+				<navi type="npc" code="11003870" />
+			</condition>
+		</quest>
+	</environment>
+</ms2>

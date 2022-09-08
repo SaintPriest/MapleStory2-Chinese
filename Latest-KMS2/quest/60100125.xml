@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Quest2017">
+		<quest>
+			<basic questID="60100125" chapterID="5016" standardLevel="16" useNavi="TRUE" />
+			<require level="16" quest="60100120" />
+			<start npc="11003202" />
+			<complete npc="11003204" />
+			<completeReward exp="9216" relativeExp="epicQuest" money="1900">
+				<essentialItem code="20000022" rank="1" count="6" />
+				<essentialItem code="20000028" rank="1" count="6" />
+				<globalEssentialItem code="20000022" rank="1" count="3" />
+				<globalEssentialItem code="20000028" rank="1" count="3" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000043" />
+			<summonPortal fieldID="52000037" portalID="1" />
+			<condition type="trigger" code="nelfmissing" value="1">
+				<navi type="npc" code="11003476" />
+			</condition>
+		</quest>
+	</environment>
+</ms2>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<seq id="1" name="On">
+		<key name="end" time="2.3333" />
+	</seq>
+	<seq id="2" name="Off">
+		<key name="end" time="0.3333" />
+	</seq>
+</ms2>

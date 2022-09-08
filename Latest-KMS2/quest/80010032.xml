@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment locale="CN">
+		<quest>
+			<basic questID="80010032" questType="2" chapterID="81008" standardLevel="10" repeatable="2" eventTag="20171123_ZakumBalloon" useNavi="FALSE" />
+			<require level="10" />
+			<start npc="11003722" />
+			<complete npc="11003722" />
+			<completeReward>
+				<essentialItem code="20000691" rank="1" count="5" />
+			</completeReward>
+			<condition type="interact_object" code="11000036" value="10" />
+		</quest>
+	</environment>
+</ms2>

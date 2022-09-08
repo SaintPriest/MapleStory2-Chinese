@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<riding>
+		<basic id="21400036" type="default" kfm="22000036_N_DragonDevilBigHeadRed" rideSummonCastTime="0.08" runSpeed="5.25" runXSpeed="7" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="15" useRidingNavi="1" rideBone="Bip01 Head" rideTranslation="0,65,60" rideRotation="90,30,90" />
+		<collision width="180" height="230" depth="180" />
+		<shadow scale="360" />
+		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
+	</riding>
+</ms2>

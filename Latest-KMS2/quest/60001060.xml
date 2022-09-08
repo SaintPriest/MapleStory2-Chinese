@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="RuneBlader">
+		<quest>
+			<basic questID="60001060" chapterID="5006" standardLevel="48" locking="1" useNavi="FALSE" />
+			<require level="48" job="90" quest="10002915" />
+			<start npc="11001265" />
+			<complete npc="11001265" />
+			<completeReward exp="8578047" relativeExp="epicQuest" money="6700">
+				<essentialItem code="30000446" rank="1" count="1" />
+				<essentialItem code="15400063" rank="3" count="1" />
+				<essentialItem code="11700410" rank="3" count="1" />
+				<essentialItem code="11500310" rank="3" count="1" />
+				<essentialItem code="20000026" rank="1" count="5" />
+				<essentialItem code="20000032" rank="1" count="5" />
+				<globalEssentialItem code="30000446" rank="1" count="1" />
+				<globalEssentialItem code="15400063" rank="3" count="1" />
+				<globalEssentialItem code="11700410" rank="3" count="1" />
+				<globalEssentialItem code="11500310" rank="3" count="1" />
+				<globalEssentialItem code="20000024" rank="1" count="3" />
+				<globalEssentialItem code="20000030" rank="1" count="3" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000076" />
+		</quest>
+	</environment>
+</ms2>

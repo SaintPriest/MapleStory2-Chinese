@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="DarkCastle">
+		<quest>
+			<basic questID="20002295" chapterID="1130" standardLevel="56" autoStart="1" disableGiveup="1" locking="1" useNavi="FALSE" />
+			<require level="56" quest="20002294" />
+			<start npc="11003096" />
+			<complete npc="11003096" />
+			<completeReward exp="2408457" relativeExp="epicQuest" money="7900">
+				<essentialItem code="20000026" rank="1" count="5" />
+				<essentialItem code="20000032" rank="1" count="5" />
+				<essentialJobItem code="11400645" rank="4" count="1" />
+				<essentialJobItem code="11500558" rank="4" count="1" />
+				<essentialJobItem code="11400646" rank="4" count="1" />
+				<essentialJobItem code="11500559" rank="4" count="1" />
+				<essentialJobItem code="11400647" rank="4" count="1" />
+				<essentialJobItem code="11500560" rank="4" count="1" />
+				<essentialJobItem code="11400648" rank="4" count="1" />
+				<essentialJobItem code="11500561" rank="4" count="1" />
+				<essentialJobItem code="11400649" rank="4" count="1" />
+				<essentialJobItem code="11500562" rank="4" count="1" />
+				<essentialJobItem code="11400650" rank="4" count="1" />
+				<essentialJobItem code="11500563" rank="4" count="1" />
+				<essentialJobItem code="11400651" rank="4" count="1" />
+				<essentialJobItem code="11500564" rank="4" count="1" />
+				<essentialJobItem code="11400652" rank="4" count="1" />
+				<essentialJobItem code="11500565" rank="4" count="1" />
+				<essentialJobItem code="11400653" rank="4" count="1" />
+				<essentialJobItem code="11500566" rank="4" count="1" />
+				<essentialJobItem code="11400654" rank="4" count="1" />
+				<essentialJobItem code="11500567" rank="4" count="1" />
+				<essentialJobItem code="11400655" rank="4" count="1" />
+				<essentialJobItem code="11500568" rank="4" count="1" />
+				<globalEssentialItem code="20000024" rank="1" count="3" />
+				<globalEssentialItem code="20000030" rank="1" count="3" />
+				<globalEssentialJobItem code="11400645" rank="4" count="1" />
+				<globalEssentialJobItem code="11500558" rank="4" count="1" />
+				<globalEssentialJobItem code="11400646" rank="4" count="1" />
+				<globalEssentialJobItem code="11500559" rank="4" count="1" />
+				<globalEssentialJobItem code="11400647" rank="4" count="1" />
+				<globalEssentialJobItem code="11500560" rank="4" count="1" />
+				<globalEssentialJobItem code="11400648" rank="4" count="1" />
+				<globalEssentialJobItem code="11500561" rank="4" count="1" />
+				<globalEssentialJobItem code="11400649" rank="4" count="1" />
+				<globalEssentialJobItem code="11500562" rank="4" count="1" />
+				<globalEssentialJobItem code="11400650" rank="4" count="1" />
+				<globalEssentialJobItem code="11500563" rank="4" count="1" />
+				<globalEssentialJobItem code="11400651" rank="4" count="1" />
+				<globalEssentialJobItem code="11500564" rank="4" count="1" />
+				<globalEssentialJobItem code="11400652" rank="4" count="1" />
+				<globalEssentialJobItem code="11500565" rank="4" count="1" />
+				<globalEssentialJobItem code="11400653" rank="4" count="1" />
+				<globalEssentialJobItem code="11500566" rank="4" count="1" />
+				<globalEssentialJobItem code="11400654" rank="4" count="1" />
+				<globalEssentialJobItem code="11500567" rank="4" count="1" />
+				<globalEssentialJobItem code="11400655" rank="4" count="1" />
+				<globalEssentialJobItem code="11500568" rank="4" count="1" />
+			</completeReward>
+			<progressMap progressMap="02000402" />
+			<gotoDungeon state="1" gotoInstanceID="1100006" />
+			<condition type="trigger" code="Madracan_Q03" />
+		</quest>
+	</environment>
+</ms2>

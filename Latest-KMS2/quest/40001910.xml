@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="AricariDailyQ">
+		<quest>
+			<basic questID="40001910" questType="1" chapterID="3062" standardLevel="50" repeatable="2" usePeriod="1440" locking="1" useNavi="FALSE" />
+			<require level="50" />
+			<start npc="11001181" />
+			<complete npc="11001181" />
+			<completeReward relativeExp="quest" money="21000" lu="1">
+				<globalEssentialItem code="0" rank="0" count="0" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000100,02000164,02000273" />
+			<condition type="interact_object_rep" code="20000021" value="1" />
+			<condition type="interact_object_rep" code="20000068" value="1" />
+			<condition type="interact_object_rep" code="20000102" value="1" />
+		</quest>
+	</environment>
+</ms2>

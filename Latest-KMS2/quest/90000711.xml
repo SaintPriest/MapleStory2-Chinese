@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="ContentsGuide01">
+		<quest>
+			<basic questID="90000711" questType="1" chapterID="9073" account="2" standardLevel="47" disableGiveup="1" exceptChapterClear="1" locking="1" tabIndex="1" useNavi="FALSE" />
+			<notify completeUiEffect="success" />
+			<require level="47" />
+			<start npc="11001877" />
+			<complete npc="11001877" />
+			<completeReward money="6550" />
+			<remoteAccept useRemote="cinematic" requireField="62000000" />
+			<remoteComplete useRemote="cinematic" requireField="62000000" />
+			<condition type="buff" code="90000350" value="1" />
+			<condition type="mastery_harvest_try" code="50000002" value="1" />
+		</quest>
+	</environment>
+</ms2>

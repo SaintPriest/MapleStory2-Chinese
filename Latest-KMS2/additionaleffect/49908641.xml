@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffType="2" durationTick="15000" intervalTick="3000" />
+		<MotionProperty keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" abnormalImmuneBreak="5" />
+		<DotDamageProperty type="2" element="1" damageByTargetMaxHP="0.03" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Fire.png" />
+	</level>
+</ms2>

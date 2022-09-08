@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Season1">
+		<quest>
+			<basic questID="10002886" chapterID="5" standardLevel="31" autoStart="1" exceptChapterClear="1" locking="1" useNavi="FALSE" />
+			<require level="31" quest="10001393" unrequire="10002060" />
+			<start npc="11000169" />
+			<complete npc="11000119" />
+			<completeReward exp="226279" relativeExp="epicQuest" money="4150">
+				<essentialItem code="20000024" rank="1" count="5" />
+				<essentialItem code="20000030" rank="1" count="5" />
+				<globalEssentialItem code="20000023" rank="1" count="4" />
+				<globalEssentialItem code="20000029" rank="1" count="4" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000001" />
+			<gotoNpc enable="1" gotoField="2000001" />
+		</quest>
+	</environment>
+</ms2>

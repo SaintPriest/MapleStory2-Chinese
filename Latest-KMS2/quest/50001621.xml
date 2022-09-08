@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Quest2017_2">
+		<quest>
+			<basic questID="50001621" chapterID="4079" standardLevel="36" useNavi="FALSE" />
+			<require level="36" quest="50001620" />
+			<start npc="11000119" />
+			<complete npc="11000119" />
+			<completeReward exp="2394176" relativeExp="epicQuest" money="4900">
+				<essentialItem code="20000024" rank="1" count="6" />
+				<essentialItem code="20000030" rank="1" count="6" />
+				<essentialJobItem code="13000025" rank="3" count="1" />
+				<essentialJobItem code="13100247" rank="3" count="2" />
+				<essentialJobItem code="13300241" rank="3" count="1" />
+				<essentialJobItem code="13400240" rank="3" count="2" />
+				<essentialJobItem code="14000201" rank="3" count="1" />
+				<essentialJobItem code="15100238" rank="3" count="1" />
+				<essentialJobItem code="15200245" rank="3" count="1" />
+				<essentialJobItem code="15300241" rank="3" count="1" />
+				<essentialJobItem code="15400131" rank="3" count="1" />
+				<essentialJobItem code="15500168" rank="3" count="1" />
+				<essentialJobItem code="15600157" rank="3" count="1" />
+				<essentialJobItem code="13200242" rank="3" count="1" />
+				<essentialJobItem code="14100210" rank="3" count="1" />
+				<essentialJobItem code="15000246" rank="3" count="1" />
+				<globalEssentialItem code="20000024" rank="1" count="3" />
+				<globalEssentialItem code="20000030" rank="1" count="3" />
+				<globalEssentialJobItem code="13000025" rank="2" count="1" />
+				<globalEssentialJobItem code="13100247" rank="2" count="2" />
+				<globalEssentialJobItem code="13300241" rank="2" count="1" />
+				<globalEssentialJobItem code="13400240" rank="2" count="2" />
+				<globalEssentialJobItem code="14000201" rank="2" count="1" />
+				<globalEssentialJobItem code="15100238" rank="2" count="1" />
+				<globalEssentialJobItem code="15200245" rank="2" count="1" />
+				<globalEssentialJobItem code="15300241" rank="2" count="1" />
+				<globalEssentialJobItem code="15400131" rank="2" count="1" />
+				<globalEssentialJobItem code="15500168" rank="2" count="1" />
+				<globalEssentialJobItem code="15600157" rank="2" count="1" />
+				<globalEssentialJobItem code="13200242" rank="2" count="1" />
+				<globalEssentialJobItem code="14100210" rank="2" count="1" />
+				<globalEssentialJobItem code="15000246" rank="2" count="1" />
+			</completeReward>
+			<progressMap progressMap="02000001" />
+			<gotoDungeon state="1" gotoDungeon="21004001" />
+			<condition type="npc" code="22000015" />
+		</quest>
+	</environment>
+</ms2>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" group="64" buffType="2" durationTick="180000" intervalTick="5000" dotCondition="1" logoutClearEffect="1" leaveFieldClearEffect="1" />
+		<MotionProperty keepEffect="NPC/Skill/IshuraRbladerDark/Eff_IshuraRbladerDark_AdditionalEffect_BombSPZero_Keep.xml" IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" abnormalImmuneBreak="1" />
+		<CancelEffectProperty cancelEffectCodes="50000509,50000143,50001414" />
+		<ImmuneEffectProperty immuneEffectCodes="50000509,50000143,50001414" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/TimeBombInfection.png" isHideCooltime="1" iconBalloonOnOff="1" />
+		<conditionSkill level="1" skillID="50002108" skillTarget="1">
+			<beginCondition>
+				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="6" />
+				<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" NpcIDs="23000116,23000117,23000118" />
+			</beginCondition>
+		</conditionSkill>
+		<splashSkill level="1" skillID="99999761" immediateActive="1" />
+	</level>
+</ms2>

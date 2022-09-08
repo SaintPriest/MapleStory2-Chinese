@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="FindDungeonHelp">
+		<quest>
+			<basic questID="70210090" questType="3" repeatable="1" useNavi="FALSE" />
+			<require maxLevel="49" dungeonBeginner="20002001,20003001,20005001,20006001,20009001,20010001,20011001,20012001,20013001,21001001,21002001,21003001,21004001,21005001,21006001,21007001,21008001,21009001,21013001,21017001,21019001,25000001,25001001,25002001,25003001,25004001" />
+			<completeReward relativeExp="dailymissionLevelUp" missionPoint="30">
+				<essentialItem code="30000928" rank="1" count="1" />
+			</completeReward>
+			<guide guideType="daily_pick_repeat" guideIcon="dungeon" guideMinLevel="16" guideMaxLevel="49" guideGroup="LevelUp" />
+			<condition type="dungeon_help_beginner_helpee" value="1" />
+		</quest>
+	</environment>
+</ms2>

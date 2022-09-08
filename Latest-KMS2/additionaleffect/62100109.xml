@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffSubType="2" durationTick="99999000" resetCondition="2" maxBuffCount="20" />
+		<MotionProperty keepEffect="NPC/Skill/Archeon/Eff_Archeon_Buff_A_Keep.xml" abnormalImmuneBreak="95" />
+		<StatusProperty>
+			<Stat nddrate="0.7" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10200263_buff.png" />
+		<conditionSkill level="1" skillID="62100110" skillTarget="1">
+			<beginCondition>
+				<owner hasBuffID="62100109" hasBuffLevel="1" hasBuffOwner="0" hasBuffCount="20" hasBuffCountCompare="Equals" eventCondition="10" />
+			</beginCondition>
+		</conditionSkill>
+	</level>
+</ms2>

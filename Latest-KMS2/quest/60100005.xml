@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Quest2017">
+		<quest>
+			<basic questID="60100005" chapterID="5015" standardLevel="7" disableGiveup="1" useNavi="TRUE" />
+			<require level="7" quest="60100001" />
+			<start npc="11003164" />
+			<complete npc="11003165" />
+			<completeReward exp="3860" relativeExp="epicQuest" money="100">
+				<essentialItem code="20000022" rank="1" count="5" />
+				<essentialItem code="20000028" rank="1" count="5" />
+				<globalEssentialItem code="20000022" rank="1" count="3" />
+				<globalEssentialItem code="20000028" rank="1" count="3" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000062" />
+			<summonPortal fieldID="2000062" portalID="3" />
+			<condition type="trigger" code="meetmadria1st" value="1">
+				<navi type="npc" code="11003473,29000129,29000202" />
+			</condition>
+			<condition type="map" code="63000042" value="1">
+				<navi type="npc" code="21000992,21000993,22000323" />
+			</condition>
+		</quest>
+	</environment>
+</ms2>

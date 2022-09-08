@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffType="2" buffSubType="4" durationTick="20000" intervalTick="1500" resetCondition="1" dotCondition="1" logoutClearEffect="1" leaveFieldClearEffect="1" />
+		<MotionProperty keepEffect="NPC/Skill/GigantikaTail/Eff_GigantikaTail_Poison_CircleGuide.xml" IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" abnormalImmuneBreak="1" />
+		<CancelEffectProperty cancelEffectCodes="49288007" />
+		<ImmuneEffectProperty immuneEffectCodes="49288007,49288009" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/PoisonBombWeakness.png" />
+		<splashSkill level="1" skillID="49905008" delay="1" immediateActive="1" />
+	</level>
+</ms2>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level feature="JobChange_01">
+		<BasicProperty level="1" buffSubType="2" durationTick="12000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty keepEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Stop_01.xml" />
+		<StatusProperty>
+			<SpecialAbility darkdamagerate="0.1" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10800211_buff.png" />
+		<ShieldProperty hpByTargetMaxHP="0.06" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="2" buffSubType="2" durationTick="12000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty keepEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Stop_01.xml" />
+		<StatusProperty>
+			<SpecialAbility darkdamagerate="0.2" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10800211_buff.png" />
+		<ShieldProperty hpByTargetMaxHP="0.12" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="3" buffSubType="2" durationTick="12000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty keepEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Stop_01.xml" />
+		<StatusProperty>
+			<SpecialAbility darkdamagerate="0.3" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10800211_buff.png" />
+		<ShieldProperty hpByTargetMaxHP="0.18" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="4" buffSubType="2" durationTick="12000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty keepEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Stop_01.xml" />
+		<StatusProperty>
+			<SpecialAbility darkdamagerate="0.4" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10800211_buff.png" />
+		<ShieldProperty hpByTargetMaxHP="0.24" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="5" buffSubType="2" durationTick="12000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty keepEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Stop_01.xml" />
+		<StatusProperty>
+			<SpecialAbility darkdamagerate="0.5" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10800211_buff.png" />
+		<ShieldProperty hpByTargetMaxHP="0.3" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="6" buffSubType="2" durationTick="12000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty keepEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Stop_01.xml" />
+		<StatusProperty>
+			<SpecialAbility darkdamagerate="0.6" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10800211_buff.png" />
+		<ShieldProperty hpByTargetMaxHP="0.36" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="7" buffSubType="2" durationTick="12000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty keepEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Stop_01.xml" />
+		<StatusProperty>
+			<SpecialAbility darkdamagerate="0.7" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10800211_buff.png" />
+		<ShieldProperty hpByTargetMaxHP="0.42" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="8" buffSubType="2" durationTick="12000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty keepEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Stop_01.xml" />
+		<StatusProperty>
+			<SpecialAbility darkdamagerate="0.8" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10800211_buff.png" />
+		<ShieldProperty hpByTargetMaxHP="0.48" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="9" buffSubType="2" durationTick="12000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty keepEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Stop_01.xml" />
+		<StatusProperty>
+			<SpecialAbility darkdamagerate="0.9" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10800211_buff.png" />
+		<ShieldProperty hpByTargetMaxHP="0.54" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="10" buffSubType="2" durationTick="12000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty keepEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Stop_01.xml" />
+		<StatusProperty>
+			<SpecialAbility darkdamagerate="1" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10800211_buff.png" />
+		<ShieldProperty hpByTargetMaxHP="0.6" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="11" buffSubType="2" durationTick="12000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty keepEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Stop_01.xml" />
+		<StatusProperty>
+			<SpecialAbility darkdamagerate="1.1" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10800211_buff.png" />
+		<ShieldProperty hpByTargetMaxHP="0.66" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="12" buffSubType="2" durationTick="12000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty keepEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Keep_01.xml" stopEffect="CH/Skill/Assassin/Eff_Assassin_ShadowStance_Stop_01.xml" />
+		<StatusProperty>
+			<SpecialAbility darkdamagerate="1.2" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10800211_buff.png" />
+		<ShieldProperty hpByTargetMaxHP="0.72" />
+	</level>
+</ms2>

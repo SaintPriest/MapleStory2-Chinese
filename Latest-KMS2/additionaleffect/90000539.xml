@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<beginCondition applyPvPZoneType="1">
+			<target hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals">
+				<compareStat hp="0.7" func="Greater" />
+			</target>
+		</beginCondition>
+		<BasicProperty level="1" group="90000287" buffSubType="32" durationTick="900000" deadKeepEffect="1" />
+		<StatusProperty>
+			<Stat nddrate="0.06" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/20000559.png" isHideCooltime="1" />
+	</level>
+</ms2>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Striker">
+		<quest>
+			<basic questID="40002635" chapterID="3085" standardLevel="29" locking="1" useNavi="FALSE" />
+			<require level="29" job="100" quest="40002634" />
+			<start npc="11001687" />
+			<complete npc="11001680" />
+			<completeReward exp="181735" relativeExp="epicQuest" money="3850">
+				<essentialItem code="11600557" rank="3" count="1" />
+				<essentialItem code="20000023" rank="1" count="7" />
+				<essentialItem code="20000029" rank="1" count="7" />
+				<globalEssentialItem code="11600557" rank="3" count="1" />
+				<globalEssentialItem code="20000023" rank="1" count="4" />
+				<globalEssentialItem code="20000029" rank="1" count="4" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="03000145" />
+			<condition type="talk_in" code="11001692" target="15" value="1" />
+		</quest>
+	</environment>
+</ms2>

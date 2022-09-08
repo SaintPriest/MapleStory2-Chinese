@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" durationTick="9999000" intervalTick="1000" keepCondition="1" dotCondition="1" />
+		<MotionProperty clearCondition="0" abnormalImmuneBreak="1" />
+		<ImmuneEffectProperty immuneEffectCodes="50000199" />
+		<UIProperty iconOnOff="0" />
+		<splashSkill level="1" skillID="50100882" immediateActive="1" />
+	</level>
+</ms2>

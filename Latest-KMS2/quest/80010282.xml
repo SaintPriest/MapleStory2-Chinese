@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment locale="CN">
+		<quest>
+			<basic questID="80010282" questType="2" chapterID="81057" account="2" standardLevel="60" eventTag="20181214_dungeon_clear_01" useNavi="FALSE" usePostbox="1" />
+			<require level="60" dayOfWeek="1,2,3,4,5,6,7" />
+			<start npc="11001002" />
+			<complete npc="11001002" />
+			<completeReward>
+				<essentialItem code="70300092" rank="1" count="1" />
+			</completeReward>
+			<condition type="dungeon_clear" code="23021003,23022003,23023003" value="12" />
+		</quest>
+	</environment>
+</ms2>

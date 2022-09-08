@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" durationTick="30000" logoutClearEffect="1" />
+		<MotionProperty keepEffect="CH/Skill/Priest/Eff_Priest_HeavensShield_Keep_01.xml" abnormalImmuneBreak="5" />
+		<ConsumeProperty spRate="-0.5" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/BaphometCrazyState.png" iconBalloonOnOff="1" />
+	</level>
+</ms2>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<beginCondition allowDeadState="1" />
+		<BasicProperty level="1" buffSubType="1024" keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<StatusProperty>
+			<SpecialAbility reduce_merat_revival_feerate="0.02" reduce_meso_revival_feerate="0.02" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/AdventureLevel/Ability_01.png" iconOnOff="0" />
+	</level>
+	<level>
+		<beginCondition allowDeadState="1" />
+		<BasicProperty level="2" buffSubType="1024" keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<StatusProperty>
+			<SpecialAbility reduce_merat_revival_feerate="0.04" reduce_meso_revival_feerate="0.04" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/AdventureLevel/Ability_01.png" iconOnOff="0" />
+	</level>
+	<level>
+		<beginCondition allowDeadState="1" />
+		<BasicProperty level="3" buffSubType="1024" keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<StatusProperty>
+			<SpecialAbility reduce_merat_revival_feerate="0.06" reduce_meso_revival_feerate="0.06" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/AdventureLevel/Ability_01.png" iconOnOff="0" />
+	</level>
+	<level>
+		<beginCondition allowDeadState="1" />
+		<BasicProperty level="4" buffSubType="1024" keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<StatusProperty>
+			<SpecialAbility reduce_merat_revival_feerate="0.08" reduce_meso_revival_feerate="0.08" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/AdventureLevel/Ability_01.png" iconOnOff="0" />
+	</level>
+	<level>
+		<beginCondition allowDeadState="1" />
+		<BasicProperty level="5" buffSubType="1024" keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<StatusProperty>
+			<SpecialAbility reduce_merat_revival_feerate="0.1" reduce_meso_revival_feerate="0.1" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/AdventureLevel/Ability_01.png" iconOnOff="0" />
+	</level>
+</ms2>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment locale="KR">
+		<quest>
+			<basic questID="80000149" questType="2" chapterID="8045" account="2" standardLevel="50" eventTag="20161110_levelup14" useNavi="FALSE" />
+			<require level="50" selectableQuest="80000148" />
+			<start npc="11001002" />
+			<complete npc="11001002" />
+			<completeReward>
+				<essentialItem code="20000341" rank="1" count="1" />
+				<essentialItem code="20300521" rank="4" count="1" />
+			</completeReward>
+			<condition type="npc" code="23200007,23200015,23200077" value="1" />
+		</quest>
+	</environment>
+</ms2>

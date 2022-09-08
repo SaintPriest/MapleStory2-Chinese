@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Develop">
+		<quest>
+			<basic questID="60110155" questType="1" chapterID="5023" standardLevel="1" repeatable="2" useNavi="FALSE" />
+			<require level="1" groupID="5023" dayOfWeek="1,2,3,4,5,6,7" />
+			<start npc="11004283" />
+			<complete npc="11004283" />
+			<completeReward money="100">
+				<globalEssentialItem code="0" rank="0" count="0" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000499" />
+			<condition type="skill" code="90000784" target="82000012,82000001,82000003" value="3" />
+		</quest>
+	</environment>
+</ms2>
