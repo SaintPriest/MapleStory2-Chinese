@@ -3457,16 +3457,16 @@
   <key id="120020197" name="灭亡之魔法：蓝魔方水晶" />
   <key id="120020198" name="灭亡之魔法：蓝魔方水晶" />
   <key id="120020220" name="破灭之翅膀：蓝魔方水晶" />
-  <key id="130000001" name="초보자 리드스킬" feature="LeadSkill" />
-  <key id="130000010" name="유니온 오브 세인츠" feature="LeadSkill" />
-  <key id="130000020" name="버서크 이뮤니티" feature="LeadSkill" />
-  <key id="130000030" name="엘리멘탈 포스" feature="LeadSkill" />
-  <key id="130000040" name="블레싱 오브 프로텍션" feature="LeadSkill" />
-  <key id="130000050" name="레인지 어시스트" feature="LeadSkill" />
-  <key id="130000060" name="미니 새틀라이트 어시스트" feature="LeadSkill" />
-  <key id="130000070" name="퓨리 오브 팬텀" feature="LeadSkill" />
-  <key id="130000080" name="페이탈 히트 오브 어쌔신" feature="LeadSkill" />
-  <key id="130000090" name="룬 오브 피지컬" feature="LeadSkill" />
-  <key id="130000100" name="파워 오브 스트라이커" feature="LeadSkill" />
-  <key id="130000110" name="소울 커넥션" feature="LeadSkill" />
+  <key id="130000001" name="初學者指導技巧" feature="LeadSkill" />
+  <key id="130000010" name="聖徒聯盟" feature="LeadSkill" />
+  <key id="130000020" name="狂暴免疫" feature="LeadSkill" />
+  <key id="130000030" name="元素之力" feature="LeadSkill" />
+  <key id="130000040" name="保護的祝福" feature="LeadSkill" />
+  <key id="130000050" name="範圍輔助" feature="LeadSkill" />
+  <key id="130000060" name="迷你衛星輔助" feature="LeadSkill" />
+  <key id="130000070" name="幻影之怒" feature="LeadSkill" />
+  <key id="130000080" name="刺客的致命熱度" feature="LeadSkill" />
+  <key id="130000090" name="物理符文" feature="LeadSkill" />
+  <key id="130000100" name="前鋒的力量" feature="LeadSkill" />
+  <key id="130000110" name="靈魂連接" feature="LeadSkill" />
 </ms2>
