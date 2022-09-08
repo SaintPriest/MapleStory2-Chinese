@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="LapentaFrontierQuest">
+		<quest>
+			<basic questID="50100270" chapterID="4089" standardLevel="60" disableGiveup="1" useNavi="TRUE" />
+			<require level="60" quest="50100260" />
+			<dispatch type="monologueAccept" field="52000080" portal="1" />
+			<start npc="11003066" />
+			<complete npc="11003060" />
+			<completeReward exp="4915279" relativeExp="epicQuest" money="8500">
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000261" />
+			<gotoNpc enable="1" gotoField="52000080" gotoPortal="1" />
+		</quest>
+	</environment>
+</ms2>

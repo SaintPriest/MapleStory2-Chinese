@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" group="5" durationTick="31000" delayTick="1299" keepCondition="1" />
+		<MotionProperty keepEffect="NPC/Skill/SandstoneGiant/Eff_SandstoneBigGiant_PhysicalDefenceUp_Keep.xml" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<Stat parvalue="900" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterPhysicalDefenceUp.png" />
+	</level>
+	<level>
+		<BasicProperty level="2" group="5" durationTick="71000" delayTick="1299" keepCondition="1" />
+		<MotionProperty keepEffect="NPC/Skill/SandstoneGiant/Eff_SandstoneBigGiant_PhysicalDefenceUp_Keep.xml" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<Stat parvalue="900" />
+		</StatusProperty>
+		<DefensiveProperty mapDamageR="-0.6" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterPhysicalDefenceUp.png" />
+	</level>
+	<level>
+		<BasicProperty level="3" group="5" durationTick="18000" keepCondition="1" />
+		<MotionProperty keepEffect="NPC/Skill/SandstoneDwarf/Eff_SandstoneDwarf_PhysicalDefenceUp_Keep.xml" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<Stat parvalue="900" />
+		</StatusProperty>
+		<DefensiveProperty mapDamageR="-0.6" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterPhysicalDefenceUp.png" />
+	</level>
+	<level>
+		<BasicProperty level="4" group="5" durationTick="18000" keepCondition="1" />
+		<MotionProperty keepEffect="NPC/Skill/StoneGolem/Eff_StoneGolemBlue_PhysicalDefenceUp_Keep.xml" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<Stat parvalue="900" />
+		</StatusProperty>
+		<DefensiveProperty mapDamageR="-0.6" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterPhysicalDefenceUp.png" />
+	</level>
+</ms2>

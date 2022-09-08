@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="event">
+		<quest>
+			<basic questID="30000415" questType="2" chapterID="2201" account="2" standardLevel="10" disableGiveup="1" repeatable="2" usePeriod="480" useNavi="FALSE" />
+			<require level="10" />
+			<complete npc="11003878" />
+			<completeReward>
+				<essentialItem code="30001284" rank="1" count="19" />
+			</completeReward>
+			<gotoNpc enable="1" gotoField="2000425" gotoPortal="1" />
+			<condition type="interact_object" code="32000018" value="1" />
+		</quest>
+	</environment>
+</ms2>

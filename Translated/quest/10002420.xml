@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Season1">
+		<quest>
+			<basic questID="10002420" questType="1" chapterID="186" standardLevel="31" locking="1" useNavi="FALSE" />
+			<require level="31" quest="10002411" />
+			<start npc="11000607" />
+			<complete npc="11000169" />
+			<completeReward exp="197100" money="4150">
+				<globalEssentialItem code="0" rank="0" count="0" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000001" />
+			<condition type="npc" target="02000252,02000253,02000254" value="50" />
+		</quest>
+	</environment>
+</ms2>

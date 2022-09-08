@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment locale="KR">
+		<quest>
+			<basic questID="80000030" questType="2" chapterID="8006" standardLevel="26" autoStart="1" locking="1" useNavi="FALSE" />
+			<require level="26" quest="10001901" />
+			<start npc="11000009" />
+			<complete npc="11000009" />
+			<completeReward exp="6913" />
+			<progressMap progressMap="02000146" />
+			<condition type="npc" target="02000146" value="50" />
+		</quest>
+	</environment>
+</ms2>

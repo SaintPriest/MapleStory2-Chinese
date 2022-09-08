@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="FameContents">
+		<quest>
+			<basic questID="93000103" questType="9" chapterID="10000" standardLevel="50" disableGiveup="1" repeatable="2" useNavi="TRUE" alliance="mapleunion" rank="S" property="AvailableCompletionTicket" />
+			<require level="50" quest="91000015" />
+			<dispatch type="monologueAccept" field="2000175" portal="1" script="1" />
+			<complete npc="11003533" />
+			<completeReward relativeExp="questSkyFortress" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
+				<essentialItem code="30000925" rank="1" count="63" />
+			</completeReward>
+			<progressMap progressMap="02000175" />
+			<condition type="npc" code="22000052" target="02000175" value="1" />
+			<condition type="npc" code="21000270" target="02000175" value="30" />
+			<condition type="npc" code="21000271" target="02000175" value="30" />
+			<condition type="npc" code="21091021" target="02000175" value="30" />
+		</quest>
+	</environment>
+</ms2>

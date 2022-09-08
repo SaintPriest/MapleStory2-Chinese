@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level feature="JobChange_01">
+		<BasicProperty level="1" durationTick="2000" resetCondition="2" maxBuffCount="2" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10600071.png" iconOnOff="0" />
+		<conditionSkill level="1" skillID="10200183" skillTarget="1">
+			<beginCondition>
+				<owner hasBuffID="10200182" hasBuffLevel="1" hasBuffOwner="1" hasBuffCount="2" hasBuffCountCompare="Equals" eventCondition="10" ignoreOwnerEvent="1" />
+			</beginCondition>
+		</conditionSkill>
+	</level>
+</ms2>

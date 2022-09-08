@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<riding>
+		<basic id="50600189" type="default" kfm="UGC_LombardBlack" scale="1.2" rideSummonCastTime="0.08" runSpeed="5.25" runXSpeed="7" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="15" useRidingNavi="1" rideBone="Bip01 R Clavicle" rideTranslation="-75,40,34" rideRotation="0,180,0" rideAniPC="Sit_Chair_Idle_A" rideAniPC_Idle="Sit_Chair_Idle_A" rideAniPC_Run="Sit_Chair_Idle_A" rideAniPC_Jump="Sit_Chair_Idle_A" rideAniPC_SP_Idle="Sit_Chair_Idle_A" rideAniPC_SP_Run="Ride_Idle_012" rideAniPC_SP_Jump="Ride_Idle_012" />
+		<collision height="130" />
+		<shadow scale="130" />
+		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
+	</riding>
+</ms2>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Quest2017_2">
+		<quest>
+			<basic questID="10003073" chapterID="14" standardLevel="31" disableGiveup="1" useNavi="TRUE" />
+			<require level="31" quest="50001611" />
+			<start npc="11000076" />
+			<complete npc="11003421" />
+			<completeReward exp="429713" relativeExp="epicQuest" money="4150">
+				<essentialItem code="20000024" rank="1" count="5" />
+				<essentialItem code="20000030" rank="1" count="5" />
+				<globalEssentialItem code="20000023" rank="1" count="4" />
+				<globalEssentialItem code="20000029" rank="1" count="4" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000051" />
+			<gotoNpc enable="1" gotoField="52010027" gotoPortal="1" />
+			<condition type="trigger" code="Windvalley" value="1">
+				<navi type="npc" code="11000076,21000994,21000995" />
+			</condition>
+		</quest>
+	</environment>
+</ms2>

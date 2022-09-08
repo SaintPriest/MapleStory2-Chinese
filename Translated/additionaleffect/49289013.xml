@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffType="2" buffSubType="8" durationTick="1500" />
+		<MotionProperty keepEffect="Additional/Slow/Eff_Additional_BleedSlow_Keep.xml" IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" />
+		<StatusProperty>
+			<Stat asprate="-0.5" msprate="-0.5" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/SpeedOffenceDownPanic.png" iconOnOff="0" />
+	</level>
+</ms2>

@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<item id="22001001">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001001,22101001" />
+		</environment>
+	</item>
+	<item id="22001002">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001002,22101001" />
+		</environment>
+	</item>
+	<item id="22001003">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001003,22101001" />
+		</environment>
+	</item>
+	<item id="22001004">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001004,22101001" />
+		</environment>
+	</item>
+	<item id="22001005">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001005,22101001" />
+		</environment>
+	</item>
+	<item id="22001006">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001006,22101001" />
+		</environment>
+	</item>
+	<item id="22001007">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001007,22101001" />
+		</environment>
+	</item>
+	<item id="22001008">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001008,22101001" />
+		</environment>
+	</item>
+	<item id="22001009">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001009,22101001" />
+		</environment>
+	</item>
+	<item id="22001010">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001010,22101001" />
+		</environment>
+	</item>
+	<item id="22001011">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001011,22101001" />
+		</environment>
+	</item>
+	<item id="22001012">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001012,22101001" />
+		</environment>
+	</item>
+	<item id="22001013">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001013,22101001" />
+		</environment>
+	</item>
+	<item id="22001014">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001014,22101001" />
+		</environment>
+	</item>
+	<item id="22001015">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001015,22101001" />
+		</environment>
+	</item>
+	<item id="22001016">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001016,22101001" />
+		</environment>
+	</item>
+	<item id="22001017">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001017,22101003" />
+		</environment>
+	</item>
+	<item id="22001018">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001018,22101003" />
+		</environment>
+	</item>
+	<item id="22001019">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001019,22101003" />
+		</environment>
+	</item>
+	<item id="22001020">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001020,22101003" />
+		</environment>
+	</item>
+	<item id="22001021">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001021,22101003" />
+		</environment>
+	</item>
+	<item id="22001022">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001022,22101003" />
+		</environment>
+	</item>
+	<item id="22001023">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001023,22101003" />
+		</environment>
+	</item>
+	<item id="22001024">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001024,22101003" />
+		</environment>
+	</item>
+	<item id="22001025">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001025,22101003" />
+		</environment>
+	</item>
+	<item id="22001026">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001026,22101003" />
+		</environment>
+	</item>
+	<item id="22001027">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001027,22101003" />
+		</environment>
+	</item>
+	<item id="22001028">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001028,22101003" />
+		</environment>
+	</item>
+	<item id="22001029">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001029,22101003" />
+		</environment>
+	</item>
+	<item id="22001030">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001030,22101003" />
+		</environment>
+	</item>
+	<item id="22001031">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001031,22101003" />
+		</environment>
+	</item>
+	<item id="22001032">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001032,22101003" />
+		</environment>
+	</item>
+	<item id="22001033">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001033,22101003" />
+		</environment>
+	</item>
+	<item id="22001034">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001034,22101003" />
+		</environment>
+	</item>
+	<item id="22001035">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001035,22101003" />
+		</environment>
+	</item>
+	<item id="22001036">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001036,22101003" />
+		</environment>
+	</item>
+	<item id="22001037">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001037,22101003" />
+		</environment>
+	</item>
+	<item id="22001038">
+		<environment feature="22_02">
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001038,22101003" />
+		</environment>
+	</item>
+	<item id="22001039">
+		<environment feature="22_03">
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001039,22101003" />
+		</environment>
+	</item>
+	<item id="22001040">
+		<environment feature="22_04">
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001040,22101003" />
+		</environment>
+	</item>
+	<item id="22001041">
+		<environment feature="22_05">
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001041,22101003" />
+		</environment>
+	</item>
+	<item id="22001042">
+		<environment feature="22_06">
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001042,22101003" />
+		</environment>
+	</item>
+	<item id="22001043">
+		<environment feature="22_07">
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001043,22101003" />
+		</environment>
+	</item>
+	<item id="22001051" />
+	<item id="22001052" />
+	<item id="22001053" />
+	<item id="22001054" />
+	<item id="22001055" />
+	<item id="22001056" />
+	<item id="22001057" />
+	<item id="22001058" />
+	<item id="22001059" />
+	<item id="22001060" />
+	<item id="22001061" />
+	<item id="22001062" />
+	<item id="22001063" />
+	<item id="22001064" />
+	<item id="22001065" />
+	<item id="22001066" />
+	<item id="22001067">
+		<environment feature="22_08">
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001067,22101003" />
+		</environment>
+	</item>
+	<item id="22001068" />
+	<item id="22001069">
+		<environment feature="22_09">
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_ducky" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1001069" />
+		</environment>
+	</item>
+	<item id="22001070" />
+	<item id="22001071" />
+	<item id="22001072" />
+	<item id="22001073" />
+	<item id="22001074" />
+	<item id="22002001">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_slime" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1002001,22102001" />
+		</environment>
+	</item>
+	<item id="22002002">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_slime" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1002002,22102001" />
+		</environment>
+	</item>
+	<item id="22002003">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_slime" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1002003,22102001" />
+		</environment>
+	</item>
+	<item id="22002004">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_slime" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1002004,22102001" />
+		</environment>
+	</item>
+	<item id="22002005">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_slime" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1002005,22102001" />
+		</environment>
+	</item>
+	<item id="22002006">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_slime" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1002006,22102001" />
+		</environment>
+	</item>
+	<item id="22002007">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_slime" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1002007,22102001" />
+		</environment>
+	</item>
+	<item id="22002008">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_slime" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1002008,22102001" />
+		</environment>
+	</item>
+	<item id="22003001">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_orangeMushroom" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1003001,22103001" />
+		</environment>
+	</item>
+	<item id="22004001">
+		<environment>
+			<property rank="5" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_special_01" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1004001,22104001" />
+		</environment>
+	</item>
+	<item id="22004002">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_special_01" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1004002,22104001" />
+		</environment>
+	</item>
+	<item id="22004003">
+		<environment feature="ItemKR">
+			<property rank="5" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_special_02" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1004003,22104001" />
+		</environment>
+	</item>
+	<item id="22004004">
+		<environment feature="ItemKR">
+			<property rank="5" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_special_03" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1004004,22104001" />
+		</environment>
+	</item>
+	<item id="22004101" />
+	<item id="22004102" />
+	<item id="22004103" />
+	<item id="22004104" />
+	<item id="22004501">
+		<environment>
+			<property rank="5" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_special_03" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1004501,22104003" />
+		</environment>
+	</item>
+	<item id="22004502">
+		<environment>
+			<property rank="6" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_special_03" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1004502,22104003" />
+		</environment>
+	</item>
+	<item id="22004503">
+		<environment>
+			<property rank="5" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_special_02" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1004503,22104004" />
+		</environment>
+	</item>
+	<item id="22004504">
+		<environment feature="ItemKR">
+			<property rank="6" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_special_02" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1004504,22104004" />
+		</environment>
+	</item>
+	<item id="22004505">
+		<environment>
+			<property rank="4" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_special_02" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1004505,22104005" />
+		</environment>
+	</item>
+	<item id="22004506">
+		<environment>
+			<property rank="5" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_special_01" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1004506" />
+		</environment>
+	</item>
+	<item id="22004601">
+		<environment>
+			<property rank="5" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_slime" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1004601, 22102003" />
+		</environment>
+	</item>
+	<item id="22004602">
+		<environment>
+			<property rank="5" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_special_03" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1004602,22104006" />
+		</environment>
+	</item>
+	<item id="22004603">
+		<environment>
+			<property rank="5" type="26" iconCode="53" itemGroup="3" slotMax="999" slotIcon="newGacha_capsule_slime" category="Package" blackMarketCategory="53" doNotPreview="1" />
+			<limit transferType="1" />
+			<function name="OpenGachaBox" parameter="1004603, 22102003" />
+		</environment>
+	</item>
+</ms2>

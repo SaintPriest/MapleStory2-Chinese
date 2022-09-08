@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<item id="50700004">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/Trophy_Ereb.nif" />
+		</environment>
+	</item>
+	<item id="50700005">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/Trophy_Karl.nif" />
+		</environment>
+	</item>
+	<item id="50700006">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/Trophy_Manovich.nif" />
+		</environment>
+	</item>
+	<item id="50700007">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/Trophy_Ashimov.nif" />
+		</environment>
+	</item>
+	<item id="50710001">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/co_trophy_temp_A01.nif" />
+		</environment>
+	</item>
+	<item id="50710002">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50710002" asset="Data/Resource/Model/Map/Common/Etc/Trophy_QuestEreb.nif" />
+		</environment>
+	</item>
+	<item id="50710003">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/Trophy_MapleGuard.nif" />
+		</environment>
+	</item>
+	<item id="50710004">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/Trophy_Darkwind.nif" />
+		</environment>
+	</item>
+	<item id="50710005">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/Trophy_MapleKnight.nif" />
+		</environment>
+	</item>
+	<item id="50710006">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50710006" asset="Data/Resource/Model/Map/Common/Etc/Trophy_GreenLapentaStone.nif" />
+		</environment>
+	</item>
+	<item id="50710007">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50710007" asset="Data/Resource/Model/Map/Common/Etc/Trophy_RedLapentaStone.nif" />
+		</environment>
+	</item>
+	<item id="50710008">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/Trophy_VidBleim.nif" />
+		</environment>
+	</item>
+	<item id="50710009">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/Trophy_Freindship.nif" />
+		</environment>
+	</item>
+	<item id="50710010">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" objCode="50710010" asset="Data/Resource/Model/Map/Common/Etc/Trophy_Mika.nif" />
+		</environment>
+	</item>
+	<item id="50710011">
+		<environment feature="ExtendLevel65">
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" objCode="50710011" asset="Data/Resource/Model/Map/Common/Etc/Trophy_GoldDragon.nif" />
+		</environment>
+	</item>
+	<item id="50710012">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50710012" asset="Data/Resource/Model/Map/Common/Etc/Trophy_Starlight.nif" />
+		</environment>
+	</item>
+	<item id="50710013">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="9999" category="TR" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" generatePhysX="1" space="6" objCode="50710013" preset="co_functobj_darkwind_A01_" physXdimension="150,150,75" />
+		</environment>
+	</item>
+	<item id="50710014">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="9999" category="TR" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" generatePhysX="1" space="6" objCode="50710014" preset="co_functobj_knightage_A01_" physXdimension="150,150,75" />
+		</environment>
+	</item>
+	<item id="50710015">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="9999" category="TR" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" generatePhysX="1" space="6" objCode="50710015" preset="co_functobj_triaguard_A01_" physXdimension="150,150,75" />
+		</environment>
+	</item>
+	<item id="50710016">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="9999" category="TR" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" generatePhysX="1" space="6" objCode="50710016" preset="co_functobj_henesyswatch_A01_" physXdimension="150,150,75" />
+		</environment>
+	</item>
+	<item id="50710017">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="9999" category="TR" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" generatePhysX="1" space="6" objCode="50710017" preset="co_functobj_maplealliance_A01_" physXdimension="150,150,75" />
+		</environment>
+	</item>
+	<item id="50710018">
+		<environment feature="Kritias_2018_12">
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50710018" asset="Data/Resource/Model/Map/Common/Etc/trophy_KritiasBuff.nif" />
+		</environment>
+	</item>
+	<item id="50730001">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Ghostump.nif" />
+		</environment>
+	</item>
+	<item id="50730002">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Baraha.nif" />
+		</environment>
+	</item>
+	<item id="50730003">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_ElfTwinFirst.nif" />
+		</environment>
+	</item>
+	<item id="50730004">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_CurseEyeLavaBig.nif" />
+		</environment>
+	</item>
+	<item id="50730005">
+		<environment feature="KarkarIsland">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Ureus.nif" />
+		</environment>
+	</item>
+	<item id="50730006">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_AliceBandage.nif" />
+		</environment>
+	</item>
+	<item id="50730007">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_ZombiTitan.nif" />
+		</environment>
+	</item>
+	<item id="50730008">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_MushMom.nif" />
+		</environment>
+	</item>
+	<item id="50730009">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_ZombieMushMom.nif" />
+		</environment>
+	</item>
+	<item id="50730010">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_MaskBoy.nif" />
+		</environment>
+	</item>
+	<item id="50730011">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_BearBigTelepole.nif" />
+		</environment>
+	</item>
+	<item id="50730012">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_BearPandaBigBamboo.nif" />
+		</environment>
+	</item>
+	<item id="50730013">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_LarvaYellowHelmet.nif" />
+		</environment>
+	</item>
+	<item id="50730014">
+		<environment feature="BattleField56to60">
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_BullAxeBrown.nif" />
+		</environment>
+	</item>
+	<item id="50730015">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_RobotScrapMetalBig03.nif" />
+		</environment>
+	</item>
+	<item id="50730016">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_AliceZombi.nif" />
+		</environment>
+	</item>
+	<item id="50730017">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_PuppetBunny01.nif" />
+		</environment>
+	</item>
+	<item id="50730018">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_PuppetBunnyGreen.nif" />
+		</environment>
+	</item>
+	<item id="50730019">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_DragonDevilBigHeadPurple.nif" />
+		</environment>
+	</item>
+	<item id="50730020">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Broccoli.nif" />
+		</environment>
+	</item>
+	<item id="50730021">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_BearBigLog.nif" />
+		</environment>
+	</item>
+	<item id="50730022">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Lslime.nif" />
+		</environment>
+	</item>
+	<item id="50730023">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_ManoRed.nif" />
+		</environment>
+	</item>
+	<item id="50730024">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_RobotHyperRaceWhite.nif" />
+		</environment>
+	</item>
+	<item id="50730025">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_CerberosTallGreen.nif" />
+		</environment>
+	</item>
+	<item id="50730026">
+		<environment>
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_KnightHollowArmor.nif" />
+		</environment>
+	</item>
+	<item id="50730027">
+		<environment feature="KatvanDungeon">
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_BlackKatvan.nif" />
+		</environment>
+	</item>
+	<item id="50730028">
+		<environment feature="KarkarIsland">
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_LeopardFairyWizardBrown.nif" />
+		</environment>
+	</item>
+	<item id="50730029">
+		<environment feature="KarkarIsland">
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_TigerHugeWildToothWhite.nif" />
+		</environment>
+	</item>
+	<item id="50730030">
+		<environment feature="KarkarIsland">
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_CrowMagicPurple.nif" />
+		</environment>
+	</item>
+	<item id="50730031">
+		<environment feature="KarkarIsland">
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_CardMagicianGold.nif" />
+		</environment>
+	</item>
+	<item id="50730032">
+		<environment feature="KarkarIsland">
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_SkullWizardCaptainGreen.nif" />
+		</environment>
+	</item>
+	<item id="50730033" />
+	<item id="50730035">
+		<environment feature="PirateOcean">
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_mermaid01.nif" />
+		</environment>
+	</item>
+	<item id="50730036">
+		<environment feature="PirateOcean">
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_mermaid02.nif" />
+		</environment>
+	</item>
+	<item id="50730037">
+		<environment feature="DarkCastle">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_ChangeLionBlue.nif" />
+		</environment>
+	</item>
+	<item id="50730038">
+		<environment feature="DarkCastle">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_ChangeLionRed.nif" />
+		</environment>
+	</item>
+	<item id="50730039">
+		<environment feature="DarkCastle">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_BigWingChimera.nif" />
+		</environment>
+	</item>
+	<item id="50730040">
+		<environment feature="PirateOcean">
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_AnchorLizardGreen.nif" />
+		</environment>
+	</item>
+	<item id="50730041" />
+	<item id="50740001">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_DevilHugeRed.nif" />
+		</environment>
+	</item>
+	<item id="50740002">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_SandstoneGiantBlueShine.nif" />
+		</environment>
+	</item>
+	<item id="50740003">
+		<environment feature="Season3">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Balog.nif" />
+		</environment>
+	</item>
+	<item id="50740004">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_TurtleHorn01.nif" />
+		</environment>
+	</item>
+	<item id="50740005">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_TurtleHorn02.nif" />
+		</environment>
+	</item>
+	<item id="50740006">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/co_trophy_temp_A02.nif" />
+		</environment>
+	</item>
+	<item id="50740007">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Griffina.nif" />
+		</environment>
+	</item>
+	<item id="50740008">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Horus.nif" />
+		</environment>
+	</item>
+	<item id="50740009">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_BaphometHuman01.nif" />
+		</environment>
+	</item>
+	<item id="50740010">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_BaphometHuman02.nif" />
+		</environment>
+	</item>
+	<item id="50740011">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_BaphometHumanWhite.nif" />
+		</environment>
+	</item>
+	<item id="50740012">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_SandstoneGiant.nif" />
+		</environment>
+	</item>
+	<item id="50740013">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_SandstoneGiantLast.nif" />
+		</environment>
+	</item>
+	<item id="50740014">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_RobotHyperBoosterWhite.nif" />
+		</environment>
+	</item>
+	<item id="50740015">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_YetiTwoHeadGreen.nif" />
+		</environment>
+	</item>
+	<item id="50740016">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_DevilHugeBrown.nif" />
+		</environment>
+	</item>
+	<item id="50740017">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_RobotHyperBoosterRed.nif" />
+		</environment>
+	</item>
+	<item id="50740018">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_YetiTwoHeadBlack.nif" />
+		</environment>
+	</item>
+	<item id="50740019">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_YetiTwoHeadWhite.nif" />
+		</environment>
+	</item>
+	<item id="50740020">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_DevilHugeBlue.nif" />
+		</environment>
+	</item>
+	<item id="50740021">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_RobotHyperBoosterBlue.nif" />
+		</environment>
+	</item>
+	<item id="50740022">
+		<environment feature="Zakum01">
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_ZakumBrown.nif" />
+		</environment>
+	</item>
+	<item id="50740023">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_CerberosThreeHeadGreen.nif" />
+		</environment>
+	</item>
+	<item id="50740025">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_CaptainHookFish.nif" />
+		</environment>
+	</item>
+	<item id="50740026">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Papulatus.nif" />
+		</environment>
+	</item>
+	<item id="50740027">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_CerberosThreeHeadBrown.nif" />
+		</environment>
+	</item>
+	<item id="50740028">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_LizardDragonFire.nif" />
+		</environment>
+	</item>
+	<item id="50740029">
+		<environment feature="BattleField51to55">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_LizardDragonIce.nif" />
+		</environment>
+	</item>
+	<item id="50740030">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_FrogKingWizardGreen.nif" />
+		</environment>
+	</item>
+	<item id="50740031">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_BullArmorBlue.nif" />
+		</environment>
+	</item>
+	<item id="50740032">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_BullArmorRed.nif" />
+		</environment>
+	</item>
+	<item id="50740033">
+		<environment feature="KarkarIsland">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_BeetleBigYellow.nif" />
+		</environment>
+	</item>
+	<item id="50740034">
+		<environment feature="KarkarIsland">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_PigGoblinHugeWhite.nif" />
+		</environment>
+	</item>
+	<item id="50740035">
+		<environment feature="KarkarIsland">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_DragonLionHornBlue.nif" />
+		</environment>
+	</item>
+	<item id="50740036">
+		<environment feature="KarkarIsland">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_KnightHollowArmorSwordRed.nif" />
+		</environment>
+	</item>
+	<item id="50740037">
+		<environment feature="Barkhant">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_BarkhantBlue.nif" />
+		</environment>
+	</item>
+	<item id="50740038">
+		<environment feature="NutaNuta">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_GGiant.nif" />
+		</environment>
+	</item>
+	<item id="50740039">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Arakia.nif" />
+		</environment>
+	</item>
+	<item id="50740040">
+		<environment feature="ShadowCrack">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Beelzebub.nif" />
+		</environment>
+	</item>
+	<item id="50740041">
+		<environment feature="ShadowCrack">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Mammon.nif" />
+		</environment>
+	</item>
+	<item id="50740042">
+		<environment feature="Kandura">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Kandura.nif" />
+		</environment>
+	</item>
+	<item id="50740043">
+		<environment feature="SnowKingdom">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_SnowKing.nif" />
+		</environment>
+	</item>
+	<item id="50740044">
+		<environment feature="SnowKingdom">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_SnowQueen.nif" />
+		</environment>
+	</item>
+	<item id="50740045">
+		<environment feature="PirateOcean">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Mevidic.nif" />
+		</environment>
+	</item>
+	<item id="50740046" />
+	<item id="50740047">
+		<environment feature="PinkBean01">
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Pinkbean.nif" />
+		</environment>
+	</item>
+	<item id="50740048">
+		<environment feature="BlackBean01">
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_blackbean_A01.nif" />
+		</environment>
+	</item>
+	<item id="50740049">
+		<environment feature="CrimsonBalrog01">
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_CrimsonBalrog.nif" />
+		</environment>
+	</item>
+	<item id="50740050" />
+	<item id="50740051" />
+	<item id="50740052">
+		<environment feature="ChronicleDungeon60_01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_BigWingChimera.nif" />
+		</environment>
+	</item>
+	<item id="50740053">
+		<environment feature="ChronicleDungeon60_01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_SnowKing.nif" />
+		</environment>
+	</item>
+	<item id="50740054">
+		<environment feature="ChronicleDungeon60_01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Pinkbean.nif" />
+		</environment>
+	</item>
+	<item id="50740055">
+		<environment feature="ChronicleDungeon60_01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_mermaid01.nif" />
+		</environment>
+	</item>
+	<item id="50740056">
+		<environment feature="ChronicleDungeon60_01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_mermaid02.nif" />
+		</environment>
+	</item>
+	<item id="50740057">
+		<environment feature="ChronicleDungeon60_01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Mevidic.nif" />
+		</environment>
+	</item>
+	<item id="50740058">
+		<environment feature="ChronicleDungeon60_01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_SnowQueen.nif" />
+		</environment>
+	</item>
+	<item id="50740059">
+		<environment feature="ChronicleDungeon60_01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_ArmorDemonBigHandPurple.nif" />
+		</environment>
+	</item>
+	<item id="50740060">
+		<environment feature="ChronicleDungeon60_01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_ShadowSpiritHandArmor.nif" />
+		</environment>
+	</item>
+	<item id="50740061">
+		<environment feature="ChronicleDungeon60_01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_ChangeLionBlue.nif" />
+		</environment>
+	</item>
+	<item id="50740062">
+		<environment feature="ChronicleDungeon60_01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_ChangeLionRed.nif" />
+		</environment>
+	</item>
+	<item id="50740063">
+		<environment feature="PirateOcean">
+			<property rank="1" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_AnchorLizardGreen.nif" />
+		</environment>
+	</item>
+	<item id="50740064">
+		<environment feature="LapentaDungeon">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Yuperia.nif" />
+		</environment>
+	</item>
+	<item id="50740065">
+		<environment feature="LapentaDungeon">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Renduebian.nif" />
+		</environment>
+	</item>
+	<item id="50740066">
+		<environment feature="LapentaDungeon">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Ishura.nif" />
+		</environment>
+	</item>
+	<item id="50740067">
+		<environment feature="LapentaDungeon">
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" asset="Data/Resource/Model/Map/Common/Etc/trophy_LapentaDungeon.nif" useInstancing="false" />
+		</environment>
+	</item>
+	<item id="50740068">
+		<environment feature="Kritias_Balrog01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Balog_02.nif" />
+		</environment>
+	</item>
+	<item id="50740069">
+		<environment feature="Kritias_Paika01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Paica.nif" />
+		</environment>
+	</item>
+	<item id="50740070">
+		<environment feature="Kritias_Zakum01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" asset="Data/Resource/Model/Map/Common/Etc/trophy_Zakum.nif" useInstancing="false" />
+		</environment>
+	</item>
+	<item id="50740071">
+		<environment feature="Kritias_Inferno01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" asset="Data/Resource/Model/Map/Common/Etc/trophy_Infernok.nif" useInstancing="false" />
+		</environment>
+	</item>
+	<item id="50740072">
+		<environment feature="Colosseum01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" asset="Data/Resource/Model/Map/Common/Etc/trophy_pinkbean_A01.nif" />
+		</environment>
+	</item>
+	<item id="50740073">
+		<environment feature="Colosseum01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" asset="Data/Resource/Model/Map/Common/Etc/trophy_pinkbean_A02.nif" />
+		</environment>
+	</item>
+	<item id="50740074">
+		<environment feature="Colosseum01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" asset="Data/Resource/Model/Map/Common/Etc/trophy_pinkbean_A03.nif" />
+		</environment>
+	</item>
+	<item id="50740075">
+		<environment feature="Kritias_Turka01">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" asset="Data/Resource/Model/Map/Common/Etc/trophy_archeon.nif" />
+		</environment>
+	</item>
+	<item id="50740076">
+		<environment feature="Kritias_Turka02">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" asset="Data/Resource/Model/Map/Common/Etc/trophy_timaion.nif" />
+		</environment>
+	</item>
+	<item id="50740077">
+		<environment feature="Kritias_Turka03">
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" asset="Data/Resource/Model/Map/Common/Etc/trophy_Turka.nif" />
+		</environment>
+	</item>
+	<item id="50750001">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50750001" asset="Data/Resource/Model/Map/Common/Etc/trophy_hunting_achievement01.nif" />
+		</environment>
+	</item>
+	<item id="50750002">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50750002" asset="Data/Resource/Model/Map/Common/Etc/trophy_hunting_achievement02.nif" />
+		</environment>
+	</item>
+	<item id="50750003">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50750003" asset="Data/Resource/Model/Map/Common/Etc/trophy_hunting_achievement03.nif" />
+		</environment>
+	</item>
+	<item id="50750004">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50750004" asset="Data/Resource/Model/Map/Common/Etc/trophy_hunting_achievement04.nif" />
+		</environment>
+	</item>
+	<item id="50750005">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50750005" asset="Data/Resource/Model/Map/Common/Etc/trophy_hunting_achievement05.nif" />
+		</environment>
+	</item>
+	<item id="50760000">
+		<environment feature="ItemKR">
+			<property rank="3" type="6" subtype="5" iconCode="13" itemGroup="2" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50760000" asset="Data/Resource/Model/Map/Common/Etc/Trophy_Event_100Day.nif" />
+		</environment>
+	</item>
+	<item id="50760001">
+		<environment feature="ItemKR">
+			<property rank="3" type="6" subtype="5" iconCode="13" itemGroup="2" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" asset="Data/Resource/Model/Map/Common/Etc/trophy_Event_2015GameContest.nif" />
+		</environment>
+	</item>
+	<item id="50760002">
+		<environment feature="ItemKR">
+			<property rank="3" type="6" subtype="5" iconCode="13" itemGroup="2" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" asset="Data/Resource/Model/Map/Common/Etc/trophy_Event_Reporter.nif" />
+		</environment>
+	</item>
+	<item id="50760003">
+		<environment feature="ItemKR">
+			<property rank="3" type="6" subtype="5" iconCode="13" itemGroup="2" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" objCode="50760003" asset="Data/Resource/Model/Map/Common/Etc/trophy_Event_RedPotion.nif" />
+		</environment>
+	</item>
+	<item id="50760004" />
+	<item id="50760005" />
+	<item id="50760006" />
+	<item id="50760007">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" asset="Data/Resource/Model/Map/Common/Etc/trophy_DuckyBall.nif" useInstancing="false" />
+		</environment>
+	</item>
+	<item id="50760008">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" asset="Data/Resource/Model/Map/Common/Etc/trophy_architect_A01.nif" useInstancing="false" />
+		</environment>
+	</item>
+	<item id="50770000">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" objCode="50770000" asset="Data/Resource/Model/Npc/BG_Obj/trophy_dailyQuest_01.nif" />
+		</environment>
+	</item>
+	<item id="50770001">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" objCode="50770001" asset="Data/Resource/Model/Npc/BG_Obj/trophy_dailyQuest_02.nif" />
+		</environment>
+	</item>
+	<item id="50770002">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" objCode="50770002" asset="Data/Resource/Model/Npc/BG_Obj/trophy_dailyQuest_03.nif" />
+		</environment>
+	</item>
+	<item id="50770003">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" objCode="50770003" asset="Data/Resource/Model/Npc/BG_Obj/trophy_dailyQuest_04.nif" />
+		</environment>
+	</item>
+	<item id="50770004">
+		<environment feature="TimeAttackDungeon">
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50770004" asset="Data/Resource/Model/Map/Common/Etc/trophy_DarkShop_01.nif" />
+		</environment>
+	</item>
+	<item id="50770005">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" asset="Data/Resource/Model/Map/Common/Etc/trophy_Fishing_01.nif" />
+		</environment>
+	</item>
+	<item id="50770006">
+		<environment>
+			<property rank="2" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" objCode="50770006" asset="Data/Resource/Model/Map/Common/Etc/trophy_Music_01.nif" />
+		</environment>
+	</item>
+	<item id="50770007">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50770007" asset="Data/Resource/Model/Map/Common/Etc/trophy_52boss.nif" />
+		</environment>
+	</item>
+	<item id="50770008">
+		<environment>
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50770008" asset="Data/Resource/Model/Map/Common/Etc/trophy_54boss.nif" />
+		</environment>
+	</item>
+	<item id="50770009">
+		<environment feature="TimeAttackDungeon">
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" slotIcon="50770004" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50770009" asset="Data/Resource/Model/Map/Common/Etc/trophy_DarkShop_01.nif" />
+		</environment>
+	</item>
+	<item id="50770010">
+		<environment feature="FameContents_EP1_02">
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" objCode="50770010" asset="Data/Resource/Model/Map/Common/Etc/trophy_Balrog.nif" />
+		</environment>
+	</item>
+	<item id="50770011">
+		<environment feature="DungeonOS01">
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" objCode="50770011" asset="Data/Resource/Model/Map/Common/Etc/trophy_Blueluke.nif" />
+		</environment>
+	</item>
+	<item id="50770012">
+		<environment feature="DungeonOS04">
+			<property rank="3" type="6" subtype="5" iconCode="13" slotMax="999" category="Trophy" blackMarketCategory="13" />
+			<limit transferType="1" />
+			<install placeable="7" space="7" animatable="1" objCode="50770012" asset="Data/Resource/Model/Map/Common/Etc/trophy_Primadonna.nif" />
+		</environment>
+	</item>
+</ms2>

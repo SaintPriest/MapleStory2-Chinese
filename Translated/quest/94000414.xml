@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Fame_Geo01">
+		<quest>
+			<basic questID="94000414" questType="9" chapterID="10021" standardLevel="75" disableGiveup="1" repeatable="3" usePeriod="Fri" useNavi="TRUE" alliance="Georg" rank="A" />
+			<require level="75" quest="91001010" alliance="Georg" />
+			<complete npc="11004395" />
+			<completeReward relativeExp="quest" useMainFamePoint="2" rewardExpExtra="2">
+				<essentialItem code="30001376" rank="1" count="200" />
+			</completeReward>
+			<progressMap progressMap="52100114,52100116" />
+			<condition type="npc" code="25022902" value="10">
+				<navi map="52100114" type="npc" code="25022902" />
+			</condition>
+			<condition type="npc" code="25022903" value="10">
+				<navi map="52100114" type="npc" code="25022903" />
+			</condition>
+			<condition type="npc" code="25023102" value="10">
+				<navi map="52100116" type="npc" code="25023102" />
+			</condition>
+		</quest>
+	</environment>
+</ms2>

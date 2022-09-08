@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Striker">
+		<quest>
+			<basic questID="90000434" chapterID="9044" standardLevel="1" disableGiveup="1" useNavi="FALSE" />
+			<require level="1" job="100" quest="90000433" />
+			<start npc="11001546" />
+			<complete npc="11001546" />
+			<completeReward exp="72" relativeExp="epicQuest" />
+			<progressMap progressMap="02000138" />
+			<condition type="interact_object" code="10001000" value="2" />
+		</quest>
+	</environment>
+</ms2>

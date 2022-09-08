@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="EyeOfLapentaQuest">
+		<quest>
+			<basic questID="50100780" chapterID="4091" standardLevel="60" disableGiveup="1" useNavi="FALSE" />
+			<require level="60" quest="50100770" />
+			<dispatch type="directAccept" field="2020147" portal="1" />
+			<start npc="11004108" />
+			<complete npc="11004106" />
+			<completeReward exp="11468984" relativeExp="epicQuest" money="8500">
+				<essentialItem code="33000315" rank="6" count="200" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000496" />
+			<gotoDungeon state="1" gotoInstanceID="1100015" />
+			<condition type="trigger" code="IshuraFinalDungeonClear_Quest" value="1" />
+		</quest>
+	</environment>
+</ms2>

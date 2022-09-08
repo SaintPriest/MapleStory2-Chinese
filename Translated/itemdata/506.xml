@@ -1,0 +1,2309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<item id="50600001">
+		<environment>
+			<property rank="1" type="9" iconCode="14" param1="21000021" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600002">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="21000066" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600003">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="21000063" category="Mide" blackMarketCategory="14" />
+		</environment>
+	</item>
+	<item id="50600004">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="59000001" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600005">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="21000023" category="Mide" blackMarketCategory="14" />
+		</environment>
+	</item>
+	<item id="50600006">
+		<environment>
+			<property rank="1" type="9" iconCode="14" param1="21000025" category="Mide" blackMarketCategory="14" />
+		</environment>
+	</item>
+	<item id="50600007">
+		<environment>
+			<property rank="1" type="9" iconCode="14" param1="21000027" category="Mide" blackMarketCategory="14" />
+		</environment>
+	</item>
+	<item id="50600008">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="59000002" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600009">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="59000003" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600010">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="21000062" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600011">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="21000064" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600012">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="21000052" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600013">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="21000053" category="Mide" blackMarketCategory="14" />
+		</environment>
+	</item>
+	<item id="50600014">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="21000054" category="Mide" blackMarketCategory="14" />
+		</environment>
+	</item>
+	<item id="50600015">
+		<environment>
+			<property rank="1" type="9" iconCode="14" param1="21000022" category="Mide" blackMarketCategory="14" />
+		</environment>
+	</item>
+	<item id="50600016">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="21000024" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600017">
+		<environment>
+			<property rank="1" type="9" iconCode="14" param1="21000026" category="Mide" blackMarketCategory="14" />
+		</environment>
+	</item>
+	<item id="50600018">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="21000249" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600019">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="21000067" category="Mide" blackMarketCategory="14" />
+		</environment>
+	</item>
+	<item id="50600020">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="21000250" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600021">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="21000251" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600022">
+		<environment>
+			<property rank="1" type="9" iconCode="14" param1="21000252" category="Mide" blackMarketCategory="14" />
+		</environment>
+	</item>
+	<item id="50600023">
+		<environment>
+			<property rank="1" type="9" iconCode="14" param1="21000253" category="Mide" blackMarketCategory="14" />
+		</environment>
+	</item>
+	<item id="50600024">
+		<environment>
+			<property rank="1" type="9" iconCode="14" param1="21000254" category="Mide" blackMarketCategory="14" />
+		</environment>
+	</item>
+	<item id="50600025">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="21000266" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600026">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="21000267" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600027">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="21000268" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600028">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="21000269" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600029">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="21000270" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600030">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="21000271" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600031">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="91000037" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600032">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="22000038" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600033">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="21400036" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600034">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="21000109" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600035">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="21000110" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600036">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="21000111" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600037">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="21000112" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600038">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="59000004" category="Bide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600039">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="59000005" category="Bide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600040">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="59000006" category="Bide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600041">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600041" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600042">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600042" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600043">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600043" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600044">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600044" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600045">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600045" category="Jide" blackMarketCategory="14" />
+			<ucc mesh="UGC" />
+			<limit transferType="1" enableRegisterMeratMarket="1" />
+		</environment>
+	</item>
+	<item id="50600046">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="21000301" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600047">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="21000302" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600048">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="21000303" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600049">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600049" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600050">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600050" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600051">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600051" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600052">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600052" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600053">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600053" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600054">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600054" category="Jide" blackMarketCategory="14" />
+			<ucc mesh="UGC" />
+			<limit transferType="1" enableRegisterMeratMarket="1" />
+		</environment>
+	</item>
+	<item id="50600055">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600055" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600056">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600056" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600057">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600057" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600058">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600058" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600059">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600059" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600060">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600060" category="Jide" blackMarketCategory="14" />
+			<ucc mesh="UGC" />
+			<limit transferType="1" enableRegisterMeratMarket="1" />
+		</environment>
+	</item>
+	<item id="50600061">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600061" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600062">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600062" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600063">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600063" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600064">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600064" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600065">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600065" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600066">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600066" category="Jide" blackMarketCategory="14" />
+			<ucc mesh="UGC_Design_Bonito_01_gloss" />
+			<limit transferType="1" enableRegisterMeratMarket="1" />
+		</environment>
+	</item>
+	<item id="50600067">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600067" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600068">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600068" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600069">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600069" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600070">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600070" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600071">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="90000071" category="Jide" blackMarketCategory="14" />
+			<life usePeriod="1440" />
+			<limit transferType="1" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="50600072">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600072" category="Jide" blackMarketCategory="14" />
+			<ucc mesh="UGC_Design_Intimo_01" />
+			<limit transferType="1" enableRegisterMeratMarket="1" />
+		</environment>
+	</item>
+	<item id="50600073">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600073" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600074">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600074" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600075">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600075" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600076">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600076" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600077">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600077" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600078">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600078" category="Jide" blackMarketCategory="14" />
+			<ucc mesh="UGC" />
+			<limit transferType="1" enableRegisterMeratMarket="1" />
+		</environment>
+	</item>
+	<item id="50600079">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600079" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600080">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600080" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600081">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600081" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600082">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600082" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600083">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600083" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600084">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600084" category="Jide" blackMarketCategory="14" />
+			<ucc mesh="UGC_Design_F1RacingCar_01" />
+			<limit transferType="1" enableRegisterMeratMarket="1" />
+		</environment>
+	</item>
+	<item id="50600085">
+		<environment>
+			<property rank="1" type="9" iconCode="14" itemGroup="3" param1="50600085" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600086">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="59000007" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600087">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="90000058" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600088">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="90000064" category="Jide" blackMarketCategory="14" />
+			<life usePeriod="1440" />
+			<limit transferType="1" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="50600089">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600089" category="Jide" blackMarketCategory="14" />
+			<ucc mesh="UGC" />
+			<life usePeriod="10080" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600090">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600090" category="Jide" blackMarketCategory="14" />
+			<ucc mesh="UGC" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600091">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600091" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600092">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600092" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600093">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600093" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600094">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600094" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600095">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600095" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600096">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600096" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600097">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="59000097" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600098">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="21000054" slotIcon="50600014" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600099">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="59000099" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600100">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="59000100" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600101">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="59000101" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600102">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="59000102" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600103">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="59000103" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600104">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="50600104" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600105">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="50600105" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600106">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="90000058" slotIcon="50600058" category="Jide" blackMarketCategory="14" />
+			<life usePeriod="10080" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600107">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="90000064" slotIcon="50600088" category="Jide" blackMarketCategory="14" />
+			<life usePeriod="10080" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600108">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600108" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600109">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600109" category="Jide" blackMarketCategory="14" />
+			<life usePeriod="10080" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600110">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600110" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600111">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600111" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600112">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600112" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600113">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600113" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600114">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600114" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600115">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600115" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600116">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600116" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600117">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600117" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600118">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600118" category="Ride" blackMarketCategory="14" />
+			<life usePeriod="4320" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600119">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600118" slotIcon="50600118" category="Ride" blackMarketCategory="14" />
+			<life usePeriod="10080" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600120">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600118" slotIcon="50600118" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600121">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600121" category="Ride" blackMarketCategory="14" />
+			<life usePeriod="4320" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600122">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600121" slotIcon="50600121" category="Ride" blackMarketCategory="14" />
+			<life usePeriod="10080" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600123">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600121" slotIcon="50600121" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600124">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600124" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600125">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="21000407" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600126">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600126" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600127">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600127" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600128">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600128" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" globalTransferType="2" />
+		</environment>
+	</item>
+	<item id="50600129">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600129" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600130">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600130" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600131">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600131" category="Ride" blackMarketCategory="14" movie="Item/50600131.usm" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600132">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600132" category="Ride" blackMarketCategory="14" movie="Item/50600132.usm" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600133">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600133" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600134">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600134" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600135">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600135" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600136">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600136" slotIcon="50600058" category="Jide" blackMarketCategory="14" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600137">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600137" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600138">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600138" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600139">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600139" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600140">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="90000071" slotIcon="50600071" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600141">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600141" slotIcon="50600088" category="Jide" blackMarketCategory="14" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600142">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600142" category="Mide" blackMarketCategory="14" />
+			<limit transferType="5" globalTransferType="3" />
+		</environment>
+	</item>
+	<item id="50600143">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600143" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600144">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600144" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600145">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600145" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600146">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600146" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600147">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600147" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600148">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600148" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600149">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600149" slotIcon="50600146" category="Jide" blackMarketCategory="14" />
+			<life usePeriod="4320" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600150">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600150" slotIcon="50600147" category="Jide" blackMarketCategory="14" />
+			<life usePeriod="4320" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600151">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600151" slotIcon="50600148" category="Jide" blackMarketCategory="14" />
+			<life usePeriod="4320" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600152">
+		<environment>
+			<property rank="1" type="9" iconCode="14" param1="50600152" slotIcon="50600071" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600153">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600153" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600154">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600154" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600155">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600155" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600156">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600156" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600157">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="50600157" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600158">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600158" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600159">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600159" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600160">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600160" slotIcon="50600159" category="Mide" blackMarketCategory="14" />
+			<life usePeriod="40320" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600161">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600161" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600163">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600163" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600164">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600164" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600165">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600165" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600166">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600166" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600167">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600167" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600168">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600168" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600169">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600169" slotIcon="50600138" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600170">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600170" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600171">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600171" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600172">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600172" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600173">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600173" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600174">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600174" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600175">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="50600175" category="Jide" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+		<environment feature="ItemKR">
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600175" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600176">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600176" slotIcon="50600158" category="Ride" blackMarketCategory="14" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600177">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="50600105" slotIcon="50600105" category="Mide" blackMarketCategory="14" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600178">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="90000071" slotIcon="50600071" category="Jide" blackMarketCategory="14" />
+			<life usePeriod="1440" />
+			<limit transferType="1" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="50600179">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600143" slotIcon="50600143" category="Jide" blackMarketCategory="14" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600180">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600146" slotIcon="50600146" category="Jide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600181">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600147" slotIcon="50600147" category="Jide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600182">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600148" slotIcon="50600148" category="Jide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600183">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600183" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600184">
+		<environment>
+			<property rank="1" type="9" iconCode="14" param1="21000022" slotIcon="50600015" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600185">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="50600185" category="Mide" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600186">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600186" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600187">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600187" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600188">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600188" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600189">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600189" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" globalTransferType="3" />
+		</environment>
+	</item>
+	<item id="50600190">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600190" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600191">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600191" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600192">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600192" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600193">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="50600193" slotIcon="61000009" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600194">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600194" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" globalTransferType="2" />
+		</environment>
+	</item>
+	<item id="50600195">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600195" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600196">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600167" slotIcon="50600167" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600197">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600197" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" globalTransferType="2" />
+		</environment>
+	</item>
+	<item id="50600198">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600198" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" globalTransferType="1" />
+		</environment>
+	</item>
+	<item id="50600199">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600199" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600200">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600200" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600201">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600201" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" globalTransferType="1" />
+		</environment>
+	</item>
+	<item id="50600202">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600202" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600203">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600203" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600204">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600204" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600205">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600205" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600206">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600206" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600207">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600207" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600208">
+		<environment>
+			<property rank="3" type="9" subtype="1" iconCode="14" param1="50600208" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600209">
+		<environment>
+			<property rank="3" type="9" subtype="1" iconCode="14" param1="50600209" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600210">
+		<environment>
+			<property rank="3" type="9" subtype="1" iconCode="14" param1="50600210" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600211">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600205" slotIcon="50600205" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600212">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600189" slotIcon="50600189" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600214">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600214" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600215">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600215" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600216">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600216" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600217">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600217" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600218">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="2" param1="50600218" category="Mide" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600219">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600219" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600220">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600220" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600221">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600221" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600222">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600222" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600223">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600223" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600224">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600224" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600225">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="50600225" slotIcon="50600154" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600226">
+		<environment>
+			<property rank="1" type="9" iconCode="14" param1="21000021" slotIcon="50600001" category="Mide" blackMarketCategory="14" />
+			<life usePeriod="10080" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600227">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600227" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" globalTransferType="1" />
+		</environment>
+	</item>
+	<item id="50600228">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600228" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600229">
+		<environment>
+			<property rank="3" type="5" iconCode="44" itemGroup="2" param1="80010060" category="SKB" blackMarketCategory="44" movie="Item/50600229_FlyingFanGreen.usm" />
+			<limit transferType="1" />
+			<material ui="10" />
+		</environment>
+	</item>
+	<item id="50600230">
+		<environment>
+			<property rank="3" type="9" subtype="1" iconCode="14" itemGroup="2" param1="50600230" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600231">
+		<environment>
+			<property rank="1" type="9" iconCode="14" itemGroup="2" param1="50600231" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600232">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600232" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600233">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600233" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" globalTransferType="2" />
+		</environment>
+	</item>
+	<item id="50600234">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="2" param1="50600218" slotIcon="50600218" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600235">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="50600235" slotIcon="50600212" category="Jide" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600236">
+		<environment>
+			<property rank="3" type="9" subtype="1" iconCode="14" itemGroup="2" param1="50600236" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600237">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600237" category="Mide" blackMarketCategory="14" />
+			<limit transferType="3" globalTransferType="2" />
+		</environment>
+	</item>
+	<item id="50600238">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600238" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600239">
+		<environment feature="WorldChampionMushroom">
+			<property rank="4" type="9" iconCode="14" param1="50600239" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600240">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600240" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" globalTransferType="2" />
+		</environment>
+	</item>
+	<item id="50600241">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600241" category="Mide" blackMarketCategory="14" />
+			<limit transferType="3" globalTransferType="2" />
+		</environment>
+	</item>
+	<item id="50600242">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600242" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600243">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600243" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600244">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600244" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600245">
+		<environment>
+			<property rank="3" type="9" subtype="1" iconCode="14" itemGroup="2" param1="50600245" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600246">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="2" param1="50600246" category="Mide" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600247">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600247" category="Ride" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600248">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600248" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600249">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600241" slotIcon="50600241" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600250">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600250" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600251">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600251" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600252">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600252" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600253">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600253" category="Mide" blackMarketCategory="14" />
+			<limit transferType="3" globalTransferType="2" />
+		</environment>
+	</item>
+	<item id="50600254">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600254" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600255">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600255" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600256">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600256" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" globalTransferType="2" />
+		</environment>
+	</item>
+	<item id="50600257">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600257" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600258">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600258" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600259">
+		<environment>
+			<property rank="3" type="9" iconCode="14" param1="50600259" slotIcon="50600212" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600260">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600260" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600261">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600261" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600262">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600262" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600263" />
+	<item id="50600264" />
+	<item id="50600265" />
+	<item id="50600266" />
+	<item id="50600267">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600267" category="Mide" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600268">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600268" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" globalTransferType="1" />
+		</environment>
+	</item>
+	<item id="50600269">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600269" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600270">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600270" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600271">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600253" slotIcon="50600253" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600272" />
+	<item id="50600273" />
+	<item id="50600274">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600240" slotIcon="50600240" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600275">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600256" slotIcon="50600256" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600276">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600276" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600277">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600233" slotIcon="50600233" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600278">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600278" category="Jide" blackMarketCategory="14" />
+			<ucc mesh="UGC_Design_CamperVan_ref2" />
+			<limit transferType="1" enableRegisterMeratMarket="1" />
+		</environment>
+	</item>
+	<item id="50600279">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600279" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600280">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600280" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600281">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600281" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600282">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600280" slotIcon="50600280" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600283">
+		<environment feature="ItemKR">
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600283" slotIcon="50600166" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600284">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600284" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600285">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="2" param1="50600285" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" globalTransferType="2" />
+		</environment>
+	</item>
+	<item id="50600286">
+		<environment feature="Kritias_2018_12">
+			<property rank="4" type="9" iconCode="14" param1="50600286" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600287">
+		<environment feature="Kritias_2018_12">
+			<property rank="4" type="9" iconCode="14" param1="50600287" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600288">
+		<environment feature="Kritias_2018_12">
+			<property rank="4" type="9" iconCode="14" param1="50600288" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600289">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600289" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600290">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600290" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600291">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600291" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600292">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600292" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600293">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600293" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600294">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600294" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600295">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600295" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600296">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600296" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600297">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600297" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" globalTransferType="2" />
+		</environment>
+	</item>
+	<item id="50600298">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600298" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600299">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600299" slotIcon="50600299" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" globalTransferType="2" />
+		</environment>
+	</item>
+	<item id="50600300">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600294" slotIcon="50600294" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600301">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600301" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" globalTransferType="2" />
+		</environment>
+	</item>
+	<item id="50600302">
+		<environment feature="Kritias_2018_12">
+			<property rank="4" type="9" iconCode="14" param1="50600302" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600303">
+		<environment feature="Kritias_2018_12">
+			<property rank="3" type="9" iconCode="14" param1="50600303" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600304">
+		<environment feature="Kritias_2018_12">
+			<property rank="3" type="9" iconCode="14" param1="50600304" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600305">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600305" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600306">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="2" param1="50600306" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600307">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600299" slotIcon="50600299" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600308">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600308" slotIcon="50600308" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600309">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600309" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600310">
+		<environment feature="22_02">
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600310" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600311">
+		<environment feature="22_04">
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600311" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600312">
+		<environment feature="22_04">
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600312" slotIcon="50600312" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+			<tool itemPreset="50620014" />
+		</environment>
+	</item>
+	<item id="50600313">
+		<environment feature="22_05">
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600307" slotIcon="50600307" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600314">
+		<environment>
+			<property rank="3" type="9" subtype="1" iconCode="14" itemGroup="2" param1="50600314" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600315">
+		<environment feature="22_09">
+			<property rank="4" type="5" iconCode="44" itemGroup="2" param1="80010155" category="SKB" blackMarketCategory="44" />
+			<limit transferType="1" />
+			<material ui="10" />
+		</environment>
+	</item>
+	<item id="50600316">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600316" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600317">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600317" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600318">
+		<environment>
+			<property rank="3" type="9" iconCode="14" itemGroup="3" param1="50600318" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600319">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600319" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600320">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600320" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600321">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600321" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600322">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600322" category="Ride" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600323">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600323" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600324">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600324" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600325">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600325" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600326">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600242" slotIcon="50600242" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600327">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600327" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600328">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600328" category="Mide" blackMarketCategory="14" />
+			<limit transferType="3" />
+		</environment>
+	</item>
+	<item id="50600329">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600329" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600330">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600330" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600331">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600331" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600332">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600332" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600333">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600328" slotIcon="50600328" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600334">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600330" slotIcon="50600330" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600335">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600335" category="Mide" blackMarketCategory="14" />
+			<limit transferType="2" />
+		</environment>
+	</item>
+	<item id="50600336">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600280" slotIcon="50600280" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600337">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600337" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600338">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600338" slotIcon="50600052" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600339">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600339" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600340">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600340" slotIcon="50600340" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600341">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600241" slotIcon="50600241" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50600342">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600337" slotIcon="50600337" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610001">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600309" slotIcon="50600309" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610002">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600324" slotIcon="50600324" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610003">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600325" slotIcon="50600325" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610004">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50610004" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610005">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50610005" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610006">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50610006" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610007">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50610007" slotIcon="50600298" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610008">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600293" slotIcon="50600293" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610009">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600293" slotIcon="50600293" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610010">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600269" slotIcon="50600269" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610011">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600292" slotIcon="50600292" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610012">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600292" slotIcon="50600292" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610013">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50610013" slotIcon="50600334" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610014">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600194" slotIcon="50600194" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610015">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600198" slotIcon="50600198" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610016">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50600251" slotIcon="50600251" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610017">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50610017" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610018">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50610018" slotIcon="50600146" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610019">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50610019" slotIcon="50600147" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610020">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50610020" slotIcon="50600148" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610021">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="2" param1="50600194" slotIcon="50600194" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610022">
+		<environment feature="ItemKR">
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50610004" slotIcon="50610004" category="Ride" blackMarketCategory="14" />
+			<life usePeriod="10080" />
+			<limit transferType="1" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="50610023">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50610018" slotIcon="50600146" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610024">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50610019" slotIcon="50600147" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50610025">
+		<environment>
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50610020" slotIcon="50600148" category="Jide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620001">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600330" slotIcon="50600330" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620002">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600296" slotIcon="50600296" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620003">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600331" slotIcon="50600331" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620004">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50620004" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620005">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50620005" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620006">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50620006" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620007">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50620007" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620008">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50620008" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620009">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50620009" slotIcon="50620009" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620010">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50620010" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620011">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50620011" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620012">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50620012" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620013">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50620013" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620014">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600238" slotIcon="50600238" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620015">
+		<environment>
+			<property rank="4" type="9" iconCode="14" param1="50600114" slotIcon="50600114" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620016">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="2" param1="50600246" slotIcon="50600246" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620017">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50620004" slotIcon="50620004" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620237">
+		<environment>
+			<property rank="4" type="9" subtype="1" iconCode="14" itemGroup="3" param1="50600237" slotIcon="50600237" category="Mide" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="50620238">
+		<environment feature="22_09">
+			<property rank="4" type="9" iconCode="14" itemGroup="3" param1="50620238" slotIcon="50620238" category="Ride" blackMarketCategory="14" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+</ms2>

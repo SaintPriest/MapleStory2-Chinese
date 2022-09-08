@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Kritias_2018_12">
+		<quest>
+			<basic questID="94000246" questType="9" chapterID="10014" standardLevel="70" repeatable="3" usePeriod="fri" useNavi="FALSE" alliance="MapleUnion_KritiasExped" rank="A" />
+			<require level="70" quest="50101050" groupID="94040" alliance="MapleUnion_KritiasExped" unrequireGroup="94050,94060" />
+			<complete npc="11004312" />
+			<completeReward relativeExp="quest" useMainFamePoint="2" rewardExpExtra="2">
+				<essentialItem code="30001281" rank="1" count="200" />
+				<essentialItem code="30001293" rank="4" count="1600" />
+				<essentialItem code="41000061" rank="3" count="2" />
+			</completeReward>
+			<progressMap progressMap="02020051" />
+			<condition type="npc" code="23001006" value="3" />
+		</quest>
+	</environment>
+</ms2>

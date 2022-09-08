@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffType="2" buffSubType="4" durationTick="150" intervalTick="100" resetCondition="1" dotCondition="1" />
+		<MotionProperty IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" abnormalImmuneBreak="99" />
+		<ModifyOverlapCountProperty effectCodes="49288005,49288007" offsetCounts="-2,-2" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Bleed.png" iconOnOff="0" />
+	</level>
+</ms2>

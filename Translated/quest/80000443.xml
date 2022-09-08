@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment locale="KR">
+		<quest>
+			<basic questID="80000443" questType="2" chapterID="8126" account="2" standardLevel="50" usePeriod="4320" eventTag="20180511_MushkingKR" useNavi="FALSE" />
+			<require level="50" groupID="8126" dayOfWeek="1,6,7" />
+			<start npc="11001002" />
+			<complete npc="11001002" />
+			<completeReward>
+				<essentialItem code="20301482" rank="1" count="1" />
+				<essentialItem code="50200897" rank="1" count="1" />
+			</completeReward>
+			<condition type="map" code="2000423" />
+		</quest>
+	</environment>
+</ms2>

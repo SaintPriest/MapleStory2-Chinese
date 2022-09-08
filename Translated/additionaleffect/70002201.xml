@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" durationTick="99999000" attackPossibleSkillIDs="9901027,99901028" />
+		<MotionProperty keepEffect="Additional/Defense/Eff_Additional_Shield_Keep_03.xml" abnormalImmuneBreak="5" />
+		<UIProperty icon="./Data/Resource/Image/Skill/icon/MonsterInvincible.png" isHideCooltime="1" />
+	</level>
+</ms2>

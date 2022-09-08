@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Season1">
+		<quest>
+			<basic questID="10003063" chapterID="240" standardLevel="24" autoStart="1" locking="1" useNavi="FALSE" />
+			<require level="24" quest="10001390" />
+			<start npc="11000007" />
+			<complete npc="11000007" />
+			<completeReward exp="205298" relativeExp="epicQuest" money="3100">
+				<essentialItem code="20000023" rank="1" count="5" />
+				<essentialItem code="20000029" rank="1" count="5" />
+				<globalEssentialItem code="20000023" rank="1" count="3" />
+				<globalEssentialItem code="20000029" rank="1" count="3" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000087" />
+			<gotoNpc enable="1" gotoField="2000146" gotoPortal="11" />
+			<gotoDungeon state="1" gotoDungeon="25002001" />
+			<condition type="trigger" code="ClearSavetheChicken" />
+		</quest>
+	</environment>
+</ms2>

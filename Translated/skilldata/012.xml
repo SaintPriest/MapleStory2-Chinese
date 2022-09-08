@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<skill id="1200001" comment="오브">
+		<basic mainType="1">
+			<ui attackType="2" />
+			<kinds rangeType="2" jump="1200011" />
+			<stateAttr autoTargetingType="1" keyIsDown="1" clearCooldownFromPVPZone="1" ignoreReduceCooldown="1" />
+			<changeSkill changeSkillCheckEffectID="11100001,11100002,11100003,11100004" changeSkillCheckEffectLevel="0,0,0,0" changeSkillCheckEffectOverlapCount="1,1,1,1" changeSkillID="1200002,1200003,1200004,1200005" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="150" />
+			<condition>
+				<weapon lh="0" rh="56" />
+			</condition>
+		</basic>
+		<level value="1" cooldown="500">
+			<motion sequenceName="Orb_Attack_01_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Weapon/Orb/Eff_Orb_Attack01_Cast_01.xml">
+				<attack point="p0" targetCount="1" magicPathID="1200001" attacktype="2" attackMethodType="1" hitImmuneBreak="1" brokenOffence="1" unrideOnHit="1">
+					<range rangeType="frustum" distance="800" height="150" width="150" endWidth="900" applyTarget="1" />
+					<arrow rayPhysxTest="1" nonTarget="1" collision="50,25,25" collisionAdd="0,25,25" effect="CH/Weapon/Orb/Eff_Orb_Attack01_Ball_01.xml" effectRemain="CH/Weapon/Orb/Eff_Orb_Attack01_Remain_01.xml" effectDestroy="CH/Weapon/Orb/Eff_Orb_Attack01_Destroy_01.xml" />
+					<damage rate="0.21" effectHit="CH/Weapon/Orb/Eff_Orb_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+	<skill id="1200002" originID="1200001" comment="오브">
+		<basic mainType="1">
+			<ui attackType="2" />
+			<kinds rangeType="2" jump="1200012" />
+			<stateAttr autoTargetingType="1" keyIsDown="1" clearCooldownFromPVPZone="1" ignoreReduceCooldown="1" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="150" />
+			<condition>
+				<weapon lh="0" rh="56" />
+			</condition>
+		</basic>
+		<level value="1" cooldown="500">
+			<motion sequenceName="Orb_Attack_01_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Weapon/Orb/Eff_Orb2_Attack01_Cast_01.xml">
+				<attack point="p0" targetCount="2" magicPathID="1200002" attacktype="2" attackMethodType="1" hitImmuneBreak="1" brokenOffence="1" unrideOnHit="1">
+					<range rangeType="frustum" distance="800" height="150" width="150" endWidth="900" applyTarget="1" />
+					<arrow rayPhysxTest="1" nonTarget="1" collision="50,25,25" collisionAdd="0,25,25" effect="CH/Weapon/Orb/Eff_Orb_Attack01_Ball_01.xml" effectRemain="CH/Weapon/Orb/Eff_Orb_Attack01_Remain_01.xml" effectDestroy="CH/Weapon/Orb/Eff_Orb_Attack01_Destroy_01.xml" />
+					<damage rate="0.21" effectHit="CH/Weapon/Orb/Eff_Orb_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+	<skill id="1200003" originID="1200001" comment="오브">
+		<basic mainType="1">
+			<ui attackType="2" />
+			<kinds rangeType="2" jump="1200013" />
+			<stateAttr autoTargetingType="1" keyIsDown="1" clearCooldownFromPVPZone="1" ignoreReduceCooldown="1" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="150" />
+			<condition>
+				<weapon lh="0" rh="56" />
+			</condition>
+		</basic>
+		<level value="1" cooldown="500">
+			<motion sequenceName="Orb_Attack_01_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Weapon/Orb/Eff_Orb3_Attack01_Cast_01.xml">
+				<attack point="p0" targetCount="3" magicPathID="1200003" attacktype="2" attackMethodType="1" hitImmuneBreak="1" brokenOffence="1" unrideOnHit="1">
+					<range rangeType="frustum" distance="800" height="150" width="150" endWidth="900" applyTarget="1" />
+					<arrow rayPhysxTest="1" nonTarget="1" collision="50,25,25" collisionAdd="0,25,25" effect="CH/Weapon/Orb/Eff_Orb_Attack01_Ball_01.xml" effectRemain="CH/Weapon/Orb/Eff_Orb_Attack01_Remain_01.xml" effectDestroy="CH/Weapon/Orb/Eff_Orb_Attack01_Destroy_01.xml" />
+					<damage rate="0.21" effectHit="CH/Weapon/Orb/Eff_Orb_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+	<skill id="1200004" originID="1200001" comment="오브">
+		<basic mainType="1">
+			<ui attackType="2" />
+			<kinds rangeType="2" jump="1200014" />
+			<stateAttr autoTargetingType="1" keyIsDown="1" clearCooldownFromPVPZone="1" ignoreReduceCooldown="1" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="150" />
+			<condition>
+				<weapon lh="0" rh="56" />
+			</condition>
+		</basic>
+		<level value="1" cooldown="500">
+			<motion sequenceName="Orb_Attack_01_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Weapon/Orb/Eff_Orb4_Attack01_Cast_01.xml">
+				<attack point="p0" targetCount="4" magicPathID="1200004" attacktype="2" attackMethodType="1" hitImmuneBreak="1" brokenOffence="1" unrideOnHit="1">
+					<range rangeType="frustum" distance="800" height="150" width="150" endWidth="900" applyTarget="1" />
+					<arrow rayPhysxTest="1" nonTarget="1" collision="50,25,25" collisionAdd="0,25,25" effect="CH/Weapon/Orb/Eff_Orb_Attack01_Ball_01.xml" effectRemain="CH/Weapon/Orb/Eff_Orb_Attack01_Remain_01.xml" effectDestroy="CH/Weapon/Orb/Eff_Orb_Attack01_Destroy_01.xml" />
+					<damage rate="0.21" effectHit="CH/Weapon/Orb/Eff_Orb_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+	<skill id="1200005" originID="1200001" comment="오브">
+		<basic mainType="1">
+			<ui attackType="2" />
+			<kinds rangeType="2" jump="1200015" />
+			<stateAttr autoTargetingType="1" keyIsDown="1" clearCooldownFromPVPZone="1" ignoreReduceCooldown="1" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="150" />
+			<condition>
+				<weapon lh="0" rh="56" />
+			</condition>
+		</basic>
+		<level value="1" cooldown="500">
+			<motion sequenceName="Orb_Attack_01_A" selfInputCombo="selfinputcombo" strTagEffects="e0=CH/Weapon/Orb/Eff_Orb5_Attack01_Cast_01.xml">
+				<attack point="p0" targetCount="5" magicPathID="1200005" attacktype="2" attackMethodType="1" hitImmuneBreak="1" brokenOffence="1" unrideOnHit="1">
+					<range rangeType="frustum" distance="800" height="150" width="150" endWidth="900" applyTarget="1" />
+					<arrow rayPhysxTest="1" nonTarget="1" collision="50,25,25" collisionAdd="0,25,25" effect="CH/Weapon/Orb/Eff_Orb_Attack01_Ball_01.xml" effectRemain="CH/Weapon/Orb/Eff_Orb_Attack01_Remain_01.xml" effectDestroy="CH/Weapon/Orb/Eff_Orb_Attack01_Destroy_01.xml" />
+					<damage rate="0.21" effectHit="CH/Weapon/Orb/Eff_Orb_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+	<skill id="1200011" comment="오브">
+		<basic mainType="1">
+			<ui attackType="2" />
+			<kinds rangeType="2" />
+			<stateAttr autoTargetingType="1" ignoreReduceCooldown="1" />
+			<changeSkill changeSkillCheckEffectID="11100001,11100002,11100003,11100004" changeSkillCheckEffectLevel="0,0,0,0" changeSkillCheckEffectOverlapCount="1,1,1,1" changeSkillID="1200012,1200013,1200014,1200015" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="150" />
+			<condition>
+				<weapon lh="0" rh="56" />
+			</condition>
+		</basic>
+		<level value="1" cooldown="500">
+			<motion sequenceName="Orb_Jump_Attack_A" strTagEffects="e0=CH/Weapon/Orb/Eff_Orb_JumpAttack_Cast_01.xml">
+				<attack point="p0" targetCount="1" magicPathID="1200001" attacktype="2" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" unrideOnHit="1">
+					<range rangeType="frustum" distance="800" rangeAdd="0,0,120" height="150" width="150" endWidth="900" applyTarget="1" />
+					<arrow rayPhysxTest="1" nonTarget="1" collision="50,25,25" collisionAdd="0,25,25" effect="CH/Weapon/Orb/Eff_Orb_Attack01_Ball_01.xml" effectRemain="CH/Weapon/Orb/Eff_Orb_Attack01_Remain_01.xml" effectDestroy="CH/Weapon/Orb/Eff_Orb_Attack01_Destroy_01.xml" />
+					<damage rate="0.21" effectHit="CH/Weapon/Orb/Eff_Orb_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+	<skill id="1200012" originID="1200011" comment="오브">
+		<basic mainType="1">
+			<ui attackType="2" />
+			<kinds rangeType="2" />
+			<stateAttr autoTargetingType="1" ignoreReduceCooldown="1" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="150" />
+			<condition>
+				<weapon lh="0" rh="56" />
+			</condition>
+		</basic>
+		<level value="1" cooldown="500">
+			<motion sequenceName="Orb_Jump_Attack_A" strTagEffects="e0=CH/Weapon/Orb/Eff_Orb2_JumpAttack_Cast_01.xml">
+				<attack point="p0" targetCount="2" magicPathID="1200002" attacktype="2" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" unrideOnHit="1">
+					<range rangeType="frustum" distance="800" rangeAdd="0,0,120" height="150" width="150" endWidth="900" applyTarget="1" />
+					<arrow rayPhysxTest="1" nonTarget="1" collision="50,25,25" collisionAdd="0,25,25" effect="CH/Weapon/Orb/Eff_Orb_Attack01_Ball_01.xml" effectRemain="CH/Weapon/Orb/Eff_Orb_Attack01_Remain_01.xml" effectDestroy="CH/Weapon/Orb/Eff_Orb_Attack01_Destroy_01.xml" />
+					<damage rate="0.21" effectHit="CH/Weapon/Orb/Eff_Orb_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+	<skill id="1200013" originID="1200011" comment="오브">
+		<basic mainType="1">
+			<ui attackType="2" />
+			<kinds rangeType="2" />
+			<stateAttr autoTargetingType="1" ignoreReduceCooldown="1" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="150" />
+			<condition>
+				<weapon lh="0" rh="56" />
+			</condition>
+		</basic>
+		<level value="1" cooldown="500">
+			<motion sequenceName="Orb_Jump_Attack_A" strTagEffects="e0=CH/Weapon/Orb/Eff_Orb3_JumpAttack_Cast_01.xml">
+				<attack point="p0" targetCount="3" magicPathID="1200003" attacktype="2" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" unrideOnHit="1">
+					<range rangeType="frustum" distance="800" rangeAdd="0,0,120" height="150" width="150" endWidth="900" applyTarget="1" />
+					<arrow rayPhysxTest="1" nonTarget="1" collision="50,25,25" collisionAdd="0,25,25" effect="CH/Weapon/Orb/Eff_Orb_Attack01_Ball_01.xml" effectRemain="CH/Weapon/Orb/Eff_Orb_Attack01_Remain_01.xml" effectDestroy="CH/Weapon/Orb/Eff_Orb_Attack01_Destroy_01.xml" />
+					<damage rate="0.21" effectHit="CH/Weapon/Orb/Eff_Orb_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+	<skill id="1200014" originID="1200011" comment="오브">
+		<basic mainType="1">
+			<ui attackType="2" />
+			<kinds rangeType="2" />
+			<stateAttr autoTargetingType="1" ignoreReduceCooldown="1" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="150" />
+			<condition>
+				<weapon lh="0" rh="56" />
+			</condition>
+		</basic>
+		<level value="1" cooldown="500">
+			<motion sequenceName="Orb_Jump_Attack_A" strTagEffects="e0=CH/Weapon/Orb/Eff_Orb4_JumpAttack_Cast_01.xml">
+				<attack point="p0" targetCount="4" magicPathID="1200004" attacktype="2" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" unrideOnHit="1">
+					<range rangeType="frustum" distance="800" rangeAdd="0,0,120" height="150" width="150" endWidth="900" applyTarget="1" />
+					<arrow rayPhysxTest="1" nonTarget="1" collision="50,25,25" collisionAdd="0,25,25" effect="CH/Weapon/Orb/Eff_Orb_Attack01_Ball_01.xml" effectRemain="CH/Weapon/Orb/Eff_Orb_Attack01_Remain_01.xml" effectDestroy="CH/Weapon/Orb/Eff_Orb_Attack01_Destroy_01.xml" />
+					<damage rate="0.21" effectHit="CH/Weapon/Orb/Eff_Orb_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+	<skill id="1200015" originID="1200011" comment="오브">
+		<basic mainType="1">
+			<ui attackType="2" />
+			<kinds rangeType="2" />
+			<stateAttr autoTargetingType="1" ignoreReduceCooldown="1" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="150" />
+			<condition>
+				<weapon lh="0" rh="56" />
+			</condition>
+		</basic>
+		<level value="1" cooldown="500">
+			<motion sequenceName="Orb_Jump_Attack_A" strTagEffects="e0=CH/Weapon/Orb/Eff_Orb5_JumpAttack_Cast_01.xml">
+				<attack point="p0" targetCount="5" magicPathID="1200005" attacktype="2" attackMethodType="1" hitImmuneBreak="1" brokenOffence="2" unrideOnHit="1">
+					<range rangeType="frustum" distance="800" rangeAdd="0,0,120" height="150" width="150" endWidth="900" applyTarget="1" />
+					<arrow rayPhysxTest="1" nonTarget="1" collision="50,25,25" collisionAdd="0,25,25" effect="CH/Weapon/Orb/Eff_Orb_Attack01_Ball_01.xml" effectRemain="CH/Weapon/Orb/Eff_Orb_Attack01_Remain_01.xml" effectDestroy="CH/Weapon/Orb/Eff_Orb_Attack01_Destroy_01.xml" />
+					<damage rate="0.21" effectHit="CH/Weapon/Orb/Eff_Orb_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+</ms2>

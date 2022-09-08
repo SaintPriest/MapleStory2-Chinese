@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<skill id="1100001" comment="너클">
+		<basic mainType="1">
+			<ui attackType="1" />
+			<kinds rangeType="1" jump="1100011" />
+			<stateAttr autoTargetingType="1" moveType="1" keyIsDown="1" clearCooldownFromPVPZone="1" ignoreReduceCooldown="1" />
+			<combo inputSkill="1100001" outputSkill="1100002" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="100" />
+			<condition>
+				<weapon lh="0" rh="55" />
+			</condition>
+		</basic>
+		<level value="1" cooldown="400">
+			<motion sequenceName="Knuckle_Attack_01_A" strTagEffects="e0=CH/Weapon/Knuckle/Eff_Knuckle_Attack01_Cast_01.xml">
+				<attack point="p0" pointGroupID="1100001" targetCount="3" direction="2" attacktype="1" hitImmuneBreak="1" brokenOffence="1" unrideOnHit="1">
+					<range rangeType="box" distance="200" height="150" width="200" applyTarget="1" />
+					<arrow nonTarget="1" />
+					<damage rate="0.4" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+	<skill id="1100002" originID="1100001" comment="너클">
+		<basic mainType="1">
+			<ui attackType="1" />
+			<kinds rangeType="1" />
+			<stateAttr autoTargetingType="1" moveType="1" ignoreReduceCooldown="1" />
+			<combo comboSkill="1" inputSkill="1100001" outputSkill="1100003" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="100" />
+			<condition>
+				<weapon lh="0" rh="55" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="Knuckle_Attack_02_A" strTagEffects="e0=CH/Weapon/Knuckle/Eff_Knuckle_Attack02_Cast_01.xml" keyMove="25">
+				<attack point="p0" pointGroupID="1100002" targetCount="3" direction="1" attacktype="1" hitImmuneBreak="1" brokenOffence="1" unrideOnHit="1">
+					<pause pauseShakeDuration="0.1" pauseAmp="5" />
+					<range rangeType="box" distance="200" height="150" width="200" applyTarget="1" />
+					<arrow nonTarget="1" />
+					<damage rate="0.4" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+	<skill id="1100003" originID="1100001" comment="너클">
+		<basic mainType="1">
+			<ui attackType="1" />
+			<kinds rangeType="1" />
+			<stateAttr autoTargetingType="1" moveType="1" ignoreReduceCooldown="1" />
+			<combo comboSkill="1" inputSkill="1100001" outputSkill="1100004" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="100" />
+			<condition>
+				<weapon lh="0" rh="55" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="Knuckle_Attack_03_A" sequenceSpeed="1.2" strTagEffects="e0=CH/Weapon/Knuckle/Eff_Knuckle_Attack03_Cast_01.xml">
+				<attack point="p0" pointGroupID="1100003" targetCount="3" attacktype="1" hitImmuneBreak="1" brokenOffence="1" unrideOnHit="1">
+					<range rangeType="box" distance="200" rangeAdd="0,25,0" height="150" width="200" applyTarget="1" />
+					<arrow nonTarget="1" />
+					<damage rate="0.4" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+	<skill id="1100004" originID="1100001" comment="너클">
+		<basic mainType="1">
+			<ui attackType="1" />
+			<kinds rangeType="1" />
+			<stateAttr autoTargetingType="1" moveType="1" ignoreReduceCooldown="1" />
+			<combo comboSkill="1" inputSkill="1100001" outputSkill="1100001" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="150" />
+			<condition>
+				<weapon lh="0" rh="55" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="Knuckle_Attack_04_A" sequenceSpeed="1.2" strTagEffects="e0=CH/Weapon/Knuckle/Eff_Knuckle_Attack04_Cast_01.xml" keyMove="25">
+				<attack point="p0" pointGroupID="1100004" targetCount="3" attacktype="1" hitImmuneBreak="1" brokenOffence="2" brokenForce="2" unrideOnHit="1">
+					<pause pauseShakeDuration="0.1" pauseAmp="10" />
+					<range rangeType="box" distance="200" rangeAdd="0,25,0" height="150" width="200" applyTarget="1" />
+					<arrow nonTarget="1" />
+					<damage rate="0.4" hitSpeedRate="0.8" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+	<skill id="1100011" comment="너클">
+		<basic mainType="1">
+			<ui attackType="1" />
+			<kinds rangeType="1" />
+			<stateAttr autoTargetingType="1" clearCooldownFromPVPZone="1" ignoreReduceCooldown="1" />
+			<autoTargeting autoTargetingMaxDegree="90" />
+			<push back="100" />
+			<condition>
+				<weapon lh="0" rh="55" />
+			</condition>
+		</basic>
+		<level value="1" cooldown="400">
+			<motion sequenceName="Knuckle_Jump_Attack_A" strTagEffects="e0=CH/Weapon/Knuckle/Eff_Knuckle_JumpAttack_Cast_01.xml">
+				<attack point="p0" pointGroupID="1100011" targetCount="3" direction="2" attacktype="1" hitImmuneBreak="1" brokenOffence="2" unrideOnHit="1">
+					<range rangeType="box" distance="200" rangeAdd="0,0,120" height="150" width="150" applyTarget="1" />
+					<arrow nonTarget="1" />
+					<damage rate="0.24" effectHit="CH/Weapon/Knuckle/Eff_Knuckle_Hit_01.xml" attackMaterial="1" />
+				</attack>
+			</motion>
+		</level>
+	</skill>
+</ms2>

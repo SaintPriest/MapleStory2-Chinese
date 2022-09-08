@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffSubType="32" durationTick="2000" intervalTick="600" dotCondition="1" />
+		<MotionProperty startEffect="NPC/Skill/ZakumArm/Eff_ZakumArm_HPRecover.xml" abnormalImmuneBreak="5" />
+		<RecoveryProperty hpRate="0.001" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterHPRecovery.png" />
+	</level>
+</ms2>

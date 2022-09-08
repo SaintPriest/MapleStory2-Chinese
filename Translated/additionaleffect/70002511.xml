@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" durationTick="999999000" resetCondition="2" maxBuffCount="20" logoutClearEffect="1" leaveFieldClearEffect="1" />
+		<UIProperty icon="./Data/Resource/Image/Skill/icon/110000009.png" isHideCooltime="1" />
+		<conditionSkill level="1" skillID="70002512" skillTarget="1">
+			<beginCondition>
+				<owner hasBuffID="70002511" hasBuffLevel="1" hasBuffOwner="0" hasBuffCount="19" hasBuffCountCompare="Equals" eventCondition="10" />
+			</beginCondition>
+		</conditionSkill>
+	</level>
+</ms2>

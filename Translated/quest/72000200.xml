@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment>
+		<quest>
+			<basic questID="72000200" questType="4" autoStart="1" useNavi="FALSE" />
+			<completeReward relativeExp="mission" money="850" />
+			<progressMap progressMap="02000100" />
+			<condition type="taxiuse" value="1" />
+		</quest>
+	</environment>
+</ms2>

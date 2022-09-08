@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="ContentsGuide01">
+		<quest>
+			<basic questID="90000600" questType="1" chapterID="9062" standardLevel="20" disableGiveup="1" tabIndex="1" forceRegistGuide="1" useNavi="FALSE" />
+			<notify completeUiEffect="success" />
+			<require level="20" />
+			<start npc="11001868" />
+			<complete npc="11001868" />
+			<completeReward exp="6000" relativeExp="epicQuest" money="2500">
+				<essentialItem code="20000349" rank="1" count="1" />
+			</completeReward>
+			<condition type="mastery_gathering" code="30000019" value="5" />
+			<condition type="item_exist" code="33000023" value="5" />
+		</quest>
+	</environment>
+</ms2>

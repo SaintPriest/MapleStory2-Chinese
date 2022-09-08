@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<achieves id="21300101" feature="SurvivalContents03" categoryTag="combat,pvp,survival" contentsTag="Survival" icon="hero_battle.png">
+		<grade value="1">
+			<condition type="revise_achieve_multi_grade" code="21300090,21300091,21300092,21300093" target="1" value="4" />
+			<reward type="title" code="10000535" />
+		</grade>
+	</achieves>
+</ms2>

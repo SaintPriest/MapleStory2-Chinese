@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level feature="JobChange_01">
+		<BasicProperty level="1" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<ResetSkillCoolDownTimeProperty skillCodes="10300071,10300141" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.08" thunderdamagerate="0.08" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="2" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<ResetSkillCoolDownTimeProperty skillCodes="10300071,10300141" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.16" thunderdamagerate="0.16" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="3" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<ResetSkillCoolDownTimeProperty skillCodes="10300071,10300141" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.24" thunderdamagerate="0.24" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="4" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<ResetSkillCoolDownTimeProperty skillCodes="10300071,10300141" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.32" thunderdamagerate="0.32" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="5" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<ResetSkillCoolDownTimeProperty skillCodes="10300071,10300141" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.4" thunderdamagerate="0.4" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="6" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<ResetSkillCoolDownTimeProperty skillCodes="10300071,10300141" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.48" thunderdamagerate="0.48" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="7" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<ResetSkillCoolDownTimeProperty skillCodes="10300071,10300141" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.56" thunderdamagerate="0.56" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="8" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<ResetSkillCoolDownTimeProperty skillCodes="10300071,10300141" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.64" thunderdamagerate="0.64" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="9" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<ResetSkillCoolDownTimeProperty skillCodes="10300071,10300141" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.72" thunderdamagerate="0.72" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="10" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<ResetSkillCoolDownTimeProperty skillCodes="10300071,10300141" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.8" thunderdamagerate="0.8" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="11" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<ResetSkillCoolDownTimeProperty skillCodes="10300071,10300141" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.88" thunderdamagerate="0.88" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="12" buffSubType="1" durationTick="10000" resetCondition="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<ResetSkillCoolDownTimeProperty skillCodes="10300071,10300141" />
+		<StatusProperty>
+			<SpecialAbility icedamagerate="0.96" thunderdamagerate="0.96" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300211_buff.png" />
+	</level>
+</ms2>

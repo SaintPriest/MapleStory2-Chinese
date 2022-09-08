@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="ContentsGuide03">
+		<quest>
+			<basic questID="90000794" questType="1" chapterID="9081" standardLevel="50" disableGiveup="1" tabIndex="1" forceRegistGuide="1" useNavi="FALSE" />
+			<require level="50" quest="90000793" />
+			<start npc="11003503" />
+			<complete npc="11003503" />
+			<completeReward exp="1113300" relativeExp="epicQuest" money="7000">
+				<essentialItem code="61000002" rank="1" count="1" />
+			</completeReward>
+			<condition type="pet_taming" code="61000002" value="1" />
+			<condition type="item_inven" code="61000002" value="1" />
+		</quest>
+	</environment>
+</ms2>

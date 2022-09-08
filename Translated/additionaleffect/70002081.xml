@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffSubType="2" keepCondition="99" />
+		<MotionProperty keepEffect="Additional/Defense/Eff_Additional_Shield_Keep_02.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat nddrate="2" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/Skill/icon/90000792.png" />
+	</level>
+</ms2>

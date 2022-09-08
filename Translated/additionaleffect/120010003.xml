@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="1" durationTick="10000" keepCondition="5" doNotClearEffectFromEnterPVPZone="1" skillGroupType="2" />
+		<StatusProperty>
+			<Stat nddrate="-0.5" papvalue="36" mapvalue="36" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000031.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="2" durationTick="10000" keepCondition="5" doNotClearEffectFromEnterPVPZone="1" skillGroupType="2" />
+		<StatusProperty>
+			<Stat nddrate="-0.5" papvalue="42" mapvalue="42" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000031.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="3" durationTick="10000" keepCondition="5" doNotClearEffectFromEnterPVPZone="1" skillGroupType="2" />
+		<StatusProperty>
+			<Stat nddrate="-0.5" papvalue="54" mapvalue="54" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000031.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="4" durationTick="10000" keepCondition="5" doNotClearEffectFromEnterPVPZone="1" skillGroupType="2" />
+		<StatusProperty>
+			<Stat nddrate="-0.5" papvalue="66" mapvalue="66" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000031.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="5" durationTick="10000" keepCondition="5" doNotClearEffectFromEnterPVPZone="1" skillGroupType="2" />
+		<StatusProperty>
+			<Stat nddrate="-0.5" papvalue="78" mapvalue="78" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000031.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="6" durationTick="10000" keepCondition="5" doNotClearEffectFromEnterPVPZone="1" skillGroupType="2" />
+		<StatusProperty>
+			<Stat nddrate="-0.5" papvalue="96" mapvalue="96" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000031.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="7" durationTick="10000" keepCondition="5" doNotClearEffectFromEnterPVPZone="1" skillGroupType="2" />
+		<StatusProperty>
+			<Stat nddrate="-0.5" papvalue="120" mapvalue="120" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000031.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="8" durationTick="10000" keepCondition="5" doNotClearEffectFromEnterPVPZone="1" skillGroupType="2" />
+		<StatusProperty>
+			<Stat nddrate="-0.5" papvalue="144" mapvalue="144" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000031.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="9" durationTick="10000" keepCondition="5" doNotClearEffectFromEnterPVPZone="1" skillGroupType="2" />
+		<StatusProperty>
+			<Stat nddrate="-0.5" papvalue="174" mapvalue="174" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000031.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="10" durationTick="10000" keepCondition="5" doNotClearEffectFromEnterPVPZone="1" skillGroupType="2" />
+		<StatusProperty>
+			<Stat nddrate="-0.5" papvalue="216" mapvalue="216" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000031.png" />
+	</level>
+</ms2>

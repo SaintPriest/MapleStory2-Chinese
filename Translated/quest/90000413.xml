@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="RuneBlader">
+		<quest>
+			<basic questID="90000413" chapterID="9042" standardLevel="1" disableGiveup="1" useNavi="FALSE" />
+			<require level="1" job="90" quest="90000412" />
+			<start npc="11001233" />
+			<complete npc="11001244" />
+			<completeReward exp="100" relativeExp="epicQuest" />
+		</quest>
+	</environment>
+</ms2>

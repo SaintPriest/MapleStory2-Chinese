@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" group="5" keepCondition="99" />
+		<MotionProperty keepEffect="NPC/Skill/KnightHollowArmor/Eff_KnightHollowArmor_MagicalDefenceUp_Keep.xml" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<Stat marvalue="1200" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterMagicalDefenceUp.png" />
+	</level>
+	<level>
+		<BasicProperty level="2" group="5" keepCondition="99" />
+		<MotionProperty keepEffect="NPC/Skill/CrowDevilWhite/Eff_CrowDevilWhite_MagicalDefenceUp_Keep.xml" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<Stat marvalue="1200" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterMagicalDefenceUp.png" />
+	</level>
+</ms2>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<riding>
+		<basic id="99910150" type="battle" kfm="21800901_M_CrossbowGreenhood" scale="1.2" enableRideOffUI="true" useRidingUI="true" skillSetID="99910150" rideSummonCastTime="0.1" walkSpeed="0" idleXMotion="Idle_A" runXMotion="Idle_A" rideBone="Eff_Head" rideTranslation="0,-100,135" rideRotation="15,0,0" />
+		<collision width="80" height="135" depth="80" />
+		<shadow scale="165" />
+		<faceCamera lookAtPosition="0,0,50" cameraPosition="150,150,200" />
+		<stat str="250" dex="250" int="30" luk="50" hp="5000" sp="100" sp_rgp="1" sp_inv="100" ep="120" ep_rgp="20" ep_inv="500" asp="100" atp="82" evp="76" cap="50" cad="150" car="50" ndd="700" jmp="25" pap="750" map="750" par="100" mar="100" wapmin="1800" wapmax="2000" bap="750" />
+	</riding>
+</ms2>

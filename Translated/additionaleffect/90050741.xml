@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<beginCondition applyPvPZoneType="1">
+			<requireSkillCodes code="200001" />
+			<requireSkillCodes code="200002" />
+			<requireSkillCodes code="200003" />
+			<requireSkillCodes code="200011" />
+			<requireSkillCodes code="300001" />
+			<requireSkillCodes code="300002" />
+			<requireSkillCodes code="300003" />
+			<requireSkillCodes code="300011" />
+			<requireSkillCodes code="400001" />
+			<requireSkillCodes code="400011" />
+			<requireSkillCodes code="500001" />
+			<requireSkillCodes code="500011" />
+			<requireSkillCodes code="600001" />
+			<requireSkillCodes code="600011" />
+			<requireSkillCodes code="700001" />
+			<requireSkillCodes code="700011" />
+			<requireSkillCodes code="1000001" />
+			<requireSkillCodes code="1000002" />
+			<requireSkillCodes code="1000003" />
+			<requireSkillCodes code="1000004" />
+			<requireSkillCodes code="1000005" />
+			<requireSkillCodes code="1000006" />
+			<requireSkillCodes code="1000007" />
+			<requireSkillCodes code="1000008" />
+			<requireSkillCodes code="1000011" />
+			<requireSkillCodes code="1000012" />
+			<requireSkillCodes code="1000013" />
+			<requireSkillCodes code="1000014" />
+			<requireSkillCodes code="1100001" />
+			<requireSkillCodes code="1100002" />
+			<requireSkillCodes code="1100003" />
+			<requireSkillCodes code="1100004" />
+			<requireSkillCodes code="1100011" />
+			<requireSkillCodes code="1200001" />
+			<requireSkillCodes code="1200002" />
+			<requireSkillCodes code="1200003" />
+			<requireSkillCodes code="1200004" />
+			<requireSkillCodes code="1200005" />
+			<requireSkillCodes code="1200011" />
+			<requireSkillCodes code="1200012" />
+			<requireSkillCodes code="1200013" />
+			<requireSkillCodes code="1200014" />
+			<requireSkillCodes code="1200015" />
+		</beginCondition>
+		<BasicProperty level="1" keepCondition="99" doNotClearEffectFromEnterPVPZone="1" />
+		<UIProperty icon="./Data/Resource/Image/Skill/icon/05000050_normal.png" iconOnOff="0" />
+		<conditionSkill level="1" skillID="90050742" skillTarget="1">
+			<beginCondition>
+				<owner hasBuffID="0" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" eventCondition="7" />
+			</beginCondition>
+		</conditionSkill>
+	</level>
+</ms2>

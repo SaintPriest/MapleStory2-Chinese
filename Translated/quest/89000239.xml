@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment locale="KR">
+		<quest>
+			<basic questID="89000239" questType="5" chapterID="8994" standardLevel="1" disableGiveup="1" usePeriod="10080" useNavi="FALSE" />
+			<require level="1" />
+			<completeReward>
+				<essentialItem code="20301062" rank="1" count="1" />
+			</completeReward>
+			<remoteComplete useRemote="1" />
+			<eventMission event="timerun" />
+			<condition type="npc_race" code="fairy" value="30" />
+		</quest>
+	</environment>
+</ms2>

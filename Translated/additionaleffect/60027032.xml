@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffType="2" buffSubType="32" durationTick="200" intervalTick="150" />
+		<MotionProperty startEffect="NPC/Skill/BullAxeBrown/Eff_BullAxeBrown_Attack_02_B_Splash_Cast_01.xml" abnormalImmuneBreak="1" />
+		<CancelEffectProperty cancelEffectCodes="60027001" />
+		<UIProperty iconOnOff="0" />
+		<splashSkill level="1" skillID="60027022" immediateActive="1" />
+	</level>
+</ms2>

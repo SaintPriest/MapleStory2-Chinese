@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="UnlimitedEnchant">
+		<quest>
+			<basic questID="10003440" chapterID="5033" standardLevel="75" disableGiveup="1" useNavi="TRUE" usePostbox="1" />
+			<require level="75" quest="10003433" />
+			<start npc="11003883" />
+			<complete npc="11003883" />
+			<completeReward exp="2399926" relativeExp="epicQuest" money="10750" />
+			<progressMap progressMap="02000487" />
+		</quest>
+	</environment>
+</ms2>
