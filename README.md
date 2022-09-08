@@ -19,4 +19,5 @@ Discord: bishop#2239
 
 ## 補充
 如果有更好的翻譯，請發布Issues，並附上說明或聯絡我
+
 如果此專案有幫助到你，可以在遊戲裡找我(priestDiana)donate個膠囊吧。
