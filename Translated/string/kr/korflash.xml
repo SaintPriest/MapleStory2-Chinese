@@ -3520,13 +3520,13 @@
   <key id="$s_selectsuperworldchat_use_coupon" value="请选择1个要使用的超级世界聊天券。" />
   <key id="$s_selectsuperworldchat_select_button" value="选择完毕" />
   <!-- 슈반다의 오픈 갤러리 -->
-  <key id="$s_gallery_title" value="米勒的春季画廊" />
-  <key id="$s_gallery_card_open_count" value="米勒的卡牌任务" />
-  <key id="$s_gallery_desc_1" value="至2022年6月22日维护前！" locale="CN" />
-  <key id="$s_gallery_desc_2" value="完成今天的任务后，领取最终奖励吧！" />
-  <key id="$s_gallery_board_reward_button" value="领取奖励" />
-  <key id="$s_gallery_board_reward_title" value="最终奖励" />
-  <key id="$s_item_treasure_map_bag_title" value="请选择要鉴定的钥匙。" />
+  <key id="$s_gallery_title" value="米勒的秋季畫廊" />
+  <key id="$s_gallery_card_open_count" value="米勒的卡牌任務" />
+  <key id="$s_gallery_desc_1" value="至2022年10月13日维護前！" />
+  <key id="$s_gallery_desc_2" value="完成今天的任務後，領取最终獎勵吧！" />
+  <key id="$s_gallery_board_reward_button" value="領取獎勵" />
+  <key id="$s_gallery_board_reward_title" value="最终獎勵" />
+  <key id="$s_item_treasure_map_bag_title" value="請選擇要鑑定的鑰匙。" />
   <!-- (이벤트 타입 snowman) 케이크 만들기, 만두 만들기, 눈사람 만들기 축제 등 이벤트 -->
   <!-- 신규 컨셉으로 해당 이벤트 활용하는 경우 ★컨셉명★ 확정 후 진행, 컨셉명으로 메뉴 UI, 스트링 등 모두 호출하는 방식(참고 일감 #68916) -->
   <!-- 아래 스트링 추가 시 확정된 컨셉명으로 전체 한 세트 추가 -->
@@ -3977,4 +3977,8 @@
   <key id="$s_random_coupon_payback_text" value="今日蘑菇币返利！" />
   <key id="$s_random_coupon_sale_text" value="今日折扣福利！" />
   <key id="$s_lead_skill_title" value="領導技能" />
+  <key id="$s_lead_skill_dialog_lefttop_skill_level" value="等級{0}" />
+	<key id="$s_lead_skill_dialog_from_char" value="Character: &lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;\nEligible for Skill." />
+	<key id="$s_lead_skill_dialog_from_char_fail" value="Character: &lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;\nNot Eligible for Skill." />
+	<key id="$s_lead_skill_dialog_char_unlimited_level" value="極限突破{0}階段" />
 </ms2>

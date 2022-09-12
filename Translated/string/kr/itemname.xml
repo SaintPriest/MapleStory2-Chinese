@@ -865,8 +865,10 @@
   <key id="11120055" class="eye" name="ITEMNAME_11120055_NAME:[F]Develop" feature="Develop" />
   <key id="11120056" class="eye" name="ITEMNAME_11120056_NAME:[F]Develop" feature="Develop" />
   <key id="11120057" name="南瓜眼罩（女）" />
+  <key id="11120058" name="南瓜眼罩（男）" />
   <key id="11120059" class="eye" name="ITEMNAME_11120059_NAME:[F]Develop" feature="Develop" />
   <key id="11120060" class="eye" name="ITEMNAME_11120060_NAME:[F]Develop" feature="Develop" />
+  <key id="11120061" name="南瓜眼罩（女）" />
   <key id="11120063" class="eye" name="ITEMNAME_11120063_NAME:[F]Develop" feature="Develop" />
   <key id="11120064" class="eye" name="ITEMNAME_11120064_NAME:[F]Develop" feature="Develop" />
   <key id="11120067" class="eye" name="ITEMNAME_11120067_NAME:[F]Develop" feature="Develop" />
@@ -1210,6 +1212,8 @@
   <key id="11220102" class="earring" name="快乐暖冬耳环（女）" />
   <key id="11220103" name="蔚蓝航路少年耳环（男）" />
   <key id="11220104" name="蔚蓝航路少女耳环（女）" />
+  <key id="11220105" name="南瓜詭夜糖果耳環（男）" />
+	<key id="11220106" name="南瓜詭夜糖果耳環（女）" />
   <key id="11220107" class="earring" name="医者仁心药丸耳环（男）" />
   <key id="11220108" class="earring" name="医者仁心药丸耳环（女）" />
   <key id="11220113" class="earring" name="魅力之星耳环（男）" />

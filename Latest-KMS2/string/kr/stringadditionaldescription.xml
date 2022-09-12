@@ -3014,8 +3014,8 @@
 	<key id="130000001" level="1" name="초보자 리드스킬" tooltipDescription="체력 {0} 증가" feature="LeadSkill" />
 	<key id="130000010" level="1" name="유니온 오브 세인츠" tooltipDescription="체력 상승 및 스킬 사용 시 슈퍼아머 획득" feature="LeadSkill" />
 	<key id="130000012" level="1" name="유니온 오브 세인츠" tooltipDescription="슈퍼 아머 상태." feature="LeadSkill" />
-	<key id="130000020" level="1" name="버서크 이뮤니티" tooltipDescription="HP 재생력 증가 및 스킬 사용 시 체력 감소와 대미지 증가" feature="LeadSkill" />
-	<key id="130000022" level="1" name="버서크 이뮤니티" tooltipDescription="대미지 {0}% 증가\n매 초마다 체력 3% 감소" feature="LeadSkill" />
+	<key id="130000020" level="1" name="버서크 이뮤니티" tooltipDescription="HP 재생력 증가 및 스킬 사용 시 HP 감소와 대미지 증가" feature="LeadSkill" />
+	<key id="130000022" level="1" name="버서크 이뮤니티" tooltipDescription="대미지 {0}% 증가\n매 초마다 HP 3% 감소" feature="LeadSkill" />
 	<key id="130000030" level="1" name="엘리멘탈 포스" tooltipDescription="속성 대미지 증가 및 스킬 사용 시 일정 시간 쉴드 발동" feature="LeadSkill" />
 	<key id="130000032" level="1" name="엘리멘탈 포스" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n{0} 만큼 대미지 흡수." feature="LeadSkill" />
 	<key id="130000040" level="1" name="블레싱 오브 프로텍션" tooltipDescription="치유량 증가 및 스킬 사용 시 받는 대미지 감소" feature="LeadSkill" />
