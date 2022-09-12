@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding>
-		<basic id="50600117" type="default" kfm="21000427_M_DesertDragonWingRed" rideSummonCastTime="0.08" runSpeed="5.25" runXSpeed="7" idleXMotion="Idle_A" runXMotion="Run_A" runXConsumeEp="15" useRidingNavi="1" rideBone="Body_Dummy01" rideTranslation="0,10,40" />
-		<collision width="180" height="270" depth="250" />
-		<shadow scale="380" />
-		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
-	</riding>
-</ms2>

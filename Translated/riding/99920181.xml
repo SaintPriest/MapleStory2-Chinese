@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding feature="MassiveHideAndSeek">
-		<basic id="99920181" type="object" kfm="11000185_Realtor" nif="11000185_Realtor" hideRider="true" runSpeed="4" idleXMotion="" runXMotion="" nameTagHide="1" rideAniPC="" />
-		<collision height="130" physic="true" />
-		<stat hp="5000" msp="100" jmp="100" rmsp="50" />
-	</riding>
-</ms2>

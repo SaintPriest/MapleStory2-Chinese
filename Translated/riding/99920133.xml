@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding feature="MassiveHideAndSeek">
-		<basic id="99920133" type="object" nif="ry_fi_prop_birdcage_A01" hideRider="true" runSpeed="4" idleXMotion="" runXMotion="" nameTagHide="1" rideAniPC="" />
-		<collision physic="true" />
-		<stat hp="5000" msp="100" jmp="100" rmsp="50" />
-	</riding>
-</ms2>

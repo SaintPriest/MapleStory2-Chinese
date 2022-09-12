@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding>
-		<basic id="50600256" type="default" kfm="50600256_R_IcecreamTruck" rideSummonCastTime="0.08" runSpeed="5.25" runXSpeed="7" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="15" useRidingNavi="1" rideBone="Ride_A" rideAniPC="Ride_Idle_K" rideAniPC_Idle="Ride_Idle_K" rideAniPC_Run="Ride_Run_K" rideAniPC_Jump="Ride_Jump_K" rideAniPC_SP_Idle="Ride_Sp_Idle_K" rideAniPC_SP_Run="Ride_Sp_Run_K" rideAniPC_SP_Jump="Ride_Sp_Jump_K" />
-		<collision width="80" height="135" depth="80" />
-		<shadow scale="165" />
-		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
-	</riding>
-</ms2>

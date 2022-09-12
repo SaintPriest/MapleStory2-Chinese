@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding>
-		<basic id="21000053" type="default" kfm="02020161_M_CurseEyeOrange" scale="1.5" rideSummonCastTime="0.1" runSpeed="4.6" runXSpeed="6.5" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="15" useRidingNavi="1" rideBone="Bip01" rideTranslation="0,10,50" rideRotation="0,-90,90" />
-		<collision width="140" height="130" depth="190" />
-		<shadow scale="220" />
-		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
-	</riding>
-</ms2>

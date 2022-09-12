@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding feature="MassiveHideAndSeek">
-		<basic id="99920138" type="object" kfm="60000002_Welshcorgi_01" nif="60000002_Welshcorgi_01" scale="1.5" hideRider="true" runSpeed="4" idleXMotion="" runXMotion="" nameTagHide="1" rideAniPC="" />
-		<collision depth="50" physic="true" />
-		<stat hp="5000" msp="100" jmp="80" rmsp="120" />
-	</riding>
-</ms2>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding>
-		<basic id="50600206" type="default" kfm="50600206_UGC_RobotCircleCoreBlue" rideSummonCastTime="0.08" runSpeed="5.25" runXSpeed="7" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="15" pressXEffectIdle="Item/Ride/Eff_Item_Ride_50600206_UGC_RobotCircleCoreBlue_Sound_SpIdle.xml" pressXEffectRun="Item/Ride/Eff_Item_Ride_50600206_UGC_RobotCircleCoreBlue_Sound_SpRun.xml" useRidingNavi="1" rideBone="Ride" rideAniPC="Ride_Idle_013" rideAniPC_Idle="Ride_Idle_013" rideAniPC_Run="Ride_Idle_013" rideAniPC_Jump="Ride_Idle_013" rideAniPC_SP_Idle="Ride_Idle_013" rideAniPC_SP_Run="Ride_Sp_Run_013" rideAniPC_SP_Jump="Ride_Sp_Run_013" />
-		<collision height="130" />
-		<shadow scale="130" />
-		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
-	</riding>
-</ms2>

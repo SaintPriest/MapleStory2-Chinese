@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding>
-		<basic id="21000022" type="default" kfm="02020156_L_DuckyWhite" rideSummonCastTime="1" runSpeed="4.6" runXSpeed="4.6" swimSpeed="3.2" enableSwim="1" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" useRidingNavi="1" rideBone="Bip01 Head" rideTranslation="0,0,65" rideRotation="90,90,90" />
-		<collision height="135" />
-		<shadow scale="165" />
-		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
-	</riding>
-</ms2>

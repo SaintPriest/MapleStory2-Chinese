@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding>
-		<basic id="21000026" type="default" kfm="02020149_M_OvisBrown" rideSummonCastTime="1" runSpeed="4.6" runXSpeed="4.6" idleXMotion="Sp_Idle_A" runXMotion="Run_A" useRidingNavi="1" rideBone="Center_Point01" rideTranslation="0,0,50" />
-		<shadow scale="170" />
-		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
-	</riding>
-</ms2>

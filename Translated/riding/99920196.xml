@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding feature="MassiveHideAndSeek">
-		<basic id="99920196" type="object" kfm="UGC_Tank_05" nif="UGC_Tank_05" scale="2" hideRider="true" runSpeed="4" idleXMotion="" runXMotion="" nameTagHide="1" rideAniPC="" />
-		<collision width="300" height="200" depth="300" physic="true" />
-		<stat hp="5000" msp="100" jmp="100" rmsp="50" />
-	</riding>
-</ms2>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding>
-		<basic id="59000004" type="default" kfm="UGC_FlameBike_01" rideSummonCastTime="0.1" runSpeed="4.6" runXSpeed="6.5" idleXMotion="Idle_B" runXMotion="Run_B" runXConsumeEp="15" pressXEffectIdle="Item/Ride/Eff_Item_Ride_Bike_SpRun_Sound.xml" pressXEffectRun="Item/Ride/Eff_Item_Ride_Bike_SpRun_Sound.xml" useRidingNavi="1" rideBone="Point08" rideTranslation="0,17,-28" rideRotation="90,180,270" rideAniPC="Ride_Idle_C" />
-		<shadow scale="170" />
-		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
-	</riding>
-</ms2>
