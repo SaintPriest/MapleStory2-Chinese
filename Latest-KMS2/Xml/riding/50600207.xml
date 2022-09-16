@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<riding>
+		<basic id="50600207" type="default" kfm="21000747_M_FloccusRabbitWhite" scale="1.5" rideSummonCastTime="0.1" runSpeed="4.6" runXSpeed="6.5" idleXMotion="Stun_A" runXMotion="Run_A" runXConsumeEp="15" useRidingNavi="1" rideBone="Body_Dummy01" rideTranslation="0,0,40" rideAniPC="Ride_Idle_Y" />
+		<collision height="130" />
+		<shadow scale="130" />
+		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
+	</riding>
+</ms2>

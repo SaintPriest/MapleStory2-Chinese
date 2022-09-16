@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<skill id="30000000" comment="연출">
+		<basic>
+			<ui icon="./Data/Resource/Image/skill/icon/MovieSkill.png" />
+			<kinds unrideOnUse="1" />
+			<stateAttr ignoreReduceCooldown="1" />
+			<condition>
+				<weapon lh="0" rh="30" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="Explorer_Enterance_A" />
+		</level>
+	</skill>
+	<skill id="30000001" comment="연출">
+		<basic>
+			<ui icon="./Data/Resource/Image/skill/icon/MovieSkill.png" />
+			<kinds unrideOnUse="1" />
+			<stateAttr ignoreReduceCooldown="1" />
+			<condition>
+				<weapon lh="41" rh="32" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="Knight_Enterance_A" />
+		</level>
+	</skill>
+	<skill id="30000002" comment="연출">
+		<basic>
+			<ui icon="./Data/Resource/Image/skill/icon/MovieSkill.png" />
+			<kinds unrideOnUse="1" />
+			<stateAttr ignoreReduceCooldown="1" />
+			<condition>
+				<weapon lh="0" rh="50" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="Berserker_Enterance_A" />
+		</level>
+	</skill>
+	<skill id="30000003" comment="연출">
+		<basic>
+			<ui icon="./Data/Resource/Image/skill/icon/MovieSkill.png" />
+			<kinds unrideOnUse="1" />
+			<stateAttr ignoreReduceCooldown="1" />
+			<condition>
+				<weapon lh="0" rh="52" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="Wizard_Enterance_A" />
+		</level>
+	</skill>
+	<skill id="30000004" comment="연출">
+		<basic>
+			<ui icon="./Data/Resource/Image/skill/icon/MovieSkill.png" />
+			<kinds unrideOnUse="1" />
+			<stateAttr ignoreReduceCooldown="1" />
+			<condition>
+				<weapon lh="40" rh="33" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="Priest_Enterance_A" />
+		</level>
+	</skill>
+	<skill id="30000005" comment="연출">
+		<basic>
+			<ui icon="./Data/Resource/Image/skill/icon/MovieSkill.png" />
+			<kinds unrideOnUse="1" />
+			<stateAttr ignoreReduceCooldown="1" />
+			<condition>
+				<weapon lh="0" rh="51" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="Ranger_Enterance_A" />
+		</level>
+	</skill>
+	<skill id="30000006" comment="연출">
+		<basic>
+			<ui icon="./Data/Resource/Image/skill/icon/MovieSkill.png" />
+			<kinds unrideOnUse="1" />
+			<stateAttr ignoreReduceCooldown="1" />
+			<condition>
+				<weapon lh="0" rh="53" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="HeavyGunner_Enterance_A" />
+		</level>
+	</skill>
+	<skill id="30000007" comment="연출">
+		<basic>
+			<ui icon="./Data/Resource/Image/skill/icon/MovieSkill.png" />
+			<kinds unrideOnUse="1" />
+			<stateAttr ignoreReduceCooldown="1" />
+			<condition>
+				<weapon lh="31" rh="31" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="Thief_Enterance_A" />
+		</level>
+	</skill>
+	<skill id="30000008" comment="연출">
+		<basic>
+			<ui icon="./Data/Resource/Image/skill/icon/MovieSkill.png" />
+			<kinds unrideOnUse="1" />
+			<stateAttr ignoreReduceCooldown="1" />
+			<condition>
+				<weapon lh="34" rh="34" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="Assassin_Enterance_A" />
+		</level>
+	</skill>
+	<skill id="30000009" comment="연출">
+		<basic>
+			<ui icon="./Data/Resource/Image/skill/icon/MovieSkill.png" />
+			<kinds unrideOnUse="1" />
+			<stateAttr ignoreReduceCooldown="1" />
+			<condition>
+				<weapon lh="0" rh="54" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="RuneBlader_Enterance_A" motionEffect="CH/Skill/RuneBlader/Eff_RuneBlader_Enterance_Cast_01.xml" />
+		</level>
+	</skill>
+	<skill id="30000010" comment="연출">
+		<basic>
+			<ui icon="./Data/Resource/Image/skill/icon/MovieSkill.png" />
+			<kinds unrideOnUse="1" />
+			<stateAttr ignoreReduceCooldown="1" />
+			<condition>
+				<weapon lh="0" rh="55" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="Striker_Enterance_A" motionEffect="CH/Skill/Striker/Eff_Striker_Enterance_Cast_01.xml" />
+		</level>
+	</skill>
+	<skill id="30000011" comment="연출">
+		<basic>
+			<ui icon="./Data/Resource/Image/skill/icon/MovieSkill.png" />
+			<kinds unrideOnUse="1" />
+			<stateAttr battle="0" ignoreReduceCooldown="1" />
+			<condition>
+				<weapon lh="0" rh="56" />
+			</condition>
+		</basic>
+		<level value="1">
+			<motion sequenceName="SoulBinder_Enterance_A" motionEffect="CH/Skill/SoulBinder/Eff_SoulBinder_Enterance_Cast_01.xml" />
+		</level>
+	</skill>
+</ms2>

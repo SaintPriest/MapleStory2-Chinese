@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Quest2017">
+		<quest>
+			<basic questID="60100235" chapterID="5016" standardLevel="20" useNavi="TRUE" />
+			<require level="20" quest="60100230" />
+			<start npc="11001897" />
+			<complete npc="11001897" />
+			<completeReward exp="64729" relativeExp="epicQuest" money="2500">
+				<essentialItem code="20000022" rank="1" count="8" />
+				<essentialItem code="20000028" rank="1" count="8" />
+				<essentialJobItem code="11400825" rank="3" count="1" />
+				<essentialJobItem code="11400830" rank="3" count="1" />
+				<essentialJobItem code="11400865" rank="3" count="1" />
+				<essentialJobItem code="11500732" rank="3" count="1" />
+				<essentialJobItem code="11500737" rank="3" count="1" />
+				<essentialJobItem code="11500771" rank="3" count="1" />
+				<essentialJobItem code="12200435" rank="3" count="1" />
+				<essentialJobItem code="12200438" rank="3" count="1" />
+				<globalEssentialItem code="20000023" rank="1" count="3" />
+				<globalEssentialItem code="20000029" rank="1" count="3" />
+				<globalEssentialJobItem code="11400825" rank="3" count="1" />
+				<globalEssentialJobItem code="11400830" rank="3" count="1" />
+				<globalEssentialJobItem code="11400865" rank="3" count="1" />
+				<globalEssentialJobItem code="11500732" rank="3" count="1" />
+				<globalEssentialJobItem code="11500737" rank="3" count="1" />
+				<globalEssentialJobItem code="11500771" rank="3" count="1" />
+				<globalEssentialJobItem code="12200435" rank="3" count="1" />
+				<globalEssentialJobItem code="12200438" rank="3" count="1" />
+			</completeReward>
+			<progressMap progressMap="02000100" />
+			<condition type="trigger" code="CityWarfareClear" value="1">
+				<navi type="npc" code="29000135,29000142" />
+			</condition>
+		</quest>
+	</environment>
+</ms2>

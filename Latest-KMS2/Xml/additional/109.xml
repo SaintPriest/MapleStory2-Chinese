@@ -1,0 +1,3319 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<additional id="10900001" mainType="1" skillGroupType="1">
+		<level level="1" stringParam="32">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900011,10900021" />
+			<SpecialAbility>
+				<v type="firedamage" value="320" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900001_buff.png" />
+		</level>
+		<level level="2" stringParam="34">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900011,10900021" />
+			<SpecialAbility>
+				<v type="firedamage" value="340" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900001_buff.png" />
+		</level>
+		<level level="3" stringParam="36">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900011,10900021" />
+			<SpecialAbility>
+				<v type="firedamage" value="360" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900001_buff.png" />
+		</level>
+		<level level="4" stringParam="38">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900011,10900021" />
+			<SpecialAbility>
+				<v type="firedamage" value="380" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900001_buff.png" />
+		</level>
+		<level level="5" stringParam="40">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900011,10900021" />
+			<SpecialAbility>
+				<v type="firedamage" value="400" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900001_buff.png" />
+		</level>
+		<level level="6" stringParam="42">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900011,10900021" />
+			<SpecialAbility>
+				<v type="firedamage" value="420" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900001_buff.png" />
+		</level>
+		<level level="7" stringParam="44">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900011,10900021" />
+			<SpecialAbility>
+				<v type="firedamage" value="440" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900001_buff.png" />
+		</level>
+		<level level="8" stringParam="46">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900011,10900021" />
+			<SpecialAbility>
+				<v type="firedamage" value="460" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900001_buff.png" />
+		</level>
+		<level level="9" stringParam="48">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900011,10900021" />
+			<SpecialAbility>
+				<v type="firedamage" value="480" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900001_buff.png" />
+		</level>
+		<level level="10" stringParam="50">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900011,10900021" />
+			<SpecialAbility>
+				<v type="firedamage" value="500" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900001_buff.png" />
+		</level>
+		<level level="11" stringParam="52">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900011,10900021" />
+			<SpecialAbility>
+				<v type="firedamage" value="520" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900001_buff.png" />
+		</level>
+		<level level="12" stringParam="54">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_FlameDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900011,10900021" />
+			<SpecialAbility>
+				<v type="firedamage" value="540" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900001_buff.png" />
+		</level>
+	</additional>
+	<additional id="10900011" mainType="1" skillGroupType="1">
+		<level level="1" stringParam="32">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900021" />
+			<SpecialAbility>
+				<v type="icedamage" value="320" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900011_buff.png" />
+		</level>
+		<level level="2" stringParam="34">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900021" />
+			<SpecialAbility>
+				<v type="icedamage" value="340" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900011_buff.png" />
+		</level>
+		<level level="3" stringParam="36">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900021" />
+			<SpecialAbility>
+				<v type="icedamage" value="360" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900011_buff.png" />
+		</level>
+		<level level="4" stringParam="38">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900021" />
+			<SpecialAbility>
+				<v type="icedamage" value="380" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900011_buff.png" />
+		</level>
+		<level level="5" stringParam="40">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900021" />
+			<SpecialAbility>
+				<v type="icedamage" value="400" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900011_buff.png" />
+		</level>
+		<level level="6" stringParam="42">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900021" />
+			<SpecialAbility>
+				<v type="icedamage" value="420" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900011_buff.png" />
+		</level>
+		<level level="7" stringParam="44">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900021" />
+			<SpecialAbility>
+				<v type="icedamage" value="440" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900011_buff.png" />
+		</level>
+		<level level="8" stringParam="46">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900021" />
+			<SpecialAbility>
+				<v type="icedamage" value="460" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900011_buff.png" />
+		</level>
+		<level level="9" stringParam="48">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900021" />
+			<SpecialAbility>
+				<v type="icedamage" value="480" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900011_buff.png" />
+		</level>
+		<level level="10" stringParam="50">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900021" />
+			<SpecialAbility>
+				<v type="icedamage" value="500" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900011_buff.png" />
+		</level>
+		<level level="11" stringParam="52">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900021" />
+			<SpecialAbility>
+				<v type="icedamage" value="520" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900011_buff.png" />
+		</level>
+		<level level="12" stringParam="54">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IceDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900021" />
+			<SpecialAbility>
+				<v type="icedamage" value="540" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900011_buff.png" />
+		</level>
+	</additional>
+	<additional id="10900021" mainType="1" skillGroupType="1">
+		<level level="1" stringParam="32">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900011" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="320" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900021_buff.png" />
+		</level>
+		<level level="2" stringParam="34">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900011" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="340" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900021_buff.png" />
+		</level>
+		<level level="3" stringParam="36">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900011" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="360" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900021_buff.png" />
+		</level>
+		<level level="4" stringParam="38">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900011" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="380" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900021_buff.png" />
+		</level>
+		<level level="5" stringParam="40">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900011" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="400" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900021_buff.png" />
+		</level>
+		<level level="6" stringParam="42">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900011" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="420" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900021_buff.png" />
+		</level>
+		<level level="7" stringParam="44">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900011" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="440" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900021_buff.png" />
+		</level>
+		<level level="8" stringParam="46">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900011" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="460" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900021_buff.png" />
+		</level>
+		<level level="9" stringParam="48">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900011" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="480" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900021_buff.png" />
+		</level>
+		<level level="10" stringParam="50">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900011" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="500" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900021_buff.png" />
+		</level>
+		<level level="11" stringParam="52">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900011" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="520" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900021_buff.png" />
+		</level>
+		<level level="12" stringParam="54">
+			<Basic durationTick="240000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ThunderDrive_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900001,10900011" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="540" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900021_buff.png" />
+		</level>
+	</additional>
+	<additional id="10900032" mainType="2" isDebuff="1" skillGroupType="1">
+		<level level="1">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" rate="0.38" element="1" />
+		</level>
+		<level level="2">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" rate="0.4" element="1" />
+		</level>
+		<level level="3">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" rate="0.42" element="1" />
+		</level>
+		<level level="4">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" rate="0.44" element="1" />
+		</level>
+		<level level="5">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" rate="0.46" element="1" />
+		</level>
+		<level level="6">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" rate="0.48" element="1" />
+		</level>
+		<level level="7">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" rate="0.5" element="1" />
+		</level>
+		<level level="8">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" rate="0.52" element="1" />
+		</level>
+		<level level="9">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" rate="0.54" element="1" />
+		</level>
+		<level level="10">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" rate="0.56" element="1" />
+		</level>
+		<level level="11">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" rate="0.58" element="1" />
+		</level>
+		<level level="12">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" rate="0.6" element="1" />
+		</level>
+	</additional>
+	<additional id="10900041" mainType="1" skillGroupType="1">
+		<level level="1">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<SpecialAbility>
+				<v type="spInvRate" value="-1000" />
+				<v type="strToInt" value="700" />
+				<v type="sp_rgp" value="1" />
+			</SpecialAbility>
+		</level>
+	</additional>
+	<additional id="10900062" mainType="2" isDebuff="1" skillGroupType="1">
+		<level level="1" stringParam="77">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="0.77" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900061_Flame_buff.png" />
+		</level>
+		<level level="2" stringParam="83">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="0.83" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900061_Flame_buff.png" />
+		</level>
+		<level level="3" stringParam="89">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="0.89" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900061_Flame_buff.png" />
+		</level>
+		<level level="4" stringParam="95">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="0.95" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900061_Flame_buff.png" />
+		</level>
+		<level level="5" stringParam="101">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="1.01" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900061_Flame_buff.png" />
+		</level>
+		<level level="6" stringParam="107">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="1.07" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900061_Flame_buff.png" />
+		</level>
+		<level level="7" stringParam="113">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="1.13" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900061_Flame_buff.png" />
+		</level>
+		<level level="8" stringParam="119">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="1.19" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900061_Flame_buff.png" />
+		</level>
+		<level level="9" stringParam="125">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="1.25" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900061_Flame_buff.png" />
+		</level>
+		<level level="10" stringParam="131">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="1.31" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900061_Flame_buff.png" />
+		</level>
+		<level level="11" stringParam="137">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="1.37" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900061_Flame_buff.png" />
+		</level>
+		<level level="12" stringParam="143">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="1.43" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900061_Flame_buff.png" />
+		</level>
+	</additional>
+	<additional id="10900063" mainType="1" isDebuff="1" category="8" skillGroupType="1">
+		<level level="1" stringParam="15">
+			<Basic durationTick="3000" />
+			<Motion keepEffect="Additional/Slow/Eff_Additional_IceSlow_Keep.xml" stopEffect="Additional/Slow/Eff_Additional_IceSlow_Stop.xml" abnormalImmuneBreak="5" />
+			<CancelEffect cancelEffectCodes="10900043" />
+			<SpecialAbility>
+				<v type="mspRate" value="-150" />
+				<v type="jmpRate" value="-150" />
+				<v type="rmspRate" value="-150" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900061_Ice_buff.png" />
+		</level>
+	</additional>
+	<additional id="10900074" mainType="2" isDebuff="1" skillGroupType="1">
+		<level level="1">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+			<Skill level="1" skillID="10900075" immediateActive="1" />
+		</level>
+		<level level="2">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+			<Skill level="2" skillID="10900075" immediateActive="1" />
+		</level>
+		<level level="3">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+			<Skill level="3" skillID="10900075" immediateActive="1" />
+		</level>
+		<level level="4">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+			<Skill level="4" skillID="10900075" immediateActive="1" />
+		</level>
+		<level level="5">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+			<Skill level="5" skillID="10900075" immediateActive="1" />
+		</level>
+		<level level="6">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+			<Skill level="6" skillID="10900075" immediateActive="1" />
+		</level>
+		<level level="7">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+			<Skill level="7" skillID="10900075" immediateActive="1" />
+		</level>
+		<level level="8">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+			<Skill level="8" skillID="10900075" immediateActive="1" />
+		</level>
+		<level level="9">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+			<Skill level="9" skillID="10900075" immediateActive="1" />
+		</level>
+		<level level="10">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+			<Skill level="10" skillID="10900075" immediateActive="1" />
+		</level>
+		<level level="11">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+			<Skill level="11" skillID="10900075" immediateActive="1" />
+		</level>
+		<level level="12">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+			<Skill level="12" skillID="10900075" immediateActive="1" />
+		</level>
+	</additional>
+	<additional id="10900091" mainType="1" skillGroupType="1">
+		<level level="1" stringParam="10">
+			<Basic durationTick="9000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900092,10900094,10900095" />
+			<SpecialAbility>
+				<v type="par" value="10" />
+				<v type="mar" value="10" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_buff.png" />
+		</level>
+		<level level="2" stringParam="20">
+			<Basic durationTick="9000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900092,10900094,10900095" />
+			<SpecialAbility>
+				<v type="par" value="20" />
+				<v type="mar" value="20" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_buff.png" />
+		</level>
+		<level level="3" stringParam="30">
+			<Basic durationTick="9000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900092,10900094,10900095" />
+			<SpecialAbility>
+				<v type="par" value="30" />
+				<v type="mar" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_buff.png" />
+		</level>
+		<level level="4" stringParam="40">
+			<Basic durationTick="9000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900092,10900094,10900095" />
+			<SpecialAbility>
+				<v type="par" value="40" />
+				<v type="mar" value="40" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_buff.png" />
+		</level>
+		<level level="5" stringParam="50">
+			<Basic durationTick="9000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900092,10900094,10900095" />
+			<SpecialAbility>
+				<v type="par" value="50" />
+				<v type="mar" value="50" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_buff.png" />
+		</level>
+		<level level="6" stringParam="60">
+			<Basic durationTick="9000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900092,10900094,10900095" />
+			<SpecialAbility>
+				<v type="par" value="60" />
+				<v type="mar" value="60" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_buff.png" />
+		</level>
+		<level level="7" stringParam="70">
+			<Basic durationTick="9000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900092,10900094,10900095" />
+			<SpecialAbility>
+				<v type="par" value="70" />
+				<v type="mar" value="70" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_buff.png" />
+		</level>
+		<level level="8" stringParam="80">
+			<Basic durationTick="9000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900092,10900094,10900095" />
+			<SpecialAbility>
+				<v type="par" value="80" />
+				<v type="mar" value="80" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_buff.png" />
+		</level>
+		<level level="9" stringParam="90">
+			<Basic durationTick="9000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900092,10900094,10900095" />
+			<SpecialAbility>
+				<v type="par" value="90" />
+				<v type="mar" value="90" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_buff.png" />
+		</level>
+		<level level="10" stringParam="100">
+			<Basic durationTick="9000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900092,10900094,10900095" />
+			<SpecialAbility>
+				<v type="par" value="100" />
+				<v type="mar" value="100" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_buff.png" />
+		</level>
+		<level level="11" stringParam="110">
+			<Basic durationTick="9000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900092,10900094,10900095" />
+			<SpecialAbility>
+				<v type="par" value="110" />
+				<v type="mar" value="110" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_buff.png" />
+		</level>
+		<level level="12" stringParam="120">
+			<Basic durationTick="9000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900092,10900094,10900095" />
+			<SpecialAbility>
+				<v type="par" value="120" />
+				<v type="mar" value="120" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_buff.png" />
+		</level>
+	</additional>
+	<additional id="10900092" mainType="1" skillGroupType="1">
+		<level level="1" stringParam="10,1,39">
+			<Basic durationTick="9000" intervalTick="500" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Keep_01.xml" stopEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900094,10900095" />
+			<SpecialAbility>
+				<v type="firedamagereduce" value="10" />
+				<v type="par" value="10" />
+				<v type="mar" value="10" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Flame_buff.png" />
+			<Skill level="1" skillID="10900093" immediateActive="1" />
+		</level>
+		<level level="2" stringParam="20,2,41">
+			<Basic durationTick="9000" intervalTick="500" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Keep_01.xml" stopEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900094,10900095" />
+			<SpecialAbility>
+				<v type="firedamagereduce" value="20" />
+				<v type="par" value="20" />
+				<v type="mar" value="20" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Flame_buff.png" />
+			<Skill level="2" skillID="10900093" immediateActive="1" />
+		</level>
+		<level level="3" stringParam="30,3,43">
+			<Basic durationTick="9000" intervalTick="500" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Keep_01.xml" stopEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900094,10900095" />
+			<SpecialAbility>
+				<v type="firedamagereduce" value="30" />
+				<v type="par" value="30" />
+				<v type="mar" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Flame_buff.png" />
+			<Skill level="3" skillID="10900093" immediateActive="1" />
+		</level>
+		<level level="4" stringParam="40,4,45">
+			<Basic durationTick="9000" intervalTick="500" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Keep_01.xml" stopEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900094,10900095" />
+			<SpecialAbility>
+				<v type="firedamagereduce" value="40" />
+				<v type="par" value="40" />
+				<v type="mar" value="40" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Flame_buff.png" />
+			<Skill level="4" skillID="10900093" immediateActive="1" />
+		</level>
+		<level level="5" stringParam="50,5,47">
+			<Basic durationTick="9000" intervalTick="500" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Keep_01.xml" stopEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900094,10900095" />
+			<SpecialAbility>
+				<v type="firedamagereduce" value="50" />
+				<v type="par" value="50" />
+				<v type="mar" value="50" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Flame_buff.png" />
+			<Skill level="5" skillID="10900093" immediateActive="1" />
+		</level>
+		<level level="6" stringParam="60,6,49">
+			<Basic durationTick="9000" intervalTick="500" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Keep_01.xml" stopEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900094,10900095" />
+			<SpecialAbility>
+				<v type="firedamagereduce" value="60" />
+				<v type="par" value="60" />
+				<v type="mar" value="60" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Flame_buff.png" />
+			<Skill level="6" skillID="10900093" immediateActive="1" />
+		</level>
+		<level level="7" stringParam="70,7,51">
+			<Basic durationTick="9000" intervalTick="500" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Keep_01.xml" stopEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900094,10900095" />
+			<SpecialAbility>
+				<v type="firedamagereduce" value="70" />
+				<v type="par" value="70" />
+				<v type="mar" value="70" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Flame_buff.png" />
+			<Skill level="7" skillID="10900093" immediateActive="1" />
+		</level>
+		<level level="8" stringParam="80,8,53">
+			<Basic durationTick="9000" intervalTick="500" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Keep_01.xml" stopEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900094,10900095" />
+			<SpecialAbility>
+				<v type="firedamagereduce" value="80" />
+				<v type="par" value="80" />
+				<v type="mar" value="80" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Flame_buff.png" />
+			<Skill level="8" skillID="10900093" immediateActive="1" />
+		</level>
+		<level level="9" stringParam="90,9,55">
+			<Basic durationTick="9000" intervalTick="500" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Keep_01.xml" stopEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900094,10900095" />
+			<SpecialAbility>
+				<v type="firedamagereduce" value="90" />
+				<v type="par" value="90" />
+				<v type="mar" value="90" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Flame_buff.png" />
+			<Skill level="9" skillID="10900093" immediateActive="1" />
+		</level>
+		<level level="10" stringParam="100,10,57">
+			<Basic durationTick="9000" intervalTick="500" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Keep_01.xml" stopEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900094,10900095" />
+			<SpecialAbility>
+				<v type="firedamagereduce" value="100" />
+				<v type="par" value="100" />
+				<v type="mar" value="100" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Flame_buff.png" />
+			<Skill level="10" skillID="10900093" immediateActive="1" />
+		</level>
+		<level level="11" stringParam="110,11,59">
+			<Basic durationTick="9000" intervalTick="500" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Keep_01.xml" stopEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900094,10900095" />
+			<SpecialAbility>
+				<v type="firedamagereduce" value="110" />
+				<v type="par" value="110" />
+				<v type="mar" value="110" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Flame_buff.png" />
+			<Skill level="11" skillID="10900093" immediateActive="1" />
+		</level>
+		<level level="12" stringParam="120,12,61">
+			<Basic durationTick="9000" intervalTick="500" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Keep_01.xml" stopEffect="CH/Skill_Feature_CharacterBalance_02/RuneBlader/Eff_RuneBlader_RuneShield_Flame_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900094,10900095" />
+			<SpecialAbility>
+				<v type="firedamagereduce" value="120" />
+				<v type="par" value="120" />
+				<v type="mar" value="120" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Flame_buff.png" />
+			<Skill level="12" skillID="10900093" immediateActive="1" />
+		</level>
+	</additional>
+	<additional id="10900094" skillGroupType="1">
+		<level level="1" stringParam="10,1,3">
+			<Basic group="10300131" durationTick="9000" invokeEvent="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Stop_01.xml" invokeEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Invoke_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900095" />
+			<SpecialAbility>
+				<v type="icedamagereduce" value="10" />
+				<v type="par" value="10" />
+				<v type="mar" value="10" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Ice_buff.png" />
+			<Shield hpByTargetMaxHP="0.03" />
+		</level>
+		<level level="2" stringParam="20,2,4">
+			<Basic group="10300131" durationTick="9000" invokeEvent="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Stop_01.xml" invokeEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Invoke_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900095" />
+			<SpecialAbility>
+				<v type="icedamagereduce" value="20" />
+				<v type="par" value="20" />
+				<v type="mar" value="20" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Ice_buff.png" />
+			<Shield hpByTargetMaxHP="0.04" />
+		</level>
+		<level level="3" stringParam="30,3,5">
+			<Basic group="10300131" durationTick="9000" invokeEvent="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Stop_01.xml" invokeEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Invoke_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900095" />
+			<SpecialAbility>
+				<v type="icedamagereduce" value="30" />
+				<v type="par" value="30" />
+				<v type="mar" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Ice_buff.png" />
+			<Shield hpByTargetMaxHP="0.05" />
+		</level>
+		<level level="4" stringParam="40,4,6">
+			<Basic group="10300131" durationTick="9000" invokeEvent="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Stop_01.xml" invokeEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Invoke_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900095" />
+			<SpecialAbility>
+				<v type="icedamagereduce" value="40" />
+				<v type="par" value="40" />
+				<v type="mar" value="40" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Ice_buff.png" />
+			<Shield hpByTargetMaxHP="0.06" />
+		</level>
+		<level level="5" stringParam="50,5,7">
+			<Basic group="10300131" durationTick="9000" invokeEvent="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Stop_01.xml" invokeEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Invoke_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900095" />
+			<SpecialAbility>
+				<v type="icedamagereduce" value="50" />
+				<v type="par" value="50" />
+				<v type="mar" value="50" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Ice_buff.png" />
+			<Shield hpByTargetMaxHP="0.07" />
+		</level>
+		<level level="6" stringParam="60,6,8">
+			<Basic group="10300131" durationTick="9000" invokeEvent="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Stop_01.xml" invokeEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Invoke_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900095" />
+			<SpecialAbility>
+				<v type="icedamagereduce" value="60" />
+				<v type="par" value="60" />
+				<v type="mar" value="60" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Ice_buff.png" />
+			<Shield hpByTargetMaxHP="0.08" />
+		</level>
+		<level level="7" stringParam="70,7,9">
+			<Basic group="10300131" durationTick="9000" invokeEvent="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Stop_01.xml" invokeEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Invoke_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900095" />
+			<SpecialAbility>
+				<v type="icedamagereduce" value="70" />
+				<v type="par" value="70" />
+				<v type="mar" value="70" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Ice_buff.png" />
+			<Shield hpByTargetMaxHP="0.09" />
+		</level>
+		<level level="8" stringParam="80,8,10">
+			<Basic group="10300131" durationTick="9000" invokeEvent="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Stop_01.xml" invokeEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Invoke_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900095" />
+			<SpecialAbility>
+				<v type="icedamagereduce" value="80" />
+				<v type="par" value="80" />
+				<v type="mar" value="80" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Ice_buff.png" />
+			<Shield hpByTargetMaxHP="0.1" />
+		</level>
+		<level level="9" stringParam="90,9,11">
+			<Basic group="10300131" durationTick="9000" invokeEvent="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Stop_01.xml" invokeEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Invoke_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900095" />
+			<SpecialAbility>
+				<v type="icedamagereduce" value="90" />
+				<v type="par" value="90" />
+				<v type="mar" value="90" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Ice_buff.png" />
+			<Shield hpByTargetMaxHP="0.11" />
+		</level>
+		<level level="10" stringParam="100,10,12">
+			<Basic group="10300131" durationTick="9000" invokeEvent="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Stop_01.xml" invokeEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Invoke_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900095" />
+			<SpecialAbility>
+				<v type="icedamagereduce" value="100" />
+				<v type="par" value="100" />
+				<v type="mar" value="100" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Ice_buff.png" />
+			<Shield hpByTargetMaxHP="0.12" />
+		</level>
+		<level level="11" stringParam="110,11,13">
+			<Basic group="10300131" durationTick="9000" invokeEvent="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Stop_01.xml" invokeEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Invoke_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900095" />
+			<SpecialAbility>
+				<v type="icedamagereduce" value="110" />
+				<v type="par" value="110" />
+				<v type="mar" value="110" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Ice_buff.png" />
+			<Shield hpByTargetMaxHP="0.13" />
+		</level>
+		<level level="12" stringParam="120,12,14">
+			<Basic group="10300131" durationTick="9000" invokeEvent="1" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Stop_01.xml" invokeEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Ice_Invoke_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900095" />
+			<SpecialAbility>
+				<v type="icedamagereduce" value="120" />
+				<v type="par" value="120" />
+				<v type="mar" value="120" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Ice_buff.png" />
+			<Shield hpByTargetMaxHP="0.14" />
+		</level>
+	</additional>
+	<additional id="10900095" mainType="1" skillGroupType="1">
+		<level level="1" stringParam="10,1,109">
+			<Basic durationTick="9000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900094" />
+			<SpecialAbility>
+				<v type="thunderdamagereduce" value="10" />
+				<v type="par" value="10" />
+				<v type="mar" value="10" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Thunder_buff.png" />
+			<Skill level="1" skillID="10900096" immediateActive="1" useDirection="1" />
+		</level>
+		<level level="2" stringParam="20,2,117">
+			<Basic durationTick="9000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900094" />
+			<SpecialAbility>
+				<v type="thunderdamagereduce" value="20" />
+				<v type="par" value="20" />
+				<v type="mar" value="20" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Thunder_buff.png" />
+			<Skill level="2" skillID="10900096" immediateActive="1" useDirection="1" />
+		</level>
+		<level level="3" stringParam="30,3,125">
+			<Basic durationTick="9000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900094" />
+			<SpecialAbility>
+				<v type="thunderdamagereduce" value="30" />
+				<v type="par" value="30" />
+				<v type="mar" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Thunder_buff.png" />
+			<Skill level="3" skillID="10900096" immediateActive="1" useDirection="1" />
+		</level>
+		<level level="4" stringParam="40,4,133">
+			<Basic durationTick="9000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900094" />
+			<SpecialAbility>
+				<v type="thunderdamagereduce" value="40" />
+				<v type="par" value="40" />
+				<v type="mar" value="40" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Thunder_buff.png" />
+			<Skill level="4" skillID="10900096" immediateActive="1" useDirection="1" />
+		</level>
+		<level level="5" stringParam="50,5,141">
+			<Basic durationTick="9000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900094" />
+			<SpecialAbility>
+				<v type="thunderdamagereduce" value="50" />
+				<v type="par" value="50" />
+				<v type="mar" value="50" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Thunder_buff.png" />
+			<Skill level="5" skillID="10900096" immediateActive="1" useDirection="1" />
+		</level>
+		<level level="6" stringParam="60,6,149">
+			<Basic durationTick="9000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900094" />
+			<SpecialAbility>
+				<v type="thunderdamagereduce" value="60" />
+				<v type="par" value="60" />
+				<v type="mar" value="60" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Thunder_buff.png" />
+			<Skill level="6" skillID="10900096" immediateActive="1" useDirection="1" />
+		</level>
+		<level level="7" stringParam="70,7,157">
+			<Basic durationTick="9000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900094" />
+			<SpecialAbility>
+				<v type="thunderdamagereduce" value="70" />
+				<v type="par" value="70" />
+				<v type="mar" value="70" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Thunder_buff.png" />
+			<Skill level="7" skillID="10900096" immediateActive="1" useDirection="1" />
+		</level>
+		<level level="8" stringParam="80,8,165">
+			<Basic durationTick="9000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900094" />
+			<SpecialAbility>
+				<v type="thunderdamagereduce" value="80" />
+				<v type="par" value="80" />
+				<v type="mar" value="80" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Thunder_buff.png" />
+			<Skill level="8" skillID="10900096" immediateActive="1" useDirection="1" />
+		</level>
+		<level level="9" stringParam="90,9,173">
+			<Basic durationTick="9000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900094" />
+			<SpecialAbility>
+				<v type="thunderdamagereduce" value="90" />
+				<v type="par" value="90" />
+				<v type="mar" value="90" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Thunder_buff.png" />
+			<Skill level="9" skillID="10900096" immediateActive="1" useDirection="1" />
+		</level>
+		<level level="10" stringParam="100,10,181">
+			<Basic durationTick="9000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900094" />
+			<SpecialAbility>
+				<v type="thunderdamagereduce" value="100" />
+				<v type="par" value="100" />
+				<v type="mar" value="100" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Thunder_buff.png" />
+			<Skill level="10" skillID="10900096" immediateActive="1" useDirection="1" />
+		</level>
+		<level level="11" stringParam="110,11,189">
+			<Basic durationTick="9000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900094" />
+			<SpecialAbility>
+				<v type="thunderdamagereduce" value="110" />
+				<v type="par" value="110" />
+				<v type="mar" value="110" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Thunder_buff.png" />
+			<Skill level="11" skillID="10900096" immediateActive="1" useDirection="1" />
+		</level>
+		<level level="12" stringParam="120,12,197">
+			<Basic durationTick="9000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RuneShield_Thunder_Stop_01.xml" />
+			<CancelEffect cancelEffectCodes="10900091,10900092,10900094" />
+			<SpecialAbility>
+				<v type="thunderdamagereduce" value="120" />
+				<v type="par" value="120" />
+				<v type="mar" value="120" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900091_Thunder_buff.png" />
+			<Skill level="12" skillID="10900096" immediateActive="1" useDirection="1" />
+		</level>
+	</additional>
+	<additional id="10900111" mainType="1" skillGroupType="1">
+		<level level="1">
+			<Basic durationTick="5000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IllusionBlade_Keep_01.xml" />
+			<Skill level="1" skillID="10900112" immediateActive="1" />
+		</level>
+		<level level="2">
+			<Basic durationTick="5000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IllusionBlade_Keep_01.xml" />
+			<Skill level="2" skillID="10900112" immediateActive="1" />
+		</level>
+		<level level="3">
+			<Basic durationTick="5000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IllusionBlade_Keep_01.xml" />
+			<Skill level="3" skillID="10900112" immediateActive="1" />
+		</level>
+		<level level="4">
+			<Basic durationTick="5000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IllusionBlade_Keep_01.xml" />
+			<Skill level="4" skillID="10900112" immediateActive="1" />
+		</level>
+		<level level="5">
+			<Basic durationTick="5000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IllusionBlade_Keep_01.xml" />
+			<Skill level="5" skillID="10900112" immediateActive="1" />
+		</level>
+		<level level="6">
+			<Basic durationTick="5000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IllusionBlade_Keep_01.xml" />
+			<Skill level="6" skillID="10900112" immediateActive="1" />
+		</level>
+		<level level="7">
+			<Basic durationTick="5000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IllusionBlade_Keep_01.xml" />
+			<Skill level="7" skillID="10900112" immediateActive="1" />
+		</level>
+		<level level="8">
+			<Basic durationTick="5000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IllusionBlade_Keep_01.xml" />
+			<Skill level="8" skillID="10900112" immediateActive="1" />
+		</level>
+		<level level="9">
+			<Basic durationTick="5000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IllusionBlade_Keep_01.xml" />
+			<Skill level="9" skillID="10900112" immediateActive="1" />
+		</level>
+		<level level="10">
+			<Basic durationTick="5000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IllusionBlade_Keep_01.xml" />
+			<Skill level="10" skillID="10900112" immediateActive="1" />
+		</level>
+		<level level="11">
+			<Basic durationTick="5000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IllusionBlade_Keep_01.xml" />
+			<Skill level="11" skillID="10900112" immediateActive="1" />
+		</level>
+		<level level="12">
+			<Basic durationTick="5000" intervalTick="1000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IllusionBlade_Keep_01.xml" />
+			<Skill level="12" skillID="10900112" immediateActive="1" />
+		</level>
+	</additional>
+	<additional id="10900112" skillGroupType="1">
+		<level level="1">
+			<Basic durationTick="5000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IllusionBlade_Keep_02.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_IllusionBlade_Stop_02.xml" />
+		</level>
+	</additional>
+	<additional id="10900121" mainType="1" skillGroupType="1">
+		<level level="1">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900001" />
+			<SpecialAbility>
+				<v type="firedamage" value="10" />
+				<v type="hpRate" value="10" />
+			</SpecialAbility>
+		</level>
+		<level level="2">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900001" />
+			<SpecialAbility>
+				<v type="firedamage" value="16" />
+				<v type="hpRate" value="14" />
+			</SpecialAbility>
+		</level>
+		<level level="3">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900001" />
+			<SpecialAbility>
+				<v type="firedamage" value="22" />
+				<v type="hpRate" value="18" />
+			</SpecialAbility>
+		</level>
+		<level level="4">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900001" />
+			<SpecialAbility>
+				<v type="firedamage" value="28" />
+				<v type="hpRate" value="22" />
+			</SpecialAbility>
+		</level>
+		<level level="5">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900001" />
+			<SpecialAbility>
+				<v type="firedamage" value="34" />
+				<v type="hpRate" value="26" />
+			</SpecialAbility>
+		</level>
+		<level level="6">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900001" />
+			<SpecialAbility>
+				<v type="firedamage" value="40" />
+				<v type="hpRate" value="30" />
+			</SpecialAbility>
+		</level>
+		<level level="7">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900001" />
+			<SpecialAbility>
+				<v type="firedamage" value="46" />
+				<v type="hpRate" value="34" />
+			</SpecialAbility>
+		</level>
+		<level level="8">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900001" />
+			<SpecialAbility>
+				<v type="firedamage" value="52" />
+				<v type="hpRate" value="38" />
+			</SpecialAbility>
+		</level>
+		<level level="9">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900001" />
+			<SpecialAbility>
+				<v type="firedamage" value="58" />
+				<v type="hpRate" value="42" />
+			</SpecialAbility>
+		</level>
+		<level level="10">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900001" />
+			<SpecialAbility>
+				<v type="firedamage" value="64" />
+				<v type="hpRate" value="46" />
+			</SpecialAbility>
+		</level>
+		<level level="11">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900001" />
+			<SpecialAbility>
+				<v type="firedamage" value="70" />
+				<v type="hpRate" value="50" />
+			</SpecialAbility>
+		</level>
+		<level level="12">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900001" />
+			<SpecialAbility>
+				<v type="firedamage" value="76" />
+				<v type="hpRate" value="54" />
+			</SpecialAbility>
+		</level>
+	</additional>
+	<additional id="10900122" mainType="1" skillGroupType="1">
+		<level level="1">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900011" />
+			<SpecialAbility>
+				<v type="icedamage" value="10" />
+				<v type="nddRate" value="10" />
+			</SpecialAbility>
+		</level>
+		<level level="2">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900011" />
+			<SpecialAbility>
+				<v type="icedamage" value="16" />
+				<v type="nddRate" value="14" />
+			</SpecialAbility>
+		</level>
+		<level level="3">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900011" />
+			<SpecialAbility>
+				<v type="icedamage" value="22" />
+				<v type="nddRate" value="18" />
+			</SpecialAbility>
+		</level>
+		<level level="4">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900011" />
+			<SpecialAbility>
+				<v type="icedamage" value="28" />
+				<v type="nddRate" value="22" />
+			</SpecialAbility>
+		</level>
+		<level level="5">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900011" />
+			<SpecialAbility>
+				<v type="icedamage" value="34" />
+				<v type="nddRate" value="26" />
+			</SpecialAbility>
+		</level>
+		<level level="6">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900011" />
+			<SpecialAbility>
+				<v type="icedamage" value="40" />
+				<v type="nddRate" value="30" />
+			</SpecialAbility>
+		</level>
+		<level level="7">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900011" />
+			<SpecialAbility>
+				<v type="icedamage" value="46" />
+				<v type="nddRate" value="34" />
+			</SpecialAbility>
+		</level>
+		<level level="8">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900011" />
+			<SpecialAbility>
+				<v type="icedamage" value="52" />
+				<v type="nddRate" value="38" />
+			</SpecialAbility>
+		</level>
+		<level level="9">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900011" />
+			<SpecialAbility>
+				<v type="icedamage" value="58" />
+				<v type="nddRate" value="42" />
+			</SpecialAbility>
+		</level>
+		<level level="10">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900011" />
+			<SpecialAbility>
+				<v type="icedamage" value="64" />
+				<v type="nddRate" value="46" />
+			</SpecialAbility>
+		</level>
+		<level level="11">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900011" />
+			<SpecialAbility>
+				<v type="icedamage" value="70" />
+				<v type="nddRate" value="50" />
+			</SpecialAbility>
+		</level>
+		<level level="12">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900011" />
+			<SpecialAbility>
+				<v type="icedamage" value="76" />
+				<v type="nddRate" value="54" />
+			</SpecialAbility>
+		</level>
+	</additional>
+	<additional id="10900123" mainType="1" skillGroupType="1">
+		<level level="1">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900021" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="10" />
+				<v type="msp" value="1" />
+				<v type="evp" value="1" />
+				<v type="rmsp" value="1" />
+			</SpecialAbility>
+		</level>
+		<level level="2">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900021" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="16" />
+				<v type="msp" value="2" />
+				<v type="evp" value="1" />
+				<v type="rmsp" value="2" />
+			</SpecialAbility>
+		</level>
+		<level level="3">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900021" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="22" />
+				<v type="msp" value="3" />
+				<v type="evp" value="1" />
+				<v type="rmsp" value="3" />
+			</SpecialAbility>
+		</level>
+		<level level="4">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900021" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="28" />
+				<v type="msp" value="4" />
+				<v type="evp" value="2" />
+				<v type="rmsp" value="4" />
+			</SpecialAbility>
+		</level>
+		<level level="5">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900021" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="34" />
+				<v type="msp" value="5" />
+				<v type="evp" value="2" />
+				<v type="rmsp" value="5" />
+			</SpecialAbility>
+		</level>
+		<level level="6">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900021" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="40" />
+				<v type="msp" value="6" />
+				<v type="evp" value="2" />
+				<v type="rmsp" value="6" />
+			</SpecialAbility>
+		</level>
+		<level level="7">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900021" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="46" />
+				<v type="msp" value="7" />
+				<v type="evp" value="3" />
+				<v type="rmsp" value="7" />
+			</SpecialAbility>
+		</level>
+		<level level="8">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900021" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="52" />
+				<v type="msp" value="8" />
+				<v type="evp" value="3" />
+				<v type="rmsp" value="8" />
+			</SpecialAbility>
+		</level>
+		<level level="9">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900021" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="58" />
+				<v type="msp" value="9" />
+				<v type="evp" value="3" />
+				<v type="rmsp" value="9" />
+			</SpecialAbility>
+		</level>
+		<level level="10">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900021" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="64" />
+				<v type="msp" value="10" />
+				<v type="evp" value="4" />
+				<v type="rmsp" value="10" />
+			</SpecialAbility>
+		</level>
+		<level level="11">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900021" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="70" />
+				<v type="msp" value="11" />
+				<v type="evp" value="4" />
+				<v type="rmsp" value="11" />
+			</SpecialAbility>
+		</level>
+		<level level="12">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900021" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="76" />
+				<v type="msp" value="12" />
+				<v type="evp" value="4" />
+				<v type="rmsp" value="12" />
+			</SpecialAbility>
+		</level>
+	</additional>
+	<additional id="10900131" mainType="1" skillGroupType="1">
+		<level level="1" stringParam="2">
+			<Basic durationTick="10000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Stop_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="20" />
+				<v type="firedamage" value="20" />
+				<v type="thunderdamage" value="20" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900131_buff.png" />
+		</level>
+		<level level="2" stringParam="4">
+			<Basic durationTick="11000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Stop_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="40" />
+				<v type="firedamage" value="40" />
+				<v type="thunderdamage" value="40" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900131_buff.png" />
+		</level>
+		<level level="3" stringParam="6">
+			<Basic durationTick="12000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Stop_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="60" />
+				<v type="firedamage" value="60" />
+				<v type="thunderdamage" value="60" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900131_buff.png" />
+		</level>
+		<level level="4" stringParam="8">
+			<Basic durationTick="13000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Stop_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="80" />
+				<v type="firedamage" value="80" />
+				<v type="thunderdamage" value="80" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900131_buff.png" />
+		</level>
+		<level level="5" stringParam="10">
+			<Basic durationTick="14000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Stop_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="100" />
+				<v type="firedamage" value="100" />
+				<v type="thunderdamage" value="100" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900131_buff.png" />
+		</level>
+		<level level="6" stringParam="12">
+			<Basic durationTick="15000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Stop_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="120" />
+				<v type="firedamage" value="120" />
+				<v type="thunderdamage" value="120" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900131_buff.png" />
+		</level>
+		<level level="7" stringParam="14">
+			<Basic durationTick="16000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Stop_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="140" />
+				<v type="firedamage" value="140" />
+				<v type="thunderdamage" value="140" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900131_buff.png" />
+		</level>
+		<level level="8" stringParam="16">
+			<Basic durationTick="17000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Stop_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="160" />
+				<v type="firedamage" value="160" />
+				<v type="thunderdamage" value="160" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900131_buff.png" />
+		</level>
+		<level level="9" stringParam="18">
+			<Basic durationTick="18000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Stop_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="180" />
+				<v type="firedamage" value="180" />
+				<v type="thunderdamage" value="180" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900131_buff.png" />
+		</level>
+		<level level="10" stringParam="20">
+			<Basic durationTick="19000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Stop_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="200" />
+				<v type="firedamage" value="200" />
+				<v type="thunderdamage" value="200" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900131_buff.png" />
+		</level>
+		<level level="11" stringParam="22">
+			<Basic durationTick="20000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Stop_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="220" />
+				<v type="firedamage" value="220" />
+				<v type="thunderdamage" value="220" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900131_buff.png" />
+		</level>
+		<level level="12" stringParam="24">
+			<Basic durationTick="21000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_RunaInstall_Stop_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="240" />
+				<v type="firedamage" value="240" />
+				<v type="thunderdamage" value="240" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900131_buff.png" />
+		</level>
+	</additional>
+	<additional id="10900141" mainType="1" skillGroupType="1">
+		<level level="1">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition equipHandR="54" />
+			<SpecialAbility>
+				<v type="wapRate" value="10" />
+			</SpecialAbility>
+		</level>
+		<level level="2">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition equipHandR="54" />
+			<SpecialAbility>
+				<v type="wapRate" value="16" />
+			</SpecialAbility>
+		</level>
+		<level level="3">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition equipHandR="54" />
+			<SpecialAbility>
+				<v type="wapRate" value="22" />
+			</SpecialAbility>
+		</level>
+		<level level="4">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition equipHandR="54" />
+			<SpecialAbility>
+				<v type="wapRate" value="28" />
+			</SpecialAbility>
+		</level>
+		<level level="5">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition equipHandR="54" />
+			<SpecialAbility>
+				<v type="wapRate" value="34" />
+			</SpecialAbility>
+		</level>
+		<level level="6">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition equipHandR="54" />
+			<SpecialAbility>
+				<v type="wapRate" value="40" />
+			</SpecialAbility>
+		</level>
+		<level level="7">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition equipHandR="54" />
+			<SpecialAbility>
+				<v type="wapRate" value="46" />
+			</SpecialAbility>
+		</level>
+		<level level="8">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition equipHandR="54" />
+			<SpecialAbility>
+				<v type="wapRate" value="52" />
+			</SpecialAbility>
+		</level>
+		<level level="9">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition equipHandR="54" />
+			<SpecialAbility>
+				<v type="wapRate" value="58" />
+			</SpecialAbility>
+		</level>
+		<level level="10">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition equipHandR="54" />
+			<SpecialAbility>
+				<v type="wapRate" value="64" />
+			</SpecialAbility>
+		</level>
+		<level level="11">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition equipHandR="54" />
+			<SpecialAbility>
+				<v type="wapRate" value="70" />
+			</SpecialAbility>
+		</level>
+		<level level="12">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition equipHandR="54" />
+			<SpecialAbility>
+				<v type="wapRate" value="76" />
+			</SpecialAbility>
+		</level>
+	</additional>
+	<additional id="10900155" mainType="1" isDebuff="1" category="8" skillGroupType="1">
+		<level level="1" stringParam="30">
+			<Basic durationTick="6000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="Additional/Slow/Eff_Additional_IceSlow_Keep.xml" stopEffect="Additional/Slow/Eff_Additional_IceSlow_Stop.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="mspRate" value="-300" />
+				<v type="jmpRate" value="-300" />
+				<v type="rmspRate" value="-300" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900151_Ice_buff.png" />
+		</level>
+	</additional>
+	<additional id="10900157" mainType="2" isDebuff="1" skillGroupType="1">
+		<level level="1">
+			<Basic durationTick="100" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" rate="0.25" element="3" />
+		</level>
+		<level level="2">
+			<Basic durationTick="100" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" rate="0.26" element="3" />
+		</level>
+		<level level="3">
+			<Basic durationTick="100" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" rate="0.27" element="3" />
+		</level>
+		<level level="4">
+			<Basic durationTick="100" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" rate="0.28" element="3" />
+		</level>
+		<level level="5">
+			<Basic durationTick="100" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" rate="0.29" element="3" />
+		</level>
+		<level level="6">
+			<Basic durationTick="100" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" rate="0.3" element="3" />
+		</level>
+		<level level="7">
+			<Basic durationTick="100" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" rate="0.31" element="3" />
+		</level>
+		<level level="8">
+			<Basic durationTick="100" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" rate="0.32" element="3" />
+		</level>
+		<level level="9">
+			<Basic durationTick="100" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" rate="0.33" element="3" />
+		</level>
+		<level level="10">
+			<Basic durationTick="100" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" rate="0.34" element="3" />
+		</level>
+		<level level="11">
+			<Basic durationTick="100" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" rate="0.35" element="3" />
+		</level>
+		<level level="12">
+			<Basic durationTick="100" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" rate="0.36" element="3" />
+		</level>
+	</additional>
+	<additional id="10900161" mainType="1" skillGroupType="1">
+		<level level="1" stringParam="2">
+			<Basic durationTick="180000" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="20" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900161_buff.png" />
+		</level>
+		<level level="2" stringParam="4">
+			<Basic durationTick="180000" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="40" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900161_buff.png" />
+		</level>
+		<level level="3" stringParam="6">
+			<Basic durationTick="180000" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="60" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900161_buff.png" />
+		</level>
+		<level level="4" stringParam="8">
+			<Basic durationTick="180000" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="80" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900161_buff.png" />
+		</level>
+		<level level="5" stringParam="10">
+			<Basic durationTick="180000" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="100" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900161_buff.png" />
+		</level>
+		<level level="6" stringParam="12">
+			<Basic durationTick="180000" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="120" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900161_buff.png" />
+		</level>
+		<level level="7" stringParam="14">
+			<Basic durationTick="180000" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="140" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900161_buff.png" />
+		</level>
+		<level level="8" stringParam="16">
+			<Basic durationTick="180000" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="160" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900161_buff.png" />
+		</level>
+		<level level="9" stringParam="18">
+			<Basic durationTick="180000" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="180" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900161_buff.png" />
+		</level>
+		<level level="10" stringParam="20">
+			<Basic durationTick="180000" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="200" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900161_buff.png" />
+		</level>
+		<level level="11" stringParam="22">
+			<Basic durationTick="180000" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="220" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900161_buff.png" />
+		</level>
+		<level level="12" stringParam="24">
+			<Basic durationTick="180000" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="240" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900161_buff.png" />
+		</level>
+	</additional>
+	<additional id="10900162" skillGroupType="1">
+		<level level="1">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900161" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="10" />
+			</SpecialAbility>
+		</level>
+		<level level="2">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900161" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="20" />
+			</SpecialAbility>
+		</level>
+		<level level="3">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900161" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="30" />
+			</SpecialAbility>
+		</level>
+		<level level="4">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900161" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="40" />
+			</SpecialAbility>
+		</level>
+		<level level="5">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900161" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="50" />
+			</SpecialAbility>
+		</level>
+		<level level="6">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900161" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="60" />
+			</SpecialAbility>
+		</level>
+		<level level="7">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900161" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="70" />
+			</SpecialAbility>
+		</level>
+		<level level="8">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900161" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="80" />
+			</SpecialAbility>
+		</level>
+		<level level="9">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900161" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="90" />
+			</SpecialAbility>
+		</level>
+		<level level="10">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900161" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="100" />
+			</SpecialAbility>
+		</level>
+		<level level="11">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900161" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="110" />
+			</SpecialAbility>
+		</level>
+		<level level="12">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition hasBuffID="10900161" />
+			<SpecialAbility>
+				<v type="cad_ignore_limit" value="120" />
+			</SpecialAbility>
+		</level>
+	</additional>
+	<additional id="10900175" mainType="1" isDebuff="1" category="8" skillGroupType="1">
+		<level level="1" feature="JobChange_01" stringParam="30">
+			<Basic durationTick="6000" clearEffectFromPVPZone="1" />
+			<Motion keepEffect="Additional/Slow/Eff_Additional_IceSlow_Keep.xml" stopEffect="Additional/Slow/Eff_Additional_IceSlow_Stop.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="mspRate" value="-300" />
+				<v type="jmpRate" value="-300" />
+				<v type="rmspRate" value="-300" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900171_Ice_buff.png" />
+		</level>
+	</additional>
+	<additional id="10900177" mainType="2" isDebuff="1" skillGroupType="1">
+		<level level="1" feature="JobChange_01">
+			<Basic durationTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900251" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" useGrade="1" rate="1.86" element="3" />
+		</level>
+		<level level="2" feature="JobChange_01">
+			<Basic durationTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900251" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" useGrade="1" rate="1.97" element="3" />
+		</level>
+		<level level="3" feature="JobChange_01">
+			<Basic durationTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900251" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" useGrade="1" rate="2.09" element="3" />
+		</level>
+		<level level="4" feature="JobChange_01">
+			<Basic durationTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900251" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" useGrade="1" rate="2.2" element="3" />
+		</level>
+		<level level="5" feature="JobChange_01">
+			<Basic durationTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900251" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" useGrade="1" rate="2.32" element="3" />
+		</level>
+		<level level="6" feature="JobChange_01">
+			<Basic durationTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900251" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" useGrade="1" rate="2.44" element="3" />
+		</level>
+		<level level="7" feature="JobChange_01">
+			<Basic durationTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900251" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" useGrade="1" rate="2.55" element="3" />
+		</level>
+		<level level="8" feature="JobChange_01">
+			<Basic durationTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900251" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" useGrade="1" rate="2.67" element="3" />
+		</level>
+		<level level="9" feature="JobChange_01">
+			<Basic durationTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900251" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" useGrade="1" rate="2.78" element="3" />
+		</level>
+		<level level="10" feature="JobChange_01">
+			<Basic durationTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900251" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" useGrade="1" rate="2.9" element="3" />
+		</level>
+		<level level="11" feature="JobChange_01">
+			<Basic durationTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900251" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" useGrade="1" rate="3.02" element="3" />
+		</level>
+		<level level="12" feature="JobChange_01">
+			<Basic durationTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900251" />
+			<Motion startEffect="CH/Common/Eff_Common_Electric_Hit.xml" abnormalImmuneBreak="5" />
+			<DotDamage type="1" useGrade="1" rate="3.13" element="3" />
+		</level>
+	</additional>
+	<additional id="10900196" mainType="2" isDebuff="1">
+		<level level="1" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="2" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="3" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="4" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="5" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="6" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="7" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="8" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="9" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="10" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="11" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="12" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="13" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="14" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="15" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="16" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="17" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="18" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="19" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+		<level level="20" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" />
+			<Motion abnormalImmuneBreak="5" />
+		</level>
+	</additional>
+	<additional id="10900203" mainType="1" skillGroupType="1">
+		<level level="1" feature="JobChange_01">
+			<Basic durationTick="5000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="1" skillID="10900204" immediateActive="1" />
+		</level>
+		<level level="2" feature="JobChange_01">
+			<Basic durationTick="5000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="2" skillID="10900204" immediateActive="1" />
+		</level>
+		<level level="3" feature="JobChange_01">
+			<Basic durationTick="5000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="3" skillID="10900204" immediateActive="1" />
+		</level>
+		<level level="4" feature="JobChange_01">
+			<Basic durationTick="5000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="4" skillID="10900204" immediateActive="1" />
+		</level>
+		<level level="5" feature="JobChange_01">
+			<Basic durationTick="5000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="5" skillID="10900204" immediateActive="1" />
+		</level>
+		<level level="6" feature="JobChange_01">
+			<Basic durationTick="5000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="6" skillID="10900204" immediateActive="1" />
+		</level>
+		<level level="7" feature="JobChange_01">
+			<Basic durationTick="5000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="7" skillID="10900204" immediateActive="1" />
+		</level>
+		<level level="8" feature="JobChange_01">
+			<Basic durationTick="5000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="8" skillID="10900204" immediateActive="1" />
+		</level>
+		<level level="9" feature="JobChange_01">
+			<Basic durationTick="5000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="9" skillID="10900204" immediateActive="1" />
+		</level>
+		<level level="10" feature="JobChange_01">
+			<Basic durationTick="5000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="10" skillID="10900204" immediateActive="1" />
+		</level>
+		<level level="11" feature="JobChange_01">
+			<Basic durationTick="5000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="11" skillID="10900204" immediateActive="1" />
+		</level>
+		<level level="12" feature="JobChange_01">
+			<Basic durationTick="5000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="12" skillID="10900204" immediateActive="1" />
+		</level>
+	</additional>
+	<additional id="10900212" mainType="2" isDebuff="1" skillGroupType="1">
+		<level level="1" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" groupIDs="10900241" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" useGrade="1" rate="1.24" element="1" />
+		</level>
+		<level level="2" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" groupIDs="10900241" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" useGrade="1" rate="1.36" element="1" />
+		</level>
+		<level level="3" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" groupIDs="10900241" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" useGrade="1" rate="1.48" element="1" />
+		</level>
+		<level level="4" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" groupIDs="10900241" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" useGrade="1" rate="1.6" element="1" />
+		</level>
+		<level level="5" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" groupIDs="10900241" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" useGrade="1" rate="1.72" element="1" />
+		</level>
+		<level level="6" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" groupIDs="10900241" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" useGrade="1" rate="1.84" element="1" />
+		</level>
+		<level level="7" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" groupIDs="10900241" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" useGrade="1" rate="1.96" element="1" />
+		</level>
+		<level level="8" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" groupIDs="10900241" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" useGrade="1" rate="2.07" element="1" />
+		</level>
+		<level level="9" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" groupIDs="10900241" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" useGrade="1" rate="2.19" element="1" />
+		</level>
+		<level level="10" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" groupIDs="10900241" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" useGrade="1" rate="2.31" element="1" />
+		</level>
+		<level level="11" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" groupIDs="10900241" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" useGrade="1" rate="2.43" element="1" />
+		</level>
+		<level level="12" feature="JobChange_01">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" groupIDs="10900241" />
+			<Motion abnormalImmuneBreak="5" />
+			<DotDamage type="2" useGrade="1" rate="2.55" element="1" />
+		</level>
+	</additional>
+	<additional id="10900222" mainType="2" isDebuff="1" skillGroupType="1">
+		<level level="1" feature="JobChange_01" stringParam="260">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900241" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="2.6" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900221_Flame_buff.png" />
+		</level>
+		<level level="2" feature="JobChange_01" stringParam="291">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900241" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="2.91" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900221_Flame_buff.png" />
+		</level>
+		<level level="3" feature="JobChange_01" stringParam="321">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900241" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="3.21" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900221_Flame_buff.png" />
+		</level>
+		<level level="4" feature="JobChange_01" stringParam="352">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900241" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="3.52" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900221_Flame_buff.png" />
+		</level>
+		<level level="5" feature="JobChange_01" stringParam="383">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900241" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="3.83" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900221_Flame_buff.png" />
+		</level>
+		<level level="6" feature="JobChange_01" stringParam="413">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900241" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="4.13" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900221_Flame_buff.png" />
+		</level>
+		<level level="7" feature="JobChange_01" stringParam="444">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900241" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="4.44" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900221_Flame_buff.png" />
+		</level>
+		<level level="8" feature="JobChange_01" stringParam="474">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900241" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="4.74" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900221_Flame_buff.png" />
+		</level>
+		<level level="9" feature="JobChange_01" stringParam="505">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900241" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="5.05" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900221_Flame_buff.png" />
+		</level>
+		<level level="10" feature="JobChange_01" stringParam="536">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900241" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="5.36" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900221_Flame_buff.png" />
+		</level>
+		<level level="11" feature="JobChange_01" stringParam="566">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900241" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="5.66" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900221_Flame_buff.png" />
+		</level>
+		<level level="12" feature="JobChange_01" stringParam="597">
+			<Basic group="10900062" durationTick="12000" intervalTick="1000" casterIndividualEffect="1" clearEffectFromPVPZone="1" groupIDs="10900241" />
+			<Motion keepEffect="Additional/Burn/Eff_Additional_Burn_Keep.xml" stopEffect="Additional/Burn/Eff_Additional_Burn_Stop.xml" />
+			<CancelEffect cancelCheckSameCaster="1" cancelEffectCodes="10900042" />
+			<DotDamage type="2" rate="5.97" element="1" />
+			<UI icon="./Data/Resource/Image/skill/icon/10900221_Flame_buff.png" />
+		</level>
+	</additional>
+	<additional id="10900224" mainType="1" isDebuff="1" category="8" skillGroupType="1">
+		<level level="1" feature="JobChange_01" stringParam="15,15">
+			<Basic durationTick="3000" />
+			<Motion keepEffect="Additional/Slow/Eff_Additional_IceSlow_Keep.xml" stopEffect="Additional/Slow/Eff_Additional_IceSlow_Stop.xml" abnormalImmuneBreak="5" />
+			<CancelEffect cancelEffectCodes="10900043" />
+			<SpecialAbility>
+				<v type="mspRate" value="-150" />
+				<v type="jmpRate" value="-150" />
+				<v type="rmspRate" value="-150" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900221_Ice_buff.png" />
+		</level>
+	</additional>
+	<additional id="10900231" mainType="1" skillGroupType="1">
+		<level level="1" feature="JobChange_01" stringParam="30,20">
+			<Basic durationTick="6000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Start_01.xml" keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Stop_01.xml" />
+			<SpecialAbility>
+				<v type="nddRate" value="200" />
+				<v type="msp" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900231_buff.png" />
+		</level>
+		<level level="2" feature="JobChange_01" stringParam="30,20">
+			<Basic durationTick="6000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Start_01.xml" keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Stop_01.xml" />
+			<SpecialAbility>
+				<v type="nddRate" value="200" />
+				<v type="msp" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900231_buff.png" />
+		</level>
+		<level level="3" feature="JobChange_01" stringParam="30,20">
+			<Basic durationTick="6000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Start_01.xml" keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Stop_01.xml" />
+			<SpecialAbility>
+				<v type="nddRate" value="200" />
+				<v type="msp" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900231_buff.png" />
+		</level>
+		<level level="4" feature="JobChange_01" stringParam="30,20">
+			<Basic durationTick="6000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Start_01.xml" keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Stop_01.xml" />
+			<SpecialAbility>
+				<v type="nddRate" value="200" />
+				<v type="msp" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900231_buff.png" />
+		</level>
+		<level level="5" feature="JobChange_01" stringParam="30,20">
+			<Basic durationTick="6000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Start_01.xml" keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Stop_01.xml" />
+			<SpecialAbility>
+				<v type="nddRate" value="200" />
+				<v type="msp" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900231_buff.png" />
+		</level>
+		<level level="6" feature="JobChange_01" stringParam="30,20">
+			<Basic durationTick="6000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Start_01.xml" keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Stop_01.xml" />
+			<SpecialAbility>
+				<v type="nddRate" value="200" />
+				<v type="msp" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900231_buff.png" />
+		</level>
+		<level level="7" feature="JobChange_01" stringParam="30,20">
+			<Basic durationTick="6000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Start_01.xml" keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Stop_01.xml" />
+			<SpecialAbility>
+				<v type="nddRate" value="200" />
+				<v type="msp" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900231_buff.png" />
+		</level>
+		<level level="8" feature="JobChange_01" stringParam="30,20">
+			<Basic durationTick="6000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Start_01.xml" keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Stop_01.xml" />
+			<SpecialAbility>
+				<v type="nddRate" value="200" />
+				<v type="msp" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900231_buff.png" />
+		</level>
+		<level level="9" feature="JobChange_01" stringParam="30,20">
+			<Basic durationTick="6000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Start_01.xml" keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Stop_01.xml" />
+			<SpecialAbility>
+				<v type="nddRate" value="200" />
+				<v type="msp" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900231_buff.png" />
+		</level>
+		<level level="10" feature="JobChange_01" stringParam="30,20">
+			<Basic durationTick="6000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Start_01.xml" keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Stop_01.xml" />
+			<SpecialAbility>
+				<v type="nddRate" value="200" />
+				<v type="msp" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900231_buff.png" />
+		</level>
+		<level level="11" feature="JobChange_01" stringParam="30,20">
+			<Basic durationTick="6000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Start_01.xml" keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Stop_01.xml" />
+			<SpecialAbility>
+				<v type="nddRate" value="200" />
+				<v type="msp" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900231_buff.png" />
+		</level>
+		<level level="12" feature="JobChange_01" stringParam="30,20">
+			<Basic durationTick="6000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Start_01.xml" keepEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Keep_01.xml" stopEffect="CH/Skill/RuneBlader/Eff_RuneBlader_PhysicalBoost_Stop_01.xml" />
+			<SpecialAbility>
+				<v type="nddRate" value="200" />
+				<v type="msp" value="30" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900231_buff.png" />
+		</level>
+	</additional>
+	<additional id="10900232" mainType="1" skillGroupType="1">
+		<level level="1">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<SpecialAbility>
+				<v type="str" value="40" />
+			</SpecialAbility>
+		</level>
+	</additional>
+	<additional id="10900241" mainType="1" skillGroupType="1">
+		<level level="1" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900241" types="1004" values="0" rates="0.32" />
+		</level>
+		<level level="2" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900241" types="1004" values="0" rates="0.34" />
+		</level>
+		<level level="3" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900241" types="1004" values="0" rates="0.36" />
+		</level>
+		<level level="4" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900241" types="1004" values="0" rates="0.38" />
+		</level>
+		<level level="5" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900241" types="1004" values="0" rates="0.4" />
+		</level>
+		<level level="6" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900241" types="1004" values="0" rates="0.42" />
+		</level>
+		<level level="7" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900241" types="1004" values="0" rates="0.44" />
+		</level>
+		<level level="8" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900241" types="1004" values="0" rates="0.46" />
+		</level>
+		<level level="9" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900241" types="1004" values="0" rates="0.48" />
+		</level>
+		<level level="10" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900241" types="1004" values="0" rates="0.5" />
+		</level>
+		<level level="11" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900241" types="1004" values="0" rates="0.52" />
+		</level>
+		<level level="12" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900241" types="1004" values="0" rates="0.54" />
+		</level>
+	</additional>
+	<additional id="10900242" mainType="1" skillGroupType="1">
+		<level level="1" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900241" types="5" values="0" rates="0.32" />
+		</level>
+		<level level="2" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900241" types="5" values="0" rates="0.34" />
+		</level>
+		<level level="3" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900241" types="5" values="0" rates="0.36" />
+		</level>
+		<level level="4" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900241" types="5" values="0" rates="0.38" />
+		</level>
+		<level level="5" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900241" types="5" values="0" rates="0.4" />
+		</level>
+		<level level="6" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900241" types="5" values="0" rates="0.42" />
+		</level>
+		<level level="7" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900241" types="5" values="0" rates="0.44" />
+		</level>
+		<level level="8" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900241" types="5" values="0" rates="0.46" />
+		</level>
+		<level level="9" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900241" types="5" values="0" rates="0.48" />
+		</level>
+		<level level="10" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900241" types="5" values="0" rates="0.5" />
+		</level>
+		<level level="11" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900241" types="5" values="0" rates="0.52" />
+		</level>
+		<level level="12" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900241" types="5" values="0" rates="0.54" />
+		</level>
+	</additional>
+	<additional id="10900251" mainType="1" skillGroupType="1">
+		<level level="1" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900251" types="1004" values="0" rates="0.32" />
+		</level>
+		<level level="2" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900251" types="1004" values="0" rates="0.34" />
+		</level>
+		<level level="3" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900251" types="1004" values="0" rates="0.36" />
+		</level>
+		<level level="4" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900251" types="1004" values="0" rates="0.38" />
+		</level>
+		<level level="5" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900251" types="1004" values="0" rates="0.4" />
+		</level>
+		<level level="6" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900251" types="1004" values="0" rates="0.42" />
+		</level>
+		<level level="7" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900251" types="1004" values="0" rates="0.44" />
+		</level>
+		<level level="8" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900251" types="1004" values="0" rates="0.46" />
+		</level>
+		<level level="9" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900251" types="1004" values="0" rates="0.48" />
+		</level>
+		<level level="10" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900251" types="1004" values="0" rates="0.5" />
+		</level>
+		<level level="11" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900251" types="1004" values="0" rates="0.52" />
+		</level>
+		<level level="12" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect skillGroupID="10900251" types="1004" values="0" rates="0.54" />
+		</level>
+	</additional>
+	<additional id="10900252" mainType="1" skillGroupType="1">
+		<level level="1" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900251" types="5" values="0" rates="0.32" />
+		</level>
+		<level level="2" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900251" types="5" values="0" rates="0.34" />
+		</level>
+		<level level="3" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900251" types="5" values="0" rates="0.36" />
+		</level>
+		<level level="4" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900251" types="5" values="0" rates="0.38" />
+		</level>
+		<level level="5" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900251" types="5" values="0" rates="0.4" />
+		</level>
+		<level level="6" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900251" types="5" values="0" rates="0.42" />
+		</level>
+		<level level="7" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900251" types="5" values="0" rates="0.44" />
+		</level>
+		<level level="8" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900251" types="5" values="0" rates="0.46" />
+		</level>
+		<level level="9" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900251" types="5" values="0" rates="0.48" />
+		</level>
+		<level level="10" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900251" types="5" values="0" rates="0.5" />
+		</level>
+		<level level="11" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900251" types="5" values="0" rates="0.52" />
+		</level>
+		<level level="12" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900251" types="5" values="0" rates="0.54" />
+		</level>
+		<level level="13" feature="JobChange_01">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<InvokeEffect effectGroupID="10900251" types="5" values="0" rates="0.56" />
+		</level>
+	</additional>
+	<additional id="10900261" isDebuff="1" skillGroupType="1">
+		<level level="1" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="1" skillID="10900264" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="2" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="2" skillID="10900264" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="3" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="3" skillID="10900264" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="4" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="4" skillID="10900264" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="5" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="5" skillID="10900264" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="6" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="6" skillID="10900264" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="7" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="7" skillID="10900264" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="8" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="8" skillID="10900264" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="9" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="9" skillID="10900264" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="10" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="10" skillID="10900264" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="11" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="11" skillID="10900264" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="12" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="12" skillID="10900264" delay="300" interval="100" fireCount="4" />
+		</level>
+	</additional>
+	<additional id="10900262" isDebuff="1" skillGroupType="1">
+		<level level="1" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="1" skillID="10900265" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="2" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="2" skillID="10900265" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="3" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="3" skillID="10900265" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="4" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="4" skillID="10900265" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="5" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="5" skillID="10900265" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="6" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="6" skillID="10900265" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="7" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="7" skillID="10900265" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="8" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="8" skillID="10900265" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="9" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="9" skillID="10900265" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="10" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="10" skillID="10900265" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="11" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="11" skillID="10900265" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="12" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="12" skillID="10900265" delay="300" interval="100" fireCount="4" />
+		</level>
+	</additional>
+	<additional id="10900263" isDebuff="1" skillGroupType="1">
+		<level level="1" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="1" skillID="10900266" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="2" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="2" skillID="10900266" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="3" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="3" skillID="10900266" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="4" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="4" skillID="10900266" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="5" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="5" skillID="10900266" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="6" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="6" skillID="10900266" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="7" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="7" skillID="10900266" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="8" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="8" skillID="10900266" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="9" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="9" skillID="10900266" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="10" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="10" skillID="10900266" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="11" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="11" skillID="10900266" delay="300" interval="100" fireCount="4" />
+		</level>
+		<level level="12" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" casterIndividualEffect="1" clearEffectFromPVPZone="1" />
+			<Skill level="12" skillID="10900266" delay="300" interval="100" fireCount="4" />
+		</level>
+	</additional>
+	<additional id="10900271" mainType="1" skillGroupType="1">
+		<level level="1" feature="JobChange_02" stringParam="17,2">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition targetCheckRange="600" targetFriendly="1" targetCountSign="Greater" />
+			<SpecialAbility>
+				<v type="wapRate" value="170" />
+				<v type="msp" value="2" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900271_buff.png" />
+		</level>
+		<level level="2" feature="JobChange_02" stringParam="19,4">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition targetCheckRange="600" targetFriendly="1" targetCountSign="Greater" />
+			<SpecialAbility>
+				<v type="wapRate" value="190" />
+				<v type="msp" value="4" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900271_buff.png" />
+		</level>
+		<level level="3" feature="JobChange_02" stringParam="21,6">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition targetCheckRange="600" targetFriendly="1" targetCountSign="Greater" />
+			<SpecialAbility>
+				<v type="wapRate" value="210" />
+				<v type="msp" value="6" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900271_buff.png" />
+		</level>
+		<level level="4" feature="JobChange_02" stringParam="23,8">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition targetCheckRange="600" targetFriendly="1" targetCountSign="Greater" />
+			<SpecialAbility>
+				<v type="wapRate" value="230" />
+				<v type="msp" value="8" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900271_buff.png" />
+		</level>
+		<level level="5" feature="JobChange_02" stringParam="25,10">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition targetCheckRange="600" targetFriendly="1" targetCountSign="Greater" />
+			<SpecialAbility>
+				<v type="wapRate" value="250" />
+				<v type="msp" value="10" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900271_buff.png" />
+		</level>
+		<level level="6" feature="JobChange_02" stringParam="27,12">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition targetCheckRange="600" targetFriendly="1" targetCountSign="Greater" />
+			<SpecialAbility>
+				<v type="wapRate" value="270" />
+				<v type="msp" value="12" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900271_buff.png" />
+		</level>
+		<level level="7" feature="JobChange_02" stringParam="29,14">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition targetCheckRange="600" targetFriendly="1" targetCountSign="Greater" />
+			<SpecialAbility>
+				<v type="wapRate" value="290" />
+				<v type="msp" value="14" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900271_buff.png" />
+		</level>
+		<level level="8" feature="JobChange_02" stringParam="31,16">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition targetCheckRange="600" targetFriendly="1" targetCountSign="Greater" />
+			<SpecialAbility>
+				<v type="wapRate" value="310" />
+				<v type="msp" value="16" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900271_buff.png" />
+		</level>
+		<level level="9" feature="JobChange_02" stringParam="33,18">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition targetCheckRange="600" targetFriendly="1" targetCountSign="Greater" />
+			<SpecialAbility>
+				<v type="wapRate" value="330" />
+				<v type="msp" value="18" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900271_buff.png" />
+		</level>
+		<level level="10" feature="JobChange_02" stringParam="35,20">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition targetCheckRange="600" targetFriendly="1" targetCountSign="Greater" />
+			<SpecialAbility>
+				<v type="wapRate" value="350" />
+				<v type="msp" value="20" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900271_buff.png" />
+		</level>
+		<level level="11" feature="JobChange_02" stringParam="37,22">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition targetCheckRange="600" targetFriendly="1" targetCountSign="Greater" />
+			<SpecialAbility>
+				<v type="wapRate" value="370" />
+				<v type="msp" value="22" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900271_buff.png" />
+		</level>
+		<level level="12" feature="JobChange_02" stringParam="39,24">
+			<Basic keepCondition="99" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+			<Condition targetCheckRange="600" targetFriendly="1" targetCountSign="Greater" />
+			<SpecialAbility>
+				<v type="wapRate" value="390" />
+				<v type="msp" value="24" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900271_buff.png" />
+		</level>
+	</additional>
+	<additional id="10900281" mainType="1" skillGroupType="1">
+		<level level="1" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" dotCondition="1" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<Additional randomCast="1" level="1,1,1" skillID="10900282,10900283,10900284" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="2" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" dotCondition="1" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<Additional randomCast="1" level="2,2,2" skillID="10900282,10900283,10900284" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="3" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" dotCondition="1" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<Additional randomCast="1" level="3,3,3" skillID="10900282,10900283,10900284" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="4" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" dotCondition="1" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<Additional randomCast="1" level="4,4,4" skillID="10900282,10900283,10900284" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="5" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" dotCondition="1" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<Additional randomCast="1" level="5,5,5" skillID="10900282,10900283,10900284" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="6" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" dotCondition="1" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<Additional randomCast="1" level="6,6,6" skillID="10900282,10900283,10900284" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="7" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" dotCondition="1" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<Additional randomCast="1" level="7,7,7" skillID="10900282,10900283,10900284" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="8" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" dotCondition="1" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<Additional randomCast="1" level="8,8,8" skillID="10900282,10900283,10900284" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="9" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" dotCondition="1" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<Additional randomCast="1" level="9,9,9" skillID="10900282,10900283,10900284" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="10" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" dotCondition="1" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<Additional randomCast="1" level="10,10,10" skillID="10900282,10900283,10900284" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="11" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" dotCondition="1" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<Additional randomCast="1" level="11,11,11" skillID="10900282,10900283,10900284" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="12" feature="JobChange_02">
+			<Basic durationTick="100" intervalTick="100" dotCondition="1" clearEffectFromPVPZone="1" />
+			<Motion abnormalImmuneBreak="5" />
+			<Additional randomCast="1" level="12,12,12" skillID="10900282,10900283,10900284" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+	</additional>
+	<additional id="10900282" mainType="1" skillGroupType="1">
+		<level level="1" feature="JobChange_02" stringParam="13">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Flame_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="firedamage" value="130" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Flame_buff.png" />
+			<Additional level="1" skillID="10900001" linkSkillID="10900001" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="2" feature="JobChange_02" stringParam="21">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Flame_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="firedamage" value="210" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Flame_buff.png" />
+			<Additional level="1" skillID="10900001" linkSkillID="10900001" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="3" feature="JobChange_02" stringParam="29">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Flame_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="firedamage" value="290" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Flame_buff.png" />
+			<Additional level="1" skillID="10900001" linkSkillID="10900001" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="4" feature="JobChange_02" stringParam="37">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Flame_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="firedamage" value="370" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Flame_buff.png" />
+			<Additional level="1" skillID="10900001" linkSkillID="10900001" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="5" feature="JobChange_02" stringParam="45">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Flame_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="firedamage" value="450" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Flame_buff.png" />
+			<Additional level="1" skillID="10900001" linkSkillID="10900001" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="6" feature="JobChange_02" stringParam="53">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Flame_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="firedamage" value="530" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Flame_buff.png" />
+			<Additional level="1" skillID="10900001" linkSkillID="10900001" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="7" feature="JobChange_02" stringParam="61">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Flame_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="firedamage" value="610" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Flame_buff.png" />
+			<Additional level="1" skillID="10900001" linkSkillID="10900001" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="8" feature="JobChange_02" stringParam="69">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Flame_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="firedamage" value="690" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Flame_buff.png" />
+			<Additional level="1" skillID="10900001" linkSkillID="10900001" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="9" feature="JobChange_02" stringParam="77">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Flame_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="firedamage" value="770" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Flame_buff.png" />
+			<Additional level="1" skillID="10900001" linkSkillID="10900001" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="10" feature="JobChange_02" stringParam="85">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Flame_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="firedamage" value="850" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Flame_buff.png" />
+			<Additional level="1" skillID="10900001" linkSkillID="10900001" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="11" feature="JobChange_02" stringParam="93">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Flame_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="firedamage" value="930" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Flame_buff.png" />
+			<Additional level="1" skillID="10900001" linkSkillID="10900001" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="12" feature="JobChange_02" stringParam="101">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Flame_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="firedamage" value="1010" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Flame_buff.png" />
+			<Additional level="1" skillID="10900001" linkSkillID="10900001" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+	</additional>
+	<additional id="10900283" mainType="1" skillGroupType="1">
+		<level level="1" feature="JobChange_02" stringParam="13">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Ice_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="130" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Ice_buff.png" />
+			<Additional level="1" skillID="10900011" linkSkillID="10900011" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="2" feature="JobChange_02" stringParam="21">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Ice_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="210" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Ice_buff.png" />
+			<Additional level="1" skillID="10900011" linkSkillID="10900011" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="3" feature="JobChange_02" stringParam="29">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Ice_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="290" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Ice_buff.png" />
+			<Additional level="1" skillID="10900011" linkSkillID="10900011" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="4" feature="JobChange_02" stringParam="37">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Ice_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="370" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Ice_buff.png" />
+			<Additional level="1" skillID="10900011" linkSkillID="10900011" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="5" feature="JobChange_02" stringParam="45">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Ice_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="450" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Ice_buff.png" />
+			<Additional level="1" skillID="10900011" linkSkillID="10900011" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="6" feature="JobChange_02" stringParam="53">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Ice_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="530" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Ice_buff.png" />
+			<Additional level="1" skillID="10900011" linkSkillID="10900011" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="7" feature="JobChange_02" stringParam="61">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Ice_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="610" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Ice_buff.png" />
+			<Additional level="1" skillID="10900011" linkSkillID="10900011" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="8" feature="JobChange_02" stringParam="69">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Ice_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="690" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Ice_buff.png" />
+			<Additional level="1" skillID="10900011" linkSkillID="10900011" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="9" feature="JobChange_02" stringParam="77">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Ice_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="770" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Ice_buff.png" />
+			<Additional level="1" skillID="10900011" linkSkillID="10900011" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="10" feature="JobChange_02" stringParam="85">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Ice_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="850" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Ice_buff.png" />
+			<Additional level="1" skillID="10900011" linkSkillID="10900011" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="11" feature="JobChange_02" stringParam="93">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Ice_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="930" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Ice_buff.png" />
+			<Additional level="1" skillID="10900011" linkSkillID="10900011" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="12" feature="JobChange_02" stringParam="101">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Ice_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="icedamage" value="1010" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Ice_buff.png" />
+			<Additional level="1" skillID="10900011" linkSkillID="10900011" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+	</additional>
+	<additional id="10900284" mainType="1" skillGroupType="1">
+		<level level="1" feature="JobChange_02" stringParam="13">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Thunder_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="130" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Thunder_buff.png" />
+			<Additional level="1" skillID="10900021" linkSkillID="10900021" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="2" feature="JobChange_02" stringParam="21">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Thunder_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="210" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Thunder_buff.png" />
+			<Additional level="1" skillID="10900021" linkSkillID="10900021" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="3" feature="JobChange_02" stringParam="29">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Thunder_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="290" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Thunder_buff.png" />
+			<Additional level="1" skillID="10900021" linkSkillID="10900021" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="4" feature="JobChange_02" stringParam="37">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Thunder_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="370" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Thunder_buff.png" />
+			<Additional level="1" skillID="10900021" linkSkillID="10900021" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="5" feature="JobChange_02" stringParam="45">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Thunder_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="450" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Thunder_buff.png" />
+			<Additional level="1" skillID="10900021" linkSkillID="10900021" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="6" feature="JobChange_02" stringParam="53">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Thunder_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="530" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Thunder_buff.png" />
+			<Additional level="1" skillID="10900021" linkSkillID="10900021" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="7" feature="JobChange_02" stringParam="61">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Thunder_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="610" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Thunder_buff.png" />
+			<Additional level="1" skillID="10900021" linkSkillID="10900021" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="8" feature="JobChange_02" stringParam="69">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Thunder_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="690" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Thunder_buff.png" />
+			<Additional level="1" skillID="10900021" linkSkillID="10900021" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="9" feature="JobChange_02" stringParam="77">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Thunder_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="770" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Thunder_buff.png" />
+			<Additional level="1" skillID="10900021" linkSkillID="10900021" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="10" feature="JobChange_02" stringParam="85">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Thunder_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="850" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Thunder_buff.png" />
+			<Additional level="1" skillID="10900021" linkSkillID="10900021" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="11" feature="JobChange_02" stringParam="93">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Thunder_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="930" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Thunder_buff.png" />
+			<Additional level="1" skillID="10900021" linkSkillID="10900021" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+		<level level="12" feature="JobChange_02" stringParam="101">
+			<Basic group="10900281" durationTick="20000" intervalTick="20000" clearEffectFromPVPZone="1" />
+			<Motion startEffect="CH/Skill/RuneBlader/Eff_RuneBlader_ElementRoulette_Thunder_Start_01.xml" abnormalImmuneBreak="5" />
+			<SpecialAbility>
+				<v type="thunderdamage" value="1010" />
+			</SpecialAbility>
+			<UI icon="./Data/Resource/Image/skill/icon/10900281_Thunder_buff.png" />
+			<Additional level="1" skillID="10900021" linkSkillID="10900021" skillTarget="1" activeByIntervalTick="1" />
+		</level>
+	</additional>
+</ms2>

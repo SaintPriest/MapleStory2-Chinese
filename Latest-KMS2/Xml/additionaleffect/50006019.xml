@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" group="17" durationTick="99999000" />
+		<MotionProperty keepEffect="NPC/Skill/TurkaHoodForce/Eff_TurkaHoodForce_Additional_ElementProtect_Keep.xml" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<SpecialAbility icedamagereducerate="0.99" firedamagereducerate="0.99" darkdamagereducerate="0.99" lightdamagereducerate="0.99" poisondamagereducerate="-3" thunderdamagereducerate="0.99" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterElementWeak_Poison.png" isHideCooltime="1" iconBalloonOnOff="1" />
+	</level>
+</ms2>

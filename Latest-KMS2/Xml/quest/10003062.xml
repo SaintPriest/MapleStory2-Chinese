@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Season1">
+		<quest>
+			<basic questID="10003062" chapterID="239" standardLevel="21" autoStart="1" locking="1" useNavi="FALSE" />
+			<require level="21" quest="10002043" />
+			<start npc="11000623" />
+			<complete npc="11000623" />
+			<completeReward exp="73772" relativeExp="epicQuest" money="2650">
+				<essentialItem code="20000022" rank="1" count="9" />
+				<essentialItem code="20000028" rank="1" count="9" />
+				<globalEssentialItem code="20000023" rank="1" count="3" />
+				<globalEssentialItem code="20000029" rank="1" count="3" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000083" />
+			<gotoNpc enable="1" gotoField="2000203" />
+			<gotoDungeon state="1" gotoDungeon="21005001" />
+			<condition type="trigger" code="ClearGoldentowerfirst" value="1" />
+		</quest>
+	</environment>
+</ms2>

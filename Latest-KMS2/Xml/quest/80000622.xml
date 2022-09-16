@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Event" locale="KR">
+		<quest>
+			<basic questID="80000622" questType="2" chapterID="8165" account="2" standardLevel="10" eventTag="20190926_EventQuestKR" useNavi="TRUE" usePostbox="1" />
+			<require level="10" />
+			<start npc="11001002" />
+			<complete npc="11001002" />
+			<progressMap progressMap="02000064" />
+		</quest>
+	</environment>
+</ms2>

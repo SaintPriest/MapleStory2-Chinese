@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffType="2" buffSubType="2" durationTick="4860" intervalTick="3000" resetCondition="1" coolDownTime="7" />
+		<MotionProperty keepEffect="NPC/Skill/TurkaHoodForce/Eff_TurkaHoodForce_Additional_Stun_Keep.xml" stun="1" abnormalImmuneBreak="99" />
+		<CancelEffectProperty cancelEffectCodes="50000348" />
+		<ImmuneEffectProperty immuneEffectCodes="50000348" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/Stun.png" />
+		<conditionSkill level="1" skillID="50004575" skillTarget="1" activeByIntervalTick="1" />
+	</level>
+</ms2>

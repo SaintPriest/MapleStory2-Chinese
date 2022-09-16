@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<seq id="0" name="Damg_A">
+		<key name="end" time="0.2667" />
+		<key name="end" time="0.2670" />
+	</seq>
+	<seq id="1" name="Dead_A">
+		<key name="end" time="1.6333" />
+		<key name="end" time="1.6333" />
+	</seq>
+	<seq id="2" name="Idle_A">
+		<key name="end" time="3.5000" />
+		<key name="end" time="3.5000" />
+	</seq>
+</ms2>

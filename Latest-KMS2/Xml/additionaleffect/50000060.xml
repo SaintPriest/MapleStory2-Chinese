@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffType="2" buffSubType="2" durationTick="31000" />
+		<MotionProperty keepEffect="NPC/Skill/GriffonIndianBoss/Eff_GriffonIndian02_Curse_Keep.xml" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<Stat msprate="-0.3" paprate="-0.25" maprate="-0.25" rmsprate="-0.3" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/GriffonCurse.png" />
+	</level>
+	<level>
+		<BasicProperty level="2" buffType="2" buffSubType="2" durationTick="31000" />
+		<MotionProperty keepEffect="NPC/Skill/GriffonIndianBoss/Eff_GriffonIndian02_Curse_Keep.xml" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<Stat msprate="-0.3" paprate="-0.25" maprate="-0.25" rmsprate="-0.3" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/GriffonCurse.png" />
+	</level>
+	<level>
+		<BasicProperty level="3" buffType="2" buffSubType="2" durationTick="31000" />
+		<MotionProperty keepEffect="NPC/Skill/GriffonIndianBoss/Eff_GriffonIndian02_Curse_Keep.xml" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<Stat msprate="-0.3" paprate="-0.25" maprate="-0.25" rmsprate="-0.3" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/GriffonCurse.png" />
+	</level>
+</ms2>

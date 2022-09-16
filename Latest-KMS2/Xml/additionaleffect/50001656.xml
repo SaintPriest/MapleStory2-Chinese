@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffType="2" buffSubType="2" durationTick="16000" />
+		<MotionProperty keepEffect="Additional/HitRateDown/Eff_Additional_HitRateDown_Keep.xml" stopEffect="Additional/HitRateDown/Eff_Additional_HitRateDown_Stop.xml" IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<Stat atprate="-0.7" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/exhaust.png" iconBalloonOnOff="1" />
+	</level>
+</ms2>

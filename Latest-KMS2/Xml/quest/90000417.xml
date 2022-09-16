@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="RuneBlader">
+		<quest>
+			<basic questID="90000417" chapterID="9042" standardLevel="1" disableGiveup="1" useNavi="FALSE" />
+			<require level="1" job="90" quest="90000416" />
+			<start npc="11001234" />
+			<complete npc="11001230" />
+			<completeReward exp="189" relativeExp="epicQuest">
+				<essentialItem code="11300417" rank="1" count="1" />
+				<essentialItem code="11600373" rank="1" count="1" />
+				<essentialItem code="15400003" rank="1" count="1" />
+			</completeReward>
+			<condition type="item_move" code="30000440" target="103" value="1" />
+			<condition type="trigger" code="complete_tombmission" value="1" />
+		</quest>
+	</environment>
+</ms2>

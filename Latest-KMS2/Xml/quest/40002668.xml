@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Quest2017_2">
+		<quest>
+			<basic questID="40002668" chapterID="3088" standardLevel="46" useNavi="TRUE" />
+			<require level="46" quest="40002667" />
+			<start npc="11001959" />
+			<complete npc="11001913" />
+			<completeReward exp="3761842" relativeExp="epicQuest" money="6400">
+				<essentialItem code="20000026" rank="1" count="5" />
+				<essentialItem code="20000032" rank="1" count="5" />
+				<essentialJobItem code="11700985" rank="3" count="1" />
+				<essentialJobItem code="11700990" rank="3" count="1" />
+				<essentialJobItem code="11700995" rank="3" count="1" />
+				<essentialJobItem code="11701000" rank="3" count="1" />
+				<essentialJobItem code="11701016" rank="3" count="1" />
+				<globalEssentialItem code="20000024" rank="1" count="3" />
+				<globalEssentialItem code="20000030" rank="1" count="3" />
+				<globalEssentialJobItem code="11700985" rank="2" count="1" />
+				<globalEssentialJobItem code="11700990" rank="2" count="1" />
+				<globalEssentialJobItem code="11700995" rank="2" count="1" />
+				<globalEssentialJobItem code="11701000" rank="2" count="1" />
+				<globalEssentialJobItem code="11701016" rank="2" count="1" />
+			</completeReward>
+			<progressMap progressMap="02000134" />
+			<gotoNpc enable="1" gotoField="52000071" gotoPortal="1" />
+			<summonPortal fieldID="52000071" portalID="1" />
+			<condition type="map" code="52000079" value="1">
+				<navi map="52000071" type="interact" code="10001103,10001104,10001105" />
+			</condition>
+		</quest>
+	</environment>
+</ms2>

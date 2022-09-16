@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="1" buffSubType="2" durationTick="5000" doNotClearEffectFromEnterPVPZone="1" />
+		<MotionProperty startEffect="Item/Skill/Eff_Item_LapentaWeapon_Start_04.xml" keepEffect="Item/Skill/Eff_Item_LapentaWeapon_Keep_04.xml" stopEffect="Item/Skill/Eff_Item_LapentaWeapon_End_04.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat aspvalue="10" mspvalue="10" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/Skill/icon/OffenceState.png" />
+	</level>
+</ms2>

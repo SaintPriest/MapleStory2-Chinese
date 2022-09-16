@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffSubType="256" keepCondition="99" doNotClearEffectFromEnterPVPZone="1" />
+		<UIProperty icon="./Data/Resource/Image/CharacterAbility/Ability_c05.png" iconOnOff="0" />
+		<SpecialEffectProperty type="13" probability="0.006" values="&lt;v expType=&quot;6&quot; globalDropBoxId=&quot;&quot; individualDropBoxId=&quot;382000002&quot; /&gt;" activateMsg="s_additionalEffect_Special_110001020" />
+	</level>
+</ms2>

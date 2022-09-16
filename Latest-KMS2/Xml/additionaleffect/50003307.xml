@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" group="44" durationTick="3000" resetCondition="1" />
+		<MotionProperty keepEffect="NPC/Skill/Blackbean/Eff_Blackbean_Additional_Reflection_Keep.xml" abnormalImmuneBreak="1" />
+		<DefensiveProperty papDamageR="0.99" mapDamageR="0.99" />
+		<ReflectProperty reflectionRate="1" reflectionAdditionalEffectId="50003308" reflectionAdditionalEffectLevel="1" reflectionCount="99999" />
+		<UIProperty icon="./Data/Resource/Image/skill/Icon/MonsterReflection.png" />
+	</level>
+	<level>
+		<BasicProperty level="2" group="44" durationTick="9999000" resetCondition="1" />
+		<MotionProperty keepEffect="NPC/Skill/Blackbean/Eff_Blackbean_Additional_Reflection_Keep.xml" abnormalImmuneBreak="1" />
+		<DefensiveProperty papDamageR="0.99" mapDamageR="0.99" />
+		<ReflectProperty reflectionRate="1" reflectionAdditionalEffectId="50003308" reflectionAdditionalEffectLevel="1" reflectionCount="99999" />
+		<UIProperty icon="./Data/Resource/Image/skill/Icon/MonsterReflection.png" isHideCooltime="1" />
+	</level>
+</ms2>

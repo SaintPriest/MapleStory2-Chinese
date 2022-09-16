@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<riding>
+		<basic id="50600212" type="default" kfm="50600212_UGC_Cart" scale="0.5" rideSummonCastTime="2" runSpeed="2.625" runXSpeed="4.87" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="10" useRidingNavi="1" rideBone="Ride_A" rideRotation="0,0,90" rideAniPC="Ride_Idle_021" rideAniPC_Idle="Ride_Idle_021" rideAniPC_Run="Ride_Run_021" rideAniPC_Jump="Ride_Jump_021" rideAniPC_SP_Idle="Ride_Sp_Idle_021" rideAniPC_SP_Run="Ride_Sp_Run_021" rideAniPC_SP_Jump="Ride_Sp_Jump_021" />
+		<collision height="130" />
+		<shadow scale="130" />
+		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
+	</riding>
+</ms2>

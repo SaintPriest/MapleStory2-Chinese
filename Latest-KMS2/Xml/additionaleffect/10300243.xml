@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level feature="JobChange_01">
+		<beginCondition>
+			<owner hasBuffID="10300250" hasBuffLevel="0" hasBuffOwner="0" hasBuffCount="0" hasBuffCountCompare="Equals" />
+		</beginCondition>
+		<BasicProperty level="1" buffSubType="1" durationTick="10000" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Wizard/Eff_Wizard_BBQParty_Start_03.xml" abnormalImmuneBreak="5" />
+		<ResetSkillCoolDownTimeProperty skillCodes="10300231,10300232,10300236" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10300231_buff.png" />
+	</level>
+</ms2>

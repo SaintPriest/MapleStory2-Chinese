@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="FameContents">
+		<quest>
+			<basic questID="93000008" questType="9" chapterID="10001" standardLevel="50" disableGiveup="1" repeatable="2" useNavi="TRUE" alliance="darkwind" rank="A" property="AvailableCompletionTicket" />
+			<require level="50" quest="91000015,10002789" />
+			<dispatch type="monologueAccept" field="2010029" portal="1" script="1" />
+			<complete npc="11003535" />
+			<completeReward relativeExp="questSkyFortress" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
+				<essentialItem code="30000925" rank="1" count="31" />
+			</completeReward>
+			<progressMap progressMap="02010029" />
+			<condition type="talk_in" code="11003647" target="13" value="1">
+				<navi map="2010029" type="npc" code="11003647" />
+			</condition>
+			<condition type="talk_in" code="11003648" target="15" value="1">
+				<navi map="2010029" type="npc" code="11003648" />
+			</condition>
+			<condition type="talk_in" code="11003649" target="14" value="1">
+				<navi map="2010029" type="npc" code="11003649" />
+			</condition>
+		</quest>
+	</environment>
+</ms2>

@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<item id="13000001">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/Customize/13200004.png" category="RH" blackMarketCategory="130_equip" gearScore="1" />
+			<limit recommendJobs="1" transferType="2" />
+			<material ui="6" attack="6" />
+			<tool itemPreset="13000001" />
+			<option constantID="13000001" randomID="13000001" />
+		</environment>
+	</item>
+	<item id="13000002">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000002.png" category="RH" blackMarketCategory="130_equip" gearScore="2">
+				<sell price="254,318,406,508,622,749" />
+			</property>
+			<limit recommendJobs="1" levelLimit="2" shopSell="1" />
+			<material ui="6" attack="6" />
+			<tool itemPreset="13000002" />
+			<option constantID="13000002" randomID="13000002" />
+		</environment>
+	</item>
+	<item id="13000003">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000003.png" category="RH" blackMarketCategory="130_equip" gearScore="8">
+				<sell price="398,498,637,796,975,1174" />
+			</property>
+			<limit recommendJobs="1" levelLimit="8" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000003" />
+			<option constantID="13000003" randomID="13000002" optionLevel="8" />
+		</environment>
+	</item>
+	<item id="13000004">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000004.png" category="RH" blackMarketCategory="130_equip" gearScore="9">
+				<sell price="434,543,694,868,1063,1280" />
+			</property>
+			<limit recommendJobs="1" levelLimit="9" transferType="3" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000004" />
+			<option constantID="13000004" randomID="13000001" optionLevel="9" />
+		</environment>
+	</item>
+	<item id="13000005">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000005.png" category="RH" blackMarketCategory="130_equip" gearScore="4">
+				<sell price="289,361,462,578,708,853" />
+			</property>
+			<limit recommendJobs="1" levelLimit="4" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000005" />
+			<option constantID="13000005" randomID="13000002" />
+		</environment>
+	</item>
+	<item id="13000006">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000006.png" category="RH" blackMarketCategory="130_equip" gearScore="6">
+				<sell price="337,421,539,674,826,994" />
+			</property>
+			<limit recommendJobs="1" levelLimit="6" shopSell="1" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000006" />
+			<option constantID="13000006" randomID="13000002" optionLevel="6" />
+		</environment>
+	</item>
+	<item id="13000007">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000007.png" category="RH" blackMarketCategory="130_equip" gearScore="8">
+				<sell price="398,498,637,796,975,1174" />
+			</property>
+			<limit recommendJobs="1" levelLimit="8" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000007" />
+			<option constantID="13000007" randomID="13000002" optionLevel="8" />
+		</environment>
+	</item>
+	<item id="13000008">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000008.png" category="RH" blackMarketCategory="130_equip" gearScore="2">
+				<sell price="254,318,406,508,622,749" />
+			</property>
+			<limit recommendJobs="1" levelLimit="2" transferType="3" shopSell="1" />
+			<material ui="6" attack="6" />
+			<tool itemPreset="13000008" />
+			<option constantID="13000008" randomID="13000001" />
+		</environment>
+	</item>
+	<item id="13000009">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000009.png" category="RH" blackMarketCategory="130_equip" gearScore="8">
+				<sell price="398,498,637,796,975,1174" />
+			</property>
+			<limit recommendJobs="1" levelLimit="8" transferType="3" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000009" />
+			<option constantID="13000009" randomID="13000001" optionLevel="8" />
+		</environment>
+	</item>
+	<item id="13000010">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000010.png" category="RH" blackMarketCategory="130_equip" gearScore="9">
+				<sell price="434,543,694,868,1063,1280" />
+			</property>
+			<limit recommendJobs="1" levelLimit="9" transferType="3" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000010" />
+			<option constantID="13000010" randomID="13000001" optionLevel="9" />
+		</environment>
+	</item>
+	<item id="13000011">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000011.png" category="RH" blackMarketCategory="130_equip" gearScore="5">
+				<sell price="312" />
+			</property>
+			<limit recommendJobs="1" levelLimit="5" transferType="2" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000011" />
+			<option constantID="13000011" optionLevel="5" />
+		</environment>
+	</item>
+	<item id="13000012">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000012.png" category="RH" blackMarketCategory="130_equip" gearScore="6">
+				<sell price="337,421,539,674,826,994" />
+			</property>
+			<limit recommendJobs="1" levelLimit="6" transferType="3" shopSell="1" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000012" />
+			<option constantID="13000012" randomID="13000001" optionLevel="6" />
+		</environment>
+	</item>
+	<item id="13000013">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000013.png" category="RH" blackMarketCategory="130_equip" gearScore="7">
+				<sell price="366" />
+			</property>
+			<limit recommendJobs="1" levelLimit="7" transferType="2" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000013" />
+			<option constantID="13000013" optionLevel="7" />
+		</environment>
+	</item>
+	<item id="13000014">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="1" />
+			<tool itemPreset="13000014" />
+		</environment>
+	</item>
+	<item id="13000015">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" skinType="4" category="RH" blackMarketCategory="130_skin">
+				<sell price="10" />
+			</property>
+			<limit recommendJobs="1" transferType="1" shopSell="1" />
+			<material attack="2" />
+			<tool itemPreset="13000015" />
+		</environment>
+	</item>
+	<item id="13000016">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="2" />
+			<tool itemPreset="13000016" />
+		</environment>
+	</item>
+	<item id="13000017">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" skinType="4" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="2" />
+			<tool itemPreset="13000017" />
+		</environment>
+	</item>
+	<item id="13000018">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000018.png" category="RH" blackMarketCategory="130_equip" gearScore="4">
+				<sell price="289" />
+			</property>
+			<limit recommendJobs="1" levelLimit="4" transferType="2" shopSell="1" />
+			<material ui="6" attack="6" />
+			<tool itemPreset="13000018" />
+			<option constantID="13000018" />
+		</environment>
+	</item>
+	<item id="13000019">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000003.png" category="RH" blackMarketCategory="130_equip" gearScore="11">
+				<sell price="514,643,822,1028,1259,1516" />
+			</property>
+			<limit recommendJobs="1" levelLimit="11" transferType="2" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000003" />
+			<option constantID="13000019" optionLevel="11" />
+		</environment>
+	</item>
+	<item id="13000020">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000003.png" category="RH" blackMarketCategory="130_equip" gearScore="15">
+				<sell price="712,890,1139,1424,1744,2100" />
+			</property>
+			<limit recommendJobs="1" levelLimit="15" transferType="2" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000003" />
+			<option constantID="13000020" optionLevel="15" />
+		</environment>
+	</item>
+	<item id="13000021">
+		<environment>
+			<property rank="3" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000004.png" category="RH" blackMarketCategory="130_equip" gearScore="19">
+				<sell price="1538" />
+			</property>
+			<limit recommendJobs="1" levelLimit="19" transferType="2" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000004" />
+			<option constantID="13000021" optionLevel="19" />
+		</environment>
+	</item>
+	<item id="13000022">
+		<environment>
+			<property rank="3" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000004.png" category="RH" blackMarketCategory="130_equip" gearScore="23">
+				<sell price="2019" />
+			</property>
+			<limit recommendJobs="1" levelLimit="23" transferType="2" shopSell="1" enableBreak="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000004" />
+			<option constantID="13000022" optionLevel="23" />
+		</environment>
+	</item>
+	<item id="13000023">
+		<environment>
+			<property rank="3" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000005.png" category="RH" blackMarketCategory="130_equip" gearScore="27">
+				<sell price="2582" />
+			</property>
+			<limit recommendJobs="1" levelLimit="27" transferType="2" shopSell="1" enableBreak="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000005" />
+			<option constantID="13000023" optionLevel="27" />
+		</environment>
+	</item>
+	<item id="13000024">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000005.png" category="RH" blackMarketCategory="130_equip" gearScore="31">
+				<sell price="2017,2521,3227,4034,4942,5950" />
+			</property>
+			<limit recommendJobs="1" levelLimit="31" transferType="2" shopSell="1" enableBreak="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000005" />
+			<option constantID="13000024" optionLevel="31" />
+		</environment>
+	</item>
+	<item id="13000025">
+		<environment>
+			<property rank="3" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000006.png" category="RH" blackMarketCategory="130_equip" gearScore="35">
+				<sell price="3954" />
+			</property>
+			<limit recommendJobs="1" levelLimit="35" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000006" />
+			<option constantID="13000025" optionLevel="35" />
+		</environment>
+	</item>
+	<item id="13000026">
+		<environment>
+			<property type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000006.png" category="RH" blackMarketCategory="130_equip" gearScore="39">
+				<sell price="2976,3720,4762,5952,7291,8779" />
+			</property>
+			<limit recommendJobs="1" levelLimit="39" transferType="2" shopSell="1" enableBreak="1" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000006" />
+			<option constantID="13000026" optionLevel="39" />
+		</environment>
+	</item>
+	<item id="13000027">
+		<environment>
+			<property rank="3" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000007.png" category="RH" blackMarketCategory="130_equip" gearScore="43">
+				<sell price="5651" />
+			</property>
+			<limit recommendJobs="1" levelLimit="43" transferType="2" shopSell="1" enableBreak="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000007" />
+			<option constantID="13000027" optionLevel="43" />
+		</environment>
+	</item>
+	<item id="13000028">
+		<environment>
+			<property rank="3" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000007.png" category="RH" blackMarketCategory="130_equip" gearScore="47">
+				<sell price="6622" />
+			</property>
+			<limit recommendJobs="1" levelLimit="47" transferType="2" shopSell="1" enableBreak="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000007" />
+			<option constantID="13000028" optionLevel="47" />
+		</environment>
+	</item>
+	<item id="13000029">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="2" />
+			<tool itemPreset="13000029" />
+		</environment>
+	</item>
+	<item id="13000030">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="2" />
+			<tool itemPreset="13000030" />
+		</environment>
+	</item>
+	<item id="13000031">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000002.png" category="RH" blackMarketCategory="130_equip" gearScore="10" />
+			<limit recommendJobs="1" levelLimit="10" transferType="1" />
+			<material ui="6" attack="6" />
+			<tool itemPreset="13000002" />
+			<option constantID="13000031" optionLevel="10" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="13000032">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000018.png" category="RH" blackMarketCategory="130_equip" gearScore="12" />
+			<limit recommendJobs="1" levelLimit="12" transferType="1" />
+			<material ui="6" attack="6" />
+			<tool itemPreset="13000018" />
+			<option constantID="13000032" optionLevel="12" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="13000033">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000005.png" category="RH" blackMarketCategory="130_equip" gearScore="15" />
+			<limit recommendJobs="1" levelLimit="15" transferType="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000005" />
+			<option constantID="13000033" optionLevel="15" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="13000034">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000034.png" category="RH" blackMarketCategory="130_equip" gearScore="18" />
+			<limit recommendJobs="1" levelLimit="18" transferType="1" />
+			<effect enchantShape="2" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000034" />
+			<option constantID="13000034" optionLevel="18" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="13000035">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000035.png" category="RH" blackMarketCategory="130_equip" gearScore="21" />
+			<limit recommendJobs="1" levelLimit="21" transferType="1" />
+			<effect enchantShape="2" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000035" />
+			<option constantID="13000035" optionLevel="21" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="13000036">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000006.png" category="RH" blackMarketCategory="130_equip" gearScore="24" />
+			<limit recommendJobs="1" levelLimit="24" transferType="1" />
+			<effect enchantShape="2" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000006" />
+			<option constantID="13000036" optionLevel="24" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="13000037">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000037.png" category="RH" blackMarketCategory="130_equip" gearScore="27" />
+			<limit recommendJobs="1" levelLimit="27" transferType="1" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000037" />
+			<option constantID="13000037" optionLevel="27" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="13000038">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000038.png" category="RH" blackMarketCategory="130_equip" gearScore="30" />
+			<limit recommendJobs="1" levelLimit="30" transferType="1" />
+			<effect enchantShape="2" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000038" />
+			<option constantID="13000038" optionLevel="30" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="13000039">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000007.png" category="RH" blackMarketCategory="130_equip" gearScore="33" />
+			<limit recommendJobs="1" levelLimit="33" transferType="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000007" />
+			<option constantID="13000039" optionLevel="33" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="13000040">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000003.png" category="RH" blackMarketCategory="130_equip" gearScore="36" />
+			<limit recommendJobs="1" levelLimit="36" transferType="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000003" />
+			<option constantID="13000040" optionLevel="36" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="13000041">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000004.png" category="RH" blackMarketCategory="130_equip" gearScore="39" />
+			<limit recommendJobs="1" levelLimit="39" transferType="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000004" />
+			<option constantID="13000041" optionLevel="39" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="13000042">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="1" />
+			<tool itemPreset="13000042" />
+		</environment>
+	</item>
+	<item id="13000043">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="1" />
+			<tool itemPreset="13000043" />
+		</environment>
+	</item>
+	<item id="13000044">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="6" />
+			<tool itemPreset="13000044" />
+		</environment>
+	</item>
+	<item id="13000045">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="2" />
+			<tool itemPreset="13000045" />
+		</environment>
+	</item>
+	<item id="13000046">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="13000046" />
+		</environment>
+	</item>
+	<item id="13000047">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="13000047" />
+		</environment>
+	</item>
+	<item id="13000048">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000007.png" category="RH" blackMarketCategory="130_equip" gearScore="42" />
+			<limit recommendJobs="1" levelLimit="42" transferType="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000007" />
+			<option constantID="13000048" optionLevel="42" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="13000049">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000003.png" category="RH" blackMarketCategory="130_equip" gearScore="45" />
+			<limit recommendJobs="1" levelLimit="45" transferType="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000003" />
+			<option constantID="13000049" optionLevel="45" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="13000050">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000004.png" category="RH" blackMarketCategory="130_equip" gearScore="48" />
+			<limit recommendJobs="1" levelLimit="48" transferType="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000004" />
+			<option constantID="13000050" optionLevel="48" />
+			<PCBang PCBang="1" />
+		</environment>
+	</item>
+	<item id="13000051">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="13000051" />
+		</environment>
+	</item>
+	<item id="13000052">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="13000052" />
+		</environment>
+	</item>
+	<item id="13000053">
+		<environment>
+			<property rank="3" type="1" subtype="30" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/13000018.png" category="RH" blackMarketCategory="130_equip" gearScore="1">
+				<sell price="386" />
+			</property>
+			<limit recommendJobs="1" transferType="2" shopSell="1" />
+			<material ui="6" attack="6" />
+			<tool itemPreset="13000018" />
+			<option constantID="13000053" />
+		</environment>
+	</item>
+	<item id="13000054">
+		<environment>
+			<property rank="3" type="1" subtype="30" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/13000005.png" category="RH" blackMarketCategory="130_equip" gearScore="5">
+				<sell price="499" />
+			</property>
+			<limit recommendJobs="1" levelLimit="5" transferType="2" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000005" />
+			<option constantID="13000054" optionLevel="5" />
+		</environment>
+	</item>
+	<item id="13000055">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="13000055" />
+		</environment>
+	</item>
+	<item id="13000056">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="13000056" />
+		</environment>
+	</item>
+	<item id="13000057">
+		<environment feature="ItemKR">
+			<property rank="1" type="1" subtype="30" iconCode="1" skinType="4" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="13000057" />
+		</environment>
+	</item>
+	<item id="13000058">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="13000058" />
+		</environment>
+	</item>
+	<item id="13000059">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="13000059" />
+		</environment>
+	</item>
+	<item id="13000060">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000018.png" category="RH" blackMarketCategory="130_equip" gearScore="4">
+				<sell price="289" />
+			</property>
+			<limit recommendJobs="1" levelLimit="4" transferType="2" shopSell="1" />
+			<material ui="6" attack="6" />
+			<tool itemPreset="13000018" />
+			<option constantID="13000060" />
+		</environment>
+	</item>
+	<item id="13000061">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000013.png" category="RH" blackMarketCategory="130_equip" gearScore="7">
+				<sell price="366" />
+			</property>
+			<limit recommendJobs="1" levelLimit="7" transferType="2" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000013" />
+			<option constantID="13000061" optionLevel="7" />
+		</environment>
+	</item>
+	<item id="13000062">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000002.png" category="RH" blackMarketCategory="130_equip" gearScore="10">
+				<sell price="472" />
+			</property>
+			<limit recommendJobs="1" levelLimit="10" transferType="2" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000002" />
+			<option constantID="13000062" optionLevel="10" />
+		</environment>
+	</item>
+	<item id="13000063">
+		<environment>
+			<property rank="3" type="1" subtype="30" iconCode="1" itemGroup="2" slotIcon="./Data/Resource/Image/item/icon/13000002.png" category="RH" blackMarketCategory="130_equip" gearScore="5">
+				<sell price="499" />
+			</property>
+			<limit recommendJobs="1" levelLimit="5" transferType="1" shopSell="1" />
+			<material ui="6" attack="6" />
+			<tool itemPreset="13000002" />
+			<option constantID="13000063" optionLevel="5" />
+		</environment>
+	</item>
+	<item id="13000064">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="13000064" />
+		</environment>
+	</item>
+	<item id="13000065">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000018.png" category="RH" blackMarketCategory="130_equip" gearScore="5">
+				<sell price="312" />
+			</property>
+			<limit recommendJobs="1" levelLimit="5" transferType="2" shopSell="1" />
+			<material ui="6" attack="6" />
+			<tool itemPreset="13000018" />
+			<option constantID="13000065" optionLevel="5" />
+		</environment>
+	</item>
+	<item id="13000066">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" slotIcon="./Data/Resource/Image/item/icon/13000013.png" category="RH" blackMarketCategory="130_equip" gearScore="8">
+				<sell price="398" />
+			</property>
+			<limit recommendJobs="1" levelLimit="8" transferType="2" shopSell="1" />
+			<effect enchantShape="3" />
+			<material ui="2" attack="2" />
+			<tool itemPreset="13000013" />
+			<option constantID="13000066" optionLevel="8" />
+		</environment>
+	</item>
+	<item id="13000067">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" slotIcon="13200172" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="13000067" />
+		</environment>
+	</item>
+	<item id="13000068">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="13000068" />
+		</environment>
+	</item>
+	<item id="13000069">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" slotIcon="13200177" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="13000069" />
+		</environment>
+	</item>
+	<item id="13000070">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="99" category="RH" blackMarketCategory="130_skin" />
+			<ucc mesh="Point01" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" enableRegisterMeratMarket="1" />
+			<material attack="4" />
+			<tool itemPreset="13000070" />
+		</environment>
+	</item>
+	<item id="13000071">
+		<environment>
+			<property rank="1" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" enableBreak="1" />
+			<material attack="4" />
+			<tool itemPreset="13000071" />
+		</environment>
+	</item>
+	<item id="13000077">
+		<environment>
+			<property rank="4" type="1" subtype="30" iconCode="1" itemGroup="3" skinType="2" slotIcon="13000052" category="RH" blackMarketCategory="130_skin" />
+			<limit recommendJobs="1" transferType="1" />
+			<material attack="4" />
+			<tool itemPreset="13000052" />
+		</environment>
+	</item>
+</ms2>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level feature="JobChange_01">
+		<BasicProperty level="1" group="11100131" buffType="2" buffSubType="2" durationTick="20000" resetCondition="2" maxBuffCount="5" coolDownTime="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<StatusProperty>
+			<Stat msprate="-0.012" nddrate="-0.012" rmsprate="-0.012" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/11100221_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="2" group="11100131" buffType="2" buffSubType="2" durationTick="20000" resetCondition="2" maxBuffCount="5" coolDownTime="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<StatusProperty>
+			<Stat msprate="-0.018" nddrate="-0.018" rmsprate="-0.018" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/11100221_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="3" group="11100131" buffType="2" buffSubType="2" durationTick="20000" resetCondition="2" maxBuffCount="5" coolDownTime="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<StatusProperty>
+			<Stat msprate="-0.024" nddrate="-0.024" rmsprate="-0.024" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/11100221_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="4" group="11100131" buffType="2" buffSubType="2" durationTick="20000" resetCondition="2" maxBuffCount="5" coolDownTime="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<StatusProperty>
+			<Stat msprate="-0.03" nddrate="-0.03" rmsprate="-0.03" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/11100221_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="5" group="11100131" buffType="2" buffSubType="2" durationTick="20000" resetCondition="2" maxBuffCount="5" coolDownTime="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<StatusProperty>
+			<Stat msprate="-0.036" nddrate="-0.036" rmsprate="-0.036" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/11100221_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="6" group="11100131" buffType="2" buffSubType="2" durationTick="20000" resetCondition="2" maxBuffCount="5" coolDownTime="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<StatusProperty>
+			<Stat msprate="-0.042" nddrate="-0.042" rmsprate="-0.042" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/11100221_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="7" group="11100131" buffType="2" buffSubType="2" durationTick="20000" resetCondition="2" maxBuffCount="5" coolDownTime="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<StatusProperty>
+			<Stat msprate="-0.048" nddrate="-0.048" rmsprate="-0.048" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/11100221_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="8" group="11100131" buffType="2" buffSubType="2" durationTick="20000" resetCondition="2" maxBuffCount="5" coolDownTime="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<StatusProperty>
+			<Stat msprate="-0.054" nddrate="-0.054" rmsprate="-0.054" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/11100221_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="9" group="11100131" buffType="2" buffSubType="2" durationTick="20000" resetCondition="2" maxBuffCount="5" coolDownTime="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<StatusProperty>
+			<Stat msprate="-0.06" nddrate="-0.06" rmsprate="-0.06" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/11100221_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="10" group="11100131" buffType="2" buffSubType="2" durationTick="20000" resetCondition="2" maxBuffCount="5" coolDownTime="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<StatusProperty>
+			<Stat msprate="-0.066" nddrate="-0.066" rmsprate="-0.066" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/11100221_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="11" group="11100131" buffType="2" buffSubType="2" durationTick="20000" resetCondition="2" maxBuffCount="5" coolDownTime="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<StatusProperty>
+			<Stat msprate="-0.072" nddrate="-0.072" rmsprate="-0.072" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/11100221_buff.png" />
+	</level>
+	<level feature="JobChange_01">
+		<BasicProperty level="12" group="11100131" buffType="2" buffSubType="2" durationTick="20000" resetCondition="2" maxBuffCount="5" coolDownTime="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<StatusProperty>
+			<Stat msprate="-0.078" nddrate="-0.078" rmsprate="-0.078" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/11100221_buff.png" />
+	</level>
+</ms2>

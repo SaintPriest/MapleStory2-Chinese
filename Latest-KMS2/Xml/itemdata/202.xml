@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<item id="20200001">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200002" />
+		</environment>
+	</item>
+	<item id="20200002">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200007" />
+		</environment>
+	</item>
+	<item id="20200003">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200008" />
+		</environment>
+	</item>
+	<item id="20200004">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200009" />
+		</environment>
+	</item>
+	<item id="20200005">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200010" />
+		</environment>
+	</item>
+	<item id="20200006">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200012" />
+		</environment>
+	</item>
+	<item id="20200007">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200013" />
+		</environment>
+	</item>
+	<item id="20200008">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200014" />
+		</environment>
+	</item>
+	<item id="20200009">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200015" />
+		</environment>
+	</item>
+	<item id="20200010">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200016" />
+		</environment>
+	</item>
+	<item id="20200011">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200017" />
+		</environment>
+	</item>
+	<item id="20200012">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200018" />
+		</environment>
+	</item>
+	<item id="20200013">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200019" />
+		</environment>
+	</item>
+	<item id="20200014">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200020" />
+		</environment>
+	</item>
+	<item id="20200015">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200021" />
+		</environment>
+	</item>
+	<item id="20200016">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200025" />
+		</environment>
+	</item>
+	<item id="20200017">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200026" />
+		</environment>
+	</item>
+	<item id="20200018">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200027" />
+		</environment>
+	</item>
+	<item id="20200019">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200028" />
+		</environment>
+	</item>
+	<item id="20200020">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200029" />
+		</environment>
+	</item>
+	<item id="20200021">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200030" />
+		</environment>
+	</item>
+	<item id="20200022">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200043" />
+		</environment>
+	</item>
+	<item id="20200023">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200044" />
+		</environment>
+	</item>
+	<item id="20200024">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200045" />
+		</environment>
+	</item>
+	<item id="20200025">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200046" />
+		</environment>
+	</item>
+	<item id="20200026">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200047" />
+		</environment>
+	</item>
+	<item id="20200027">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200048" />
+		</environment>
+	</item>
+	<item id="20200028">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200049" />
+		</environment>
+	</item>
+	<item id="20200029">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200050" />
+		</environment>
+	</item>
+	<item id="20200030">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200051" />
+		</environment>
+	</item>
+	<item id="20200031">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200052" />
+		</environment>
+	</item>
+	<item id="20200032">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200053" />
+		</environment>
+	</item>
+	<item id="20200033">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200054" />
+		</environment>
+	</item>
+	<item id="20200034">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200055" />
+		</environment>
+	</item>
+	<item id="20200035">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200056" />
+		</environment>
+	</item>
+	<item id="20200036">
+		<environment feature="ItemKR">
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" movie="Emotion/90200057.usm" />
+			<limit transferType="1" />
+			<skill skillID="90200057" />
+		</environment>
+	</item>
+	<item id="20200037">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200058" />
+		</environment>
+	</item>
+	<item id="20200038">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200037" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200059" />
+		</environment>
+	</item>
+	<item id="20200039">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200060" />
+		</environment>
+	</item>
+	<item id="20200040">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200061" />
+		</environment>
+	</item>
+	<item id="20200041">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200062" />
+		</environment>
+	</item>
+	<item id="20200042">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="2" />
+			<skill skillID="90200063" />
+		</environment>
+	</item>
+	<item id="20200043">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="2" />
+			<skill skillID="90200064" />
+		</environment>
+	</item>
+	<item id="20200044">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="2" />
+			<skill skillID="90200065" />
+		</environment>
+	</item>
+	<item id="20200045">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200066" />
+		</environment>
+	</item>
+	<item id="20200046">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" globalTransferType="2" />
+			<skill skillID="90200067" />
+		</environment>
+	</item>
+	<item id="20200047">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" globalTransferType="2" />
+			<skill skillID="90200068" />
+		</environment>
+	</item>
+	<item id="20200048">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200069" />
+		</environment>
+	</item>
+	<item id="20200049">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" globalTransferType="5" />
+			<skill skillID="90200070" />
+		</environment>
+	</item>
+	<item id="20200050">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="2" globalTransferType="1" />
+			<skill skillID="90200071" />
+		</environment>
+	</item>
+	<item id="20200051">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200072" />
+		</environment>
+	</item>
+	<item id="20200052">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200073" />
+		</environment>
+	</item>
+	<item id="20200053">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200074" />
+		</environment>
+	</item>
+	<item id="20200054">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200075" />
+		</environment>
+	</item>
+	<item id="20200055">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200076" />
+		</environment>
+	</item>
+	<item id="20200056">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200081" />
+		</environment>
+	</item>
+	<item id="20200057">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200077" />
+		</environment>
+	</item>
+	<item id="20200058">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200078" />
+		</environment>
+	</item>
+	<item id="20200059">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200079" />
+		</environment>
+	</item>
+	<item id="20200060">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200080" />
+		</environment>
+	</item>
+	<item id="20200061">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" globalTransferType="5" />
+			<skill skillID="90200082" />
+		</environment>
+	</item>
+	<item id="20200062">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200083" />
+		</environment>
+	</item>
+	<item id="20200063">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200084" />
+		</environment>
+	</item>
+	<item id="20200064">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="5" />
+			<skill skillID="90200088" />
+		</environment>
+		<environment feature="ItemKR">
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="5" />
+			<skill skillID="90200088" />
+		</environment>
+	</item>
+	<item id="20200065">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" globalTransferType="2" />
+			<skill skillID="90200085" />
+		</environment>
+	</item>
+	<item id="20200066">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200086" />
+		</environment>
+	</item>
+	<item id="20200067">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200087" />
+		</environment>
+	</item>
+	<item id="20200068">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200089" />
+		</environment>
+	</item>
+	<item id="20200069">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200098" />
+		</environment>
+	</item>
+	<item id="20200070">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200103" />
+		</environment>
+	</item>
+	<item id="20200071">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200090" />
+		</environment>
+	</item>
+	<item id="20200072">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200100" />
+		</environment>
+	</item>
+	<item id="20200073">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200094" />
+		</environment>
+	</item>
+	<item id="20200074">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200091" />
+		</environment>
+	</item>
+	<item id="20200075">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200092" />
+		</environment>
+	</item>
+	<item id="20200076">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200093" />
+		</environment>
+	</item>
+	<item id="20200077">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200095" />
+		</environment>
+	</item>
+	<item id="20200078">
+		<environment feature="ItemKR">
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200096" />
+		</environment>
+	</item>
+	<item id="20200079">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="5" />
+			<skill skillID="90200097" />
+		</environment>
+	</item>
+	<item id="20200080">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200099" />
+		</environment>
+	</item>
+	<item id="20200081">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200101" />
+		</environment>
+	</item>
+	<item id="20200082">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200107" />
+		</environment>
+	</item>
+	<item id="20200083">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200102" />
+		</environment>
+	</item>
+	<item id="20200084">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200105" />
+		</environment>
+	</item>
+	<item id="20200085">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="20200086">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="20200087">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="20200088">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="20200089">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+		</environment>
+	</item>
+	<item id="20200090">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200104" />
+		</environment>
+	</item>
+	<item id="20200091">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200110" />
+		</environment>
+	</item>
+	<item id="20200092">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200106" />
+		</environment>
+	</item>
+	<item id="20200093">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="2" />
+			<skill skillID="90200108" />
+		</environment>
+	</item>
+	<item id="20200094">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200109" />
+		</environment>
+	</item>
+	<item id="20200095">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200111" />
+		</environment>
+	</item>
+	<item id="20200096">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200113" />
+		</environment>
+	</item>
+	<item id="20200097">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200120" />
+		</environment>
+	</item>
+	<item id="20200098">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200119" />
+		</environment>
+	</item>
+	<item id="20200099">
+		<environment>
+			<property rank="3" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200112" />
+		</environment>
+	</item>
+	<item id="20200100">
+		<environment feature="WorldChampionMushroom">
+			<property rank="3" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20200100.usm" />
+			<limit transferType="2" />
+			<skill skillID="90200114" />
+		</environment>
+	</item>
+	<item id="20200101">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="5" />
+			<skill skillID="90200115" />
+		</environment>
+		<environment feature="ItemKR">
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200115" />
+		</environment>
+	</item>
+	<item id="20200102">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200116" />
+		</environment>
+	</item>
+	<item id="20200103">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200117" />
+		</environment>
+	</item>
+	<item id="20200104">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<life usePeriod="43200" />
+			<limit transferType="1" />
+			<skill skillID="90200118" />
+		</environment>
+	</item>
+	<item id="20200105">
+		<environment feature="Fishing02">
+			<property rank="1" type="24" iconCode="8" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="2" />
+			<skill skillID="90200121" />
+		</environment>
+	</item>
+	<item id="20200106">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200122" />
+		</environment>
+	</item>
+	<item id="20200107">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200123" />
+		</environment>
+	</item>
+	<item id="20200108">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200125" />
+		</environment>
+	</item>
+	<item id="20200109">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200128" />
+		</environment>
+	</item>
+	<item id="20200110">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200131" />
+		</environment>
+	</item>
+	<item id="20200111">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200140" />
+		</environment>
+	</item>
+	<item id="20200112">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200132" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200146" />
+		</environment>
+	</item>
+	<item id="20200113">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200133" />
+		</environment>
+	</item>
+	<item id="20200114">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200136" />
+		</environment>
+	</item>
+	<item id="20200115">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200138" />
+		</environment>
+	</item>
+	<item id="20200116">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200142" />
+		</environment>
+	</item>
+	<item id="20200117">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" slotIcon="20200094" category="Action" blackMarketCategory="8" />
+			<limit transferType="2" />
+			<skill skillID="90200109" />
+		</environment>
+	</item>
+	<item id="20200118">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200143" />
+		</environment>
+	</item>
+	<item id="20200119">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200144" />
+		</environment>
+	</item>
+	<item id="20200120">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200134" />
+		</environment>
+	</item>
+	<item id="20200121">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200135" />
+		</environment>
+	</item>
+	<item id="20200122">
+		<environment feature="Kritias_2018_12">
+			<property rank="1" type="24" iconCode="8" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="2" />
+			<skill skillID="90200124" />
+		</environment>
+	</item>
+	<item id="20200123">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200129" />
+		</environment>
+	</item>
+	<item id="20200124">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" globalTransferType="2" />
+			<skill skillID="90200126" />
+		</environment>
+	</item>
+	<item id="20200125">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200127" />
+		</environment>
+	</item>
+	<item id="20200126">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200130" />
+		</environment>
+	</item>
+	<item id="20200127">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="2" />
+			<skill skillID="90200132" />
+		</environment>
+	</item>
+	<item id="20200128">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200137" />
+		</environment>
+	</item>
+	<item id="20200129">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200139" />
+		</environment>
+	</item>
+	<item id="20200130">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200066" />
+		</environment>
+	</item>
+	<item id="20200131">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="2" />
+			<skill skillID="90200145" />
+		</environment>
+	</item>
+	<item id="20201001">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200009" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200015" />
+		</environment>
+	</item>
+	<item id="20201002">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200010" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200016" />
+		</environment>
+	</item>
+	<item id="20201003">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200011" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200017" />
+		</environment>
+	</item>
+	<item id="20201004">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200012" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200018" />
+		</environment>
+	</item>
+	<item id="20201005">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200013" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200019" />
+		</environment>
+	</item>
+	<item id="20201006">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200014" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200020" />
+		</environment>
+	</item>
+	<item id="20201007">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200015" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200021" />
+		</environment>
+	</item>
+	<item id="20201008">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200017" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200026" />
+		</environment>
+	</item>
+	<item id="20201009">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200018" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200027" />
+		</environment>
+	</item>
+	<item id="20201010">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200019" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200028" />
+		</environment>
+	</item>
+	<item id="20201011">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200020" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200029" />
+		</environment>
+	</item>
+	<item id="20201012">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200021" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200030" />
+		</environment>
+	</item>
+	<item id="20201013">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200131" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200145" />
+		</environment>
+	</item>
+	<item id="20201014">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200024" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200045" />
+		</environment>
+	</item>
+	<item id="20201015">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200025" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200046" />
+		</environment>
+	</item>
+	<item id="20201016">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200026" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200047" />
+		</environment>
+	</item>
+	<item id="20201017">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200027" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200048" />
+		</environment>
+	</item>
+	<item id="20201018">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200028" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200049" />
+		</environment>
+	</item>
+	<item id="20201019">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200029" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200050" />
+		</environment>
+	</item>
+	<item id="20201020">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200030" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200051" />
+		</environment>
+	</item>
+	<item id="20201021">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200031" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200052" />
+		</environment>
+	</item>
+	<item id="20201022">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200033" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200054" />
+		</environment>
+	</item>
+	<item id="20201023">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200034" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200055" />
+		</environment>
+	</item>
+	<item id="20201024">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200035" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200056" />
+		</environment>
+	</item>
+	<item id="20201025">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200037" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200058" />
+		</environment>
+	</item>
+	<item id="20201026">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200039" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200060" />
+		</environment>
+	</item>
+	<item id="20201027">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200040" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200061" />
+		</environment>
+	</item>
+	<item id="20201028">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200041" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200062" />
+		</environment>
+	</item>
+	<item id="20201029">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200049" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200070" />
+		</environment>
+	</item>
+	<item id="20201030">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200051" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200072" />
+		</environment>
+	</item>
+	<item id="20201031">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200053" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200074" />
+		</environment>
+	</item>
+	<item id="20201032">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200054" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200075" />
+		</environment>
+	</item>
+	<item id="20201033">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200056" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200081" />
+		</environment>
+	</item>
+	<item id="20201034">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200061" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200082" />
+		</environment>
+	</item>
+	<item id="20201035">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200062" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200083" />
+		</environment>
+	</item>
+	<item id="20201036">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200064" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200088" />
+		</environment>
+	</item>
+	<item id="20201037">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200065" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200085" />
+		</environment>
+	</item>
+	<item id="20201038">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200066" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200086" />
+		</environment>
+	</item>
+	<item id="20201039">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200067" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200087" />
+		</environment>
+	</item>
+	<item id="20201040">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200069" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200098" />
+		</environment>
+	</item>
+	<item id="20201041">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200070" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200103" />
+		</environment>
+	</item>
+	<item id="20201042">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200084" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200105" />
+		</environment>
+	</item>
+	<item id="20201043">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200075" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200092" />
+		</environment>
+	</item>
+	<item id="20201044">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200076" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200093" />
+		</environment>
+	</item>
+	<item id="20201045">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200081" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200101" />
+		</environment>
+	</item>
+	<item id="20201046">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200082" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200107" />
+		</environment>
+	</item>
+	<item id="20201047">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200091" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200110" />
+		</environment>
+	</item>
+	<item id="20201048">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200095" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200111" />
+		</environment>
+	</item>
+	<item id="20201049">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200096" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200113" />
+		</environment>
+	</item>
+	<item id="20201050">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200097" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200120" />
+		</environment>
+	</item>
+	<item id="20201051">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200098" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200119" />
+		</environment>
+	</item>
+	<item id="20201052">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200106" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200122" />
+		</environment>
+	</item>
+	<item id="20201053">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200107" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200123" />
+		</environment>
+	</item>
+	<item id="20201054">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200108" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200125" />
+		</environment>
+	</item>
+	<item id="20201055">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200110" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200131" />
+		</environment>
+	</item>
+	<item id="20201056">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200111" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200140" />
+		</environment>
+	</item>
+	<item id="20201057">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200113" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200133" />
+		</environment>
+	</item>
+	<item id="20201058">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200114" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200136" />
+		</environment>
+	</item>
+	<item id="20201059">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200115" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200138" />
+		</environment>
+	</item>
+	<item id="20201060">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200116" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200142" />
+		</environment>
+	</item>
+	<item id="20201061">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200119" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200144" />
+		</environment>
+	</item>
+	<item id="20201062">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200120" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200134" />
+		</environment>
+	</item>
+	<item id="20201063">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200121" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200135" />
+		</environment>
+	</item>
+	<item id="20201064">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200123" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200129" />
+		</environment>
+	</item>
+	<item id="20201065">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200126" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200130" />
+		</environment>
+	</item>
+	<item id="20201066">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200129" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200139" />
+		</environment>
+	</item>
+	<item id="20201067">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200046" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200067" />
+		</environment>
+	</item>
+	<item id="20201068">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200047" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200068" />
+		</environment>
+	</item>
+	<item id="20201069">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200048" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200069" />
+		</environment>
+	</item>
+	<item id="20201070">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200001" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200002" />
+		</environment>
+	</item>
+	<item id="20201071">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200002" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200007" />
+		</environment>
+	</item>
+	<item id="20201072">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200003" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200008" />
+		</environment>
+	</item>
+	<item id="20201073">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200004" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200009" />
+		</environment>
+	</item>
+	<item id="20201074">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200005" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200010" />
+		</environment>
+	</item>
+	<item id="20201075">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200006" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200012" />
+		</environment>
+	</item>
+	<item id="20201076">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200008" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200014" />
+		</environment>
+	</item>
+	<item id="20201077">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200103" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200117" />
+		</environment>
+	</item>
+	<item id="20201078">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200007" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200013" />
+		</environment>
+	</item>
+	<item id="20201079">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200032" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200053" />
+		</environment>
+	</item>
+	<item id="20201080">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200147" />
+		</environment>
+	</item>
+	<item id="20201081">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200148" />
+		</environment>
+	</item>
+	<item id="20201082">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200149" />
+		</environment>
+	</item>
+	<item id="20201083">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200150" />
+		</environment>
+	</item>
+	<item id="20201084">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200151" />
+		</environment>
+	</item>
+	<item id="20201085">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200152" />
+		</environment>
+	</item>
+	<item id="20201086">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200153" />
+		</environment>
+	</item>
+	<item id="20201087">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20201087" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200154" />
+		</environment>
+	</item>
+	<item id="20201088">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200155" />
+		</environment>
+	</item>
+	<item id="20201089">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200156" />
+		</environment>
+	</item>
+	<item id="20201090">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200157" />
+		</environment>
+	</item>
+	<item id="20201091">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200158" />
+		</environment>
+	</item>
+	<item id="20201092">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200159" />
+		</environment>
+	</item>
+	<item id="20201093">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200160" />
+		</environment>
+	</item>
+	<item id="20201094">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200161" />
+		</environment>
+	</item>
+	<item id="20201095">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200162" />
+		</environment>
+	</item>
+	<item id="20201096">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200163" />
+		</environment>
+	</item>
+	<item id="20201097">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200166" />
+		</environment>
+	</item>
+	<item id="20201098">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200167" />
+		</environment>
+	</item>
+	<item id="20201099">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200164" />
+		</environment>
+	</item>
+	<item id="20201100">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200165" />
+		</environment>
+	</item>
+	<item id="20201101">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200168" />
+		</environment>
+	</item>
+	<item id="20201102">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" enableSocketTransfer="false" />
+			<skill skillID="90200169" />
+		</environment>
+	</item>
+	<item id="20201103">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200170" />
+		</environment>
+	</item>
+	<item id="20201104">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200171" />
+		</environment>
+	</item>
+	<item id="20201105">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200172" />
+		</environment>
+	</item>
+	<item id="20201106">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200173" />
+		</environment>
+	</item>
+	<item id="20201107">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200174" />
+		</environment>
+	</item>
+	<item id="20201108">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200175" />
+		</environment>
+	</item>
+	<item id="20201109">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" moveDisable="true" />
+			<limit transferType="3" />
+			<skill skillID="90200176" />
+		</environment>
+	</item>
+	<item id="20201110">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200177" />
+		</environment>
+	</item>
+	<item id="20201111">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200178" />
+		</environment>
+	</item>
+	<item id="20201112">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200179" />
+		</environment>
+	</item>
+	<item id="20201113">
+		<environment feature="22_05">
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" moveDisable="true" />
+			<limit transferType="3" />
+			<skill skillID="90200180" />
+		</environment>
+	</item>
+	<item id="20201114">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200181" />
+		</environment>
+	</item>
+	<item id="20201115">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200182" />
+		</environment>
+	</item>
+	<item id="20201116">
+		<environment feature="22_04">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200183" />
+		</environment>
+	</item>
+	<item id="20201117">
+		<environment feature="22_04">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200184" />
+		</environment>
+	</item>
+	<item id="20201118">
+		<environment feature="22_02">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200185" />
+		</environment>
+	</item>
+	<item id="20201119">
+		<environment feature="22_02">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200186" />
+		</environment>
+	</item>
+	<item id="20201120">
+		<environment feature="22_03">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200187" />
+		</environment>
+	</item>
+	<item id="20201121">
+		<environment feature="22_03">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200188" />
+		</environment>
+	</item>
+	<item id="20201122">
+		<environment feature="22_04">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200189" />
+		</environment>
+	</item>
+	<item id="20201123">
+		<environment feature="22_05">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200190" />
+		</environment>
+	</item>
+	<item id="20201124">
+		<environment feature="22_05">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200191" />
+		</environment>
+	</item>
+	<item id="20201125">
+		<environment feature="22_06">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200189" />
+		</environment>
+	</item>
+	<item id="20201126">
+		<environment feature="22_06">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200189" />
+		</environment>
+	</item>
+	<item id="20201127">
+		<environment feature="22_07">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200189" />
+		</environment>
+	</item>
+	<item id="20201128">
+		<environment feature="22_07">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200189" />
+		</environment>
+	</item>
+	<item id="20201129">
+		<environment feature="22_05">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200192" />
+		</environment>
+	</item>
+	<item id="20201130">
+		<environment feature="22_05">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200193" />
+		</environment>
+	</item>
+	<item id="20201131">
+		<environment feature="22_05">
+			<property type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200194" />
+		</environment>
+	</item>
+	<item id="20201132">
+		<environment feature="22_05">
+			<property type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200195" />
+		</environment>
+	</item>
+	<item id="20201133">
+		<environment feature="22_05">
+			<property type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200196" />
+		</environment>
+	</item>
+	<item id="20201134">
+		<environment feature="22_06">
+			<property type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200197" />
+		</environment>
+	</item>
+	<item id="20201135">
+		<environment feature="22_06">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200198" />
+		</environment>
+	</item>
+	<item id="20201136">
+		<environment feature="22_07">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200199" />
+		</environment>
+	</item>
+	<item id="20201137">
+		<environment feature="22_07">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200200" />
+		</environment>
+	</item>
+	<item id="20201138">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200120" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200134" />
+		</environment>
+	</item>
+	<item id="20201139">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20201112" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200179" />
+		</environment>
+	</item>
+	<item id="20201140">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200047" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200068" />
+		</environment>
+	</item>
+	<item id="20201141">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200024" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200045" />
+		</environment>
+	</item>
+	<item id="20201142">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200111" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200140" />
+		</environment>
+	</item>
+	<item id="20201143">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200046" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200067" />
+		</environment>
+	</item>
+	<item id="20210001">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210001.usm" doNotPreview="1" />
+			<limit transferType="5" globalTransferType="2" />
+			<skill skillID="90220001" />
+		</environment>
+	</item>
+	<item id="20210002">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210002.usm" doNotPreview="1" />
+			<limit transferType="5" globalTransferType="2" />
+			<skill skillID="90220002" />
+		</environment>
+	</item>
+	<item id="20210003">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210003.usm" doNotPreview="1" />
+			<limit transferType="5" />
+			<skill skillID="90220003" />
+		</environment>
+	</item>
+	<item id="20210004">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210004.usm" doNotPreview="1" />
+			<limit transferType="5" globalTransferType="2" />
+			<skill skillID="90220004" />
+		</environment>
+	</item>
+	<item id="20210005">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210005.usm" doNotPreview="1" />
+			<limit transferType="1" globalTransferType="2" />
+			<skill skillID="90220005" />
+		</environment>
+	</item>
+	<item id="20210006">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210006.usm" doNotPreview="1" />
+			<limit transferType="5" />
+			<skill skillID="90220006" />
+		</environment>
+	</item>
+	<item id="20210007">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210007.usm" doNotPreview="1" />
+			<limit transferType="5" globalTransferType="2" />
+			<skill skillID="90220007" />
+		</environment>
+	</item>
+	<item id="20210008">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210008.usm" doNotPreview="1" />
+			<limit transferType="5" globalTransferType="2" />
+			<skill skillID="90220008" />
+		</environment>
+	</item>
+	<item id="20210009">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210009.usm" doNotPreview="1" />
+			<limit transferType="5" globalTransferType="1" />
+			<skill skillID="90220009" />
+		</environment>
+	</item>
+	<item id="20210010">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90220010" />
+		</environment>
+	</item>
+	<item id="20210011">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90220011" />
+		</environment>
+	</item>
+	<item id="20210012">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210012.usm" doNotPreview="1" />
+			<limit transferType="5" globalTransferType="2" />
+			<skill skillID="90220014" />
+		</environment>
+	</item>
+	<item id="20210013">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210013.usm" doNotPreview="1" />
+			<limit transferType="5" globalTransferType="2" />
+			<skill skillID="90220013" />
+		</environment>
+	</item>
+	<item id="20210014">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210014.usm" doNotPreview="1" />
+			<limit transferType="5" />
+			<skill skillID="90220012" />
+		</environment>
+	</item>
+	<item id="20210015">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210015.usm" doNotPreview="1" />
+			<limit transferType="5" />
+			<skill skillID="90220016" />
+		</environment>
+	</item>
+	<item id="20210016">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210016.usm" doNotPreview="1" />
+			<limit transferType="5" />
+			<skill skillID="90220015" />
+		</environment>
+	</item>
+	<item id="20210017">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210015" category="Action" blackMarketCategory="8" movie="Item/20210015.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220016" />
+		</environment>
+	</item>
+	<item id="20210018">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210018.usm" doNotPreview="1" />
+			<limit transferType="5" globalTransferType="2" />
+			<skill skillID="90220017" />
+		</environment>
+	</item>
+	<item id="20210019">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210019.usm" doNotPreview="1" />
+			<limit transferType="5" globalTransferType="2" />
+			<skill skillID="90220018" />
+		</environment>
+	</item>
+	<item id="20210020">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210020.usm" doNotPreview="1" />
+			<limit transferType="5" />
+			<skill skillID="90220020" />
+		</environment>
+	</item>
+	<item id="20210021">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210021.usm" doNotPreview="1" />
+			<limit transferType="5" />
+			<skill skillID="90220021" />
+		</environment>
+	</item>
+	<item id="20210022">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210022.usm" doNotPreview="1" />
+			<limit transferType="5" />
+			<skill skillID="90220022" />
+		</environment>
+	</item>
+	<item id="20210023">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210021" category="Action" blackMarketCategory="8" movie="Item/20210021.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220021" />
+		</environment>
+	</item>
+	<item id="20210024">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210024.usm" doNotPreview="1" />
+			<limit transferType="5" />
+			<skill skillID="90220024" />
+		</environment>
+	</item>
+	<item id="20210025">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210025.usm" doNotPreview="1" />
+			<limit transferType="5" />
+			<skill skillID="90220026" />
+		</environment>
+	</item>
+	<item id="20210026">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210026.usm" doNotPreview="1" />
+			<limit transferType="5" globalTransferType="2" />
+			<skill skillID="90220025" />
+		</environment>
+	</item>
+	<item id="20210027">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210027.usm" doNotPreview="1" />
+			<limit transferType="5" />
+			<skill skillID="90220019" />
+		</environment>
+	</item>
+	<item id="20210028">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210028.usm" doNotPreview="1" />
+			<limit transferType="5" />
+			<skill skillID="90220023" />
+		</environment>
+	</item>
+	<item id="20210029">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210029.usm" doNotPreview="1" />
+			<limit transferType="5" />
+			<skill skillID="90220027" />
+		</environment>
+	</item>
+	<item id="20210030">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210030.usm" doNotPreview="1" />
+			<limit transferType="1" globalTransferType="2" />
+			<skill skillID="90220028" />
+		</environment>
+	</item>
+	<item id="20210031">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210031.usm" doNotPreview="1" />
+			<limit transferType="2" />
+			<skill skillID="90220029" />
+		</environment>
+	</item>
+	<item id="20210032">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210032.usm" doNotPreview="1" />
+			<limit transferType="2" />
+			<skill skillID="90220031" />
+		</environment>
+	</item>
+	<item id="20210033">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210033.usm" doNotPreview="1" />
+			<limit transferType="2" />
+			<skill skillID="90220033" />
+		</environment>
+	</item>
+	<item id="20210034">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210028" category="Action" blackMarketCategory="8" movie="Item/20210028.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220023" />
+		</environment>
+	</item>
+	<item id="20210035">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210024" category="Action" blackMarketCategory="8" movie="Item/20210024.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220024" />
+		</environment>
+	</item>
+	<item id="20210036">
+		<environment feature="ItemKR">
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210001" category="Action" blackMarketCategory="8" movie="Item/20210001.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220001" />
+		</environment>
+	</item>
+	<item id="20210037">
+		<environment feature="ItemKR">
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210002" category="Action" blackMarketCategory="8" movie="Item/20210002.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220002" />
+		</environment>
+	</item>
+	<item id="20210038">
+		<environment feature="ItemKR">
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210004" category="Action" blackMarketCategory="8" movie="Item/20210004.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220004" />
+		</environment>
+	</item>
+	<item id="20210039">
+		<environment feature="ItemKR">
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210006" category="Action" blackMarketCategory="8" movie="Item/20210006.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220006" />
+		</environment>
+	</item>
+	<item id="20210040">
+		<environment feature="ItemKR">
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210008" category="Action" blackMarketCategory="8" movie="Item/20210008.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220008" />
+		</environment>
+	</item>
+	<item id="20210041">
+		<environment feature="ItemKR">
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210009" category="Action" blackMarketCategory="8" movie="Item/20210009.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220009" />
+		</environment>
+	</item>
+	<item id="20210042">
+		<environment feature="ItemKR">
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210012" category="Action" blackMarketCategory="8" movie="Item/20210012.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220014" />
+		</environment>
+	</item>
+	<item id="20210043">
+		<environment feature="ItemKR">
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210013" category="Action" blackMarketCategory="8" movie="Item/20210013.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220013" />
+		</environment>
+	</item>
+	<item id="20210044">
+		<environment feature="ItemKR">
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210014" category="Action" blackMarketCategory="8" movie="Item/20210014.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220012" />
+		</environment>
+	</item>
+	<item id="20210045">
+		<environment feature="ItemKR">
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210016" category="Action" blackMarketCategory="8" movie="Item/20210016.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220015" />
+		</environment>
+	</item>
+	<item id="20210046" />
+	<item id="20210047">
+		<environment feature="Wedding">
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210047.usm" doNotPreview="1" />
+			<limit transferType="2" />
+			<skill skillID="90220032" />
+		</environment>
+	</item>
+	<item id="20210048">
+		<environment feature="Fishing02">
+			<property rank="1" type="24" iconCode="8" slotMax="999" slotIcon="20200105" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200121" />
+		</environment>
+	</item>
+	<item id="20210049">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="2" slotMax="999" slotIcon="20200057" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200077" />
+		</environment>
+	</item>
+	<item id="20210050">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210026" category="Action" blackMarketCategory="8" movie="Item/20210026.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220025" />
+		</environment>
+	</item>
+	<item id="20210051">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210031" category="Action" blackMarketCategory="8" movie="Item/20210031.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220029" />
+		</environment>
+	</item>
+	<item id="20210052">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210029" category="Action" blackMarketCategory="8" movie="Item/20210029.usm" doNotPreview="1" />
+			<limit transferType="1" enableSocketTransfer="false" />
+			<skill skillID="90220027" />
+		</environment>
+	</item>
+	<item id="20210053">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20210007.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220007" />
+		</environment>
+	</item>
+	<item id="20210054">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210007" category="Action" blackMarketCategory="8" movie="Item/20210007.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220007" />
+		</environment>
+	</item>
+	<item id="20210055">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210055" category="Action" blackMarketCategory="8" movie="Item/20210055.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220038" />
+		</environment>
+	</item>
+	<item id="20210056">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210031" category="Action" blackMarketCategory="8" movie="Item/20210031.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220029" />
+		</environment>
+	</item>
+	<item id="20211001">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210002" category="Action" blackMarketCategory="8" movie="Item/20210002.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220002" />
+		</environment>
+	</item>
+	<item id="20211002">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210003" category="Action" blackMarketCategory="8" movie="Item/20210003.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220003" />
+		</environment>
+	</item>
+	<item id="20211003">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210004" category="Action" blackMarketCategory="8" movie="Item/20210004.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220004" />
+		</environment>
+	</item>
+	<item id="20211004">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210005" category="Action" blackMarketCategory="8" movie="Item/20210005.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220005" />
+		</environment>
+	</item>
+	<item id="20211005">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210006" category="Action" blackMarketCategory="8" movie="Item/20210006.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220006" />
+		</environment>
+	</item>
+	<item id="20211006">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210007" category="Action" blackMarketCategory="8" movie="Item/20210007.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220007" />
+		</environment>
+	</item>
+	<item id="20211007">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210008" category="Action" blackMarketCategory="8" movie="Item/20210008.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220008" />
+		</environment>
+	</item>
+	<item id="20211008">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210009" category="Action" blackMarketCategory="8" movie="Item/20210009.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220009" />
+		</environment>
+	</item>
+	<item id="20211009">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210012" category="Action" blackMarketCategory="8" movie="Item/20210012.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220014" />
+		</environment>
+	</item>
+	<item id="20211010">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210013" category="Action" blackMarketCategory="8" movie="Item/20210013.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220013" />
+		</environment>
+	</item>
+	<item id="20211011">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210014" category="Action" blackMarketCategory="8" movie="Item/20210014.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220012" />
+		</environment>
+	</item>
+	<item id="20211012">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210001" category="Action" blackMarketCategory="8" movie="Item/20210001.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220001" />
+		</environment>
+	</item>
+	<item id="20211013">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210033" category="Action" blackMarketCategory="8" movie="Item/20210033.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220033" />
+		</environment>
+	</item>
+	<item id="20211014">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20211014.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220034" />
+		</environment>
+	</item>
+	<item id="20211015">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20211015.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220035" />
+		</environment>
+	</item>
+	<item id="20220001">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210020" category="Action" blackMarketCategory="8" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220020" />
+		</environment>
+	</item>
+	<item id="20220002">
+		<environment>
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200064" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200088" />
+		</environment>
+	</item>
+	<item id="20220006">
+		<environment feature="22_09">
+			<property rank="1" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20200064" category="Action" blackMarketCategory="8" />
+			<limit transferType="1" />
+			<skill skillID="90200088" />
+		</environment>
+	</item>
+	<item id="20220019">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" slotIcon="20210019" category="Action" blackMarketCategory="8" movie="Item/20210019.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220018" />
+		</environment>
+	</item>
+	<item id="20220020">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20220020.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220036" />
+		</environment>
+	</item>
+	<item id="20220021">
+		<environment>
+			<property rank="4" type="24" iconCode="8" itemGroup="3" slotMax="999" category="Action" blackMarketCategory="8" movie="Item/20220021.usm" doNotPreview="1" />
+			<limit transferType="1" />
+			<skill skillID="90220037" />
+		</environment>
+	</item>
+</ms2>

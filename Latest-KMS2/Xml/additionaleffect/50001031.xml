@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" group="98" keepCondition="99" />
+		<MotionProperty startEffect="NPC/Skill/KanduraBigBurster/Eff_KanduraBigBurster_SoulMinMode_Start.xml" keepEffect="NPC/Skill/KanduraBigBurster/Eff_KanduraBigBurster_SoulMinMode_Keep.xml" stopEffect="NPC/Skill/KanduraBigBurster/Eff_KanduraBigBurster_SoulMinMode_Stop.xml" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<Stat parvalue="150" marvalue="150" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterDarkPowerMode_Lv1.png" />
+	</level>
+	<level>
+		<BasicProperty level="2" group="98" keepCondition="99" />
+		<MotionProperty startEffect="NPC/Skill/KanduraBigBurster/Eff_KanduraBigBurster_SoulMinMode_Start.xml" keepEffect="NPC/Skill/KanduraBigBurster/Eff_KanduraBigBurster_SoulMinMode_Keep.xml" stopEffect="NPC/Skill/KanduraBigBurster/Eff_KanduraBigBurster_SoulMinMode_Stop.xml" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<Stat parvalue="150" marvalue="150" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterDarkPowerMode_Lv1.png" />
+	</level>
+	<level>
+		<BasicProperty level="3" group="98" keepCondition="99" />
+		<MotionProperty startEffect="NPC/Skill/KanduraBigBurster/Eff_KanduraBigBurster_SoulMinMode_Start.xml" keepEffect="NPC/Skill/KanduraBigBurster/Eff_KanduraBigBurster_SoulMinMode_Keep.xml" stopEffect="NPC/Skill/KanduraBigBurster/Eff_KanduraBigBurster_SoulMinMode_Stop.xml" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<Stat parvalue="150" marvalue="150" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterDarkPowerMode_Lv1.png" />
+	</level>
+</ms2>

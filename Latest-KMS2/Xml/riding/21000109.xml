@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<riding>
+		<basic id="21000109" type="default" kfm="21000109_M_UnicornGemPurple" rideSummonCastTime="0.08" runSpeed="5.25" runXSpeed="7" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="15" pressXEffectIdle="Item/Ride/Eff_Item_Ride_Unicorn_SpRun_Sound.xml" pressXEffectRun="Item/Ride/Eff_Item_Ride_Unicorn_SpRun_Sound.xml" useRidingNavi="1" rideBone="Bip01 Spine1" rideTranslation="0,-27,20" rideRotation="90,0,90" />
+		<collision height="130" depth="150" />
+		<shadow scale="220" />
+		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
+	</riding>
+</ms2>

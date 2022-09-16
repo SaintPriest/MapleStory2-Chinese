@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" durationTick="13000" logoutClearEffect="1" leaveFieldClearEffect="1" ignoreReduceTimeCondition="1" />
+		<MotionProperty keepEffect="NPC/Skill/FairyWingBlue/Eff_FairyWingBlue_WaterProtectBody_Keep.xml" stopEffect="NPC/Skill/FairyWingBlue/Eff_FairyWingBlue_WaterProtectBody_Stop.xml" IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" abnormalImmuneBreak="1" />
+		<CancelEffectProperty cancelEffectCodes="50000083,70000065" />
+		<ImmuneEffectProperty immuneEffectCodes="50000083,70000065" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MagicalProtective.png" />
+	</level>
+</ms2>

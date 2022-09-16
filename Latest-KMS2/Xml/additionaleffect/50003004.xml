@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffType="2" durationTick="1000" ignoreReduceTimeCondition="1" />
+		<MotionProperty startEffect="NPC/Skill/Papulatus/Eff_Papulatus_BarrierTimeMultiple2.xml" IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" abnormalImmuneBreak="1" />
+		<ImmuneEffectProperty immuneEffectCodes="50003004" />
+		<ModifyEffectDurationProperty effectCodes="50003001,50003000" durationFactors="2.000000,2.000000" durationValues="0.000000,0.000000" />
+		<UIProperty iconOnOff="0" />
+	</level>
+	<level>
+		<BasicProperty level="2" buffType="2" durationTick="1000" ignoreReduceTimeCondition="1" />
+		<MotionProperty startEffect="NPC/Skill/Papulatus/Eff_Papulatus_BarrierTimeMultiple3.xml" IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" abnormalImmuneBreak="1" />
+		<ImmuneEffectProperty immuneEffectCodes="50003004" />
+		<ModifyEffectDurationProperty effectCodes="50003001,50003000" durationFactors="3.000000,3.000000" durationValues="0.000000,0.000000" />
+		<UIProperty iconOnOff="0" />
+	</level>
+</ms2>

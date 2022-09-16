@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffSubType="1" durationTick="180000" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat paprate="0.005" maprate="0.005" />
+		</StatusProperty>
+		<UIProperty iconOnOff="0" />
+	</level>
+	<level>
+		<BasicProperty level="2" buffSubType="1" durationTick="180000" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat paprate="0.007" maprate="0.007" />
+		</StatusProperty>
+		<UIProperty iconOnOff="0" />
+	</level>
+	<level>
+		<BasicProperty level="3" buffSubType="1" durationTick="180000" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat paprate="0.009" maprate="0.009" />
+		</StatusProperty>
+		<UIProperty iconOnOff="0" />
+	</level>
+	<level>
+		<BasicProperty level="4" buffSubType="1" durationTick="180000" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat paprate="0.011" maprate="0.011" />
+		</StatusProperty>
+		<UIProperty iconOnOff="0" />
+	</level>
+	<level>
+		<BasicProperty level="5" buffSubType="1" durationTick="180000" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat paprate="0.013" maprate="0.013" />
+		</StatusProperty>
+		<UIProperty iconOnOff="0" />
+	</level>
+	<level>
+		<BasicProperty level="6" buffSubType="1" durationTick="180000" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat paprate="0.015" maprate="0.015" />
+		</StatusProperty>
+		<UIProperty iconOnOff="0" />
+	</level>
+	<level>
+		<BasicProperty level="7" buffSubType="1" durationTick="180000" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat paprate="0.017" maprate="0.017" />
+		</StatusProperty>
+		<UIProperty iconOnOff="0" />
+	</level>
+	<level>
+		<BasicProperty level="8" buffSubType="1" durationTick="180000" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat paprate="0.019" maprate="0.019" />
+		</StatusProperty>
+		<UIProperty iconOnOff="0" />
+	</level>
+	<level>
+		<BasicProperty level="9" buffSubType="1" durationTick="180000" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat paprate="0.021" maprate="0.021" />
+		</StatusProperty>
+		<UIProperty iconOnOff="0" />
+	</level>
+	<level>
+		<BasicProperty level="10" buffSubType="1" durationTick="180000" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat paprate="0.023" maprate="0.023" />
+		</StatusProperty>
+		<UIProperty iconOnOff="0" />
+	</level>
+	<level>
+		<BasicProperty level="11" buffSubType="1" durationTick="180000" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat paprate="0.025" maprate="0.025" />
+		</StatusProperty>
+		<UIProperty iconOnOff="0" />
+	</level>
+	<level>
+		<BasicProperty level="12" buffSubType="1" durationTick="180000" deadKeepEffect="1" doNotClearEffectFromEnterPVPZone="1" skillGroupType="1" />
+		<MotionProperty abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat paprate="0.027" maprate="0.027" />
+		</StatusProperty>
+		<UIProperty iconOnOff="0" />
+	</level>
+</ms2>

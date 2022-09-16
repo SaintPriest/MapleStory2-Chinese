@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="ContentsGuide01">
+		<quest>
+			<basic questID="90000650" questType="1" chapterID="9067" standardLevel="15" disableGiveup="1" tabIndex="1" forceRegistGuide="1" useNavi="FALSE" />
+			<notify completeUiEffect="success" />
+			<require level="15" />
+			<start npc="11001873" />
+			<complete npc="11001874" />
+			<acceptReward>
+				<essentialItem code="40400001" rank="3" count="1" />
+			</acceptReward>
+			<completeReward exp="2400" relativeExp="epicQuest" money="1750" />
+			<condition type="trigger" code="ArrivedFlyBalloon" value="1" />
+		</quest>
+	</environment>
+</ms2>

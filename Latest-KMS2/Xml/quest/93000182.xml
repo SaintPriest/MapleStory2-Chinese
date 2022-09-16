@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="FameChallengeDungeon">
+		<quest>
+			<basic questID="93000182" questType="9" chapterID="10009" standardLevel="50" repeatable="3" usePeriod="fri" useNavi="FALSE" alliance="triaroyalguard" rank="S" />
+			<require level="50" quest="91000015,93000181" groupID="93000182" alliance="triaroyalguard" fameGrade="3" unrequireGroup="93000174,93000176,93000178,93000180" />
+			<complete npc="11003534" />
+			<completeReward relativeExp="questSkyFortress" useMainFamePoint="2" fameLog="5000" rewardExpExtra="2">
+				<essentialItem code="30001049" rank="1" count="150" />
+			</completeReward>
+			<condition type="dungeon_rank_clear" code="24092005" value="1" />
+		</quest>
+	</environment>
+</ms2>

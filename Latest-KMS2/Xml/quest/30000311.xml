@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="SkinSocket">
+		<quest>
+			<basic questID="30000311" questType="1" chapterID="2011" standardLevel="20" useNavi="FALSE" />
+			<require level="20" quest="30000310" />
+			<start npc="11001612" />
+			<complete npc="11001612" />
+			<completeReward exp="6000" money="2500">
+				<essentialItem code="40100032" rank="1" count="5" />
+				<globalEssentialItem code="40100032" rank="1" count="5" />
+				<globalEssentialJobItem code="0" rank="0" count="0" />
+			</completeReward>
+			<progressMap progressMap="02000001" />
+		</quest>
+	</environment>
+</ms2>

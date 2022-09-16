@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="BattleField51to55">
+		<quest>
+			<basic questID="70200004" questType="3" repeatable="1" locking="1" useNavi="FALSE" />
+			<require maxLevel="99" />
+			<completeReward relativeExp="dailymissionLevelUp" missionPoint="30">
+				<essentialItem code="30000928" rank="1" count="1" />
+			</completeReward>
+			<guide guideType="daily_pick_repeat" guideIcon="boss" guideMinLevel="52" guideMaxLevel="99" guideGroup="LevelUp" />
+			<condition type="npc" target="02000261" value="30" />
+		</quest>
+	</environment>
+</ms2>

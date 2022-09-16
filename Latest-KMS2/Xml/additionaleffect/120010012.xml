@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="1" durationTick="10000" doNotClearEffectFromEnterPVPZone="1" />
+		<MotionProperty keepEffect="Item/LapenShard/Eff_LapenShard_TimeSword_Keep.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat bapvalue="1000" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000011.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="2" durationTick="10000" doNotClearEffectFromEnterPVPZone="1" />
+		<MotionProperty keepEffect="Item/LapenShard/Eff_LapenShard_TimeSword_Keep.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat bapvalue="1100" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000011.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="3" durationTick="10000" doNotClearEffectFromEnterPVPZone="1" />
+		<MotionProperty keepEffect="Item/LapenShard/Eff_LapenShard_TimeSword_Keep.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat bapvalue="1200" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000011.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="4" durationTick="10000" doNotClearEffectFromEnterPVPZone="1" />
+		<MotionProperty keepEffect="Item/LapenShard/Eff_LapenShard_TimeSword_Keep.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat bapvalue="1300" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000011.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="5" durationTick="10000" doNotClearEffectFromEnterPVPZone="1" />
+		<MotionProperty keepEffect="Item/LapenShard/Eff_LapenShard_TimeSword_Keep.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat bapvalue="1400" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000011.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="6" durationTick="10000" doNotClearEffectFromEnterPVPZone="1" />
+		<MotionProperty keepEffect="Item/LapenShard/Eff_LapenShard_TimeSword_Keep.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat bapvalue="1500" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000011.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="7" durationTick="10000" doNotClearEffectFromEnterPVPZone="1" />
+		<MotionProperty keepEffect="Item/LapenShard/Eff_LapenShard_TimeSword_Keep.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat bapvalue="1600" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000011.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="8" durationTick="10000" doNotClearEffectFromEnterPVPZone="1" />
+		<MotionProperty keepEffect="Item/LapenShard/Eff_LapenShard_TimeSword_Keep.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat bapvalue="1700" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000011.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="9" durationTick="10000" doNotClearEffectFromEnterPVPZone="1" />
+		<MotionProperty keepEffect="Item/LapenShard/Eff_LapenShard_TimeSword_Keep.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat bapvalue="1800" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000011.png" />
+	</level>
+	<level>
+		<beginCondition applyPvPZoneType="1" />
+		<BasicProperty level="10" durationTick="10000" doNotClearEffectFromEnterPVPZone="1" />
+		<MotionProperty keepEffect="Item/LapenShard/Eff_LapenShard_TimeSword_Keep.xml" abnormalImmuneBreak="5" />
+		<StatusProperty>
+			<Stat bapvalue="1900" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/item/icon/41000011.png" />
+	</level>
+</ms2>

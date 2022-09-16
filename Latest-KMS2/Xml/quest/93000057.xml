@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="FameContents">
+		<quest>
+			<basic questID="93000057" questType="9" chapterID="10002" standardLevel="50" disableGiveup="1" repeatable="2" useNavi="TRUE" alliance="lumiknight" rank="B" property="AvailableCompletionTicket" />
+			<require level="50" quest="91000015" />
+			<dispatch type="monologueAccept" field="3000101" portal="1" script="1" />
+			<complete npc="11003537" />
+			<completeReward relativeExp="questSkyFortress" useMainFamePoint="1" fameLog="5000" rewardExpExtra="1">
+				<essentialItem code="30000925" rank="1" count="6" />
+			</completeReward>
+			<progressMap progressMap="03000101" />
+			<condition type="interact_object" code="10001290" value="6" />
+		</quest>
+	</environment>
+</ms2>

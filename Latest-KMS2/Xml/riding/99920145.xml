@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<riding feature="MassiveHideAndSeek">
+		<basic id="99920145" type="object" nif="tr_in_prop_weddingcake_A01" hideRider="true" runSpeed="4" idleXMotion="" runXMotion="" nameTagHide="1" rideAniPC="" />
+		<collision height="150" physic="true" />
+		<stat hp="5000" msp="100" jmp="100" rmsp="50" />
+	</riding>
+</ms2>

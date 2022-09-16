@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffSubType="256" durationTick="604800000" deadKeepEffect="1" logoutClearEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/20000572.png" iconOnOff="0" />
+		<SpecialEffectProperty type="11" probability="0.4" values="&lt;v improveRewardRate=&quot;1&quot; /&gt;" activateMsg="s_additionalEffect_Special_110000114" />
+	</level>
+	<level>
+		<BasicProperty level="2" buffSubType="256" durationTick="604800000" deadKeepEffect="1" logoutClearEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/20000572.png" iconOnOff="0" />
+		<SpecialEffectProperty type="11" probability="0.42" values="&lt;v improveRewardRate=&quot;1&quot; /&gt;" activateMsg="s_additionalEffect_Special_110000114" />
+	</level>
+	<level>
+		<BasicProperty level="3" buffSubType="256" durationTick="604800000" deadKeepEffect="1" logoutClearEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/20000572.png" iconOnOff="0" />
+		<SpecialEffectProperty type="11" probability="0.44" values="&lt;v improveRewardRate=&quot;1&quot; /&gt;" activateMsg="s_additionalEffect_Special_110000114" />
+	</level>
+	<level>
+		<BasicProperty level="4" buffSubType="256" durationTick="604800000" deadKeepEffect="1" logoutClearEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/20000572.png" iconOnOff="0" />
+		<SpecialEffectProperty type="11" probability="0.46" values="&lt;v improveRewardRate=&quot;1&quot; /&gt;" activateMsg="s_additionalEffect_Special_110000114" />
+	</level>
+	<level>
+		<BasicProperty level="5" buffSubType="256" durationTick="604800000" deadKeepEffect="1" logoutClearEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/20000572.png" iconOnOff="0" />
+		<SpecialEffectProperty type="11" probability="0.48" values="&lt;v improveRewardRate=&quot;1&quot; /&gt;" activateMsg="s_additionalEffect_Special_110000114" />
+	</level>
+	<level>
+		<BasicProperty level="6" buffSubType="256" durationTick="604800000" deadKeepEffect="1" logoutClearEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/20000572.png" iconOnOff="0" />
+		<SpecialEffectProperty type="11" probability="0.5" values="&lt;v improveRewardRate=&quot;1&quot; /&gt;" activateMsg="s_additionalEffect_Special_110000114" />
+	</level>
+	<level>
+		<BasicProperty level="7" buffSubType="256" durationTick="604800000" deadKeepEffect="1" logoutClearEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/20000572.png" iconOnOff="0" />
+		<SpecialEffectProperty type="11" probability="0.52" values="&lt;v improveRewardRate=&quot;1&quot; /&gt;" activateMsg="s_additionalEffect_Special_110000114" />
+	</level>
+	<level>
+		<BasicProperty level="8" buffSubType="256" durationTick="604800000" deadKeepEffect="1" logoutClearEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/20000572.png" iconOnOff="0" />
+		<SpecialEffectProperty type="11" probability="0.54" values="&lt;v improveRewardRate=&quot;1&quot; /&gt;" activateMsg="s_additionalEffect_Special_110000114" />
+	</level>
+	<level>
+		<BasicProperty level="9" buffSubType="256" durationTick="604800000" deadKeepEffect="1" logoutClearEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/20000572.png" iconOnOff="0" />
+		<SpecialEffectProperty type="11" probability="0.56" values="&lt;v improveRewardRate=&quot;1&quot; /&gt;" activateMsg="s_additionalEffect_Special_110000114" />
+	</level>
+	<level>
+		<BasicProperty level="10" buffSubType="256" durationTick="604800000" deadKeepEffect="1" logoutClearEffect="1" doNotClearEffectFromEnterPVPZone="1" />
+		<UIProperty icon="./Data/Resource/Image/Skill/Icon/20000572.png" iconOnOff="0" />
+		<SpecialEffectProperty type="11" probability="0.58" values="&lt;v improveRewardRate=&quot;1&quot; /&gt;" activateMsg="s_additionalEffect_Special_110000114" />
+	</level>
+</ms2>

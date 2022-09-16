@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<environment feature="Kritias_Zakum01">
+		<quest>
+			<basic questID="91000620" questType="9" chapterID="10018" standardLevel="70" disableGiveup="1" useNavi="TRUE" alliance="Lumiknight_KritiasExped" rank="S" property="special,HideBeginableList" />
+			<require level="70" quest="91000610" alliance="Lumiknight_KritiasExped" fameGrade="5" />
+			<dispatch type="monologueAccept" field="2020034" portal="3" script="2" />
+			<start npc="11004316" />
+			<complete npc="11004316" />
+			<completeReward relativeExp="quest" useMainFamePoint="1" rewardExpExtra="1">
+				<essentialItem code="30001280" rank="1" count="23" />
+			</completeReward>
+			<progressMap progressMap="02020034" />
+			<remoteComplete useRemote="Cinematic" />
+			<condition type="map" code="02020034" value="1" />
+		</quest>
+	</environment>
+</ms2>

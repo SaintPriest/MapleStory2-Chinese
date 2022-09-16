@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level feature="JobChange_02">
+		<BasicProperty level="1" buffType="2" buffSubType="1" durationTick="2000" intervalTick="2000" dotCondition="1" clearEffectFromPVPZone="1" skillGroupType="1" />
+		<MotionProperty startEffect="CH/Skill/Wizard/Eff_Wizard_GuidedMeteor_Start_02.xml" keepEffect="CH/Skill/Wizard/Eff_Wizard_GuidedMeteor_Keep_02.xml" stopEffect="CH/Skill/Wizard/Eff_Wizard_GuidedMeteor_Stop_02.xml" abnormalImmuneBreak="5" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10600011.png" />
+		<conditionSkill level="1" skillID="10300299" skillTarget="1" skillOwner="3" activeByIntervalTick="1" />
+	</level>
+</ms2>

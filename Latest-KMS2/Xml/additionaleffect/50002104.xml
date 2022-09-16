@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffType="2" buffSubType="2" durationTick="21000" />
+		<MotionProperty keepEffect="NPC/Skill/BaphometHuman/Eff_BaphometHuman_SpDown_Keep.xml" IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" abnormalImmuneBreak="1" />
+		<CancelEffectProperty cancelEffectCodes="10300071,10600164" />
+		<ImmuneEffectProperty immuneEffectCodes="10300071,10600164" />
+		<ConsumeProperty spRate="0.8" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/SpDown.png" />
+	</level>
+</ms2>

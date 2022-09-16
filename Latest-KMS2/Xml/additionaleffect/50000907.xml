@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffType="2" buffSubType="2" durationTick="81000" intervalTick="3000" dotCondition="1" logoutClearEffect="1" />
+		<MotionProperty keepEffect="NPC/Skill/CerberosThreeHeadGreen/Eff_CerberosThreeHeadGreen_CurseBomb_Keep.xml" IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" abnormalImmuneBreak="1" />
+		<CancelEffectProperty cancelEffectCodes="50000003" />
+		<ImmuneEffectProperty immuneEffectCodes="50000003" />
+		<DotDamageProperty type="2" element="6" damageByTargetMaxHP="0.015" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/PoisonBombWeakness.png" />
+		<splashSkill level="1" skillID="99999929" interval="1000" immediateActive="1" />
+	</level>
+</ms2>

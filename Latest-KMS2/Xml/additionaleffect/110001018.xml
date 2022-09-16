@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffSubType="256" keepCondition="99" doNotClearEffectFromEnterPVPZone="1" />
+		<StatusProperty>
+			<SpecialAbility improve_riding_run_speedrate="0.1" improve_riding_speedrate="0.1" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/CharacterAbility/Ability_c03.png" iconOnOff="0" />
+	</level>
+</ms2>

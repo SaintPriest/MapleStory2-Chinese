@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ugcmap baseCubePoint3="-9,-9,0" indoorSizeType="10x10x5" >
+	<!--1.xml의 건설 자재 직접 지급-->	
+	<cube itemID="50100247" itemCount="97" isNotPlace="1" />
+	<cube itemID="50100041" itemCount="46" isNotPlace="1" />
+	<cube itemID="50100243" itemCount="2" isNotPlace="1" />
+	<cube itemID="50200053" itemCount="6" isNotPlace="1" />
+	<cube itemID="50200375" itemCount="5" isNotPlace="1" />
+	<cube itemID="50100258" itemCount="63" isNotPlace="1" />
+	<cube itemID="50200067" itemCount="5" isNotPlace="1" />
+	<cube itemID="50100244" itemCount="16" isNotPlace="1" />
+	<cube itemID="50100227" itemCount="4" isNotPlace="1" />
+	<cube itemID="50100089" itemCount="5" isNotPlace="1" />
+	<cube itemID="50200029" itemCount="3" isNotPlace="1" />
+	<cube itemID="50100261" itemCount="6" isNotPlace="1" />
+	<cube itemID="50200267" itemCount="2" isNotPlace="1" />
+	<cube itemID="50200038" itemCount="4" isNotPlace="1" />
+	<cube itemID="50200524" itemCount="4" isNotPlace="1" />
+	<cube itemID="50100068" itemCount="2" isNotPlace="1" />
+	<cube itemID="50200485" itemCount="1" isNotPlace="1" />
+	<cube itemID="50200401" itemCount="1" isNotPlace="1" />
+	<cube itemID="50200128" itemCount="1" isNotPlace="1" />
+	<cube itemID="50200286" itemCount="1" isNotPlace="1" />
+	<!--2.xml의 건설 자재 직접 지급-->
+	<cube itemID="50100013" itemCount="98" isNotPlace="1" />
+	<cube itemID="50100021" itemCount="11" isNotPlace="1" />
+	<cube itemID="50100238" itemCount="16" isNotPlace="1" />
+	<cube itemID="50100018" itemCount="28" isNotPlace="1" />
+	<cube itemID="50100017" itemCount="4" isNotPlace="1" />	
+</ugcmap>

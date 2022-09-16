@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffType="2" buffSubType="4" durationTick="20000" />
+		<MotionProperty keepEffect="NPC/Skill/RenduebianRbladerDark/Eff_RenduebianRbladerDark_01_G_Keep.xml" abnormalImmuneBreak="1" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/10200111_buff.png" iconOnOff="0" />
+	</level>
+</ms2>

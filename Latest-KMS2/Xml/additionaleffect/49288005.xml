@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffType="2" buffSubType="2" durationTick="120000" resetCondition="2" maxBuffCount="10" logoutClearEffect="1" leaveFieldClearEffect="1" />
+		<MotionProperty keepEffect="Additional/Defense/Eff_Additional_DefenseDown_Keep.xml" IgnoreOptimalHideStartEffect="true" IgnoreOptimalHideKeepEffect="true" IgnoreOptimalHideStopEffect="true" IgnoreOptimalHideInvokeEffect="true" abnormalImmuneBreak="1" />
+		<StatusProperty>
+			<Stat nddrate="-0.1" />
+		</StatusProperty>
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MagicalDefenceDownElectric.png" />
+		<conditionSkill level="1" skillID="49288006" skillTarget="1">
+			<beginCondition>
+				<owner hasBuffID="49288005" hasBuffLevel="1" hasBuffOwner="0" hasBuffCount="10" hasBuffCountCompare="Equals" eventCondition="10" />
+			</beginCondition>
+		</conditionSkill>
+	</level>
+</ms2>

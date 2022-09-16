@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
+<ms2>
+	<level>
+		<BasicProperty level="1" buffSubType="32" durationTick="8000" intervalTick="899" dotCondition="1" />
+		<MotionProperty keepEffect="NPC/Skill/YuperiaRbladerDark/Eff_YuperiaRbladerDark_Additional_HPRecover_Keep.xml" abnormalImmuneBreak="5" />
+		<RecoveryProperty hpRate="0.002" />
+		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterHPRecovery.png" />
+	</level>
+</ms2>

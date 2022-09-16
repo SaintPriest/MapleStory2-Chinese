@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<riding>
+		<basic id="50600167" type="default" kfm="50600167_UGC_LionDance" rideSummonCastTime="0.08" runSpeed="5.25" runXSpeed="7" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="15" useRidingNavi="1" rideBone="LionDance_Point01" rideAniPC="Ride_Idle_R" />
+		<shadow scale="170" />
+		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
+	</riding>
+</ms2>
