@@ -3028,4 +3028,26 @@
   <key id="120030043" level="1" name="奈林的补给" tooltipDescription="物理/魔法伤害增加" feature="Lapenshard01" />
   <key id="120040000" level="1" name="冒险家的成长增益" tooltipDescription="狩猎/演奏/钓鱼的经验值{0}倍" />
   <key id="120040001" level="1" name="冒险家的战斗增益" tooltipDescription="物理/魔法攻击力提高{0}%，在战场及竞技场中无效" />
+  <key id="130000001" level="1" name="初學者指導技巧" tooltipDescription="生命值提高{0}" feature="LeadSkill" />
+  <key id="130000010" level="1" name="聖徒聯盟" tooltipDescription="使用技能時增加生命並獲得超級護甲" feature="LeadSkill" />
+  <key id="130000012" level="1" name="聖徒聯盟" tooltipDescription="超級盔甲效果。" feature="LeadSkill" />
+  <key id="130000020" level="1" name="狂暴免疫" tooltipDescription="使用技能時增加生命恢復，降低生命的同時增加傷害" feature="LeadSkill" />
+  <key id="130000022" level="1" name="狂暴免疫" tooltipDescription="傷害提高{0}%\n每秒血量減少3%" feature="LeadSkill" />
+  <key id="130000030" level="1" name="元素之力" tooltipDescription="使用技能一定時間增加屬性傷害並召喚護盾" feature="LeadSkill" />
+  <key id="130000032" level="1" name="元素之力" tooltipDescription="魔法能量環繞全身。\n吸收{0}傷害。" feature="LeadSkill" />
+  <key id="130000040" level="1" name="保護的祝福" tooltipDescription="使用技能時增加治療並減少受到的傷害" feature="LeadSkill" />
+  <key id="130000042" level="1" name="保護的祝福" tooltipDescription="受到的傷害減少 {0}%" feature="LeadSkill" />
+  <key id="130000050" level="1" name="範圍輔助" tooltipDescription="使用技能時增加遠程傷害並使用金鷹滑翔" feature="LeadSkill" />
+  <key id="130000060" level="1" name="迷你衛星輔助" tooltipDescription="使用技能時增加主屬性數值並召喚迷你衛星" feature="LeadSkill" />
+  <key id="130000062" level="1" name="迷你衛星輔助" tooltipDescription="一顆迷你衛星正在尋找敵人。\n目標敵人被激光轟炸。" feature="LeadSkill" />
+  <key id="130000070" level="1" name="幻影之怒" tooltipDescription="使用技能時增加暴擊傷害並增加攻擊速度和移動速度" feature="LeadSkill" />
+  <key id="130000072" level="1" name="幻影之怒" tooltipDescription="攻擊速度提高 {0}%\n移動速度提高 {1}%" feature="LeadSkill" />
+  <key id="130000080" level="1" name="刺客的致命熱度" tooltipDescription="一定時間內增加暴擊" feature="LeadSkill" />
+  <key id="130000082" level="1" name="刺客的致命熱度" tooltipDescription="發現了敵人的弱點！\n暴擊命中提高 {0}。" feature="LeadSkill" />
+  <key id="130000090" level="1" name="物理符文" tooltipDescription="使用技能時增加近戰傷害並增加移動速度和防禦" feature="LeadSkill" />
+  <key id="130000092" level="1" name="物理符文" tooltipDescription="移動速度提高 {0}%\n防禦提高 {1}%" feature="LeadSkill" />
+  <key id="130000100" level="1" name="前鋒的力量" tooltipDescription="使用技能時增加物理攻擊力和防禦力並降低移動速度" feature="LeadSkill" />
+  <key id="130000102" level="1" name="前鋒的力量" tooltipDescription="物理攻擊力提高 {0}%\n防禦提高 {1}\n移動速度降低 20%" feature="LeadSkill" />
+  <key id="130000110" level="1" name="靈魂連接" tooltipDescription="使用技能時增加魔法攻擊力" feature="LeadSkill" />
+  <key id="130000111" level="1" name="靈魂連接" tooltipDescription="魔法攻擊力提高 {0}%" feature="LeadSkill" />
 </ms2>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding>
-		<basic id="50600145" type="default" kfm="21000206_M_FoxCute02" scale="2.3" rideSummonCastTime="0.08" runSpeed="5.25" runXSpeed="7" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="15" useRidingNavi="1" rideBone="Bip01 Spine" rideTranslation="0,9,27" rideRotation="90,-25,90" />
-		<collision height="130" />
-		<shadow scale="130" />
-		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
-	</riding>
-</ms2>

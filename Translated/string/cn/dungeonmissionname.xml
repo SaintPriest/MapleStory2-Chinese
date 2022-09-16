@@ -370,12 +370,12 @@
   <key id="24092008" name="康达尔体力减少50%" feature="DungeonOpenNA1901" />
   <key id="24092009" name="康达尔体力减少75%" feature="DungeonOpenNA1901" />
   <key id="24092010" name="DUNGEONMISSIONNAME_24092010_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
-  <key id="24093001" name="通过第二轮" feature="FameChallengeDungeon" />
-  <key id="24093002" name="通过第三轮" feature="FameChallengeDungeon" />
-  <key id="24093003" name="通过第四轮" feature="FameChallengeDungeon" />
-  <key id="24093004" name="通过第五轮" feature="FameChallengeDungeon" />
-  <key id="24093005" name="3分钟内通过第五轮" feature="FameChallengeDungeon" />
-  <key id="24093006" name="70秒内通过第五轮" feature="FameChallengeDungeon" />
+  <key id="24093001" name="通過第一輪" feature="FameChallengeDungeon" />
+  <key id="24093002" name="通過第二輪" feature="FameChallengeDungeon" />
+  <key id="24093003" name="通過第四輪" feature="FameChallengeDungeon" />
+  <key id="24093004" name="通過第五輪" feature="FameChallengeDungeon" />
+  <key id="24093005" name="3分鐘内通過第五輪" feature="FameChallengeDungeon" />
+  <key id="24093006" name="70秒内通過第五輪" feature="FameChallengeDungeon" />
   <key id="24093007" name="DUNGEONMISSIONNAME_24093007_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
   <key id="24094001" name="梅森体力减少5%" feature="FameChallengeDungeon" />
   <key id="24094002" name="梅森体力减少20%" feature="FameChallengeDungeon" />

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<seq id="0" name="Idle_A">
-		<key name="end" time="0.3333" />
-	</seq>
-	<seq id="1" name="Run_A">
-		<key name="end" time="0.2667" />
-	</seq>
-</ms2>

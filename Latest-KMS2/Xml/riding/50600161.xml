@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding>
-		<basic id="50600161" type="default" kfm="UGC_CamperVan_01" rideSummonCastTime="0.1" runSpeed="4.6" runXSpeed="6.5" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="15" pressXEffectIdle="Item/Ride/Eff_Item_Ride_CamperVan_SpRun_Sound.xml" pressXEffectRun="Item/Ride/Eff_Item_Ride_CamperVan_SpRun_Sound.xml" useRidingNavi="1" rideBone="Car_Point01" rideTranslation="0,18,-72" rideRotation="0,25,90" rideAniPC="Ride_Idle_D" />
-		<shadow scale="170" />
-		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
-	</riding>
-</ms2>

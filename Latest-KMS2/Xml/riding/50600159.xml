@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding>
-		<basic id="50600159" type="default" kfm="UGC_FirrothParde" scale="0.6" rideSummonCastTime="0.08" runSpeed="5.25" runXSpeed="7" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="15" pressXEffectIdle="Item/Ride/Eff_Item_Ride_FirrothParde_SpRun_Sound.xml" useRidingNavi="1" rideBone="Bip01 Head" rideTranslation="0,0,50" rideRotation="-90,-170,270" />
-		<collision height="130" depth="150" />
-		<shadow scale="220" />
-		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
-	</riding>
-</ms2>

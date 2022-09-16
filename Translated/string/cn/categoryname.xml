@@ -573,6 +573,11 @@
   <key id="10106803" name="장난꾸러기 요정 세트" feature="22_08" />
   <key id="10106804" name="트윙클 스타 교복 세트" feature="22_08" />
   <key id="10106805" name="웨폰 박스" feature="22_08" />
+  <key id="10106901" name="Gold Sand Dragon Set" feature="22_09" />
+	<key id="10106902" name="All Hallows&apos; Set" feature="22_09" />
+	<key id="10106903" name="Spirit One Set" feature="22_09" />
+	<key id="10106904" name="Sweet Dream Set" feature="22_09" />
+	<key id="10106905" name="樂器" feature="22_09" />
   <key id="10200100" name="单品时装" />
   <key id="10200101" name="坐骑" />
   <key id="10200102" name="徽章" />
@@ -640,6 +645,23 @@
   <key id="10450115" name="宠物" />
   <key id="10450116" name="乐器" />
   <key id="10450117" name="其他" />
+  <key id="10450201" name="Romantic Wedding Set" />
+	<key id="10450202" name="Royal Darkness Set" />
+	<key id="10450203" name="Pumpkin Witch Set" />
+	<key id="10450204" name="Pumpkin Hollow Set" />
+	<key id="10450205" name="Darkmoon Kitten Set" />
+	<key id="10450206" name="Naughty Little Devil Set" />
+	<key id="10450207" name="Maple Alliance Set" />
+	<key id="10450208" name="Royal Guard Set" />
+	<key id="10450209" name="Green Hood Set" />
+	<key id="10450210" name="Lumiknight Set" />
+	<key id="10450211" name="Dark Wind Set" />
+	<key id="10450212" name="武器箱" />
+	<key id="10450213" name="徽章" />
+	<key id="10450214" name="坐騎" />
+	<key id="10450215" name="寵物" />
+	<key id="10450216" name="樂器" />
+	<key id="10450217" name="其他" />
   <key id="10450301" name="璀璨之星套装" />
   <key id="10450302" name="闪耀的雪花套装" />
   <key id="10450303" name="机能型侦察兵套装" />

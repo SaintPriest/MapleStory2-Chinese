@@ -1,28 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="1" name="BEGINNER" feature="" />
-  <key id="2" name="在冒险岛上迈出第一步的冒险家！\n移动到金银岛后，\n可以选择自己喜欢的英雄之路。\n\n&lt;FONT color='#FFD200'&gt;角色达到10级后，可以从8个职业选择1个进行转职。&lt;/FONT&gt;" feature="" />
-  <key id="10" name="KNIGHT" feature="" />
-  <key id="11" name="守护同伴的钢铁骑士！\n这位英雄通过辛勤的努力，突破了先天的局限，\n作为同伴，他比任何人都要来得可靠。\n&lt;FONT color='#FFD200'&gt;他擅长使用剑与盾，在进攻与防守这两方面，没人能比得上他。&lt;/FONT&gt;" feature="" />
-  <key id="20" name="BERSERKER" feature="" />
-  <key id="21" name="散发出黑暗力量的狂战士！\n一出生就拥有未知力量的英雄。\n一直在努力控制那种力量，有时也会利用那种力量。\n&lt;FONT color='#FFD200'&gt;在愤怒爆发的时候，他的大剑无人可挡。&lt;/FONT&gt;" feature="" />
-  <key id="30" name="WIZARD" feature="" />
-  <key id="31" name="拥有无限潜力的神秘魔法师！\n魔法学院艾利尔引以为豪的天才魔法师。\n对世界上隐藏的知识充满了渴望的强大英雄。\n&lt;FONT color='#FFD200'&gt;强大的元素魔法将展现出震慑人心的威力。&lt;/FONT&gt;" feature="" />
-  <key id="40" name="PRIEST" feature="" />
-  <key id="41" name="借助光之力量，向世人传播希望的祭司！\n这位英雄供奉着光明之神，努力将光之气息传播到这世上。\n&lt;FONT color='#FFD200'&gt;借助神圣之力，他能给敌人降下光之审判，也能给队员提供治疗。&lt;/FONT&gt;" feature="" />
-  <key id="50" name="RANGER" feature="" />
-  <key id="51" name="百发百中的神射手！\n与其说他是警卫队绿披风的一员，\n更重要的是他是位为了世界和平而坚持不断努力的英雄。\n&lt;FONT color='#FFD200'&gt;他的箭能穿透敌人的要害，箭无虚发。&lt;/FONT&gt;" feature="" />
-  <key id="60" name="HEAVY GUNNER" feature="" />
-  <key id="61" name="闯祸天才工程学家！\n身为埃德尔斯坦出身的机械工程学精英，\n他试图用他那多少有些搞怪却又出色的科学技术打造平等的世界，他是位英雄。\n&lt;FONT color='#FFD200'&gt;他使用高火力复合重武器——火炮，无情地将敌人消灭掉&lt;/FONT&gt;" feature="" />
-  <key id="70" name="THIEF" feature="" />
-  <key id="71" name="正义又阴暗的侠盗！\n虽然有点任性，有点小自私，但只要有适当的报酬，\n任何交给他的事情都能完美解决。\n&lt;FONT color='#FFD200'&gt;使用短刀和致命毒药，趁敌人还没醒过神，就已分出胜负。&lt;/FONT&gt;" feature="" />
-  <key id="80" name="ASSASSIN" feature="" />
-  <key id="81" name="黑暗中的刺客，在悄无声息间，就已将目标除去！\n他本是技术最高的刺客，却违背了组织的命令，之后就逃跑了。\n他打算找出自己的存在意义。\n&lt;FONT color='#FFD200'&gt;他会用锋利的飞镖与教人胆战心惊的技艺来除掉目标。&lt;/FONT&gt;" feature="" />
-  <key id="90" name="RUNE BLADER" feature="RuneBlader" />
-  <key id="91" name="将符文咒术和剑术完美融合的魔法剑客！\n以符文咒术的高手吉利塔和最强大的剑客佩吉亚共同设立的\n影刃会为背景，追求极致的英雄。\n\n&lt;FONT color='#FFD200'&gt;凌冽的剑术加上符文的力量，使其所向披靡。&lt;/FONT&gt;" feature="RuneBlader" />
-  <key id="100" name="STRIKER" feature="Striker" />
-  <key id="101" name="他是格斗大师，无论是怎样的强者，他都能凭借神乎其技的本领，赤手空拳将对方制服！\n他具有过人的格斗天赋与天生的神力，英勇无畏，\n不求回报地默默帮助黑金市的弱者们，是个颇有侠义之心的英雄。\n\n&lt;FONT color='#FFD200'&gt;无论是谁，都很难挡下其暴风骤雨般不给人喘息之机的攻击。&lt;/FONT&gt;" feature="Striker" />
-  <key id="110" name="SOUL BINDER" feature="SoulBinder" />
-  <key id="111" name="能够随心所欲地御使自然之力的神秘修行者！\n他们是神秘的兽人门派——引路人中的成员，\n他们通过均衡贯通自然之力，来锻炼强化自己的精神与肉体。\n\n&lt;FONT color='#FFD200'&gt;他们的能力十分全面，既可以发动强力的攻击，又能为队友提供鼎力支援。&lt;/FONT&gt;" feature="SoulBinder" />
+	<key id="1" name="BEGINNER" feature="" />
+	<key id="2" name="메이플 아일랜드에서 첫 발을 내딛는 모험가!\n본격적인 모험이 시작되는 빅토리아 아일랜드로 이동하면\n스스로 원하는 모습의 영웅의 길을 걷기 위한 선택을 할 수 있습니다.\n\n&lt;FONT color=&apos;#FFD200&apos;&gt;10레벨이 되면 8개의 직업 중 하나로 전직할 수 있습니다.&lt;/FONT&gt;" feature="" />
+	<key id="10" name="KNIGHT" feature="" />
+	<key id="11" name="동료들을 지켜내는 강철의 기사!\n피나는 노력으로 태생적인 한계를 극복하고\n동료로서 그 누구보다 믿음직한 모습을 보여주는 영웅입니다.\n&lt;FONT color=&apos;#FFD200&apos;&gt;검과 방패를 이용한 공수에서의 활약은 타의 추종을 불허합니다.&lt;/FONT&gt;" feature="" />
+	<key id="20" name="BERSERKER" feature="" />
+	<key id="21" name="어둠의 힘에 휩싸인 광란의 전사!\n정체를 알 수 없는 의문의 힘을 가지고 태어나\n이를 통제하기 위해 노력하고 때로는 이를 이용하는 영웅입니다.\n&lt;FONT color=&apos;#FFD200&apos;&gt;분노에 가득찬 순간 무엇도 그의 대검을 막을 수 없습니다.&lt;/FONT&gt;" feature="" />
+	<key id="30" name="WIZARD" feature="" />
+	<key id="31" name="잠재력의 한계를 알 수 없는 신비로운 마법사!\n마법학원 엘리넬이 자랑하는 천재 마법사로\n게으르고 매사를 장난스럽게 여기지만 엄청난 잠재력을 가진 영웅입니다.\n&lt;FONT color=&apos;#FFD200&apos;&gt;원소를 이용한 강력한 마법은 압도적인 강력함을 보여줍니다.&lt;/FONT&gt;" feature="" />
+	<key id="40" name="PRIEST" feature="" />
+	<key id="41" name="빛의 힘으로 희망을 전파하는 사제!\n빛의 신을 섬기며 세상에 빛의 기운을 전파하고자 노력하는 영웅입니다.\n&lt;FONT color=&apos;#FFD200&apos;&gt;신성한 힘으로 적에게 빛의 심판을 내리고 아군을 치료합니다.&lt;/FONT&gt;" feature="" />
+	<key id="50" name="RANGER" feature="" />
+	<key id="51" name="백발백중의 명사수!\n헤네시스 자경단 그린후드의 일원으로\n보다 평화로운 세상을 만들기 위해 끊임없이 노력하는 영웅입니다.\n&lt;FONT color=&apos;#FFD200&apos;&gt;목표물을 향한 화살은 빗나가는 경우 없이 적들의 급소를 꿰뚫습니다.&lt;/FONT&gt;" feature="" />
+	<key id="60" name="HEAVYGUNNER" feature="" />
+	<key id="61" name="사고뭉치 천재 공학자!\n에델슈타인 출신의 기계공학 엘리트로\n다소 엉뚱하지만 뛰어난 과학기술로 평등한 세상을 만들려는 영웅입니다.\n&lt;FONT color=&apos;#FFD200&apos;&gt;고화력 복합 중화기-캐논으로 적들을 가차없이 쓸어버립니다.&lt;/FONT&gt;" feature="" />
+	<key id="70" name="THIEF" feature="" />
+	<key id="71" name="절도 성공률 100%의 대도!\n제멋대로에 이기적이지만 합당한 보상만 있다면\n맡겨진 일만큼은 완벽히 수행해내는 영웅입니다.\n&lt;FONT color=&apos;#FFD200&apos;&gt;단검과 치명적인 독으로 적이 정신을 차리기도 전에 승부를 냅니다.&lt;/FONT&gt;" feature="" />
+	<key id="80" name="ASSASSIN" feature="" />
+	<key id="81" name="알아차릴 새도 없이 목표물을 제거하는 어둠의 암살자!\n최고의 암살자였지만 조직의 명령을 어기고 도망쳐 나와\n자신의 존재 의의를 찾아나가고자 하는 영웅입니다.\n&lt;FONT color=&apos;#FFD200&apos;&gt;날카로운 표창과 위협적인 술법으로 목표물을 제거합니다.&lt;/FONT&gt;" feature="" />
+	<key id="90" name="RUNE BLADER" feature="RuneBlader" />
+	<key id="91" name="룬 주술과 검술의 완전무결한 융합 속에 탄생한 마법 검사!\n룬 주술의 고수 지브릿타와 최강 검사 펠기아가 공동 설립한\n테룬칼리브를 배경으로 극의를 터득하고자 노력하는 영웅입니다.\n\n&lt;FONT color=&apos;#FFD200&apos;&gt;빠르고 날카로운 검술에 룬의 힘을 더하면 대적할 자가 없습니다.&lt;/FONT&gt;" feature="RuneBlader" />
+	<key id="100" name="STRIKER" feature="Striker" />
+	<key id="101" name="극한의 체술로 어떤 강자라도 맨손으로 제압하는 격투의 달인!\n타고난 힘과 격투 센스로 두려움을 모르며\n커닝시티의 약자들을 대가 없이 묵묵히 도와주는 의리의 영웅입니다.\n\n&lt;FONT color=&apos;#FFD200&apos;&gt;쉴 틈 없이 몰아치는 공격은 그 누구도 버텨내기 어렵습니다.&lt;/FONT&gt;" feature="Striker" />
+	<key id="110" name="SOUL BINDER" feature="SoulBinder" />
+	<key id="111" name="자연의 힘을 자유자재로 다루는 신비로운 수행자!\n신비한 수인 집단인 가이던스의 일원으로서\n자연의 힘을 조율하여 정신과 신체를 단련하는 영웅입니다.\n\n&lt;FONT color=&apos;#FFD200&apos;&gt;강력한 공격부터 아군의 지원까지 다채로운 활약을 보여줍니다.&lt;/FONT&gt;" feature="SoulBinder" />
 </ms2>

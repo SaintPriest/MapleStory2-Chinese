@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding>
-		<basic id="50600171" type="default" kfm="50600171_UGC_Zhangyixing" kfm2="50600171_UGC_Zhangyixing_M" rideSummonCastTime="0.1" runSpeed="4.6" runXSpeed="6.5" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="15" useRidingNavi="1" rideBone="Zhangyixing_Point01" rideAniPC="Ride_Idle_009" />
-		<collision height="130" />
-		<shadow scale="130" />
-		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
-	</riding>
-</ms2>

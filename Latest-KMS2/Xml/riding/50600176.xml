@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-	<riding>
-		<basic id="50600176" type="default" kfm="UGC_ChinaUserEvent" rideSummonCastTime="0.1" runSpeed="4.6" runXSpeed="6.5" idleXMotion="Sp_Idle_A" runXMotion="Sp_Run_A" runXConsumeEp="15" pressXEffectRun="Item/Ride/Eff_Item_Ride_ChinaUserEvent_SpRun_Sound.xml" useRidingNavi="1" rideBone="T_Point01" rideAniPC="Ride_Idle_X" />
-		<collision height="130" depth="150" />
-		<shadow scale="220" />
-		<faceCamera lookAtPosition="10,-5,50" cameraPosition="275,0,150" />
-	</riding>
-</ms2>

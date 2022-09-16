@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
-<ms2>
-	<level>
-		<BasicProperty level="1" group="98" delayTick="500" keepCondition="99" />
-		<MotionProperty startEffect="NPC/Skill/TitanFourArmsGoldMask/Eff_TitanFourArmsGoldMaskThirdFloor_FireStateMode_Start.xml" keepEffect="NPC/Skill/TitanFourArmsGoldMask/Eff_TitanFourArmsGoldMaskThirdFloor_FireStateMode_Keep.xml" stopEffect="NPC/Skill/TitanFourArmsGoldMask/Eff_TitanFourArmsGoldMaskThirdFloor_FireStateMode_Stop.xml" abnormalImmuneBreak="1" />
-		<UIProperty icon="./Data/Resource/Image/skill/icon/MonsterFireStateMode.png" />
-	</level>
-</ms2>

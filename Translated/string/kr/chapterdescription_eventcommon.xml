@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <chapter id="2016" name="圣诞节魔法" isTutorial="OK" regionID="" feature="Develop" />
-  <chapter id="2200" name="米勒的星光画廊" isTutorial="OK" regionID="" feature="Event" />
-  <chapter id="2201" name="2021年迎春活动" isTutorial="OK" regionID="" feature="Event" />
-  <chapter id="2202" name="露比的樱花庆典" isTutorial="OK" regionID="" feature="Event" />
-  <chapter id="2203" name="知名MC凯伊的新挑战" isTutorial="OK" regionID="" feature="Event" />
-  <chapter id="2204" name="深渊泉水的秘密" isTutorial="OK" regionID="" feature="Event" />
-  <chapter id="2205" name="米勒的金秋画廊" isTutorial="OK" regionID="" feature="Event" />
-  <chapter id="8178" name="放飞布莱克缤气球" isTutorial="" regionID="" feature="Event" />
+	<chapter id="2100" name="블러디 몽슈슈 호텔의 비밀" isTutorial="OK" regionID="" feature="Event" locale="JP" />
+	<chapter id="2101" name="크리스마스 소동" isTutorial="OK" regionID="" feature="Event" locale="JP" />
+	<chapter id="2102" name="수습 루돌프를 도와줘" isTutorial="OK" regionID="" feature="Event" locale="JP" />
+	<chapter id="2103" name="크리스마스 댄스 파티" isTutorial="OK" regionID="" feature="Event" locale="JP" />
+	<chapter id="2200" name="슈반다의 별빛 갤러리" isTutorial="OK" regionID="" feature="Event" />
+	<chapter id="2201" name="2021 봄맞이 이벤트" isTutorial="OK" regionID="" feature="Event" />
+	<chapter id="2202" name="루비의 벚꽃 축제" isTutorial="OK" regionID="" feature="Event" />
+	<chapter id="2203" name="명MC, 케이의 새로운 도전" isTutorial="OK" regionID="" feature="Event" />
+	<chapter id="2204" name="심연 속 샘의 비밀" isTutorial="OK" regionID="" feature="Event" />
+	<chapter id="2205" name="가을맞이 슈반다의 갤러리" isTutorial="OK" regionID="" feature="Event" />
+	<chapter id="8178" name="블랙빈 풍선을 날려라" isTutorial="" regionID="" feature="Event" />
 </ms2>

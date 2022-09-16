@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<ms2>
-    <state name="CheckUserCount">
-		<onEnter>
-			<action name="포탈을설정한다" arg1="2" arg2="1" arg3="1" arg4="1"/>
-		</onEnter>
-    </state>
-</ms2>

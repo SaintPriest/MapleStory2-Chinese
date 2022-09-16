@@ -1,230 +1,193 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-  <key id="Customize_Intro_caption1" name="通过右击旋转" />
-  <key id="Customize_Intro_caption2" name="左键点击后移动" />
-  <key id="Customize_Intro_caption3" name="通过右击旋转" />
-  <key id="Customize_Intro_caption4" name="通过滚轮调节长度" />
-  <key id="JobIntro_Knight_caption1" name="人们说，世上所有的黑暗都被封印了起来，但是我分明看到了。" />
-  <key id="JobIntro_Knight_caption2" name="那牢牢盘踞在人们心中的无边的黑暗。" />
-  <key id="JobIntro_Knight_caption3" name="弱者仍被踩在强者的脚下，而我也曾经是其中之一。" />
-  <key id="JobIntro_Knight_caption4" name="但是……我相信" />
-  <key id="JobIntro_Knight_caption5" name="锄强扶弱的英雄仍然存在。" />
-  <key id="JobIntro_Knight_caption6" name="就像那天救了我的那个人一样。" />
-  <key id="JobIntro_Knight_caption7" name="能够救人于水火之中，保护自己心爱之人。" />
-  <key id="JobIntro_Knight_caption8" name="所以，我想成为像他那样的人，驱散这世间的一切黑暗。" />
-  <key id="JobIntro_Knight_caption9" name="说到做到。  " />
-  <key id="JobIntro_Berserker_caption1" name="人们对未知的存在感到恐惧。" />
-  <key id="JobIntro_Berserker_caption2" name="就像我的父母，害怕我的黑暗力量，将我遗弃。" />
-  <key id="JobIntro_Berserker_caption3" name="要不是爷爷发现了我，把我带回来的话……" />
-  <key id="JobIntro_Berserker_caption4" name="我是活不到今天的。" />
-  <key id="JobIntro_Berserker_caption5" name="爷爷并不介意我那被诅咒的力量，把我当成亲孙子养大。" />
-  <key id="JobIntro_Berserker_caption6" name="学习、修炼，不管我愿不愿意，他教了我很多很多。" />
-  <key id="JobIntro_Berserker_caption7" name="后来我才知道，爷爷是冒险岛世界最强的英雄。" />
-  <key id="JobIntro_Berserker_caption8" name="报答养育之恩？那是必须的。" />
-  <key id="JobIntro_Berserker_caption9" name="打败爷爷，成为最强的战士！" />
-  <key id="JobIntro_Berserker_caption10" name="战胜过去的英雄，成为新的英雄！" />
-  <key id="JobIntro_Berserker_caption11" name="这难道不是真正的孝道吗？！" />
-  <key id="JobIntro_Berserker_caption12" name="老爷子！！今天我一定要战胜你！！" />
-  <key id="JobIntro_Wizard_caption1" name="好了，开始上课吧……" />
-  <key id="JobIntro_Wizard_caption2" name="哈……好像又有学生缺席了。" />
-  <key id="JobIntro_Wizard_caption3" name=" 我们再等一会儿……" />
-  <key id="JobIntro_Wizard_caption4" name=" 老师！今天要学的魔法很复杂，时间好像不太够。" />
-  <key id="JobIntro_Wizard_caption5" name=" 您该不会为了一个迟到的学生而浪费时间吧？" />
-  <key id="JobIntro_Wizard_caption6" name="呵呵！凯特琳说得没错。" />
-  <key id="JobIntro_Wizard_caption7" name=" 今天要教稍微复杂一点的魔法咒语，还想早点开始上课的……" />
-  <key id="JobIntro_Wizard_caption8" name=" 今天又跑到哪里去了……" />
-  <key id="JobIntro_Wizard_caption9" name=" 像那样的人才，只要努力，就一定可以成为优秀的魔法师，不，一定可以成为超乎想象的大魔法师……  " />
-  <key id="JobIntro_Wizard_caption10" name="但愿不要闯祸……" />
-  <key id="JobIntro_Wizard_caption11" name="我什么都不知道！" />
-  <key id="JobIntro_Priest_caption1" name="自15年前，黑暗从这片土地上消失之后，守护祭司的工作就只剩下祈祷和歌颂先人的荣誉。" />
-  <key id="JobIntro_Priest_caption2" name="得知那用崇高的牺牲换来的和平，正在受到威胁之时，" />
-  <key id="JobIntro_Priest_caption3" name="除了担心，我竟然也有一丝期待，或许是因为能找回逐渐逝去的那一点存在的意义。" />
-  <key id="JobIntro_Priest_caption4" name="守护祭司，继承光明之神意志的人。" />
-  <key id="JobIntro_Priest_caption5" name="神啊，我会让这片土地再次沐浴在您的荣耀之中。" />
-  <key id="JobIntro_Ranger_caption1" name="有句古话并非所有人都记得。" />
-  <key id="JobIntro_Ranger_caption2" name="那就是眼见并非为实。" />
-  <key id="JobIntro_Ranger_caption3" name="但真相总有一天会浮出水面……" />
-  <key id="JobIntro_Ranger_caption4" name="可曾想过那些与你擦肩而过的路人。" />
-  <key id="JobIntro_Ranger_caption5" name="却是深藏不露的绝顶高手。" />
-  <key id="JobIntro_Ranger_caption6" name="他们隐藏着，但愿意为弱者挺身而出。" />
-  <key id="JobIntro_Ranger_caption7" name="我希望能与他们同行。  " />
-  <key id="JobIntro_HeavyGunner_caption1" name="朋友们告诉我。" />
-  <key id="JobIntro_HeavyGunner_caption2" name="光靠科学无法给冒险岛世界带来和平。" />
-  <key id="JobIntro_HeavyGunner_caption3" name="但他们错了。" />
-  <key id="JobIntro_HeavyGunner_caption4" name="身体瘦弱的人、不会魔法的人，只要使用我的技术，都能成为强者！" />
-  <key id="JobIntro_HeavyGunner_caption5" name="可他们中的最强者你知道是谁吗？" />
-  <key id="JobIntro_HeavyGunner_caption6" name="当然是主人咯！" />
-  <key id="JobIntro_HeavyGunner_caption7" name="如果10分是满分，我就是100分！！！  " />
-  <key id="JobIntro_Thief_caption1" name="我没有关于父母的记忆。" />
-  <key id="JobIntro_Thief_caption2" name="只记得在肮脏、冰冷的后街上徘徊的日子。" />
-  <key id="JobIntro_Thief_caption3" name="但我从来不是孤身一人。" />
-  <key id="JobIntro_Thief_caption4" name="因为我有一直守护在我身边的朋友们。" />
-  <key id="JobIntro_Thief_caption5" name="今天，我们仍然以我们的方式生活在这世界上。" />
-  <key id="JobIntro_Thief_caption6" name="继续着任何人都无法干涉，无法约束的，" />
-  <key id="JobIntro_Thief_caption7" name="侠盗人生。  " />
-  <key id="JobIntro_Assassin_caption1" name="影舞者。" />
-  <key id="JobIntro_Assassin_caption2" name="魔焰七徒黑暗领主的直属部队，也是改变世界的黑暗先锋队。" />
-  <key id="JobIntro_Assassin_caption3" name="我们的任务只有一个，那就是铲除妨碍魔焰之翼的一切。" />
-  <key id="JobIntro_Assassin_caption4" name="身为影舞者的一员，为了完美地完成任务，不允许拥有思想或感情。" />
-  <key id="JobIntro_Assassin_caption5" name="但是……我相信" />
-  <key id="JobIntro_Assassin_caption6" name="在我内心中逐渐萌发的这些情感，究竟是什么呢？" />
-  <key id="JobIntro_Assassin_caption7" name="我真的是在拯救世界吗？    " />
-  <key id="JobIntro_Assassin_caption8" name="我是不是在逐渐变成一个怪物？" />
-  <key id="JobIntro_Assassin_caption9" name="我……该怎么办……" />
-  <key id="Common_Opening_caption1" name="你是否听过这段尘封的往事？  " />
-  <key id="Common_Opening_caption2" name="光明与黑暗之神在创世的尾声  " />
-  <key id="Common_Opening_caption3" name="塑造了冒险岛的世界    " />
-  <key id="Common_Opening_caption4" name="原本相辅相成的两股力量  " />
-  <key id="Common_Opening_caption5" name="却因为岛民的偏爱而渐渐打破了均衡    " />
-  <key id="Common_Opening_caption6" name="失势的黑暗之神怒不可遏  " />
-  <key id="Common_Opening_caption7" name="不惜用战争来对抗光明  " />
-  <key id="Common_Opening_caption8" name="这场漫长浩劫的终焉，是贤者和冒险岛生灵的胜利，是光明之神的胜利  " />
-  <key id="Common_Opening_caption9" name="但纷争并未就此结束，破灭的黑暗之神向冒险岛世界散布他的邪恶  " />
-  <key id="Common_Opening_caption10" name="这份邪恶就连光明之神牺牲自己也无法阻挡  " />
-  <key id="Common_Opening_caption11" name="好在，光明永存，神圣的索菲女王从光明中降生  " />
-  <key id="Common_Opening_caption12" name="索菲女王和诸位贤者召集了七名英雄 继续迎战黑暗  " />
-  <key id="Common_Opening_caption13" name="他们要对抗的，可是整个被黑暗侵蚀的冒险岛世界  " />
-  <key id="Common_Opening_caption14" name="自知实力对比悬殊，索菲女王一行创造了魔方这种可以控制生命、空间和时间的圣物。  " />
-  <key id="Common_Opening_caption15" name="三个魔方的融合，创造了一个足以净化整个世界的空间。    " />
-  <key id="Common_Opening_caption16" name="有了这个空间，贤者们想通过一场仪式，一并根除世界上的所有黑暗  " />
-  <key id="Common_Opening_caption17" name="可那份黑暗他们承受不了，进行净化的贤者反而被黑暗吞噬    " />
-  <key id="Common_Opening_caption18" name="绝望中，索菲女王准备破釜沉舟  " />
-  <key id="Common_Opening_caption19" name="与其任由黑暗肆虐，不如利用魔方的封印力量，封印整个世界    " />
-  <key id="Common_Opening_caption20" name="不过，七英雄的领袖，光之魔法师基里安不愿意放弃希望  " />
-  <key id="Common_Opening_caption21" name="即便希望渺茫，他和巴伦依然前往被黑暗笼罩的净化仪式之地，寻找破局的方法" />
-  <key id="Common_Opening_caption22" name="基里安试图释放所有力量，重启净化仪式，可这不过是让他成为了又一个被黑暗吞噬的牺牲品。  " />
-  <key id="Common_Opening_caption23" name="基里安也失败了，连同黑暗世界被一道封印在了异空间    " />
-  <key id="Common_Opening_caption24" name="这场用牺牲换来的封印为我们带来了和平    " />
-  <key id="Common_Opening_caption25" name="和平，来之不易，又脆弱至极，黑夜再临，他们来势汹汹，誓将光明碾为齑粉。    " />
-  <key id="Common_Opening_caption26" name="冒险岛世界需要新的英雄    " />
-  <key id="Common_Opening_caption27" name="亲爱的冒险家们，这是一个属于你们的    " />
-  <key id="Common_Opening_caption28" name="新的英雄故事        " />
-  <key id="SkyFortress_Intro_caption1" name="天空堡垒那边还是没有消息吗？ " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption2" name="照这样下去话…… " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption3" name="有两下子。     " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption4" name="本以为只是些微不足道的蝼蚁……   " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption5" name="能抵抗到这个地步也是了不起。 " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption6" name="你是……？！   " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption7" name="客套话就到这里吧。 " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption8" name="游戏该结束了。 " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption9" name="我可不是好欺负的！ " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption10" name="快点！就要启程了！ " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption11" name="90%的人已上船！\n只有战斗队员还未登舱！ " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption12" name="看来只能用那个办法了。 " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption13" name="那个办法的话…… " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption14" name="遵命！" feature="FameContents" />
-  <key id="SkyFortress_Intro_caption15" name="启动战舰！\n装填炮弹后，等待指示！ " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption16" name="什么？！ " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption17" name="发射！   " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption18" name="咱们走着瞧……！ " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption19" name="卡尔、萝娜，你们看。\n他们成功了。   " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption20" name="终于升空了。 " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption21" name="请你们守护冒险岛世界。   " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption22" name="最坚实的天空之盾——天空堡垒。     " feature="FameContents" />
-  <key id="SkyFortress_Intro_caption23" name="到此为止！" feature="FameContents" />
-  <key id="SkyFortress_Intro_caption24" name="来较量一下吧！" feature="FameContents" />
-  <key id="SkyFortress_Intro_caption25" name="吃我一刀！" feature="FameContents" />
-  <key id="SkyFortress_Intro_caption26" name="切！" feature="FameContents" />
-  <key id="SkyFortress_Intro_caption27" name="火焰风暴啊！" feature="FameContents" />
-  <key id="SkyFortress_Intro_caption28" name="觉悟吧！" feature="FameContents" />
-  <key id="SkyFortress_Intro_caption30" name="振作起来！" feature="FameContents" />
-  <key id="SkyFortress_Intro_caption31" name="看招。" feature="FameContents" />
-  <key id="SkyFortress_Intro_caption32" name="道个别吧！" feature="FameContents" />
-  <key id="Lapenta_Frontier_Intro_caption1" name="比起夜空中闪耀的星星" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption2" name="更喜欢和我在一起的" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption3" name="那份心" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption4" name="忘记过去的黑暗(重新站起来)" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption5" name="抱着颤抖的心(不要害怕)" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption6" name="你是新世界的中心(请不要忘记)" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption7" name="为了即将来到的未来做准备(我们一起)" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption8" name="请不要忘记" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption9" name="在你心中呼吸的希望，那份光芒" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption10" name="不要犹豫，奔向那个世界" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption11" name="不要动摇，梦想中的未来即将到来" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption12" name="不要停止你的故事" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption13" name="请大声呼喊你那被遗忘的名字" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption14" name="即使无法听到呼喊" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption15" name="不要哭泣，我在这里" feature="LapentaFrontierQuest" />
-  <key id="Lapenta_Frontier_Intro_caption16" name="拥抱着你" feature="LapentaFrontierQuest" />
-  <key id="KiliansTruth_caption1" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION1_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption2" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION2_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption3" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION3_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption4" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION4_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption5" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION5_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption6" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION6_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption7" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION7_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption8" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION8_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption9" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION9_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption10" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION10_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption11" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION11_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption12" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION12_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption13" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION13_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption14" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION14_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption15" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION15_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption16" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION16_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption17" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION17_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption18" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION18_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption19" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION19_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption20" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION20_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption21" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION21_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption22" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION22_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption23" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION23_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption24" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION24_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption25" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION25_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption26" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION26_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption27" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION27_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption28" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION28_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption29" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION29_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption30" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION30_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption31" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION31_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption32" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION32_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption33" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION33_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption34" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION34_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption35" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION35_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption36" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION36_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption37" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION37_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption38" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION38_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption39" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION39_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <key id="KiliansTruth_caption40" name="USMSUBTITLETEXT_KILIANSTRUTH_CAPTION40_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-  <!--번역키 생성을 위한 중문 자막 추가입니다. 한국 클라이언트에는 영향을 주지 않습니다.-->
-  <key id="KiliansTruth_cn_caption1" name="见到消失已久的“英雄”，你感到惊讶吗？" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption2" name="你没看错，我正是光之魔法师基里安。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption3" name="而我的另一个名字是……" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption4" name="魔焰之翼。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption5" name="你看起来很难接受啊。 " feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption6" name="毕竟我曾经是大名鼎鼎的七英雄之首。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption7" name="是时候说出尘封已久的真相了。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption8" name="那天，为了封印魔方，" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption9" name="我与七英雄之一，我的好友巴伦一起前往黑暗之地。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption10" name="到达黑暗之地后，我们才知道，" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption11" name="要封印魔方，必须要有索菲女王的力量。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption12" name="巴伦为了禀报此事匆忙赶往特莱雅，" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption13" name="而我则留下来观察情况……" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption14" name="然而，封印的状态急速恶化，\n我不得不立刻做出决断！" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption15" name="即使孤身一人，我也努力靠自己的力量尝试封印。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption16" name="哪怕……要付出生命的代价。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption17" name="虽然侥幸封印成功，但力量消耗过大，我渐渐失去意识。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption18" name="突然，我感知到巴伦的气息消失了！" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption19" name="这时，我第一次对女王起了疑心。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption20" name="难道她不是没得到消息， \n而是刻意无视了我们的请求？" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption21" name="难道，象征着光明的女王陛下抛弃了我们……？" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption22" name="就在那一瞬间" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption23" name="我看见了光之女王用她那强大的力量，毁灭这个世界的景象。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption24" name="当光之长枪没有指向黑暗，而是对准我们的那一天，" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption25" name="我们将遭受[来自光明的毁灭]……" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption26" name="自那以后，我为了阻止女王毁灭世界，制定并实施了一系列计划。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption27" name="其中倾注最多心血准备的就是这轮黑月。 " feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption28" name="索菲女王……必须将她封印。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption29" name="你应该见过最近在特莱雅出现的黑色物质吧？" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption30" name="那正是潜伏在女王体内的不安因素具象化的结晶。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption31" name="这就是末日即将来临的证据！ " feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption32" name="世界将被光明毁灭……" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption33" name="要阻止那个预言成真，只有这一个办法了。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption34" name="过去那个英雄已经死了。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption35" name="现在的我，为了阻止世界毁灭会不惜一切。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption36" name="凡是听说过预言的人，都不可能不正视真相。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption37" name="小子，如今真相摆在你面前……" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption38" name="抉择的时候到了。" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption39" name="追随真实，还是执迷于谎言……" feature="EpicRuinFromLight" />
-  <key id="KiliansTruth_cn_caption40" name="选择吧。" feature="EpicRuinFromLight" />
+	<key id="Customize_Intro_caption1" name="우클릭으로 회전" />
+	<key id="Customize_Intro_caption2" name="좌클릭 후 이동" />
+	<key id="Customize_Intro_caption3" name="우클릭으로 회전" />
+	<key id="Customize_Intro_caption4" name="휠로 길이 조절" />
+	<key id="JobIntro_Knight_caption1" name="사람들은 이 세상 모든 어둠을 봉인했다고들 이야기 했지만 나는 분명 보았다." />
+	<key id="JobIntro_Knight_caption2" name="마음 속에 자리잡은 짙은 어둠을." />
+	<key id="JobIntro_Knight_caption3" name="약자들은 여전히 강자의 발에 짙밟혔고 나 역시 그 중 하나였다." />
+	<key id="JobIntro_Knight_caption4" name="하지만…" />
+	<key id="JobIntro_Knight_caption5" name="세상에는 약자를 도와주는 영웅들도 남아있었다." />
+	<key id="JobIntro_Knight_caption6" name="그 날 나를 구해주었던 그 사람처럼." />
+	<key id="JobIntro_Knight_caption7" name="도움이 필요한 누군가를, 소중한 누군가를 지킬 수 있는 사람." />
+	<key id="JobIntro_Knight_caption8" name="난 그런 사람이 될 것이다." />
+	<key id="JobIntro_Knight_caption9" name="반드시." />
+	<key id="JobIntro_Berserker_caption1" name="사람들은 미지의 존재에 대해 공포를 느낀다." />
+	<key id="JobIntro_Berserker_caption2" name="내 안의 어두운 힘이 두려워 날 버린 내 부모님처럼." />
+	<key id="JobIntro_Berserker_caption3" name="만일 할아버지가 날 발견해 데려오지 않았다면…" />
+	<key id="JobIntro_Berserker_caption4" name="지금의 난 존재할 수 없었겠지." />
+	<key id="JobIntro_Berserker_caption5" name="할아버지는 내 안의 힘 따위는 상관하지 않고 날 친자식처럼 키워주셨다." />
+	<key id="JobIntro_Berserker_caption6" name="공부도, 수련도, 원하지도 않는 걸 정말 많~이 알려 주셨지." />
+	<key id="JobIntro_Berserker_caption7" name="나중에 안 사실이지만 그런 할아버지가 메이플 월드 최고의 영웅이었다더군." />
+	<key id="JobIntro_Berserker_caption8" name="키워준 보답? 당연히 해야지!" />
+	<key id="JobIntro_Berserker_caption9" name="할아버지를 꺾고 최강의 전사가 되는 것!" />
+	<key id="JobIntro_Berserker_caption10" name="옛 영웅을 이기고 새로운 영웅으로 거듭나는 것!" />
+	<key id="JobIntro_Berserker_caption11" name="그것이 바로 진정한 효도 아니겠어?" />
+	<key id="JobIntro_Berserker_caption12" name="영감! 오늘은 반드시 이겨주겠어!!!" />
+	<key id="JobIntro_Wizard_caption1" name="자, 오늘 수업을 시작해볼…" />
+	<key id="JobIntro_Wizard_caption2" name="하… 아무래도 결석한 학생이 보이는 것 같군요." />
+	<key id="JobIntro_Wizard_caption3" name="우리 조금만 기다려볼…" />
+	<key id="JobIntro_Wizard_caption4" name="선생님! 오늘 배울 마법을 생각하면 수업 시간이 부족할 것 같아요." />
+	<key id="JobIntro_Wizard_caption5" name="설마 게으른 지각생 따위를 기다리는 시간 낭비 따윈, 하시진 않겠죠?" />
+	<key id="JobIntro_Wizard_caption6" name="흠흠! 케이틀린 말이 맞아요." />
+	<key id="JobIntro_Wizard_caption7" name="오늘은 다소 복잡한 구조의 마법 주문을 배워야 할 테니 서둘러 수업을 진행해야겠군요…" />
+	<key id="JobIntro_Wizard_caption8" name="오늘은 또 어딜간거지…" />
+	<key id="JobIntro_Wizard_caption9" name="분명 노력만한다면 훌륭한 마법사, 아니 상상을 뛰어넘는 대마법사가 될 수도 있을지도 모르는 인재인데…" />
+	<key id="JobIntro_Wizard_caption10" name="제발 사고만이라도 치지 않았으면…" />
+	<key id="JobIntro_Wizard_caption11" name="으아~ 난 몰라!" />
+	<key id="JobIntro_Priest_caption1" name="15년전 이 땅에서 어둠이 사라진 후 수호사제로서 할 수 있는 것이라고는 그저 기도를 하며 옛 영광을 노래하는 것뿐." />
+	<key id="JobIntro_Priest_caption2" name="숭고한 희생으로 얻은 소중한 평화가 위협받고 있다는 소식을 듣게 된 순간," />
+	<key id="JobIntro_Priest_caption3" name="걱정과 동시에 기대가 되었던 것은 잃어가던 존재의 의미를 되찾을 수 있다는 생각 때문이었을지도 모르겠습니다." />
+	<key id="JobIntro_Priest_caption4" name="수호 사제, 빛의 신의 의지를 이어가는 자." />
+	<key id="JobIntro_Priest_caption5" name="신이시여 다시 한번 이 땅에 당신의 영광을 가져오겠나이다." />
+	<key id="JobIntro_Ranger_caption1" name="눈에 보이는 것이 전부가 아니라는 것." />
+	<key id="JobIntro_Ranger_caption2" name="사람들은 종종 이 사실을 잊어버리곤 한다." />
+	<key id="JobIntro_Ranger_caption3" name="하지만 진실은 언젠가 그 모습을 드러나기 마련이고…" />
+	<key id="JobIntro_Ranger_caption4" name="때로는 누군가의 진정한 모습을 볼 수 있게 되기도 한다." />
+	<key id="JobIntro_Ranger_caption5" name="누구보다 강하면서도 겉으로 드러내지 않는 사람." />
+	<key id="JobIntro_Ranger_caption6" name="그러나 누군가 도움이 필요할 때는 주저없이 나서는 사람." />
+	<key id="JobIntro_Ranger_caption7" name="나도 그와 같은 길을 걷고 싶다." />
+	<key id="JobIntro_HeavyGunner_caption1" name="친구들은 내게 말했지." />
+	<key id="JobIntro_HeavyGunner_caption2" name="과학만으로는 메이플월드에 평화를 가져올 수 없다고." />
+	<key id="JobIntro_HeavyGunner_caption3" name="틀렸어." />
+	<key id="JobIntro_HeavyGunner_caption4" name="몸이 약한 사람도, 마법이 없는 사람도 내 기술만 있으면 누구든 최고가 될 수 있다구!" />
+	<key id="JobIntro_HeavyGunner_caption5" name="아이샤, 하지만 그 중 누가 제일 최고지?" />
+	<key id="JobIntro_HeavyGunner_caption6" name="당연히 마스터죠!" />
+	<key id="JobIntro_HeavyGunner_caption7" name="10점 만점에 100점이야!!!" />
+	<key id="JobIntro_Thief_caption1" name="부모에 대한 기억은 없다." />
+	<key id="JobIntro_Thief_caption2" name="떠올릴 수 있는 것은 그저 더럽고 차가운 뒷골목을 돌아다니던 기억 뿐." />
+	<key id="JobIntro_Thief_caption3" name="그래도 결코 혼자인 적은 없었다." />
+	<key id="JobIntro_Thief_caption4" name="친구라는 이름의 가족들이 내 곁을 지켜줬으니깐." />
+	<key id="JobIntro_Thief_caption5" name="오늘도 우리는 우리만의 방식으로 이 세상을 살아간다." />
+	<key id="JobIntro_Thief_caption6" name="그 누구에게도 간섭받지 않고, 그 무엇에도 구속당하지 않는." />
+	<key id="JobIntro_Thief_caption7" name="도적의 삶을." />
+	<key id="JobIntro_Assassin_caption1" name="로그스." />
+	<key id="JobIntro_Assassin_caption2" name="칠신장 다크로드의 직속부대이자 세상을 바꿔나갈 어둠의 선봉대." />
+	<key id="JobIntro_Assassin_caption3" name="우리의 임무는 단 하나, 검은 마법사님을 가로막는 모든 요소를 제거하는 것." />
+	<key id="JobIntro_Assassin_caption4" name="로그스의 대원으로서 완벽한 임무 수행을 위해 내게 생각이나 감정이라는 것은 허락되지 않았다." />
+	<key id="JobIntro_Assassin_caption5" name="하지만…" />
+	<key id="JobIntro_Assassin_caption6" name="언제부터인가 내 안에서 자라나는 이 감정들은 무엇일까?" />
+	<key id="JobIntro_Assassin_caption7" name="난 정말 세상을 위한 일을 하고 있는 것일까?" />
+	<key id="JobIntro_Assassin_caption8" name="난 괴물이 되어가고 있는 것은 아닐까?" />
+	<key id="JobIntro_Assassin_caption9" name="난… 어떻게 해야…" />
+	<key id="RuneBlader_Intro_caption1" name="Farewell..." locale="NA" />
+	<key id="RuneBlader_Intro_caption2" name="Master." locale="NA" />
+	<key id="RuneBlader_Intro_caption3" name="Don&apos;t throw your life away." locale="NA" />
+	<key id="RuneBlader_Intro_caption4" name="Your destiny lies elsewhere." locale="NA" />
+	<key id="Common_Opening_caption1" name="이것은 영웅들의 이야기." />
+	<key id="Common_Opening_caption2" name="창조주인 빛과 어둠의 신은 함께 수많은 세계를 만들어내었고" />
+	<key id="Common_Opening_caption3" name="그중 가장 마지막에 탄생한 것이 메이플 월드이다." />
+	<key id="Common_Opening_caption4" name="빛과 어둠은 함께 공존하며 균형을 이루어야 했지만" />
+	<key id="Common_Opening_caption5" name="빛의 신의 애정으로 인해 메이플 월드는 점차 빛으로 물들었고," />
+	<key id="Common_Opening_caption6" name="이에 어둠의 신은 균형이 무너져버린 세계를 파괴하려 했다." />
+	<key id="Common_Opening_caption7" name="그렇게 시작된 신들의 전쟁." />
+	<key id="Common_Opening_caption8" name="기나긴 전투 끝, 조율자 세이지들과 메이플 월드의 생명체들의 도움을 받은\n빛의 신의 승리로 전쟁은 끝났지만" />
+	<key id="Common_Opening_caption9" name="어둠의 신이 소멸하며 그의 분노가 대지에 스며들어\n메이플 월드는 점차 어둠에 물들기 시작했다." />
+	<key id="Common_Opening_caption10" name="메이플 월드에 깊은 애정을 가졌던 빛의 신은 자신을 희생하여\n세상이 어둠에 뒤덮이는 것을 막아내었고" />
+	<key id="Common_Opening_caption11" name="남겨진 빛의 힘으로부터 신성한 존재인 에레브가 탄생하여" />
+	<key id="Common_Opening_caption12" name="메이플 월드를 지키기 위해 나선 7명의 용사와 함께\n어둠에 맞서 싸워나가게 된다." />
+	<key id="Common_Opening_caption13" name="그러나 그들의 노력에도 불구하고\n어둠은 서서히 메이플 월드를 잠식해나갔고" />
+	<key id="Common_Opening_caption14" name="이에 에레브와 세이지들은 생명, 공간, 시간의 힘을 지닌\n라펜타라는 성물을 만들어" />
+	<key id="Common_Opening_caption15" name="어둠을 봉인하고 정화를 할 공간을 생성하게 된다." />
+	<key id="Common_Opening_caption16" name="이곳에 그들은 어둠에 물든 대지와 생명체를 모아 정화를 하려 했으나" />
+	<key id="Common_Opening_caption17" name="한 곳에 응축된 어둠의 힘은 너무도 강력해\n정화의식을 치르던 세이지들마저 집어삼키게 되고…" />
+	<key id="Common_Opening_caption18" name="결국, 사람들은 어둠이 메이플 월드를 집어삼키기 전에 라펜타의 힘을 이용," />
+	<key id="Common_Opening_caption19" name="정화를 위해 한곳에 모았던 대지와 생명체들을\n어둠과 함께 봉인하기로 결단을 내리게 된다." />
+	<key id="Common_Opening_caption20" name="정화의식을 고안했던 7 영웅의 리더 빛의 마법사 킬리안은" />
+	<key id="Common_Opening_caption21" name="마지막까지 모두를 구할 방법을 찾기 위해 영웅 바론과 함께\n폭주하는 어둠에 휩쓸려버린 정화의식 장소로 향했고" />
+	<key id="Common_Opening_caption22" name="최후의 힘까지 끌어내어 정화의식을 성공시키려 해보았지만\n안타깝게도 그곳에서 최후를 맞이하게 되며" />
+	<key id="Common_Opening_caption23" name="메이플 월드를 위협하던 어둠은 그렇게 봉인되어 사라지게 되었다." />
+	<key id="Common_Opening_caption24" name="영웅들과 많은 이들의 숭고한 희생으로 찾아온 평화." />
+	<key id="Common_Opening_caption25" name="하지만 다가오는 어둠의 그림자와 함께\n그 평화의 시간도 이제 끝을 맞이하려 하고 있다." />
+	<key id="Common_Opening_caption26" name="메이플 월드에 다시 한번 영웅이 필요한 시대를 부르며…" />
+	<key id="Common_Opening_caption27" name="이것은 영웅들의…" />
+	<key id="Common_Opening_caption28" name="바로, 당신의 이야기." />
+	<key id="SkyFortress_Intro_caption1" name="쳇, 스카이 포트리스는 아직인가?" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption2" name="이대로는…" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption3" name="꽤 하는데?" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption4" name="피라미들인 줄 알았는데…" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption5" name="용케 여기까지 저항하는군." feature="FameContents" />
+	<key id="SkyFortress_Intro_caption6" name="네 녀석은…?!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption7" name="겉치레는 이쯤하고…" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption8" name="이제 마무리해주지." feature="FameContents" />
+	<key id="SkyFortress_Intro_caption9" name="얕보지 마라!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption10" name="서둘러! 곧 이륙한다!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption11" name="승무원, 90% 탑승 완료!\n하지만 전투 대원들은 아직입니다!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption12" name="그 방법을 쓸 수밖에 없겠군." feature="FameContents" />
+	<key id="SkyFortress_Intro_caption13" name="그 방법이라면…" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption14" name="네, 알겠습니다!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption15" name="함선 기동!\nXR급 포탄 장전 후, 대기!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption16" name="뭐지?!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption17" name="발사!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption18" name="쳇, 두고 보자…!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption19" name="칼, 루아나 보세요.\n그들이 해냈어요." feature="FameContents" />
+	<key id="SkyFortress_Intro_caption20" name="드디어 떠올랐군요." feature="FameContents" />
+	<key id="SkyFortress_Intro_caption21" name="부디 메이플 월드를 지켜주세요." feature="FameContents" />
+	<key id="SkyFortress_Intro_caption22" name="하늘의 방패, 스카이 포트리스." feature="FameContents" />
+	<key id="SkyFortress_Intro_caption23" name="거기까지다!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption24" name="제대로 좀 해볼까!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption25" name="베어주마!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption26" name="쳇!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption27" name="화염의 폭풍이여!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption28" name="각오하라고!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption30" name="기운 내세요!" feature="FameContents" />
+	<key id="SkyFortress_Intro_caption31" name="간다." feature="FameContents" />
+	<key id="SkyFortress_Intro_caption32" name="작별 인사나 하라고!" feature="FameContents" />
+	<key id="Lapenta_Frontier_Intro_caption1" name="밤하늘에 빛나는 저 별 보다" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption2" name="함께 있는 내 안에 그" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption3" name="그 맘이 좋아" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption4" name="넌 지나간 어둠을 잊고 (다시 일어나)" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption5" name="넌 떨리는 가슴을 안고 (두려워하지 마)" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption6" name="넌 새로운 세상의 중심 (잊지 말아 줘요)" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption7" name="넌 다가올 미래의 준비 (함께 할게요)" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption8" name="잊지 말아요" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption9" name="네 마음에 숨 쉬는 희망의 약속, 그 빛을" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption10" name="망설이지 말고 저기 열린 세상으로 달려가" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption11" name="흔들리지 말고 꿈꿔 왔던 미래가 열릴 테니" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption12" name="멈추지 말아 줘 네 이야기" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption13" name="잃어버린 너의 이름을 그 이름을 불러봐" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption14" name="부르고 불러봐도, 들리지 않는 대도" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption15" name="울지 마, 내가" feature="LapentaFrontierQuest" />
+	<key id="Lapenta_Frontier_Intro_caption16" name="안아 줄게" feature="LapentaFrontierQuest" />
+	<key id="KiliansTruth_caption1" name="사라졌던 영웅의 등장에 놀랐는가?" feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption2" name="그렇다. 내가 바로 빛의 마법사 킬리안이다." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption3" name="그리고 또 다른 이름" feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption4" name="검은 마법사." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption5" name="놀라는 것도 무리는 아니지." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption6" name="한때 7영웅의 수장이 바로 나였으니." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption7" name="이제 그날의 진실을 말할 때가 된 것 같구나." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption8" name="나는 라펜타 봉인을 위해" feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption9" name="7영웅 중 하나이자 나의 친우인 바론과 함께\n 어둠의 땅으로 향했다." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption10" name="그리고, 그곳에 도달한 우리는 깨달았지." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption11" name="봉인을 위해선 여제 에레브의 힘이 필요하다는 것을." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption12" name="이를 알리기 위해 바론은 트라이아로 향했다." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption13" name="나는 그곳에 남아 상황을 지켜보았지만" feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption14" name="생각보다 빠르게 악화되는 봉인의 상태에\n결단을 내려야만 했다." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption15" name="혼자서라도 봉인을 시도해야 했어." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption16" name="내 목숨과 바꿔서라도 말이야." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption17" name="다행히 난 봉인에 성공했지만 정신이 혼미해지고 있었다." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption18" name="그리고 돌연, 바론의 기운이 끊어졌다!" feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption19" name="나는, 처음으로 여제를 의심했다." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption20" name="여제가 늦는 것이 아니라 \n우리 요청이 묵살당한 거라면?" feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption21" name="빛의 상징인 여제가 우릴 버렸다면…?" feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption22" name="그 순간, 나는 보았다." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption23" name="빛의 여제가 가진 강력한 힘이 이 세상을 멸망시키는 모습을." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption24" name="빛의 창 끝이 어둠이 아닌 우리를 향하는 날" feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption25" name="우리가 맞게 될 빛으로부터의 파멸을…" feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption26" name="그날 이후 나는 여제의 파멸을 막기 위해 여러 계획을 세우고 실행해왔다." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption27" name="그 중 가장 심혈을 기울여 준비한 것이 바로 이, 검은 달이다. " feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption28" name="여제 에레브… 그녀는 이곳에 봉인되어야 해." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption29" name="최근 트라이아에 나타난 검은 물질들을 보았겠지?" feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption30" name="그건 바로, 여제 안에 잠들어 있던 불안의 미래가 형상화되어 나타난 것." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption31" name="언젠가 다가올 파멸의 증거다! " feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption32" name="빛으로부터의 파멸" feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption33" name="그 예언을 막기 위한 방법은 오직 이것 뿐이다." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption34" name="과거의 영웅은 죽었다." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption35" name="내게 남은 것은 오직 세상의 파괴를 막기 위한 간절한 소망 뿐." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption36" name="예언을 아는 자라면, 이 진실을 외면할 수 없을 것이다." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption37" name="애송이, 이제 너도 모든 것을 알게 되었고… " feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption38" name="선택만이 남았다." feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption39" name="진실과 거짓" feature="EpicApocalypse01" />
+	<key id="KiliansTruth_caption40" name="선택하라" feature="EpicApocalypse01" />
 </ms2>

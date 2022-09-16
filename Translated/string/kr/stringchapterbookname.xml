@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-  <key id="1" name="疑惑之始" feature="QuestChapter00" />
-  <key id="2" name="射手村的危机" feature="QuestChapter00" />
-  <key id="3" name="解封的黑暗力量" feature="QuestChapter00" />
-  <key id="4" name="消失的守护神" feature="QuestChapter00" />
-  <key id="5" name="善与恶，光明与黑暗" feature="QuestChapter00" />
-  <key id="6" name="想寻找的人，想出现的人" feature="QuestChapter00" />
-  <key id="7" name="无需什么友情" feature="QuestChapter00" />
-  <key id="8" name="失去光芒的光之后裔" feature="QuestChapter00" />
-  <key id="9" name="黑暗之所在" feature="LapentaFrontierQuest" />
-  <key id="10" name="团体的力量" feature="LapentaFrontierQuest" />
-  <key id="11" name="寻找真相" feature="QuestChapter00" />
-  <key id="12" name="天空堡垒，首要任务" feature="FameContents_EP1_01" />
-  <key id="13" name="不灭君主" feature="FameContents_EP1_02" />
-  <key id="14" name="转职技能点测试" feature="JobChange_01" />
-  <key id="15" name="继承他们的意志" feature="LapentaFrontierQuest" />
-  <key id="16" name="重逢之喜，结下孽缘" feature="LapentaFrontierQuest" />
-  <key id="17" name="一线希望" feature="LapentaFrontierQuest" />
-  <key id="18" name="魔方水晶生成器" feature="LapentaFrontierQuest" />
-  <key id="19" name="握在掌中之风" feature="LapentaFrontierQuest" />
-  <key id="20" name="双刀一剑的继承者" feature="LapentaFrontierQuest" />
-  <key id="21" name="解锁之狼" feature="LapentaFrontierQuest" />
-  <key id="22" name="重新寻回的过去" feature="LapentaFrontierQuest" />
-  <key id="23" name="觉醒的愤怒" feature="LapentaFrontierQuest" />
-  <key id="24" name="新的力量，新的踊跃" feature="LapentaFrontierQuest" />
-  <key id="25" name="外面的世界" feature="LapentaFrontierQuest" />
-  <key id="26" name="临近考验" feature="EyeOfLapentaQuest" />
-  <key id="27" name="未知大陆克里蒂亚斯" feature="Kritias_Epic01" />
-  <key id="28" name="穿越占领区" feature="Kritias_Epic02" />
-  <key id="29" name="毁灭的序幕" feature="EpicApocalypse01" />
+	<key id="1" name="의혹의 시작" feature="QuestChapter00" />
+	<key id="2" name="헤네시스의 위기" feature="QuestChapter00" />
+	<key id="3" name="봉인 풀린 어둠의 힘" feature="QuestChapter00" />
+	<key id="4" name="사라진 수호신" feature="QuestChapter00" />
+	<key id="5" name="선과 악, 빛과 어둠" feature="QuestChapter00" />
+	<key id="6" name="찾으려는 자, 나타나려는 자" feature="QuestChapter00" />
+	<key id="7" name="우정 따윈 필요 없어" feature="QuestChapter00" />
+	<key id="8" name="빛을 잃은 빛의 후예" feature="QuestChapter00" />
+	<key id="9" name="어둠이 있는 곳" feature="LapentaFrontierQuest" />
+	<key id="10" name="모두의 힘" feature="LapentaFrontierQuest" />
+	<key id="11" name="진실을 찾아서" feature="QuestChapter00" />
+	<key id="12" name="하늘의 요새, 최우선 임무" feature="FameContents_EP1_01" />
+	<key id="13" name="불멸의 군주" feature="FameContents_EP1_02" />
+	<key id="14" name="전직 스킬 포인트 테스트" feature="JobChange_01" />
+	<key id="15" name="그들의 의지를 이어받아" feature="LapentaFrontierQuest" />
+	<key id="16" name="기쁨의 재회, 마주한 악연" feature="LapentaFrontierQuest" />
+	<key id="17" name="가능성의 빛" feature="LapentaFrontierQuest" />
+	<key id="18" name="라펜샤드 테크놀러지" feature="LapentaFrontierQuest" />
+	<key id="19" name="바람을 손에 쥐다" feature="LapentaFrontierQuest" />
+	<key id="20" name="양도일검의 계승자" feature="LapentaFrontierQuest" />
+	<key id="21" name="언체인 울프" feature="LapentaFrontierQuest" />
+	<key id="22" name="되찾은 과거" feature="LapentaFrontierQuest" />
+	<key id="23" name="각성한 분노" feature="LapentaFrontierQuest" />
+	<key id="24" name="새로운 힘, 새로운 활약" feature="LapentaFrontierQuest" />
+	<key id="25" name="내면 밖의 세상" feature="LapentaFrontierQuest" />
+	<key id="26" name="다가온 시련" feature="EyeOfLapentaQuest" />
+	<key id="27" name="미지의 대륙 크리티아스" feature="Kritias_Epic01" />
+	<key id="28" name="점령지를 넘어" feature="Kritias_Epic02" />
+	<key id="29" name="파멸의 서막" feature="EpicApocalypse01" />
 </ms2>

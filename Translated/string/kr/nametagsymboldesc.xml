@@ -1,58 +1,77 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="0" name="" feature="Season1" />
-  <key id="11" name="达到50以上后显示" feature="Season1" />
-  <key id="1" name="穿戴+12卓越级以上的装备后显示" feature="Season1" />
-  <key id="2" name="获得顶级设计师称号后显示" feature="Season1" />
-  <key id="3" name="获得真正的冠军称号后显示" feature="Season1" />
-  <key id="4" name="获得明星建筑师称号后显示" feature="Season1" />
-  <key id="5" name="获得[成就达人] 成就后显示" feature="Season1" />
-  <key id="6" name="获得[又是大鱼！]成就和钓鱼王称号后显示" feature="Fishing" />
-  <key id="7" name="达成[梦想乐师]成就后获得乐师称号后显示" feature="MusicInstrument" />
-  <key id="8" name="获得邪恶霸主称号后显示" feature="Balrogitem3rd" />
-  <key id="10" name="获得冒险岛数据之星称号后显示" feature="Season3" locale="CN" />
-  <key id="12" name="会员标志" feature="VIP" />
-  <key id="13" name="腾讯心悦俱乐部专属徽章" feature="Season1" locale="CN" />
-  <key id="14" name="获得[沾染上枫叶色彩的英雄]成就后显示" feature="Season1" locale="CN" />
-  <key id="15" name="获得[扎昆征服者]成就后显示" feature="Zakum01" />
-  <key id="17" name="通过WeGame登录冒险岛2后显示" locale="CN" />
-  <key id="18" name="GM专用徽章" locale="CN" />
-  <key id="19" name="尝试超过200次进阶时显示" feature="ItemMerge" />
-  <key id="20" name="尝试超过500次进阶时显示" feature="ItemMerge" />
-  <key id="21" name="尝试超过1000次进阶时显示" feature="ItemMerge" />
-  <key id="22" name="获得光之战士称号时显示" />
-  <key id="24" name="时隔许久回到游戏的回归角色专属徽章" feature="Mentoring" />
-  <key id="25" name="向本月生日的会员展示" feature="HappyBirthday" locale="CN" />
-  <key id="26" name="使用精锐干事专用补给品时获得" feature="FameContents" locale="CN" />
-  <key id="27" name="开启春之祝福箱时获得" feature="LunaYear2018" />
-  <key id="28" name="在菇岛求生比赛中击倒10人以上的标志" feature="SurvivalContents01" />
-  <key id="29" name="冒险等级达到100时显示" feature="AdventureLevel" />
-  <key id="30" name="转职时显示" feature="JobChange_01" />
-  <key id="31" name="夏季斗燃角色专用徽章" locale="CN" />
-  <key id="35" name="获得击败伊修罗的称号时显示" feature="LapentaDungeon" />
-  <key id="36" name="获得击败兰比斯的称号时显示" feature="LapentaDungeon" />
-  <key id="37" name="获得击败菲莉雅的称号时显示" feature="LapentaDungeon" />
-  <key id="38" name="使用乔迪徽章箱后获得" />
-  <key id="39" name="使用秋之祝福箱时获得" locale="CN" />
-  <key id="40" name="开启圆月之光箱子时获得" locale="CN" />
-  <key id="41" name="使用1周年纪念徽章箱后获得" locale="CN" />
-  <key id="42" name="使用帕普拉图斯的钟表箱时获得" locale="CN" />
-  <key id="43" name="获得职业钓手称号时显示" feature="Fishing02" />
-  <key id="44" name="获得冠军钓手称号时显示" feature="Fishing02" />
-  <key id="45" name="魔方水晶10阶段合成成功" feature="Lapenshard01" />
-  <key id="46" name="使用未知新大陆箱后获得" />
-  <key id="47" name="斗燃角色专用徽章" />
-  <key id="48" name="使用红色蔷薇花箱子时获得" locale="CN" />
-  <key id="49" name="使用黄色蔷薇花箱子时获得" locale="CN" />
-  <key id="50" name="开启樱花之歌箱子时获得" locale="CN" />
-  <key id="53" name="使用2周年纪念徽章箱时获得" feature="Event" locale="CN" />
-  <key id="54" name="使用黑猫徽章箱时获得" locale="CN" />
-  <key id="55" name="使用白猫徽章箱时获得" locale="CN" />
-  <key id="58" name="使用GM活动箱时获得" />
-  <key id="59" name="使用诚实的小黄鸭宝宝徽章箱时获得" />
-  <key id="60" name="开启星光暖冬节箱子时获得" />
-  <key id="61" name="使用柔软棉花团徽章箱时获得" />
-  <key id="62" name="开启威严黑虎徽章箱时获得" />
-  <key id="63" name="開啟勇敢的鴨子消防員箱時獲得" />
+	<key id="0" name="" feature="Season1" />
+	<key id="11" name="50레벨 이상 달성 시 표시" feature="Season1" />
+	<key id="1" name="+12 엑설런트 이상의 장비 장착 시 표시" feature="Season1" />
+	<key id="2" name="탑 디자이너 칭호 획득 시 표시" feature="Season1" />
+	<key id="2" name="탑 디자이너 칭호 획득 시 표시" feature="Season1" locale="NA" />
+	<key id="3" name="진정한 챔피언 칭호 획득 시 표시" feature="Season1" />
+	<key id="4" name="스타 건축가 칭호 획득 시 표시" feature="Season1" />
+	<key id="4" name="스타 건축가 칭호 획득 시 표시" feature="Season1" locale="NA" />
+	<key id="5" name="[트로피 마니아] 트로피 달성 시 표시" feature="Season1" />
+	<key id="6" name="[월척이다 또!] 트로피 달성 후 낚시왕 칭호 획득 시 표시" feature="Fishing" />
+	<key id="7" name="[꿈꾸는 악사] 트로피 달성 후 악사 칭호 획득 시 표시" feature="MusicInstrument" />
+	<key id="8" name="악의 정복자 칭호 획득 시 표시" feature="Balrogitem3rd" />
+	<key id="9" name="선구자 칭호 획득 시 표시" feature="Season3" locale="KR" />
+	<key id="10" name="메포그래픽 스타 칭호 획득 시 표시" feature="Season3" locale="CN" />
+	<key id="10" name="메포그래픽 스타 칭호 획득 시 표시" feature="Season3" locale="KR" />
+	<key id="12" name="프리미엄 클럽 회원에게 표시" feature="VIP" />
+	<key id="13" name="텐센트 VIP 에게 표시" feature="Season1" locale="CN" />
+	<key id="14" name="[단풍에 물든 영웅] 트로피 획득 시 표시" feature="Season1" locale="CN" />
+	<key id="14" name="[단풍에 물든 영웅] 트로피 획득 시 표시" locale="NA" />
+	<key id="15" name="[자쿰 정복자] 트로피 획득 시 표시" feature="Zakum01" />
+	<key id="16" name="2세 메린이 칭호 획득 시 표시" feature="Season1" locale="KR" />
+	<key id="17" name="TGP를 통해 게임을 실행시키면 표시" locale="CN" />
+	<key id="18" name="GM 전용 마크" locale="CN" />
+	<key id="18" name="GM 전용 마크" locale="JP" />
+	<key id="19" name="초월 200회 이상 시도 시 표시" feature="ItemMerge" />
+	<key id="20" name="초월 500회 이상 시도 시 표시" feature="ItemMerge" />
+	<key id="21" name="초월 1000회 이상 시도 시 표시" feature="ItemMerge" />
+	<key id="22" name="빛의 전사 칭호 획득 시 표시" />
+	<key id="24" name="오랜만에 게임에 돌아온 복귀 캐릭터에게 표시" feature="Mentoring" />
+	<key id="26" name="정예 요원 전용 보급품 사용 시 획득" feature="FameContents" locale="KR" />
+	<key id="26" name="정예 요원 전용 보급품 사용 시 획득" feature="FameContents" locale="CN" />
+	<key id="27" name="봄의 축복 상자 사용 시 획득" feature="LunaYear2018" />
+	<key id="28" name="머쉬킹 챔피언십 한 경기에서 10명 이상 쓰러뜨리면 표시" feature="SurvivalContents01" />
+	<key id="29" name="모험 레벨 100 달성 시 표시" feature="AdventureLevel" />
+	<key id="30" name="전직 시 표시" feature="JobChange_01" />
+	<key id="31" name="썸머 버닝 지정 캐릭터 전용 마크" locale="KR" />
+	<key id="31" name="썸머 버닝 지정 캐릭터 전용 마크" locale="CN" />
+	<key id="31" name="버닝 지정 캐릭터 전용 마크" locale="NA" />
+	<key id="31" name="버닝 지정 캐릭터 전용 마크" locale="JP" />
+	<key id="32" name="3세 메린이 칭호 획득 시 표시" locale="KR" />
+	<key id="33" name="파운더스 팩을 구매 시 표시" locale="NA" />
+	<key id="35" name="이슈라를 쓰러뜨린 칭호 획득 시 표시" feature="LapentaDungeon" />
+	<key id="36" name="렌듀비앙을 쓰러뜨린 칭호 획득 시 표시" feature="LapentaDungeon" />
+	<key id="37" name="유페리아를 쓰러뜨린 칭호 획득 시 표시" feature="LapentaDungeon" />
+	<key id="38" name="조디 마크 상자 사용 시 획득" />
+	<key id="39" name="사나운 맹수의 상자 사용 시 획득" locale="CN" />
+	<key id="40" name="밝은 달빛 상자 사용 시 획득" locale="KR" />
+	<key id="40" name="밝은 달빛 상자 사용 시 획득" locale="CN" />
+	<key id="41" name="1주년 기념 마크 상자 사용 시 획득" locale="CN" />
+	<key id="41" name="1주년 기념 마크 상자 사용 시 획득" feature="Event" locale="NA" />
+	<key id="42" name="파풀라투스의 시계 상자 사용 시 획득" locale="CN" />
+	<key id="43" name="프로 낚시꾼 칭호 획득 시 표시" feature="Fishing02" />
+	<key id="44" name="챔피언 낚시꾼 칭호 획득 시 표시" feature="Fishing02" />
+	<key id="45" name="라펜샤드 합성 10단계 성공" feature="Lapenshard01" />
+	<key id="46" name="미지의 신대륙 상자 사용 시 획득" />
+	<key id="47" name="버닝 지정 캐릭터 전용 마크" />
+	<key id="48" name="붉은 함박꽃 상자 사용 시 획득" locale="CN" />
+	<key id="49" name="노랑 함박꽃 상자 사용 시 획득" locale="CN" />
+	<key id="50" name="벚꽃의 노래 상자 사용 시 획득" locale="KR" />
+	<key id="50" name="벚꽃의 노래 상자 사용 시 획득" locale="CN" />
+	<key id="50" name="벚꽃의 노래 상자 사용 시 획득" locale="JP" />
+	<key id="51" name="2019 스타 건축가 칭호 획득 시 표시" locale="JP" />
+	<key id="52" name="2019 탑 디자이너 칭호 획득 시 표시" locale="JP" />
+	<key id="53" name="2주년 기념 마크 상자 사용 시 획득" feature="Event" locale="CN" />
+	<key id="54" name="흑묘 마크 상자 사용 시 획득" locale="CN" />
+	<key id="55" name="백묘 마크 상자 사용 시 획득" locale="CN" />
+	<key id="56" name="2020 스타 건축가 칭호 획득 시 표시" feature="Event" locale="JP" />
+	<key id="57" name="2020 탑 디자이너 칭호 획득 시 표시" feature="Event" locale="JP" />
+	<key id="58" name="GM 이벤트 상자 사용 시 획득" />
+	<key id="59" name="성실한 더키볼 마크상자 사용 시 획득" />
+	<key id="60" name="별빛 크리스마크 상자 사용 시 획득" />
+	<key id="61" name="포근한 솜뭉치 마크상자 사용 시 획득" />
+	<key id="62" name="어흥 까만 호랑마크 상자 사용 시 획득" />
+	<key id="63" name="용감한 더키 소방대원 마크상자 사용 시 획득" />
 </ms2>
