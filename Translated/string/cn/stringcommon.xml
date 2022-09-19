@@ -2420,7 +2420,7 @@
   <key id="s_msg_rclick_item_merge_revert" value="&lt;FONT color='#FFFFFF'&gt;&lt;FONT color='#FFD200'&gt;右击&lt;/FONT&gt;鼠标&lt;FONT color='#FFFFFF'&gt;可以删除进阶属性。&lt;/FONT&gt;" />
   <key id="s_msg_rclick_item_extraction" value="&lt;FONT color='#FFFFFF'&gt;点击鼠标&lt;FONT color='#FFD200'&gt;右键&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;可以提取道具外形。&lt;/FONT&gt;" />
   <key id="s_msg_rclick_pet_extraction" value="&lt;FONT color='#FFFFFF'&gt;点击鼠标&lt;FONT color='#FFD200'&gt;右键&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;可以提取道具外形。&lt;/FONT&gt;" />
-  <key id="s_msg_rclick_puton_leadskill" value="&lt;FONT color='#FFFFFF'&gt;點擊鼠標&lt;FONT color='#FFD200'&gt;右鍵&lt;/FONT&gt; with &lt;FONT color='#FFFFFF'&gt;可以裝備領導技能。&lt;/FONT&gt;" />
+  <key id="s_msg_rclick_puton_leadskill" value="&lt;FONT color='#FFFFFF'&gt;點擊鼠標&lt;FONT color='#FFD200'&gt;右鍵&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;可以裝備領導技能。&lt;/FONT&gt;" />
   <key id="s_msg_dclick_usable" value="&lt;FONT color='#FFFFFF'&gt;&lt;FONT color='#FFD200'&gt;双击鼠标&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;左键使用。&lt;/FONT&gt;" />
   <key id="s_msg_dclick_readable" value="&lt;FONT color='#FFFFFF'&gt;&lt;FONT color='#FFD200'&gt;双击鼠标&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;左键阅读。&lt;/FONT&gt;" />
   <key id="s_msg_dclick_open_shop" value="&lt;FONT color='#FFFFFF'&gt;鼠标 &lt;FONT color='#FFD200'&gt;双击&lt;/FONT&gt;&lt;FONT color='#FFFFFF'&gt;可以开启商店。&lt;/FONT&gt;" />

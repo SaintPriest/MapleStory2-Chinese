@@ -3979,6 +3979,6 @@
   <key id="$s_lead_skill_title" value="領導技能" />
   <key id="$s_lead_skill_dialog_lefttop_skill_level" value="等級{0}" />
 	<key id="$s_lead_skill_dialog_from_char" value="領導角色: &lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;\n已獲得技能" />
-	<key id="$s_lead_skill_dialog_from_char_fail" value="領導角色: &lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;\n無法獲得技能" />
+	<key id="$s_lead_skill_dialog_from_char_fail" value="領導角色: &lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;\n未獲得技能" />
 	<key id="$s_lead_skill_dialog_char_unlimited_level" value="極限突破{0}階段" />
 </ms2>
