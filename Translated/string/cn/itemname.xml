@@ -604,26 +604,6 @@
 	<key id="10400160" class="face mark" name="感恩节油画" />
 	<key id="10400161" class="face mark" name="帆船彩绘" />
 	<key id="10400162" class="face mark" name="帆船彩绘" />
-	<key id="10400163" class="face mark" name="ITEMNAME_10400163_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400164" class="face mark" name="ITEMNAME_10400164_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400165" class="face mark" name="ITEMNAME_10400165_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400166" class="face mark" name="ITEMNAME_10400166_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400167" class="face mark" name="ITEMNAME_10400167_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400168" class="face mark" name="ITEMNAME_10400168_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400169" class="face mark" name="ITEMNAME_10400169_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400170" class="face mark" name="ITEMNAME_10400170_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400171" class="face mark" name="ITEMNAME_10400171_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400172" class="face mark" name="ITEMNAME_10400172_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400173" class="face mark" name="ITEMNAME_10400173_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400174" class="face mark" name="ITEMNAME_10400174_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400175" class="face mark" name="ITEMNAME_10400175_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400176" class="face mark" name="ITEMNAME_10400176_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400177" class="face mark" name="ITEMNAME_10400177_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400178" class="face mark" name="ITEMNAME_10400178_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400179" class="face mark" name="ITEMNAME_10400179_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400180" class="face mark" name="ITEMNAME_10400180_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400181" class="face mark" name="ITEMNAME_10400181_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400182" class="face mark" name="ITEMNAME_10400182_NAME:[F]GlobalNpc" feature="GlobalNpc" />
 	<key id="10400183" class="face mark" name="烟花绚丽爆竹彩绘" />
 	<key id="10400184" class="face mark" name="小丘比特彩绘" />
 	<key id="10400185" class="face mark" name="企鹅脸部彩绘" />
@@ -632,8 +612,6 @@
 	<key id="10400189" class="face mark" name="仙人掌彩绘" />
 	<key id="10400190" class="face mark" name="肉乎乎恐龙彩绘" />
 	<key id="10400191" class="face mark" name="菠萝彩绘" />
-	<key id="10400192" class="face mark" name="ITEMNAME_10400192_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="10400193" class="face mark" name="ITEMNAME_10400193_NAME:[F]GlobalNpc" feature="GlobalNpc" />
 	<key id="10400194" class="face mark" name="烟花绚丽爆竹彩绘" />
 	<key id="10400195" class="face mark" name="小丘比特彩绘" />
 	<key id="10400196" class="face mark" name="企鹅脸部彩绘" />
@@ -820,19 +798,10 @@
 	<key id="11120248" class="eye" name="像素太阳镜（女）" />
 	<key id="11120351" class="eye" name="冒险岛学生模范眼神（男）" />
 	<key id="11120352" class="eye" name="冒险岛学生模范眼神（女）" />
-	<key id="11020395" name="포근한 솜뭉치 입김 (남)" />
-	<key id="11020396" name="포근한 솜뭉치 입김 (여)" />
 	<key id="11120401" name="细框眼镜（男）" />
 	<key id="11120402" name="细框眼镜（女）" />
 	<key id="11120403" name="浮潜呼吸管（男）" />
 	<key id="11120404" name="浮潜呼吸管（女）" />
-	<key id="11020405" name="호루라기 (남)" />
-	<key id="11020406" name="호루라기 (여)" />
-	<key id="11020407" name="시원한 아이스 캔디 (남)" />
-	<key id="11020408" name="시원한 아이스 캔디 (여)" />
-	<key id="11020409" name="전문가용 연필 (남)" />
-	<key id="11020410" name="전문가용 연필 (여)" />
-	<key id="11020411" name="붉은 천극 가면" />
 	<key id="11120429" name="黑金邮递员眼镜（男）" />
 	<key id="11120430" name="黑金邮递员眼镜（女）" />
 	<key id="11120431" name="神秘社团眼镜（男）" />
@@ -896,133 +865,6 @@
 	<key id="11150043" name="猫咪果冻眼罩（男）" />
 	<key id="11150045" class="eye" name="金属星星眼镜" />
 	<key id="11150046" class="eye" name="3D眼镜" />
-	<key id="11050047" name="붉은 천극 가면" />
-	<key id="11050048" class="mouth" name="고양이 마스크" />
-	<key id="11050049" class="mouth" name="턱밑 검은 마스크" />
-	<key id="11050050" class="mouth" name="턱밑 하얀 마스크" />
-	<key id="11050051" class="mouth" name="스위트 초콜릿" />
-	<key id="11050053" class="mouth" name="웨딩데이 꽃송이 얼굴장식 (남)" />
-	<key id="11050054" class="mouth" name="웨딩데이 꽃송이 얼굴장식 (여)" />
-	<key id="11050055" class="mouth" name="쭉쭉 피노키오 코" />
-	<key id="11050060" class="mouth" name="고무 쪽쪽이" />
-	<key id="11050061" class="mouth" name="테크웨어 스카우트 마스크 (남)" />
-	<key id="11050062" class="mouth" name="테크웨어 스카우트 마스크 (여)" />
-	<key id="11050063" class="mouth" name="하늘하늘 꽃잎" />
-	<key id="11050064" class="mouth" name="하늘하늘 꽃잎" />
-	<key id="11050065" class="mouth" name="두툼한 피에로 입술" />
-	<key id="11050067" class="mouth" name="스페셜 웨딩 핑크 로즈 (남)" feature="Wedding" />
-	<key id="11050068" class="mouth" name="스페셜 웨딩 핑크 로즈 (여)" feature="Wedding" />
-	<key id="11099999" class="system" name="투명기능_얼굴장식" />
-	<key id="11120002" name="(PC방) 세련된 호피무늬 안경" feature="ItemKR" />
-	<key id="11120004" name="컬러 선글라스(남)" />
-	<key id="11120005" name="컬러 선글라스(여)" />
-	<key id="11120006" name="경호원 선글라스 (남)" />
-	<key id="11120007" name="경호원 선글라스 (여)" />
-	<key id="11120009" name="반무테 안경 (남)" />
-	<key id="11120010" name="반무테 안경 (여)" />
-	<key id="11120014" name="(PC방) 검은 위생 안대" feature="ItemKR" />
-	<key id="11120017" name="스트라이프 바니 선글라스 (남)" />
-	<key id="11120018" name="스트라이프 바니 선글라스 (여)" />
-	<key id="11120021" name="(PC방) 해골 안대" feature="ItemKR" />
-	<key id="11120024" name="(PC방) 오토매틱 고글" feature="ItemKR" />
-	<key id="11120025" class="eye" name="스칼렛 하트 아이 패치 (남)" />
-	<key id="11120026" class="eye" name="스칼렛 하트 아이 패치 (여)" />
-	<key id="11120038" name="(PC방) 깔끔한 뿔테 안경" feature="ItemKR" />
-	<key id="11120045" class="eye" name="샤인 스타 데코 (남)" />
-	<key id="11120046" class="eye" name="샤인 스타 데코 (여)" />
-	<key id="11120049" name="고양이 젤리 안대 (남)" />
-	<key id="11120053" name="호박 안대 (남)" />
-	<key id="11120054" name="고양이 젤리 안대 (여)" />
-	<key id="11120057" name="호박 안대 (여)" />
-	<key id="11120058" name="호박 안대 (남)" />
-	<key id="11120061" name="호박 안대 (여)" />
-	<key id="11120099" class="eye" name="오버 윈터 체인 라운드 안경 (남)" />
-	<key id="11120100" class="eye" name="오버 윈터 체인 라운드 안경 (여)" />
-	<key id="11120111" class="eye" name="빅프레임 뿔테 안경 (남)" />
-	<key id="11120112" class="eye" name="빅프레임 뿔테 안경 (여)" />
-	<key id="11120153" class="eye" name="실버 크로스 안경 (남)" />
-	<key id="11120154" class="eye" name="실버 크로스 안경 (여)" />
-	<key id="11120159" class="eye" name="뿔테 눈물 안경 (남)" />
-	<key id="11120160" class="eye" name="뿔테 눈물 안경 (여)" />
-	<key id="11120207" class="eye" name="고양이귀 안대 (남)" />
-	<key id="11120208" class="eye" name="고양이귀 안대 (여)" />
-	<key id="11120231" class="eye" name="3D 안경 (남)" />
-	<key id="11120232" class="eye" name="3D 안경 (여)" />
-	<key id="11120237" class="eye" name="행운의 클로버 안경 (남)" />
-	<key id="11120238" class="eye" name="행운의 클로버 안경 (여)" />
-	<key id="11120243" class="eye" name="작은 동글 안경 (남)" />
-	<key id="11120244" class="eye" name="작은 동글 안경 (여)" />
-	<key id="11120247" class="eye" name="도트 선글라스 (남)" />
-	<key id="11120248" class="eye" name="도트 선글라스 (여)" />
-	<key id="11120351" class="eye" name="메린이 모범생 눈빛 (남)" />
-	<key id="11120352" class="eye" name="메린이 모범생 눈빛 (여)" />
-	<key id="11120401" name="가는테 안경 (남)" />
-	<key id="11120402" name="가는테 안경 (여)" />
-	<key id="11120403" name="스노클 (남)" />
-	<key id="11120404" name="스노클 (여)" />
-	<key id="11120429" name="커닝 집배원 안경 (남)" />
-	<key id="11120430" name="커닝 집배원 안경 (여)" />
-	<key id="11120431" name="미스터리 클럽 렌즈 (남)" />
-	<key id="11120432" name="미스터리 클럽 렌즈 (여)" />
-	<key id="11120449" name="펑키 스타일 고글 (남)" />
-	<key id="11120450" name="펑키 스타일 고글 (여)" />
-	<key id="11120451" name="둥근테 안경 (남)" />
-	<key id="11120452" name="둥근테 안경 (여)" />
-	<key id="11120453" name="세련된 호피무늬 안경 (남)" />
-	<key id="11120454" name="세련된 호피무늬 안경 (여)" />
-	<key id="11120455" name="하트 선글라스 (남)" />
-	<key id="11120456" name="하트 선글라스 (여)" />
-	<key id="11120642" name="펑키 스타일 고글 (남)" />
-	<key id="11120643" name="펑키 스타일 고글 (여)" />
-	<key id="11120644" name="빅프레임 뿔테 안경 (남)" />
-	<key id="11120645" name="빅프레임 뿔테 안경 (여)" />
-	<key id="11120646" name="저항군 지그문트 안대 (남)" />
-	<key id="11120647" name="저항군 지그문트 안대 (여)" />
-	<key id="11120648" name="스트라이프 바니 선글라스" />
-	<key id="11150001" class="eye" name="깔끔한 뿔테 안경" />
-	<key id="11150002" class="eye" name="세련된 호피무늬 안경" />
-	<key id="11150003" class="eye" name="경호원 선글라스" />
-	<key id="11150004" class="eye" name="컬러 선글라스" />
-	<key id="11150005" class="eye" name="고글형 선글라스" />
-	<key id="11150006" class="eye" name="레이서 고글" />
-	<key id="11150007" class="eye" name="무테안경" />
-	<key id="11150008" class="eye" name="위생 안대" />
-	<key id="11150009" class="eye" name="모노클" />
-	<key id="11150010" class="eye" name="스타 핀홀 선글라스" />
-	<key id="11150011" class="eye" name="스트라이프 바니 선글라스" />
-	<key id="11150012" class="eye" name="인자한 마노" />
-	<key id="11150013" class="eye" name="스노클" />
-	<key id="11150014" class="eye" name="검은 위생 안대" />
-	<key id="11150015" class="eye" name="하트 선글라스" />
-	<key id="11150016" class="eye" name="둥근테 안경" />
-	<key id="11150017" class="eye" name="사각테 안경" />
-	<key id="11150018" class="eye" name="반무테 안경" />
-	<key id="11150019" class="eye" name="클래식 반무테 안경" />
-	<key id="11150020" class="eye" name="모험가 선글라스" />
-	<key id="11150021" class="eye" name="해골 안대" />
-	<key id="11150023" class="eye" name="둥근 컬러 안경" />
-	<key id="11150024" class="eye" name="오토매틱 고글" />
-	<key id="11150025" class="eye" name="코 안경" />
-	<key id="11150026" class="eye" name="뱅뱅 안경" />
-	<key id="11150027" class="eye" name="빅프레임 뿔테 안경" />
-	<key id="11150028" class="eye" name="퓨리어스 스카우터" />
-	<key id="11150029" class="eye" name="추억 한아름 선글라스" />
-	<key id="11150030" class="eye" name="변절자의 가면" />
-	<key id="11150031" class="eye" name="고양이 젤리 안대" />
-	<key id="11150032" class="eye" name="스칼렛 하트 아이 패치 (남)" />
-	<key id="11150033" class="eye" name="스칼렛 하트 아이 패치 (여)" />
-	<key id="11150034" class="eye" name="스칼렛 하트 아이 패치 (남)" />
-	<key id="11150035" class="eye" name="스칼렛 하트 아이 패치 (여)" />
-	<key id="11150036" class="eye" name="샤인 스타 데코 (남)" />
-	<key id="11150037" class="eye" name="샤인 스타 데코 (여)" />
-	<key id="11150038" class="eye" name="(PC방) 깔끔한 뿔테 안경" />
-	<key id="11150039" class="eye" name="저항군 지그문트 안대 (남)" />
-	<key id="11150040" class="eye" name="저항군 지그문트 안대 (여)" />
-	<key id="11150041" class="eye" name="샤인 스타 데코 (남)" />
-	<key id="11150042" class="eye" name="샤인 스타 데코 (여)" />
-	<key id="11150043" name="고양이 젤리 안대 (남)" />
-	<key id="11150045" class="eye" name="메탈릭 스타 안경" />
-	<key id="11150046" class="eye" name="3D 안경" />
 	<key id="11150047" class="eye" name="朋克风护目镜（男）" />
 	<key id="11150048" class="eye" name="朋克风护目镜（女）" />
 	<key id="11150049" class="eye" name="猫耳眼罩" />
@@ -1574,7 +1416,6 @@
 	<key id="11250210" class="earring" name="精致婚礼灵石耳环（男）" feature="Wedding" />
 	<key id="11250211" class="earring" name="精致婚礼灵石耳环（女）" feature="Wedding" />
 	<key id="11260044" class="earring" name="仿制的暴烈耳环" />
-	<key id="11260045" class="earring" name="可爱小黄鸭宝宝耳环" feature="GlobalNpc" />
 	<key id="11260089" class="earring" name="至暗耳环" feature="Level60Item" />
 	<key id="11260091" class="earring" name="流浪冒险家的遗产：古董耳环" feature="Level60Item" />
 	<key id="11260092" class="earring" name="百夫长血泪" feature="Level60Item" />
@@ -2868,7 +2709,6 @@
 	<key id="11301409" class="hat" name="热情阔边帽（男）" />
 	<key id="11301410" class="hat" name="热情玫瑰发夹（女）" />
 	<key id="11301411" class="hat" name="可爱女王缤王冠" feature="Colosseum01" />
-	<key id="11301412" class="hat" name="ITEMNAME_11301412_NAME:[F]GlobalNpc" feature="GlobalNpc" />
 	<key id="11301413" class="hat" name="活力明星结绳发带" />
 	<key id="11301414" class="hat" name="莲花青蛙帽子" />
 	<key id="11301415" name="热带草帽（男）" />
@@ -3005,7 +2845,6 @@
 	<key id="11304795" class="hat" name="鲨鱼帽（3天）" />
 	<key id="11304796" class="hat" name="冒险岛2情报通讯员帽子" />
 	<key id="11304797" class="hat" name="天使光环黄金蘑菇" />
-	<key id="11304798" class="hat" name="冒险岛头巾" feature="GlobalNpc" />
 	<key id="11304799" class="hat" name="相亲相爱LO帽" />
 	<key id="11304800" class="hat" name="相亲相爱VE帽" />
 	<key id="11304801" class="hat" name="爱情雨" />
@@ -3014,7 +2853,6 @@
 	<key id="11304804" class="hat" name="跳舞花" />
 	<key id="11304806" class="hat" name="闪亮的南瓜帽" />
 	<key id="11304807" class="hat" name="圣诞银河帽" />
-	<key id="11304808" class="hat" name="ITEMNAME_11304808_NAME:[F]GlobalNpc" feature="GlobalNpc" />
 	<key id="11304809" class="hat" name="阴森斗笠帽" />
 	<key id="11304810" class="hat" name="流浪亡灵头饰" />
 	<key id="11304811" class="hat" name="皎洁明月" />
@@ -3057,7 +2895,6 @@
 	<key id="11309997" class="hat" name="血色挽歌帽" />
 	<key id="11309998" class="hat" name="凤凰帽" />
 	<key id="11309999" class="hat" name="雪雪铁甲头盔" />
-	<key id="11310000" class="hat" name="乏力的小黄鸭宝宝" feature="GlobalNpc" />
 	<key id="11310001" class="hat" name="（网吧）白色猫耳" feature="PCBang" />
 	<key id="11320001" class="hat" name="花式哥特王冠（男）" />
 	<key id="11320002" class="hat" name="花式哥特王冠（女）" />
@@ -3355,6 +3192,8 @@
 	<key id="11320362" class="hat" name="魔术师羽毛帽子（女）" />
 	<key id="11320363" name="巧克力羊角面包（男）" />
 	<key id="11320364" name="巧克力羊角面包（女）" />
+	<key id="11320365" class="hat" name="스페셜 웨딩 러블리 햇 (남)" feature="Wedding" />
+	<key id="11320366" class="hat" name="스페셜 웨딩 러블리 티아라 (여)" feature="Wedding" />
 	<key id="11320367" class="hat" name="旋舞花滑发夹（男）" />
 	<key id="11320368" class="hat" name="旋舞花滑发夹（女）" />
 	<key id="11320369" name="塞壬头冠（男）" />
@@ -5114,7 +4953,6 @@
 	<key id="11401165" class="coat" name="精英冒险战斗外套（符文剑士）" feature="Level70Item" />
 	<key id="11401166" class="coat" name="精英冒险军装衬衫（街霸）" feature="Level70Item" />
 	<key id="11401167" class="coat" name="精英冒险军装衬衫（启灵师）" feature="Level70Item" />
-	<key id="11401168" class="coat" name="ITEMNAME_11401168_NAME:[F]GlobalNpc" feature="GlobalNpc" />
 	<key id="11401169" class="coat" name="冒险岛联盟金力上装（女）" />
 	<key id="11401170" class="coat" name="绿披风警卫队菲奥雷上装（女）" />
 	<key id="11401171" class="coat" name="特莱雅近卫队纤细上装（女）" />
@@ -10706,7 +10544,6 @@
 	<key id="11701440" class="shoes" name="夏日庆典木屐（女）" />
 	<key id="11701441" class="shoes" name="和风夏日木屐（男）" />
 	<key id="11701442" class="shoes" name="和风夏日木屐（女）" />
-	<key id="11701444" class="shoes" name="小黄鸭宝宝幼儿园鞋" feature="GlobalNpc" />
 	<key id="11701445" class="shoes" name="螃蟹拖鞋" feature="ItemKR" />
 	<key id="11701446" class="shoes" name="忠诚冒险家的运动鞋" />
 	<key id="11701447" class="shoes" name="街头风运动鞋（男）" />
@@ -10869,6 +10706,8 @@
 	<key id="11720048" class="shoes" name="嘭嘭小丑鞋子（女）" />
 	<key id="11720049" class="shoes" name="精美饰带皮鞋（男）" />
 	<key id="11720050" class="shoes" name="精美饰带皮鞋（女）" />
+	<key id="11720049" class="shoes" name="큐티 레이스 구두 (남)" />
+	<key id="11720050" class="shoes" name="큐티 레이스 구두 (여)" />
 	<key id="11720051" name="甜蜜马卡龙鞋（男）" />
 	<key id="11720052" name="甜蜜马卡龙鞋（女）" />
 	<key id="11720053" class="shoes" name="蝴蝶君主皮鞋（男）" />
@@ -11970,8 +11809,6 @@
 	<key id="11800091" class="mantle" name="爱丽尔之翼" />
 	<key id="11800092" class="mantle" name="冥王星披风" feature="LegendaryAccessory01" />
 	<key id="11800093" class="mantle" name="火星披风" feature="LegendaryAccessory01" />
-	<key id="11800094" class="mantle" name="极限·巴尔坎之翼" feature="DungeonOpenCN1705" />
-	<key id="11800095" class="mantle" name="极限·炎魔的燃烧之翼" feature="DungeonOpenCN1705" />
 	<key id="11800096" name="（向导）命运之翼" />
 	<key id="11800097" name="（向导）国王披风" />
 	<key id="11800098" name="（向导）射手披风" />
@@ -12538,7 +12375,6 @@
 	<key id="11850193" class="mantle" name="宇宙飞行员UFO披风（女）" />
 	<key id="11850194" class="mantle" name="热带夏日鸡尾酒（男）" />
 	<key id="11850195" class="mantle" name="热带夏日鸡尾酒（女）" />
-	<key id="11850196" class="mantle" name="ITEMNAME_11850196_NAME:[F]GlobalNpc" feature="GlobalNpc" />
 	<key id="11850197" class="mantle" name="快乐水灵背包" />
 	<key id="11850198" class="mantle" name="吹号小天使" />
 	<key id="11850199" class="mantle" name="可爱心形背包" />
@@ -13494,7 +13330,6 @@
 	<key id="12200655" class="dress" name="夏日庆典服装（女）" />
 	<key id="12200656" class="dress" name="和风夏日浴衣（男）" />
 	<key id="12200657" class="dress" name="和风夏日浴衣（女）" />
-	<key id="12200658" class="dress" name="小黄鸭宝宝幼儿园外套" feature="GlobalNpc" />
 	<key id="12200661" class="dress" name="冒险岛四分卫制服（男）" />
 	<key id="12200662" class="dress" name="冒险岛四分卫制服（女）" />
 	<key id="12200665" class="dress" name="特莱雅宫廷厨师制服（男）" />
@@ -14466,7 +14301,6 @@
 	<key id="13140044" class="dagger" name="闪耀银饰蚀火短刀" />
 	<key id="13140054" class="dagger" name="闪耀格挡短剑" />
 	<key id="13140067" class="dagger" name="闪耀狩猎短刀" />
-	<key id="13140150" class="dagger" name="分子切割者 - 超越短刀" feature="DungeonOpenCN1704" />
 	<key id="13150127" class="dagger" name="符文巨神的夜枭短剑" />
 	<key id="13150149" class="dagger" name="斯宾克短刀" />
 	<key id="13150151" class="dagger" name="狂暴混乱匕首" />
@@ -14862,7 +14696,6 @@
 	<key id="13240049" class="longsword" name="闪耀白金无限之剑" />
 	<key id="13240057" class="longsword" name="闪耀圆头长剑" />
 	<key id="13240070" class="longsword" name="闪耀武装长剑" />
-	<key id="13240146" class="longsword" name="动力斩杀者 - 超越长剑" feature="DungeonOpenCN1704" />
 	<key id="13250123" class="longsword" name="符文巨神的征伐长剑" />
 	<key id="13250145" class="longsword" name="巴尔坎长剑" />
 	<key id="13250147" class="longsword" name="狂暴战斗长剑" />
@@ -15253,7 +15086,6 @@
 	<key id="13340040" class="scepter" name="闪耀白银铃铛魔杖" />
 	<key id="13340049" class="scepter" name="闪耀十字魔杖" />
 	<key id="13340062" class="scepter" name="闪耀球体魔杖" />
-	<key id="13340145" class="scepter" name="能量链接 - 超越魔杖" feature="DungeonOpenCN1704" />
 	<key id="13350121" class="scepter" name="符文巨神的神赐魔杖" />
 	<key id="13350144" class="scepter" name="阿玛顿的魔杖" />
 	<key id="13350146" class="scepter" name="狂暴神圣魔杖" />
@@ -15648,7 +15480,6 @@
 	<key id="13440041" class="javelin" name="闪耀金边飞镖" />
 	<key id="13440050" class="javelin" name="闪耀十字之星" />
 	<key id="13440063" class="javelin" name="闪耀蓝星" />
-	<key id="13440143" class="javelin" name="爆裂之星 - 超越镖" feature="DungeonOpenCN1704" />
 	<key id="13450121" class="javelin" name="符文巨神的弑影飞镖" />
 	<key id="13450142" class="javelin" name="威利·文卡德飞镖" />
 	<key id="13450144" class="javelin" name="狂暴暗杀飞镖" />
@@ -16744,7 +16575,6 @@
 	<key id="15040047" class="large sword" name="闪耀黄铜天狼星大剑" />
 	<key id="15040055" class="large sword" name="闪耀尖锐巨剑" />
 	<key id="15040068" class="large sword" name="闪耀平坦巨剑" />
-	<key id="15040150" class="large sword" name="粒子粉碎者 - 超越巨剑" feature="DungeonOpenCN1704" />
 	<key id="15050127" class="large sword" name="符文巨神的杀戮大剑" />
 	<key id="15050149" class="large sword" name="黑爵的巨剑" />
 	<key id="15050151" class="large sword" name="狂暴怒气巨剑" />
@@ -17139,7 +16969,6 @@
 	<key id="15140044" class="bow" name="闪耀土蠕虫弓" />
 	<key id="15140053" class="bow" name="闪耀敲击弓" />
 	<key id="15140066" class="bow" name="闪耀树叶弓" />
-	<key id="15140143" class="bow" name="齿轮缠绕者 - 超越弓" feature="DungeonOpenCN1704" />
 	<key id="15150121" class="bow" name="符文巨神的远古弓" />
 	<key id="15150142" class="bow" name="亚克雷文弓" />
 	<key id="15150144" class="bow" name="狂暴疾风弓" />
@@ -17536,7 +17365,6 @@
 	<key id="15240043" class="staff" name="闪耀灰烬羊角法杖" />
 	<key id="15240051" class="staff" name="闪耀翼之法杖" />
 	<key id="15240064" class="staff" name="闪耀魔方法杖" />
-	<key id="15240149" class="staff" name="魔力分裂器 - 超越法杖" feature="DungeonOpenCN1704" />
 	<key id="15250125" class="staff" name="符文巨神的圣咒法杖" />
 	<key id="15250148" class="staff" name="格拉兹那法杖" />
 	<key id="15250150" class="staff" name="狂暴魔灵法杖" />
@@ -17930,7 +17758,6 @@
 	<key id="15340042" class="cannon" name="闪耀黑铁火神炮" />
 	<key id="15340050" class="cannon" name="闪耀轰炸火炮" />
 	<key id="15340063" class="cannon" name="闪耀豪华火炮" />
-	<key id="15340143" class="cannon" name="粒子加速器 - 超越火炮" feature="DungeonOpenCN1704" />
 	<key id="15350120" class="cannon" name="符文巨神的轰鸣火炮" />
 	<key id="15350142" class="cannon" name="亚克雷文火炮" />
 	<key id="15350144" class="cannon" name="狂暴炮击火炮" />
@@ -18297,7 +18124,6 @@
 	<key id="15440082" class="blade" name="闪耀卡里伯长刀" />
 	<key id="15440083" class="blade" name="闪耀气宇长刀" />
 	<key id="15440084" class="blade" name="闪耀痛苦过往长刀" />
-	<key id="15440088" class="blade" name="青炎 - 超越长刀" feature="DungeonOpenCN1704" />
 	<key id="15450086" class="blade" name="符文巨神淬光长刀" />
 	<key id="15450089" class="blade" name="狂暴咒术长刀" />
 	<key id="15450101" class="blade" name="卡特班长刀" />
@@ -18531,7 +18357,6 @@
 	<key id="15500175" class="knuckle" name="（入门级）独特特制锋利拳套" />
 	<key id="15500182" class="knuckle" name="黑风安腾托拳套" />
 	<key id="15500183" class="knuckle" name="光明骑士团欧涅斯塔拳套" />
-	<key id="15500184" class="knuckle" name="特莱雅近卫队纤细拳套" />
 	<key id="15500185" class="knuckle" name="绿披风警卫队菲奥雷拳套" />
 	<key id="15500186" name="特莱雅近卫队纤细拳套" />
 	<key id="15500187" name="绿披风警卫队菲奥雷拳套" />
@@ -18641,7 +18466,6 @@
 	<key id="15540059" class="knuckle" name="闪耀卡里伯拳套" />
 	<key id="15540060" class="knuckle" name="闪耀气宇拳套" />
 	<key id="15540061" class="knuckle" name="闪耀痛苦过往拳套" />
-	<key id="15540089" class="knuckle" name="电子暴拳 - 超越拳套" feature="DungeonOpenCN1704" />
 	<key id="15550090" class="knuckle" name="狂暴乱斗拳套" />
 	<key id="15550520" class="knuckle" name="涌动之力乱斗拳套" />
 	<key id="15560065" class="knuckle" name="不灭拳套：斗志" feature="Striker" />
@@ -18985,7 +18809,6 @@
 	<key id="15640059" class="orb" name="闪耀卡里伯启灵珠" />
 	<key id="15640060" class="orb" name="闪耀气宇启灵珠" />
 	<key id="15640061" class="orb" name="闪耀痛苦过往启灵珠" />
-	<key id="15640089" class="orb" name="灵魂模块 - 超越启灵珠" feature="DungeonOpenCN1704" />
 	<key id="15650063" class="orb" name="符文巨神的自然启灵珠" feature="SoulBinder" />
 	<key id="15650080" class="orb" name="黑炎龙兽启灵珠" />
 	<key id="15650090" class="orb" name="狂暴意志启灵珠" />
@@ -19142,14 +18965,6 @@
 	<key id="18300001" class="throw" name="春日农场火焰放射器" />
 	<key id="18300002" class="throw" name="春日农场喷壶" />
 	<key id="18300003" class="throw" name="被污染的庭院火焰放射器" />
-	<key id="18300004" class="throw" name="净化之泉洒水壶" feature="GuildRaid02" />
-	<key id="18200001" class="throw" name="폭탄던지기 다연발 폭탄" />
-	<key id="18200002" class="throw" name="토템" />
-	<key id="18200003" class="throw" name="미나르 코브라조각상" />
-	<key id="18200004" class="throw" name="오크통 폭탄" />
-	<key id="18300001" class="throw" name="스프링 팜 화염방사기" />
-	<key id="18300002" class="throw" name="스프링 팜 물뿌리개" />
-	<key id="18300003" class="throw" name="오염된 정원 화염방사기" />
 	<key id="20000004" class="consume" name="生命药水" />
 	<key id="20000013" class="consume" name="乌龟蛋" />
 	<key id="20000014" class="consume" name="战斗食物" />
@@ -19306,14 +19121,14 @@
 	<key id="20000233" class="consume" name="（维护奖励）战士药水" />
 	<key id="20000234" class="consume" name="（维护奖励）魔法师药水" />
 	<key id="20000235" class="consume" name="（维护奖励）体力药水" />
-	<key id="20000236" class="consume" name="（维护奖励）防御药水" />
-	<key id="20000237" class="consume" name="营火炉" />
-	<key id="20000238" class="consume" name="黑暗能量药水" />
-	<key id="20000239" class="consume" name="斗士生命药水" />
-	<key id="20000240" class="consume" name="营养满分芙特" />
-	<key id="20000241" class="consume" name="有嚼劲的芙特" />
-	<key id="20000242" class="consume" name="南瓜糖果" />
-	<key id="20000243" class="consume" name="紫色糖果" />
+	<key id="20000236" class="consume" name="(점검보상) 방어의 물약" />
+	<key id="20000237" class="consume" name="캠프파이어 키트" />
+	<key id="20000238" class="consume" name="다크 에너지 포션" />
+	<key id="20000239" class="consume" name="투사의 엘릭서" />
+	<key id="20000240" class="consume" name="영양만점 후룻 바이 더 풋" />
+	<key id="20000241" class="consume" name="튼튼 후룻 바이 더 풋" />
+	<key id="20000242" class="consume" name="호박 캔디" />
+	<key id="20000243" class="consume" name="퍼플 캔디" />
 	<key id="20000244" class="consume" name="紫色糖果" feature="ItemKR" />
 	<key id="20000249" class="consume" name="金币感知眼药水" />
 	<key id="20000250" class="consume" name="高效经验值2倍券" />
@@ -19932,8 +19747,6 @@
 	<key id="20000997" class="package" name="称号：击败伊修罗的" />
 	<key id="20000998" class="package" name="称号：击败兰比斯的" />
 	<key id="20000999" class="package" name="称号：击败菲莉雅的" />
-	<key id="20001005" class="package" name="ITEMNAME_20001005_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<key id="20001006" class="package" name="ITEMNAME_20001006_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
 	<key id="20001007" class="consume" name="1周年烟花" />
 	<key id="20001013" class="consume" name="称号：一闪一闪亮晶晶" feature="WorldChampionMushroom" />
 	<key id="20001014" class="consume" name="称号：为吃而生" feature="WorldChampionMushroom" />
@@ -21631,7 +21444,6 @@
 	<key id="20300651" class="consume" name="惊奇宝箱" />
 	<key id="20300652" class="consume" name="宝石粉末箱" />
 	<key id="20300653" name="免费设计制作券" />
-	<key id="20300654" class="consume" name="红色蘑菇币包裹：1,000蘑菇币" feature="RedMerat" />
 	<key id="20300656" class="consume" name="宠物名称更改券" />
 	<key id="20300657" class="consume" name="公会名称更改券" />
 	<key id="20300660" class="consume" name="特别活动箱" />
@@ -21657,9 +21469,6 @@
 	<key id="20300696" class="consume" name="露露的钥匙碎片" />
 	<key id="20300697" class="consume" name="材料背包扩展券：6个栏位" />
 	<key id="20300698" class="consume" name="任务背包扩展券：6个栏位" />
-	<key id="20300715" class="consume" name="红色蘑菇币包裹：1,000蘑菇币" feature="RedMerat" />
-	<key id="20300716" class="consume" name="红色蘑菇币包裹：1,500蘑菇币" feature="RedMerat" />
-	<key id="20300717" class="consume" name="红色蘑菇币包裹：5,000蘑菇币" feature="RedMerat" />
 	<key id="20300718" class="consume" name="干得好礼物箱" />
 	<key id="20300719" class="consume" name="第一个箱子" />
 	<key id="20300720" class="consume" name="集章活动达成奖励" />
@@ -21824,13 +21633,6 @@
 	<key id="20300974" class="consume" name="重型精灵宝箱" />
 	<key id="20300975" class="consume" name="宝石支援箱（1级）" feature="ItemSocketSystem" />
 	<key id="20300976" class="consume" name="宝石支援箱（2级）" feature="ItemSocketSystem" />
-	<key id="20300977" class="consume" name="红色蘑菇币包裹：500蘑菇币" feature="RedMerat" />
-	<key id="20300978" class="consume" name="红色蘑菇币包裹：600蘑菇币" feature="RedMerat" />
-	<key id="20300979" class="consume" name="红色蘑菇币包裹：700蘑菇币" feature="RedMerat" />
-	<key id="20300980" class="consume" name="红色蘑菇币包裹：800蘑菇币" feature="RedMerat" />
-	<key id="20300981" class="consume" name="红色蘑菇币包裹：900蘑菇币" feature="RedMerat" />
-	<key id="20300982" class="consume" name="红色蘑菇币包裹：1,000蘑菇币" feature="RedMerat" />
-	<key id="20300983" class="consume" name="红色蘑菇币包裹：1,500蘑菇币" feature="RedMerat" />
 	<key id="20300984" class="consume" name="装备支援箱（饰品/普通）" feature="GuildSystem01" />
 	<key id="20300985" class="consume" name="装备支援箱（饰品/中级）" feature="GuildSystem01" />
 	<key id="20300986" class="consume" name="理发券" />
@@ -21900,8 +21702,6 @@
 	<key id="20301067" class="consume" name="副本周排行白金奖励箱" />
 	<key id="20301068" class="consume" name="副本周排行钻石奖励箱" />
 	<key id="20301070" class="consume" name="超越沙漏" />
-	<key id="20301077" class="consume" name="红色蘑菇币包裹：3,000蘑菇币" feature="RedMerat" />
-	<key id="20301078" class="consume" name="红色蘑菇币包裹：500蘑菇币" feature="RedMerat" />
 	<key id="20301079" class="consume" name="建筑禮包：熊猫屋" />
 	<key id="20301080" class="consume" name="月神之心愿箱" />
 	<key id="20301081" class="consume" name="月神之超级心愿箱" />
@@ -21957,10 +21757,8 @@
 	<key id="20301137" class="consume" name="闪耀的1级宝石箱" feature="ItemSocketSystem" />
 	<key id="20301138" class="consume" name="公会名称更改券" />
 	<key id="20301139" class="consume" name="惊奇礼物箱" />
-	<key id="20301140" class="consume" name="生日禮包" feature="HappyBirthday" />
 	<key id="20301141" class="consume" name="（活动）狂暴装备箱" />
 	<key id="20301142" class="consume" name="蘑菇币包裹：30蘑菇币" />
-	<key id="20301143" class="consume" name="星座主题对话框礼盒" feature="HappyBirthday" />
 	<key id="20301144" class="consume" name="建筑禮包：饺子店" />
 	<key id="20301145" class="consume" name="副本奖励次数增加券" />
 	<key id="20301147" class="consume" name="圣诞礼物箱" />
@@ -22154,14 +21952,12 @@
 	<key id="20301371" class="consume" name="世界入侵S级奖励箱" feature="WorldBossDungeon" />
 	<key id="20301372" class="consume" name="世界入侵S+级奖励箱" feature="WorldBossDungeon" />
 	<key id="20301374" class="consume" name="高级成长支援优惠券 + 红蘑菇币" />
-	<key id="20301375" class="consume" name="最高级稳固符文箱（武器专用）" feature="RestoreScroll50" />
 	<key id="20301376" class="consume" name="史诗级稳固符文箱（武器专用）" feature="EpicRestoreScroll50" />
 	<key id="20301377" class="consume" name="发光的祝福之石箱子：1000个" feature="SkinSocket" />
 	<key id="20301378" class="package" name="花籽口袋" />
 	<key id="20301379" class="package" name="魔法溶液箱" />
 	<key id="20301380" class="consume" name="酸酸糖果" />
 	<key id="20301381" class="consume" name="原味糖果" />
-	<key id="20301382" class="consume" name="最高级稳固符文箱（武器专用）" feature="RestoreScroll50" />
 	<key id="20301383" class="consume" name="史诗级稳固符文箱（武器专用）" feature="EpicRestoreScroll50" />
 	<key id="20301384" class="consume" name="春节纪念马托斯宠物随机胶囊" />
 	<key id="20301385" class="package" name="战斗宠物：神兽麒麟" />
@@ -22459,9 +22255,6 @@
 	<key id="20301740" class="consume" name="特殊精灵宝箱" />
 	<key id="20301746" class="consume" name="托德的研磨石箱" />
 	<key id="20301750" class="package" name="精英冒险家装备箱" feature="ItemKR" />
-	<key id="20301751" class="consume" name="ITEMNAME_20301751_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<key id="20301752" class="consume" name="ITEMNAME_20301752_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<key id="20301753" class="consume" name="ITEMNAME_20301753_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
 	<key id="20301754" class="package" name="精英冒险家装备箱" feature="Level60Item" />
 	<key id="20301755" class="package" name="50级达成奖励箱" />
 	<key id="20301756" class="package" name="52级达成奖励箱" />
@@ -22630,11 +22423,6 @@
 	<key id="20301986" class="consume" name="传说武器碎片选择箱" feature="Level60Item" />
 	<key id="20301987" class="consume" name="传说防具碎片选择箱" feature="Level60Item" />
 	<key id="20301988" class="consume" name="鲁米纳眼镜包裹" />
-	<key id="20301991" class="consume" name="红蘑菇币包裹：100蘑菇币" feature="RedMerat" />
-	<key id="20301992" class="consume" name="红蘑菇币包裹：100蘑菇币" feature="RedMerat" />
-	<key id="20301993" class="consume" name="红蘑菇币包裹：100蘑菇币" feature="RedMerat" />
-	<key id="20301994" class="consume" name="红蘑菇币包裹：100蘑菇币" feature="RedMerat" />
-	<key id="20301995" class="consume" name="红蘑菇币包裹：100蘑菇币" feature="RedMerat" />
 	<key id="20301996" name="冒险家的特殊药水箱" />
 	<key id="20301997" class="consume" name="3级高级宝石箱子" feature="ItemSocketSystem" />
 	<key id="20301998" class="consume" name="4级高级宝石箱" feature="ItemSocketSystem" />
@@ -23065,11 +22853,6 @@
 	<key id="20302840" class="package" name="扎昆的宝物选择箱" feature="Level70Item" />
 	<key id="20302841" class="package" name="地狱君主的宝物碎片选择箱" feature="Level70Item" />
 	<key id="20302842" class="package" name="地狱君主的宝物选择箱" feature="Level70Item" />
-	<key id="20302843" class="package" name="塔兰指挥官战斗上装、下装选择箱" feature="GlobalNpc" />
-	<key id="20302844" class="package" name="古代地狱君主上装、下装选择箱" feature="Level70Item" />
-	<key id="20302859" class="package" name="塔兰皇家帽子/手套/鞋子选择箱" feature="GlobalNpc" />
-	<key id="20302860" class="package" name="塔兰皇家上装/下装选择箱" feature="GlobalNpc" />
-	<key id="20302870" class="consume" name="红色蘑菇币包裹：1111蘑菇币" feature="RedMerat" />
 	<key id="20302872" class="consume" name="建筑禮包：日式房屋" />
 	<key id="20302873" class="consume" name="彩色水晶选择箱" />
 	<key id="20302883" class="consume" name="副本奖励次数增加券" />
@@ -23454,23 +23237,6 @@
 	<key id="20303379" name="春意盎然禮包" feature="22_04" />
 	<key id="20303380" name="+15 캐릭터 귀속 파이어 프리즘 무기 상자" feature="Level70Item" />
 	<key id="20303381" name="로맨틱 웨딩 웨폰 박스" />
-	<key id="20304000" name="11월 더키의 꾸미기 캡슐: 10개" />
-	<key id="20304001" name="컬러 크리스탈 10개 선택 상자 30개 조각" />
-	<key id="20320001" name="아이스 슬라임 상자 조각" />
-	<key id="20320002" name="아이스 예티 상자 조각" />
-	<key id="20320003" name="아이스 자쿰 상자 조각" />
-	<key id="20320004" name="아이스 슬라임 상자" />
-	<key id="20320005" name="아이스 예티 상자" />
-	<key id="20320006" name="아이스 자쿰 상자" />
-	<key id="20320013" name="슬라임 눈사람 누적 완성 보상 상자" />
-	<key id="20320014" name="예티 눈사람 누적 완성 보상 상자" />
-	<key id="20320015" name="자쿰 눈사람 누적 완성 보상 상자" />
-	<key id="20320019" name="오닉스 결정 10,000개 조각 패키지" />
-	<key id="20320021" name="컬러 크리스탈 10개 선택상자 30개 조각 패키지" />
-	<key id="20320023" name="카오닉스 결정 400개 조각 패키지" />
-	<key id="20320025" name="크리스탈 파편 2,000개 조각 패키지" />
-	<key id="20320027" name="메타셀 500개 조각 패키지" />
-	<key id="20320029" name="스페셜 스킨 크리스탈 600개 조각 패키지" />
 	<key id="20304000" name="小黃鴨靚耀扭蛋（第5期）：10个" />
 	<key id="20304001" name="彩色水晶（10个）选择箱碎片：30个" />
 	<key id="20320001" name="冰水灵之箱碎片" />
@@ -23839,7 +23605,6 @@
 	<key id="22001042" name="小黃鴨靚耀扭蛋（22年7月）" feature="22_06" />
 	<key id="22001043" name="小黃鴨靚耀扭蛋（22年8月）" feature="22_07" />
 	<key id="22001067" name="小黃鴨靚耀扭蛋（22年9月）" feature="22_08" />
-	<key id="22001068" name="小黃鴨靚耀扭蛋（22年9月）" feature="22_08" />
 	<key id="22001069" name="小黃鴨靚耀扭蛋（22年10月）" feature="22_09" />
 	<key id="22002001" class="randomBox" name="绿水灵奇趣蛋（第1期）" />
 	<key id="22002002" class="randomBox" name="绿水灵奇趣蛋（第2期）" />
@@ -23907,7 +23672,6 @@
 	<key id="22201042" name="小黃鴨靚耀硬幣（22年7月）" feature="22_06" />
 	<key id="22201043" name="小黃鴨靚耀硬幣（22年8月）" feature="22_07" />
 	<key id="22201067" name="小黃鴨靚耀硬幣（22年9月）" feature="22_08" />
-	<key id="22201068" name="小黃鴨靚耀硬幣（22年9月）" feature="22_08" />
 	<key id="22201069" name="小黃鴨靚耀硬幣（22年10月）" feature="22_09" />
 	<key id="22202001" class="randomBox" name="綠水靈奇趣硬幣（第1期）" />
 	<key id="22202002" class="randomBox" name="綠水靈奇趣硬幣（第2期）" />
@@ -23922,7 +23686,7 @@
 	<key id="22204003" class="randomBox" name="ITEMNAME_22204003_NAME:[F]ItemKR" feature="ItemKR" />
 	<key id="22204004" name="ITEMNAME_22204004_NAME:[F]ItemKR" feature="ItemKR" />
 	<key id="22204501" name="金秋特殊硬币" />
-	<key id="22204502" name="Pink Bean&apos;s Halloween Special Coin" />
+	<key id="22204502" name="핑크빈의 할로윈 스페셜 코인" />
 	<key id="22204503" name="缤纷如絮特殊硬币" />
 	<key id="22204505" name="布莱克缤和品克缤：异界的硬币" />
 	<key id="22204601" name="迎春感恩硬币" />
@@ -24782,7 +24546,6 @@
 	<key id="30000864" class="mission" name="皮丘皮丘泉水" feature="Quest2017_2" />
 	<key id="30000865" class="mission" name="石甲毒蝎的尾巴" feature="Quest2017_2" />
 	<key id="30000866" class="mission" name="蝾螈的火鬃" feature="Quest2017_2" />
-	<key id="30000867" class="mission" name="幸运勋章" feature="SpecialRandomShop" />
 	<key id="30000868" class="mission" name="亲切勇士证物" />
 	<key id="30000869" class="mission" name="活动副本币" feature="ItemPartyDungeon" />
 	<key id="30000870" class="mission" name="秘典卷轴" feature="Quest2017_2" />
@@ -24885,17 +24648,6 @@
 	<key id="30000970" class="mission" name="经验值药水 : 1,000,000" />
 	<key id="30000971" class="mission" name="凯伊活动经验值2倍券（30分钟）" />
 	<key id="30000972" class="mission" name="钓鱼经验值2倍券（30分钟）" />
-	<key id="30000975" class="mission" name="第一块提厄斯核心碎片" feature="Timaion01" />
-	<key id="30000976" class="mission" name="第二块提厄斯核心碎片" feature="Timaion01" />
-	<key id="30000977" class="mission" name="第三块提厄斯核心碎片" feature="Timaion01" />
-	<key id="30000978" class="mission" name="第四块提厄斯核心碎片" feature="Timaion01" />
-	<key id="30000979" class="mission" name="第五块提厄斯核心碎片" feature="Timaion01" />
-	<key id="30000980" class="mission" name="提厄斯核心" feature="Timaion01" />
-	<key id="30000981" class="mission" name="时钟齿轮" feature="Timaion01" />
-	<key id="30000982" class="mission" name="时钟发条" feature="Timaion01" />
-	<key id="30000983" class="mission" name="时钟螺丝" feature="Timaion01" />
-	<key id="30000984" class="mission" name="人偶螺丝" feature="Timaion01" />
-	<key id="30000985" class="mission" name="克里蒂亚斯币" feature="Timaion01" />
 	<key id="30000986" class="mission" name="走私的芭芭粉末" feature="FameContents" />
 	<key id="30000987" class="mission" name="超强力QQ糖" feature="FameContents" />
 	<key id="30000988" class="mission" name="窃取的新药样品" feature="FameContents" />
@@ -24922,24 +24674,10 @@
 	<key id="30001009" class="mission" name="世界石碎片" feature="FameContents" />
 	<key id="30001010" class="mission" name="咩咩币" />
 	<key id="30001011" class="mission" name="能力提升任务礼盒" />
-	<key id="30001012" class="mission" name="不明机器零件" feature="Timaion01" />
-	<key id="30001013" class="mission" name="黑水晶碎片" feature="Timaion01" />
-	<key id="30001014" class="mission" name="克里蒂亚斯魔法工学书" feature="Timaion01" />
-	<key id="30001015" class="mission" name="香喷喷的战斗食物" feature="Timaion01" />
-	<key id="30001016" class="mission" name="红光精髓" feature="Timaion01" />
-	<key id="30001017" class="mission" name="远程出售卷轴" feature="Timaion01" />
-	<key id="30001018" class="mission" name="金色万能钥匙" feature="Timaion01" />
-	<key id="30001019" class="mission" name="破烂胶皮碎片" feature="Timaion01" />
-	<key id="30001020" class="mission" name="特殊包装纸" feature="Timaion01" />
-	<key id="30001021" class="mission" name="人工光合作用装置" feature="Timaion01" />
-	<key id="30001022" class="mission" name="银色芦苇" feature="Timaion01" />
-	<key id="30001023" class="mission" name="氖黏土" feature="Timaion01" />
-	<key id="30001024" class="mission" name="克罗比斯电池" feature="Timaion01" />
 	<key id="30001025" class="mission" name="破旧钥匙" feature="TreasureMap01" />
 	<key id="30001026" class="mission" name="废弃矿山钥匙（地下1层）" feature="TreasureMap01" />
 	<key id="30001027" class="mission" name="废弃矿山钥匙（地下4层）" feature="TreasureMap01" />
 	<key id="30001028" class="mission" name="破旧钥匙" feature="TreasureMap01" />
-	<key id="30001029" class="mission" name="崩坏的炮塔碎片" feature="Timaion01" />
 	<key id="30001030" class="consume" name="发光的月亮碎片" />
 	<key id="30001032" class="mission" name="伤员救助" feature="FameContents" />
 	<key id="30001033" class="mission" name="记忆泉" feature="FameContents_EP1_01" />
@@ -25548,29 +25286,6 @@
 	<key id="31000218" class="enchant" name="11阶段最高级强化卷轴" />
 	<key id="31000219" class="enchant" name="12阶段最高级强化卷轴" />
 	<key id="31000220" class="enchant" name="12级高级强化卷轴" />
-	<key id="31000221" class="enchant" name="+10高级强化符文（LV50/单手）" feature="EnchantScroll50A" />
-	<key id="31000222" class="enchant" name="+10高级强化符文（LV50/双持）" feature="EnchantScroll50A" />
-	<key id="31000223" class="enchant" name="+10高级强化符文（LV50/双手）" feature="EnchantScroll50A" />
-	<key id="31000224" class="enchant" name="+10高级强化符文（LV50/连身衣）" feature="EnchantScroll50A" />
-	<key id="31000225" class="enchant" name="+10高级强化符文（LV50/上装）" feature="EnchantScroll50A" />
-	<key id="31000226" class="enchant" name="+10高级强化符文（LV50/下装）" feature="EnchantScroll50A" />
-	<key id="31000227" class="enchant" name="+11高级强化符文（LV50/单手）" feature="EnchantScroll50B" />
-	<key id="31000228" class="enchant" name="+11高级强化符文（LV50/双持）" feature="EnchantScroll50B" />
-	<key id="31000229" class="enchant" name="+11高级强化符文（LV50/双手）" feature="EnchantScroll50B" />
-	<key id="31000230" class="enchant" name="+11高级强化符文（LV50/连身衣）" feature="EnchantScroll50B" />
-	<key id="31000231" class="enchant" name="+11高级强化符文（LV50/上装）" feature="EnchantScroll50B" />
-	<key id="31000232" class="enchant" name="+11高级强化符文（LV50/下装）" feature="EnchantScroll50B" />
-	<key id="31000233" class="enchant" name="+10最高级强化符文（LV50/单手）" feature="EnchantScroll50A" />
-	<key id="31000234" class="enchant" name="+10最高级强化符文（LV50/双持）" feature="EnchantScroll50A" />
-	<key id="31000235" class="enchant" name="+10最高级强化符文（LV50/双手）" feature="EnchantScroll50A" />
-	<key id="31000236" class="enchant" name="+10最高级强化符文（LV50/连身衣）" feature="EnchantScroll50A" />
-	<key id="31000237" class="enchant" name="+10最高级强化符文（LV50/上装）" feature="EnchantScroll50A" />
-	<key id="31000238" class="enchant" name="+10最高级强化符文（LV50/下装）" feature="EnchantScroll50A" />
-	<key id="31000239" class="enchant" name="+11最高级强化符文（LV50/单手）" feature="EnchantScroll50B" />
-	<key id="31000240" class="enchant" name="+11最高级强化符文（LV50/双持）" feature="EnchantScroll50B" />
-	<key id="31000241" class="enchant" name="+11最高级强化符文（LV50/双手）" feature="EnchantScroll50B" />
-	<key id="31000243" class="enchant" name="+11最高级强化符文（LV50/上装）" feature="EnchantScroll50B" />
-	<key id="31000244" class="enchant" name="+11最高级强化符文（LV50/下装）" feature="EnchantScroll50B" />
 	<key id="31000245" class="enchant" name="+10高级强化符文（LV52/单手）" feature="EnchantScroll52A" />
 	<key id="31000246" class="enchant" name="+10高级强化符文（LV52/双持）" feature="EnchantScroll52A" />
 	<key id="31000247" class="enchant" name="+10高级强化符文（LV52/双手）" feature="EnchantScroll52A" />
@@ -25611,18 +25326,6 @@
 	<key id="31000313" class="enchant" name="+11最高级强化符文（LV56/双手）" feature="EnchantScroll56B" />
 	<key id="31000315" class="enchant" name="+11最高级强化符文（LV56/上装）" feature="EnchantScroll56B" />
 	<key id="31000316" class="enchant" name="+11最高级强化符文（LV56/下装）" feature="EnchantScroll56B" />
-	<key id="31000317" class="enchant" name="高级稳固符文（LV50/单手）" feature="RestoreScroll50" />
-	<key id="31000318" class="enchant" name="高级稳固符文（LV50/双持）" feature="RestoreScroll50" />
-	<key id="31000319" class="enchant" name="高级稳固符文（LV50/双手）" feature="RestoreScroll50" />
-	<key id="31000320" class="enchant" name="高级稳固符文（LV50/连身衣）" feature="RestoreScroll50" />
-	<key id="31000321" class="enchant" name="高级稳固符文（LV50/上装）" feature="RestoreScroll50" />
-	<key id="31000322" class="enchant" name="高级稳固符文（LV50/下装）" feature="RestoreScroll50" />
-	<key id="31000323" class="enchant" name="最高级稳固符文（LV50/单手）" feature="RestoreScroll50" />
-	<key id="31000324" class="enchant" name="最高级稳固符文（LV50/双持）" feature="RestoreScroll50" />
-	<key id="31000325" class="enchant" name="最高级稳固符文（LV50/双手）" feature="RestoreScroll50" />
-	<key id="31000326" class="enchant" name="最高级稳固符文（LV50/连身衣）" feature="RestoreScroll50" />
-	<key id="31000327" class="enchant" name="最高级稳固符文（LV50/上装）" feature="RestoreScroll50" />
-	<key id="31000328" class="enchant" name="最高级稳固符文（LV50/下装）" feature="RestoreScroll50" />
 	<key id="31000329" class="enchant" name="高级稳固符文（LV52/单手）" feature="RestoreScroll52" />
 	<key id="31000330" class="enchant" name="高级稳固符文（LV52/双持）" feature="RestoreScroll52" />
 	<key id="31000331" class="enchant" name="高级稳固符文（LV52/双手）" feature="RestoreScroll52" />
@@ -25675,254 +25378,6 @@
 	<key id="31000397" class="enchant" name="10级高级强化卷轴" />
 	<key id="31000398" class="enchant" name="1插槽变换卷轴（LV50/戒指）" />
 	<key id="31000399" class="enchant" name="2插槽变换卷轴（LV50/戒指）" />
-	<key id="31000400" class="enchant" name="+11高级强化符文（LV50/武器）" feature="EnchantScroll50B" />
-	<key id="31000401" class="enchant" name="+11高级强化符文(LV50/防具)" feature="EnchantScroll50B" />
-	<key id="31000402" class="enchant" name="+9高级保护符文(LV50/单手)" feature="ProtectedScroll50A" />
-	<key id="31000403" class="enchant" name="+9高级保护符文(LV50/双持)" feature="ProtectedScroll50A" />
-	<key id="31000404" class="enchant" name="+9高级保护符文(LV50/双手)" feature="ProtectedScroll50A" />
-	<key id="31000405" class="enchant" name="+9高级保护符文(LV50/连身衣)" feature="ProtectedScroll50A" />
-	<key id="31000406" class="enchant" name="+9高级保护符文(LV50/上装)" feature="ProtectedScroll50A" />
-	<key id="31000407" class="enchant" name="+9高级保护符文(LV50/裤子)" feature="ProtectedScroll50A" />
-	<key id="31000408" class="enchant" name="+10高级保护符文(LV50/单手)" feature="ProtectedScroll50A" />
-	<key id="31000409" class="enchant" name="+10高级保护符文(LV50/双持)" feature="ProtectedScroll50A" />
-	<key id="31000410" class="enchant" name="+10高级保护符文(LV50/双手)" feature="ProtectedScroll50A" />
-	<key id="31000411" class="enchant" name="+10高级保护符文(LV50/连身衣)" feature="ProtectedScroll50A" />
-	<key id="31000412" class="enchant" name="+10高级保护符文(LV50/上装)" feature="ProtectedScroll50A" />
-	<key id="31000413" class="enchant" name="+10高级保护符文(LV50/裤子)" feature="ProtectedScroll50A" />
-	<key id="31000414" class="enchant" name="+11高级保护符文(LV50/单手)" feature="ProtectedScroll50B" />
-	<key id="31000415" class="enchant" name="+11高级保护符文(LV50/双持)" feature="ProtectedScroll50B" />
-	<key id="31000416" class="enchant" name="+11高级保护符文(LV50/双手)" feature="ProtectedScroll50B" />
-	<key id="31000417" class="enchant" name="+11高级保护符文(LV50/连身衣)" feature="ProtectedScroll50B" />
-	<key id="31000418" class="enchant" name="+11高级保护符文(LV50/上装)" feature="ProtectedScroll50B" />
-	<key id="31000419" class="enchant" name="+11高级保护符文(LV50/裤子)" feature="ProtectedScroll50B" />
-	<key id="31000420" class="enchant" name="+12高级保护符文(LV50/单手)" feature="ProtectedScroll50B" />
-	<key id="31000421" class="enchant" name="+12高级保护符文(LV50/双持)" feature="ProtectedScroll50B" />
-	<key id="31000422" class="enchant" name="+12高级保护符文(LV50/双手)" feature="ProtectedScroll50B" />
-	<key id="31000423" class="enchant" name="+12高级保护符文(LV50/连身衣)" feature="ProtectedScroll50B" />
-	<key id="31000424" class="enchant" name="+12高级保护符文(LV50/上装)" feature="ProtectedScroll50B" />
-	<key id="31000425" class="enchant" name="+12高级保护符文(LV50/裤子)" feature="ProtectedScroll50B" />
-	<key id="31000426" class="enchant" name="+13高级保护符文(LV50/单手)" feature="ProtectedScroll50B" />
-	<key id="31000427" class="enchant" name="+13高级保护符文(LV50/双持)" feature="ProtectedScroll50B" />
-	<key id="31000428" class="enchant" name="+13高级保护符文(LV50/双手)" feature="ProtectedScroll50B" />
-	<key id="31000429" class="enchant" name="+13高级保护符文(LV50/连身衣)" feature="ProtectedScroll50B" />
-	<key id="31000430" class="enchant" name="+13高级保护符文(LV50/上装)" feature="ProtectedScroll50B" />
-	<key id="31000431" class="enchant" name="+13高级保护符文(LV50/裤子)" feature="ProtectedScroll50B" />
-	<key id="31000432" class="enchant" name="+14高级保护符文(LV50/单手)" feature="ProtectedScroll50B" />
-	<key id="31000433" class="enchant" name="+14高级保护符文(LV50/双持)" feature="ProtectedScroll50B" />
-	<key id="31000434" class="enchant" name="+14高级保护符文(LV50/双手)" feature="ProtectedScroll50B" />
-	<key id="31000435" class="enchant" name="+14高级保护符文(LV50/连身衣)" feature="ProtectedScroll50B" />
-	<key id="31000436" class="enchant" name="+14高级保护符文(LV50/上装)" feature="ProtectedScroll50B" />
-	<key id="31000437" class="enchant" name="+14高级保护符文(LV50/裤子)" feature="ProtectedScroll50B" />
-	<key id="31000444" class="enchant" name="+9最高级保护符文(LV50/单手)" feature="ProtectedScroll50A" />
-	<key id="31000445" class="enchant" name="+9最高级保护符文(LV50/双持)" feature="ProtectedScroll50A" />
-	<key id="31000446" class="enchant" name="+9最高级保护符文(LV50/双手)" feature="ProtectedScroll50A" />
-	<key id="31000448" class="enchant" name="+9最高级保护符文(LV50/上装)" feature="ProtectedScroll50A" />
-	<key id="31000449" class="enchant" name="+9最高级保护符文(LV50/裤子)" feature="ProtectedScroll50A" />
-	<key id="31000450" class="enchant" name="+10最高级保护符文(LV50/单手)" feature="ProtectedScroll50A" />
-	<key id="31000451" class="enchant" name="+10最高级保护符文(LV50/双持)" feature="ProtectedScroll50A" />
-	<key id="31000452" class="enchant" name="+10最高级保护符文(LV50/双手)" feature="ProtectedScroll50A" />
-	<key id="31000454" class="enchant" name="+10最高级保护符文(LV50/上装)" feature="ProtectedScroll50A" />
-	<key id="31000455" class="enchant" name="+10最高级保护符文(LV50/裤子)" feature="ProtectedScroll50A" />
-	<key id="31000456" class="enchant" name="+11最高级保护符文(LV50/单手)" feature="ProtectedScroll50B" />
-	<key id="31000457" class="enchant" name="+11最高级保护符文(LV50/双持)" feature="ProtectedScroll50B" />
-	<key id="31000458" class="enchant" name="+11最高级保护符文(LV50/双手)" feature="ProtectedScroll50B" />
-	<key id="31000460" class="enchant" name="+11最高级保护符文(LV50/上装)" feature="ProtectedScroll50B" />
-	<key id="31000461" class="enchant" name="+11最高级保护符文(LV50/裤子)" feature="ProtectedScroll50B" />
-	<key id="31000462" class="enchant" name="+12最高级保护符文(LV50/单手)" feature="ProtectedScroll50B" />
-	<key id="31000463" class="enchant" name="+12最高级保护符文(LV50/双持)" feature="ProtectedScroll50B" />
-	<key id="31000464" class="enchant" name="+12最高级保护符文(LV50/双手)" feature="ProtectedScroll50B" />
-	<key id="31000466" class="enchant" name="+12最高级保护符文(LV50/上装)" feature="ProtectedScroll50B" />
-	<key id="31000467" class="enchant" name="+12最高级保护符文(LV50/裤子)" feature="ProtectedScroll50B" />
-	<key id="31000468" class="enchant" name="+13最高级保护符文(LV50/单手)" feature="ProtectedScroll50B" />
-	<key id="31000469" class="enchant" name="+13最高级保护符文(LV50/双持)" feature="ProtectedScroll50B" />
-	<key id="31000470" class="enchant" name="+13最高级保护符文(LV50/双手)" feature="ProtectedScroll50B" />
-	<key id="31000472" class="enchant" name="+13最高级保护符文(LV50/上装)" feature="ProtectedScroll50B" />
-	<key id="31000473" class="enchant" name="+13最高级保护符文(LV50/裤子)" feature="ProtectedScroll50B" />
-	<key id="31000474" class="enchant" name="+14最高级保护符文(LV50/单手)" feature="ProtectedScroll50B" />
-	<key id="31000475" class="enchant" name="+14最高级保护符文(LV50/双持)" feature="ProtectedScroll50B" />
-	<key id="31000476" class="enchant" name="+14最高级保护符文(LV50/双手)" feature="ProtectedScroll50B" />
-	<key id="31000478" class="enchant" name="+14最高级保护符文(LV50/上装)" feature="ProtectedScroll50B" />
-	<key id="31000479" class="enchant" name="+14最高级保护符文(LV50/裤子)" feature="ProtectedScroll50B" />
-	<key id="31000486" class="enchant" name="+9高级保护符文(LV52/单手)" feature="ProtectedScroll52A" />
-	<key id="31000487" class="enchant" name="+9高级保护符文(LV52/双持)" feature="ProtectedScroll52A" />
-	<key id="31000488" class="enchant" name="+9高级保护符文(LV52/双手)" feature="ProtectedScroll52A" />
-	<key id="31000490" class="enchant" name="+9高级保护符文(LV52/上装)" feature="ProtectedScroll52A" />
-	<key id="31000491" class="enchant" name="+9高级保护符文(LV52/裤子)" feature="ProtectedScroll52A" />
-	<key id="31000492" class="enchant" name="+10高级保护符文(LV52/单手)" feature="ProtectedScroll52A" />
-	<key id="31000493" class="enchant" name="+10高级保护符文(LV52/双持)" feature="ProtectedScroll52A" />
-	<key id="31000494" class="enchant" name="+10高级保护符文(LV52/双手)" feature="ProtectedScroll52A" />
-	<key id="31000496" class="enchant" name="+10高级保护符文(LV52/上装)" feature="ProtectedScroll52A" />
-	<key id="31000497" class="enchant" name="+10高级保护符文(LV52/裤子)" feature="ProtectedScroll52A" />
-	<key id="31000498" class="enchant" name="+11高级保护符文(LV52/单手)" feature="ProtectedScroll52B" />
-	<key id="31000499" class="enchant" name="+11高级保护符文(LV52/双持)" feature="ProtectedScroll52B" />
-	<key id="31000500" class="enchant" name="+11高级保护符文(LV52/双手)" feature="ProtectedScroll52B" />
-	<key id="31000502" class="enchant" name="+11高级保护符文(LV52/上装)" feature="ProtectedScroll52B" />
-	<key id="31000503" class="enchant" name="+11高级保护符文(LV52/裤子)" feature="ProtectedScroll52B" />
-	<key id="31000504" class="enchant" name="+12高级保护符文(LV52/单手)" feature="ProtectedScroll52B" />
-	<key id="31000505" class="enchant" name="+12高级保护符文(LV52/双持)" feature="ProtectedScroll52B" />
-	<key id="31000506" class="enchant" name="+12高级保护符文(LV52/双手)" feature="ProtectedScroll52B" />
-	<key id="31000508" class="enchant" name="+12高级保护符文(LV52/上装)" feature="ProtectedScroll52B" />
-	<key id="31000509" class="enchant" name="+12高级保护符文(LV52/裤子)" feature="ProtectedScroll52B" />
-	<key id="31000510" class="enchant" name="+13高级保护符文(LV52/单手)" feature="ProtectedScroll52B" />
-	<key id="31000511" class="enchant" name="+13高级保护符文(LV52/双持)" feature="ProtectedScroll52B" />
-	<key id="31000512" class="enchant" name="+13高级保护符文(LV52/双手)" feature="ProtectedScroll52B" />
-	<key id="31000514" class="enchant" name="+13高级保护符文(LV52/上装)" feature="ProtectedScroll52B" />
-	<key id="31000515" class="enchant" name="+13高级保护符文(LV52/裤子)" feature="ProtectedScroll52B" />
-	<key id="31000516" class="enchant" name="+14高级保护符文(LV52/单手)" feature="ProtectedScroll52B" />
-	<key id="31000517" class="enchant" name="+14高级保护符文(LV52/双持)" feature="ProtectedScroll52B" />
-	<key id="31000518" class="enchant" name="+14高级保护符文(LV52/双手)" feature="ProtectedScroll52B" />
-	<key id="31000520" class="enchant" name="+14高级保护符文(LV52/上装)" feature="ProtectedScroll52B" />
-	<key id="31000521" class="enchant" name="+14高级保护符文(LV52/裤子)" feature="ProtectedScroll52B" />
-	<key id="31000528" class="enchant" name="+9最高级保护符文(LV52/单手)" feature="ProtectedScroll52A" />
-	<key id="31000529" class="enchant" name="+9最高级保护符文(LV52/双持)" feature="ProtectedScroll52A" />
-	<key id="31000530" class="enchant" name="+9最高级保护符文(LV52/双手)" feature="ProtectedScroll52A" />
-	<key id="31000532" class="enchant" name="+9最高级保护符文(LV52/上装)" feature="ProtectedScroll52A" />
-	<key id="31000533" class="enchant" name="+9最高级保护符文(LV52/裤子)" feature="ProtectedScroll52A" />
-	<key id="31000534" class="enchant" name="+10最高级保护符文(LV52/单手)" feature="ProtectedScroll52A" />
-	<key id="31000535" class="enchant" name="+10最高级保护符文(LV52/双持)" feature="ProtectedScroll52A" />
-	<key id="31000536" class="enchant" name="+10最高级保护符文(LV52/双手)" feature="ProtectedScroll52A" />
-	<key id="31000538" class="enchant" name="+10最高级保护符文(LV52/上装)" feature="ProtectedScroll52A" />
-	<key id="31000539" class="enchant" name="+10最高级保护符文(LV52/裤子)" feature="ProtectedScroll52A" />
-	<key id="31000540" class="enchant" name="+11最高级保护符文(LV52/单手)" feature="ProtectedScroll52B" />
-	<key id="31000541" class="enchant" name="+11最高级保护符文(LV52/双持)" feature="ProtectedScroll52B" />
-	<key id="31000542" class="enchant" name="+11最高级保护符文(LV52/双手)" feature="ProtectedScroll52B" />
-	<key id="31000544" class="enchant" name="+11最高级保护符文(LV52/上装)" feature="ProtectedScroll52B" />
-	<key id="31000545" class="enchant" name="+11最高级保护符文(LV52/裤子)" feature="ProtectedScroll52B" />
-	<key id="31000546" class="enchant" name="+12最高级保护符文(LV52/单手)" feature="ProtectedScroll52B" />
-	<key id="31000547" class="enchant" name="+12最高级保护符文(LV52/双持)" feature="ProtectedScroll52B" />
-	<key id="31000548" class="enchant" name="+12最高级保护符文(LV52/双手)" feature="ProtectedScroll52B" />
-	<key id="31000550" class="enchant" name="+12最高级保护符文(LV52/上装)" feature="ProtectedScroll52B" />
-	<key id="31000551" class="enchant" name="+12最高级保护符文(LV52/裤子)" feature="ProtectedScroll52B" />
-	<key id="31000552" class="enchant" name="+13最高级保护符文(LV52/单手)" feature="ProtectedScroll52B" />
-	<key id="31000553" class="enchant" name="+13最高级保护符文(LV52/双持)" feature="ProtectedScroll52B" />
-	<key id="31000554" class="enchant" name="+13最高级保护符文(LV52/双手)" feature="ProtectedScroll52B" />
-	<key id="31000556" class="enchant" name="+13最高级保护符文(LV52/上装)" feature="ProtectedScroll52B" />
-	<key id="31000557" class="enchant" name="+13最高级保护符文(LV52/裤子)" feature="ProtectedScroll52B" />
-	<key id="31000558" class="enchant" name="+14最高级保护符文(LV52/单手)" feature="ProtectedScroll52B" />
-	<key id="31000559" class="enchant" name="+14最高级保护符文(LV52/双持)" feature="ProtectedScroll52B" />
-	<key id="31000560" class="enchant" name="+14最高级保护符文(LV52/双手)" feature="ProtectedScroll52B" />
-	<key id="31000562" class="enchant" name="+14最高级保护符文(LV52/上装)" feature="ProtectedScroll52B" />
-	<key id="31000563" class="enchant" name="+14最高级保护符文(LV52/裤子)" feature="ProtectedScroll52B" />
-	<key id="31000570" class="enchant" name="+9高级保护符文(LV54/单手)" feature="ProtectedScroll54A" />
-	<key id="31000571" class="enchant" name="+9高级保护符文(LV54/双持)" feature="ProtectedScroll54A" />
-	<key id="31000572" class="enchant" name="+9高级保护符文(LV54/双手)" feature="ProtectedScroll54A" />
-	<key id="31000574" class="enchant" name="+9高级保护符文(LV54/上装)" feature="ProtectedScroll54A" />
-	<key id="31000575" class="enchant" name="+9高级保护符文(LV54/裤子)" feature="ProtectedScroll54A" />
-	<key id="31000576" class="enchant" name="+10高级保护符文(LV54/单手)" feature="ProtectedScroll54A" />
-	<key id="31000577" class="enchant" name="+10高级保护符文(LV54/双持)" feature="ProtectedScroll54A" />
-	<key id="31000578" class="enchant" name="+10高级保护符文(LV54/双手)" feature="ProtectedScroll54A" />
-	<key id="31000580" class="enchant" name="+10高级保护符文(LV54/上装)" feature="ProtectedScroll54A" />
-	<key id="31000581" class="enchant" name="+10高级保护符文(LV54/裤子)" feature="ProtectedScroll54A" />
-	<key id="31000582" class="enchant" name="+11高级保护符文(LV54/单手)" feature="ProtectedScroll54B" />
-	<key id="31000583" class="enchant" name="+11高级保护符文(LV54/双持)" feature="ProtectedScroll54B" />
-	<key id="31000584" class="enchant" name="+11高级保护符文(LV54/双手)" feature="ProtectedScroll54B" />
-	<key id="31000586" class="enchant" name="+11高级保护符文(LV54/上装)" feature="ProtectedScroll54B" />
-	<key id="31000587" class="enchant" name="+11高级保护符文(LV54/裤子)" feature="ProtectedScroll54B" />
-	<key id="31000588" class="enchant" name="+12高级保护符文(LV54/单手)" feature="ProtectedScroll54B" />
-	<key id="31000589" class="enchant" name="+12高级保护符文(LV54/双持)" feature="ProtectedScroll54B" />
-	<key id="31000590" class="enchant" name="+12高级保护符文(LV54/双手)" feature="ProtectedScroll54B" />
-	<key id="31000592" class="enchant" name="+12高级保护符文(LV54/上装)" feature="ProtectedScroll54B" />
-	<key id="31000593" class="enchant" name="+12高级保护符文(LV54/裤子)" feature="ProtectedScroll54B" />
-	<key id="31000594" class="enchant" name="+13高级保护符文(LV54/单手)" feature="ProtectedScroll54B" />
-	<key id="31000595" class="enchant" name="+13高级保护符文(LV54/双持)" feature="ProtectedScroll54B" />
-	<key id="31000596" class="enchant" name="+13高级保护符文(LV54/双手)" feature="ProtectedScroll54B" />
-	<key id="31000598" class="enchant" name="+13高级保护符文(LV54/上装)" feature="ProtectedScroll54B" />
-	<key id="31000599" class="enchant" name="+13高级保护符文(LV54/裤子)" feature="ProtectedScroll54B" />
-	<key id="31000600" class="enchant" name="+14高级保护符文(LV54/单手)" feature="ProtectedScroll54B" />
-	<key id="31000601" class="enchant" name="+14高级保护符文(LV54/双持)" feature="ProtectedScroll54B" />
-	<key id="31000602" class="enchant" name="+14高级保护符文(LV54/双手)" feature="ProtectedScroll54B" />
-	<key id="31000604" class="enchant" name="+14高级保护符文(LV54/上装)" feature="ProtectedScroll54B" />
-	<key id="31000605" class="enchant" name="+14高级保护符文(LV54/裤子)" feature="ProtectedScroll54B" />
-	<key id="31000612" class="enchant" name="+9最高级保护符文(LV54/单手)" feature="ProtectedScroll54A" />
-	<key id="31000613" class="enchant" name="+9最高级保护符文(LV54/双持)" feature="ProtectedScroll54A" />
-	<key id="31000614" class="enchant" name="+9最高级保护符文(LV54/双手)" feature="ProtectedScroll54A" />
-	<key id="31000616" class="enchant" name="+9最高级保护符文(LV54/上装)" feature="ProtectedScroll54A" />
-	<key id="31000617" class="enchant" name="+9最高级保护符文(LV54/裤子)" feature="ProtectedScroll54A" />
-	<key id="31000618" class="enchant" name="+10最高级保护符文(LV54/单手)" feature="ProtectedScroll54A" />
-	<key id="31000619" class="enchant" name="+10最高级保护符文(LV54/双持)" feature="ProtectedScroll54A" />
-	<key id="31000620" class="enchant" name="+10最高级保护符文(LV54/双手)" feature="ProtectedScroll54A" />
-	<key id="31000622" class="enchant" name="+10最高级保护符文(LV54/上装)" feature="ProtectedScroll54A" />
-	<key id="31000623" class="enchant" name="+10最高级保护符文(LV54/裤子)" feature="ProtectedScroll54A" />
-	<key id="31000624" class="enchant" name="+11最高级保护符文(LV54/单手)" feature="ProtectedScroll54B" />
-	<key id="31000625" class="enchant" name="+11最高级保护符文(LV54/双持)" feature="ProtectedScroll54B" />
-	<key id="31000626" class="enchant" name="+11最高级保护符文(LV54/双手)" feature="ProtectedScroll54B" />
-	<key id="31000628" class="enchant" name="+11最高级保护符文(LV54/上装)" feature="ProtectedScroll54B" />
-	<key id="31000629" class="enchant" name="+11最高级保护符文(LV54/裤子)" feature="ProtectedScroll54B" />
-	<key id="31000630" class="enchant" name="+12最高级保护符文(LV54/单手)" feature="ProtectedScroll54B" />
-	<key id="31000631" class="enchant" name="+12最高级保护符文(LV54/双持)" feature="ProtectedScroll54B" />
-	<key id="31000632" class="enchant" name="+12最高级保护符文(LV54/双手)" feature="ProtectedScroll54B" />
-	<key id="31000634" class="enchant" name="+12最高级保护符文(LV54/上装)" feature="ProtectedScroll54B" />
-	<key id="31000635" class="enchant" name="+12最高级保护符文(LV54/裤子)" feature="ProtectedScroll54B" />
-	<key id="31000636" class="enchant" name="+13最高级保护符文(LV54/单手)" feature="ProtectedScroll54B" />
-	<key id="31000637" class="enchant" name="+13最高级保护符文(LV54/双持)" feature="ProtectedScroll54B" />
-	<key id="31000638" class="enchant" name="+13最高级保护符文(LV54/双手)" feature="ProtectedScroll54B" />
-	<key id="31000640" class="enchant" name="+13最高级保护符文(LV54/上装)" feature="ProtectedScroll54B" />
-	<key id="31000641" class="enchant" name="+13最高级保护符文(LV54/裤子)" feature="ProtectedScroll54B" />
-	<key id="31000642" class="enchant" name="+14最高级保护符文(LV54/单手)" feature="ProtectedScroll54B" />
-	<key id="31000643" class="enchant" name="+14最高级保护符文(LV54/双持)" feature="ProtectedScroll54B" />
-	<key id="31000644" class="enchant" name="+14最高级保护符文(LV54/双手)" feature="ProtectedScroll54B" />
-	<key id="31000646" class="enchant" name="+14最高级保护符文(LV54/上装)" feature="ProtectedScroll54B" />
-	<key id="31000647" class="enchant" name="+14最高级保护符文(LV54/裤子)" feature="ProtectedScroll54B" />
-	<key id="31000654" class="enchant" name="+9高级保护符文(LV56/单手)" feature="ProtectedScroll56A" />
-	<key id="31000655" class="enchant" name="+9高级保护符文(LV56/双持)" feature="ProtectedScroll56A" />
-	<key id="31000656" class="enchant" name="+9高级保护符文(LV56/双手)" feature="ProtectedScroll56A" />
-	<key id="31000658" class="enchant" name="+9高级保护符文(LV56/上装)" feature="ProtectedScroll56A" />
-	<key id="31000659" class="enchant" name="+9高级保护符文(LV56/裤子)" feature="ProtectedScroll56A" />
-	<key id="31000660" class="enchant" name="+10高级保护符文(LV56/单手)" feature="ProtectedScroll56A" />
-	<key id="31000661" class="enchant" name="+10高级保护符文(LV56/双持)" feature="ProtectedScroll56A" />
-	<key id="31000662" class="enchant" name="+10高级保护符文(LV56/双手)" feature="ProtectedScroll56A" />
-	<key id="31000664" class="enchant" name="+10高级保护符文(LV56/上装)" feature="ProtectedScroll56A" />
-	<key id="31000665" class="enchant" name="+10高级保护符文(LV56/裤子)" feature="ProtectedScroll56A" />
-	<key id="31000666" class="enchant" name="+11高级保护符文(LV56/单手)" feature="ProtectedScroll56B" />
-	<key id="31000667" class="enchant" name="+11高级保护符文(LV56/双持)" feature="ProtectedScroll56B" />
-	<key id="31000668" class="enchant" name="+11高级保护符文(LV56/双手)" feature="ProtectedScroll56B" />
-	<key id="31000670" class="enchant" name="+11高级保护符文(LV56/上装)" feature="ProtectedScroll56B" />
-	<key id="31000671" class="enchant" name="+11高级保护符文(LV56/裤子)" feature="ProtectedScroll56B" />
-	<key id="31000672" class="enchant" name="+12高级保护符文(LV56/单手)" feature="ProtectedScroll56B" />
-	<key id="31000673" class="enchant" name="+12高级保护符文(LV56/双持)" feature="ProtectedScroll56B" />
-	<key id="31000674" class="enchant" name="+12高级保护符文(LV56/双手)" feature="ProtectedScroll56B" />
-	<key id="31000676" class="enchant" name="+12高级保护符文(LV56/上装)" feature="ProtectedScroll56B" />
-	<key id="31000677" class="enchant" name="+12高级保护符文(LV56/裤子)" feature="ProtectedScroll56B" />
-	<key id="31000678" class="enchant" name="+13高级保护符文(LV56/单手)" feature="ProtectedScroll56B" />
-	<key id="31000679" class="enchant" name="+13高级保护符文(LV56/双持)" feature="ProtectedScroll56B" />
-	<key id="31000680" class="enchant" name="+13高级保护符文(LV56/双手)" feature="ProtectedScroll56B" />
-	<key id="31000682" class="enchant" name="+13高级保护符文(LV56/上装)" feature="ProtectedScroll56B" />
-	<key id="31000683" class="enchant" name="+13高级保护符文(LV56/裤子)" feature="ProtectedScroll56B" />
-	<key id="31000684" class="enchant" name="+14高级保护符文(LV56/单手)" feature="ProtectedScroll56B" />
-	<key id="31000685" class="enchant" name="+14高级保护符文(LV56/双持)" feature="ProtectedScroll56B" />
-	<key id="31000686" class="enchant" name="+14高级保护符文(LV56/双手)" feature="ProtectedScroll56B" />
-	<key id="31000688" class="enchant" name="+14高级保护符文(LV56/上装)" feature="ProtectedScroll56B" />
-	<key id="31000689" class="enchant" name="+14高级保护符文(LV56/裤子)" feature="ProtectedScroll56B" />
-	<key id="31000696" class="enchant" name="+9最高级保护符文(LV56/单手)" feature="ProtectedScroll56A" />
-	<key id="31000697" class="enchant" name="+9最高级保护符文(LV56/双持)" feature="ProtectedScroll56A" />
-	<key id="31000698" class="enchant" name="+9最高级保护符文(LV56/双手)" feature="ProtectedScroll56A" />
-	<key id="31000700" class="enchant" name="+9最高级保护符文(LV56/上装)" feature="ProtectedScroll56A" />
-	<key id="31000701" class="enchant" name="+9最高级保护符文(LV56/裤子)" feature="ProtectedScroll56A" />
-	<key id="31000702" class="enchant" name="+10最高级保护符文(LV56/单手)" feature="ProtectedScroll56A" />
-	<key id="31000703" class="enchant" name="+10最高级保护符文(LV56/双持)" feature="ProtectedScroll56A" />
-	<key id="31000704" class="enchant" name="+10最高级保护符文(LV56/双手)" feature="ProtectedScroll56A" />
-	<key id="31000706" class="enchant" name="+10最高级保护符文(LV56/上装)" feature="ProtectedScroll56A" />
-	<key id="31000707" class="enchant" name="+10最高级保护符文(LV56/裤子)" feature="ProtectedScroll56A" />
-	<key id="31000708" class="enchant" name="+11最高级保护符文(LV56/单手)" feature="ProtectedScroll56B" />
-	<key id="31000709" class="enchant" name="+11最高级保护符文(LV56/双持)" feature="ProtectedScroll56B" />
-	<key id="31000710" class="enchant" name="+11最高级保护符文(LV56/双手)" feature="ProtectedScroll56B" />
-	<key id="31000712" class="enchant" name="+11最高级保护符文(LV56/上装)" feature="ProtectedScroll56B" />
-	<key id="31000713" class="enchant" name="+11最高级保护符文(LV56/裤子)" feature="ProtectedScroll56B" />
-	<key id="31000714" class="enchant" name="+12最高级保护符文(LV56/单手)" feature="ProtectedScroll56B" />
-	<key id="31000715" class="enchant" name="+12最高级保护符文(LV56/双持)" feature="ProtectedScroll56B" />
-	<key id="31000716" class="enchant" name="+12最高级保护符文(LV56/双手)" feature="ProtectedScroll56B" />
-	<key id="31000718" class="enchant" name="+12最高级保护符文(LV56/上装)" feature="ProtectedScroll56B" />
-	<key id="31000719" class="enchant" name="+12最高级保护符文(LV56/裤子)" feature="ProtectedScroll56B" />
-	<key id="31000720" class="enchant" name="+13最高级保护符文(LV56/单手)" feature="ProtectedScroll56B" />
-	<key id="31000721" class="enchant" name="+13最高级保护符文(LV56/双持)" feature="ProtectedScroll56B" />
-	<key id="31000722" class="enchant" name="+13最高级保护符文(LV56/双手)" feature="ProtectedScroll56B" />
-	<key id="31000724" class="enchant" name="+13最高级保护符文(LV56/上装)" feature="ProtectedScroll56B" />
-	<key id="31000725" class="enchant" name="+13最高级保护符文(LV56/裤子)" feature="ProtectedScroll56B" />
-	<key id="31000726" class="enchant" name="+14最高级保护符文(LV56/单手)" feature="ProtectedScroll56B" />
-	<key id="31000727" class="enchant" name="+14最高级保护符文(LV56/双持)" feature="ProtectedScroll56B" />
-	<key id="31000728" class="enchant" name="+14最高级保护符文(LV56/双手)" feature="ProtectedScroll56B" />
-	<key id="31000730" class="enchant" name="+14最高级保护符文(LV56/上装)" feature="ProtectedScroll56B" />
-	<key id="31000731" class="enchant" name="+14最高级保护符文(LV56/裤子)" feature="ProtectedScroll56B" />
 	<key id="31000738" class="enchant" name="属性变更券（LV56/武器）" />
 	<key id="31000739" class="enchant" name="高级属性变更券（LV56/武器）" />
 	<key id="31000740" class="enchant" name="又一次机会单手武器卷轴" />
@@ -25937,7 +25392,6 @@
 	<key id="31000749" class="enchant" name="+12高级强化卷轴" />
 	<key id="31000750" class="enchant" name="（活动）装备复原卷轴" />
 	<key id="31000751" class="enchant" name="10阶段最高级强化卷轴" />
-	<key id="31000752" class="enchant" name="+10高级强化符文（LV50/武器）" feature="EnchantScroll50A" />
 	<key id="31000753" class="enchant" name="5级低级强化卷轴" />
 	<key id="31000754" class="enchant" name="7级中级强化卷轴" />
 	<key id="31000755" class="enchant" name="7级上级强化卷轴" />
@@ -25948,25 +25402,6 @@
 	<key id="31000760" class="enchant" name="至尊级稳固符文（LV50/连身衣）" feature="EpicRestoreScroll50" />
 	<key id="31000761" class="enchant" name="至尊级稳固符文（LV50/上装）" feature="EpicRestoreScroll50" />
 	<key id="31000762" class="enchant" name="至尊级稳固符文（LV50/下装）" feature="EpicRestoreScroll50" />
-	<key id="31000763" class="enchant" name="卓越级武器属性变更券（单手）" feature="ItemRemakeOption02" />
-	<key id="31000764" class="enchant" name="卓越级武器属性变更券（双手）" feature="ItemRemakeOption02" />
-	<key id="31000765" class="enchant" name="卓越级防具属性变更券（连身衣）" feature="ItemRemakeOption02" />
-	<key id="31000766" class="enchant" name="卓越级防具属性值变更券" feature="ItemRemakeOption02" />
-	<key id="31000767" class="enchant" name="傲骨武器属性变更券（单手）" feature="ItemRemakeOption02" />
-	<key id="31000768" class="enchant" name="傲骨武器属性变更券（双手）" feature="ItemRemakeOption02" />
-	<key id="31000769" class="enchant" name="傲骨防具属性变更券（连身衣）" feature="ItemRemakeOption02" />
-	<key id="31000770" class="enchant" name="傲骨防具属性变更券" feature="ItemRemakeOption02" />
-	<key id="31000771" class="enchant" name="狂暴武器属性变更券（单手）" feature="ItemRemakeOption02" />
-	<key id="31000772" class="enchant" name="狂暴武器属性变更券（双手）" feature="ItemRemakeOption02" />
-	<key id="31000773" class="enchant" name="狂暴防具属性变更券" feature="ItemRemakeOption02" />
-	<key id="31000774" class="enchant" name="不灭武器属性变更券（单手）" feature="ItemRemakeOption02" />
-	<key id="31000775" class="enchant" name="不灭武器属性变更券（双手）" feature="ItemRemakeOption02" />
-	<key id="31000776" class="enchant" name="不灭防具属性变更券" feature="ItemRemakeOption02" />
-	<key id="31000777" class="enchant" name="重生武器属性变更券（单手）" feature="ItemRemakeOption02" />
-	<key id="31000778" class="enchant" name="重生武器属性变更券（双手）" feature="ItemRemakeOption02" />
-	<key id="31000779" class="enchant" name="重生防具属性变更券" feature="ItemRemakeOption02" />
-	<key id="31000780" class="enchant" name="卓越级饰品属性值变更券" feature="ItemRemakeOption02" />
-	<key id="31000781" class="enchant" name="传说级饰品属性值变更券" feature="ItemRemakeOption02" />
 	<key id="31000782" class="enchant" name="又一次机会单手武器卷轴" />
 	<key id="31000783" class="enchant" name="又一次机会双手武器卷轴" />
 	<key id="31000784" class="enchant" name="又一次机会双持武器卷轴" />
@@ -25975,12 +25410,6 @@
 	<key id="31000787" class="enchant" name="+10史诗级强化符文（LV50/双手）" feature="EpicEnchantScroll50A" />
 	<key id="31000788" class="enchant" name="+10史诗级强化符文（LV50/上装）" feature="EpicEnchantScroll50A" />
 	<key id="31000789" class="enchant" name="+10史诗级强化符文（LV50/下装）" feature="EpicEnchantScroll50A" />
-	<key id="31000790" class="enchant" name="传说级武器属性变更券（双手）" feature="ItemRemakeOption02" />
-	<key id="31000791" class="enchant" name="传说级武器属性变更券（单手）" feature="ItemRemakeOption02" />
-	<key id="31000792" class="enchant" name="传说级防具属性值变更券" feature="ItemRemakeOption02" />
-	<key id="31000793" class="enchant" name="史诗级武器属性变更券（双手）" feature="ItemRemakeOption02" />
-	<key id="31000794" class="enchant" name="史诗级武器属性变更券（单手）" feature="ItemRemakeOption02" />
-	<key id="31000795" class="enchant" name="史诗级防具属性值变更券" feature="ItemRemakeOption02" />
 	<key id="31000796" class="enchant" name="6级史诗级强化卷轴（防具）" feature="EnchantTransform01" />
 	<key id="31000797" class="enchant" name="7级史诗级强化卷轴（防具）" feature="EnchantTransform01" />
 	<key id="31000798" class="enchant" name="8级史诗级强化卷轴（防具）" feature="EnchantTransform01" />
@@ -26071,11 +25500,6 @@
 	<key id="31000883" class="enchant" name="传说属性值变更券（防具）" />
 	<key id="31000884" class="enchant" name="卓越级饰品属性变更券" feature="ItemRemakeOption02" />
 	<key id="31000885" class="enchant" name="传说级饰品属性变更券" feature="ItemRemakeOption02" />
-	<key id="31000886" class="enchant" name="卓越级防具属性变更券" feature="ItemRemakeOption02" />
-	<key id="31000887" class="enchant" name="传说级防具属性变更券" feature="ItemRemakeOption02" />
-	<key id="31000888" class="enchant" name="史诗级防具属性变更券" feature="ItemRemakeOption02" />
-	<key id="31000889" class="enchant" name="精英宠物附加能力变更券" feature="PetRemake01" />
-	<key id="31000890" class="enchant" name="精良精英宠物附加能力变更券" feature="PetRemake01" />
 	<key id="31000891" class="enchant" name="惊奇精英宠物附加能力变更券" feature="PetRemake01" />
 	<key id="31000892" class="enchant" name="装备复原卷轴" />
 	<key id="31000893" class="enchant" name="装备复原卷轴" />
@@ -26090,50 +25514,11 @@
 	<key id="31000902" class="enchant" name="属性变更券（LV56/防具）" />
 	<key id="31000903" class="enchant" name="属性变更券（LV56/饰品）" />
 	<key id="31000904" class="enchant" name="传说属性值变更券（饰品）" />
-	<key id="31000905" class="enchant" name="最高级稳固符文（LV50/单手）" feature="RestoreScroll50" />
-	<key id="31000906" class="enchant" name="最高级稳固符文（LV50/双持）" feature="RestoreScroll50" />
-	<key id="31000907" class="enchant" name="最高级稳固符文（LV50/双手）" feature="RestoreScroll50" />
 	<key id="31000908" class="enchant" name="至尊级稳固符文（LV50/单手）" feature="EpicRestoreScroll50" />
 	<key id="31000909" class="enchant" name="至尊级稳固符文（LV50/双持）" feature="EpicRestoreScroll50" />
 	<key id="31000910" class="enchant" name="至尊级稳固符文（LV50/双手）" feature="EpicRestoreScroll50" />
 	<key id="31000911" class="enchant" name="传说级属性变更券（单手）" feature="ItemKR" />
 	<key id="31000912" class="enchant" name="传说级属性变更券（双手）" feature="ItemKR" />
-	<key id="31000913" class="enchant" name="+9史诗级保护符文（LV50/单手）" feature="ProtectedScroll50A" />
-	<key id="31000914" class="enchant" name="+9史诗级保护符文（LV50/双持）" feature="ProtectedScroll50A" />
-	<key id="31000915" class="enchant" name="+9史诗级保护符文（LV50/双手）" feature="ProtectedScroll50A" />
-	<key id="31000916" class="enchant" name="+9史诗级保护符文（LV50/连身衣）" feature="ProtectedScroll50A" />
-	<key id="31000917" class="enchant" name="+9史诗级保护符文（LV50/上装）" feature="ProtectedScroll50A" />
-	<key id="31000918" class="enchant" name="+9史诗级保护符文（LV50/下装）" feature="ProtectedScroll50A" />
-	<key id="31000919" class="enchant" name="+10史诗级保护符文（LV50/单手）" feature="ProtectedScroll50A" />
-	<key id="31000920" class="enchant" name="+10史诗级保护符文（LV50/双持）" feature="ProtectedScroll50A" />
-	<key id="31000921" class="enchant" name="+10史诗级保护符文（LV50/双手）" feature="ProtectedScroll50A" />
-	<key id="31000922" class="enchant" name="+10史诗级保护符文（LV50/连身衣）" feature="ProtectedScroll50A" />
-	<key id="31000923" class="enchant" name="+10史诗级保护符文（LV50/上装）" feature="ProtectedScroll50A" />
-	<key id="31000924" class="enchant" name="+10史诗级保护符文（LV50/下装）" feature="ProtectedScroll50A" />
-	<key id="31000925" class="enchant" name="+11史诗级保护符文（LV50/单手）" feature="ProtectedScroll50B" />
-	<key id="31000926" class="enchant" name="+11史诗级保护符文（LV50/双持）" feature="ProtectedScroll50B" />
-	<key id="31000927" class="enchant" name="+11史诗级保护符文（LV50/双手）" feature="ProtectedScroll50B" />
-	<key id="31000928" class="enchant" name="+11史诗级保护符文（LV50/连身衣）" feature="ProtectedScroll50B" />
-	<key id="31000929" class="enchant" name="+11史诗级保护符文（LV50/上装）" feature="ProtectedScroll50B" />
-	<key id="31000930" class="enchant" name="+11史诗级保护符文（LV50/下装）" feature="ProtectedScroll50B" />
-	<key id="31000931" class="enchant" name="+12史诗级保护符文（LV50/单手）" feature="ProtectedScroll50B" />
-	<key id="31000932" class="enchant" name="+12史诗级保护符文（LV50/双持）" feature="ProtectedScroll50B" />
-	<key id="31000933" class="enchant" name="+12史诗级保护符文（LV50/双手）" feature="ProtectedScroll50B" />
-	<key id="31000934" class="enchant" name="+12史诗级保护符文（LV50/连身衣）" feature="ProtectedScroll50B" />
-	<key id="31000935" class="enchant" name="+12史诗级保护符文（LV50/上装）" feature="ProtectedScroll50B" />
-	<key id="31000936" class="enchant" name="+12史诗级保护符文（LV50/下装）" feature="ProtectedScroll50B" />
-	<key id="31000937" class="enchant" name="+13史诗级保护符文（LV50/单手）" feature="ProtectedScroll50B" />
-	<key id="31000938" class="enchant" name="+13史诗级保护符文（LV50/双持）" feature="ProtectedScroll50B" />
-	<key id="31000939" class="enchant" name="+13史诗级保护符文（LV50/双手）" feature="ProtectedScroll50B" />
-	<key id="31000940" class="enchant" name="+13史诗级保护符文（LV50/连身衣）" feature="ProtectedScroll50B" />
-	<key id="31000941" class="enchant" name="+13史诗级保护符文（LV50/上装）" feature="ProtectedScroll50B" />
-	<key id="31000942" class="enchant" name="+13史诗级保护符文（LV50/下装）" feature="ProtectedScroll50B" />
-	<key id="31000943" class="enchant" name="+14史诗级保护符文（LV50/单手）" feature="ProtectedScroll50B" />
-	<key id="31000944" class="enchant" name="+14史诗级保护符文（LV50/双持）" feature="ProtectedScroll50B" />
-	<key id="31000945" class="enchant" name="+14史诗级保护符文（LV50/双手）" feature="ProtectedScroll50B" />
-	<key id="31000946" class="enchant" name="+14史诗级保护符文（LV50/连身衣）" feature="ProtectedScroll50B" />
-	<key id="31000947" class="enchant" name="+14史诗级保护符文（LV50/上装）" feature="ProtectedScroll50B" />
-	<key id="31000948" class="enchant" name="+14史诗级保护符文（LV50/下装）" feature="ProtectedScroll50B" />
 	<key id="31000955" class="enchant" name="1插槽变换卷轴（LV50/耳环）" />
 	<key id="31000956" class="enchant" name="1插槽变换卷轴（LV50/戒指）" />
 	<key id="31000957" class="enchant" name="1插槽变换卷轴（LV50/项链）" />
@@ -26178,7 +25563,6 @@
 	<key id="31000996" class="enchant" name="史诗饰品属性变更券" />
 	<key id="31000997" class="enchant" name="高级属性变更券（LV56/饰品）" />
 	<key id="31000998" class="enchant" name="高级属性变更券（LV56/武器）" />
-	<key id="31000999" class="enchant" name="史诗级饰品属性值变更券" feature="ItemRemakeOption02" />
 	<key id="31001000" class="enchant" name="ITEMNAME_31001000_NAME:[F]ItemKR" feature="ItemKR" />
 	<key id="31001001" class="enchant" name="ITEMNAME_31001001_NAME:[F]ItemKR" feature="ItemKR" />
 	<key id="31001002" class="enchant" name="卓越级属性变更券（单手）" feature="ItemKR" />
@@ -26326,19 +25710,6 @@
 	<key id="31001144" class="enchant" name="+6卓越级强化符文 (上下装)" feature="ItemKR" />
 	<key id="31001145" class="enchant" name="+7卓越级强化符文 (上下装)" feature="ItemKR" />
 	<key id="31001146" class="enchant" name="+8卓越级强化符文 (上下装)" feature="ItemKR" />
-	<key id="31001147" class="enchant" name="+9卓越级强化符文 (上下装)" feature="ItemKR" />
-	<key id="31001148" class="enchant" name="+10卓越级强化符文 (上下装)" feature="ItemKR" />
-	<key id="31001149" class="enchant" name="+11卓越级强化符文 (上下装)" feature="ItemKR" />
-	<key id="31001150" class="enchant" name="+12卓越级强化符文 (上下装)" feature="ItemKR" />
-	<key id="31001151" class="enchant" name="+13卓越级强化符文 (上下装)" feature="ItemKR" />
-	<key id="31001152" class="enchant" name="+14卓越级强化符文 (上下装)" feature="ItemKR" />
-	<key id="31001153" class="enchant" name="+15卓越级强化符文 (上下装)" feature="ItemKR" />
-	<key id="31001154" class="enchant" name="+1卓越级强化符文 (长剑)" feature="ItemKR" />
-	<key id="31001155" class="enchant" name="+2卓越级强化符文 (长剑)" feature="ItemKR" />
-	<key id="31001156" class="enchant" name="+3卓越级强化符文 (长剑)" feature="ItemKR" />
-	<key id="31001157" class="enchant" name="+4卓越级强化符文 (长剑)" feature="ItemKR" />
-	<key id="31001158" class="enchant" name="+5卓越级强化符文 (长剑)" feature="ItemKR" />
-	<key id="31001159" class="enchant" name="+6卓越级强化符文 (长剑)" feature="ItemKR" />
 	<key id="31001160" class="enchant" name="+7卓越级强化符文 (长剑)" feature="ItemKR" />
 	<key id="31001161" class="enchant" name="+8卓越级强化符文 (长剑)" feature="ItemKR" />
 	<key id="31001162" class="enchant" name="+9卓越级强化符文 (长剑)" feature="ItemKR" />
@@ -26719,20 +26090,6 @@
 	<key id="31001548" class="enchant" name="10阶段传说级强化卷轴（帽子）" feature="EnchantTransform01" />
 	<key id="31001549" class="enchant" name="11阶段传说级强化卷轴（帽子）" feature="EnchantTransform01" />
 	<key id="31001550" class="enchant" name="12阶段传说级强化卷轴（帽子）" feature="EnchantTransform01" />
-	<key id="31001551" class="enchant" name="13阶段传说级强化卷轴（帽子）" feature="EnchantTransform01" />
-	<key id="31001552" class="enchant" name="14阶段传说级强化卷轴（帽子）" feature="EnchantTransform01" />
-	<key id="31001553" class="enchant" name="15阶段传说级强化卷轴（帽子）" feature="EnchantTransform01" />
-	<key id="31001554" class="enchant" name="10阶段传说级强化卷轴（上下衣）" feature="EnchantTransform01" />
-	<key id="31001555" class="enchant" name="11阶段传说级强化卷轴（上下衣）" feature="EnchantTransform01" />
-	<key id="31001556" class="enchant" name="12阶段传说级强化卷轴（上下衣）" feature="EnchantTransform01" />
-	<key id="31001557" class="enchant" name="13阶段传说级强化卷轴（上下衣）" feature="EnchantTransform01" />
-	<key id="31001558" class="enchant" name="14阶段传说级强化卷轴（上下衣）" feature="EnchantTransform01" />
-	<key id="31001559" class="enchant" name="15阶段传说级强化卷轴（上下衣）" feature="EnchantTransform01" />
-	<key id="31001560" class="enchant" name="10阶段传说级强化卷轴（手套、鞋子）" feature="EnchantTransform01" />
-	<key id="31001561" class="enchant" name="11阶段传说级强化卷轴（手套、鞋子）" feature="EnchantTransform01" />
-	<key id="31001562" class="enchant" name="12阶段传说级强化卷轴（手套、鞋子）" feature="EnchantTransform01" />
-	<key id="31001563" class="enchant" name="13阶段传说级强化卷轴（手套、鞋子）" feature="EnchantTransform01" />
-	<key id="31001564" class="enchant" name="14阶段传说级强化卷轴（手套、鞋子）" feature="EnchantTransform01" />
 	<key id="31001565" class="enchant" name="15阶段传说级强化卷轴（手套、鞋子）" feature="EnchantTransform01" />
 	<key id="31001566" class="enchant" name="10阶段传说级强化卷轴（长剑）" feature="EnchantTransform01" />
 	<key id="31001567" class="enchant" name="11阶段传说级强化卷轴（长剑）" feature="EnchantTransform01" />
@@ -27350,6 +26707,7 @@
 	<key id="32000059" class="fishingRod" name="大富豪钓鱼竿" />
 	<key id="32000060" class="fishingRod" name="热带钓鱼竿" />
 	<key id="32000061" class="fishingRod" name="东方毛笔钓鱼竿" />
+	<key id="32000062" class="fishingRod" name="조개껍질 낚싯대" feature="22_07" />
 	<key id="32000063" class="fishingRod" name="粉粉魔法棒钓鱼竿" />
 	<key id="32000064" class="fishingRod" name="大葱钓鱼竿" />
 	<key id="32000065" class="fishingRod" name="拖把鱼竿" />
@@ -27800,13 +27158,9 @@
 	<key id="34000088" class="instrument" name="黄金之星大鼓" feature="DrumInstrument" />
 	<key id="34000089" class="instrument" name="黄金之星小鼓" feature="DrumInstrument" />
 	<key id="34000090" class="instrument" name="黄金之星铙钹" feature="DrumInstrument" />
-	<key id="34000091" class="instrument" name="清雅红枫三味线" feature="JPInstrument" />
-	<key id="34000092" class="instrument" name="清雅山茶古筝" feature="JPInstrument" />
-	<key id="34000093" class="instrument" name="清雅青竹尺八" feature="JPInstrument" />
 	<key id="34000094" class="instrument" name="幽夜南瓜钢琴" />
 	<key id="34000095" class="instrument" name="幽夜南瓜竖琴" />
 	<key id="34000096" class="instrument" name="幽夜南瓜竖笛" />
-	<key id="34000097" class="instrument" name="ITEMNAME_34000097_NAME:[F]JPInstrument" feature="JPInstrument" />
 	<key id="34000098" class="instrument" name="龙猫小提琴" />
 	<key id="34000099" class="instrument" name="龙猫大提琴" />
 	<key id="34000100" class="instrument" name="阿里安无品贝斯吉他" />
@@ -28669,8 +28023,6 @@
 	<key id="40100027" class="mission" name="特殊时装水晶" />
 	<key id="40100028" class="mission" name="莉塞特石" />
 	<key id="40100029" class="mission" name="水晶原石" />
-	<key id="40100030" class="mission" name="+11高级强化符文碎片（LV50/武器）" feature="EnchantScroll50B" />
-	<key id="40100031" class="mission" name="+11高级强化符文碎片（LV50/防具）" feature="EnchantScroll50B" />
 	<key id="40100032" class="mission" name="特殊时装水晶" />
 	<key id="40100033" class="mission" name="电容结晶" />
 	<key id="40100034" class="mission" name="绿色水晶" />
@@ -28679,7 +28031,6 @@
 	<key id="40100037" class="mission" name="玛瑙结晶" />
 	<key id="40100038" class="mission" name="混沌玛瑙结晶" />
 	<key id="40100039" class="mission" name="水晶碎片" />
-	<key id="40100040" class="mission" name="+10高级强化符文碎片（LV50/武器）" feature="EnchantScroll50A" />
 	<key id="40100041" class="money" name="公会基金" />
 	<key id="40100042" class="money" name="玛瑙结晶" />
 	<key id="40100043" class="money" name="混沌玛瑙结晶" />
@@ -29383,15 +28734,10 @@
 	<key id="40400080" class="flight" name="旋转屋" />
 	<key id="40400081" class="flight" name="漂浮捕梦床" />
 	<key id="40400082" class="flight" name="漂浮南瓜气球" />
-	<key id="40400083" class="flight" name="ITEMNAME_40400083_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<key id="40400084" class="flight" name="ITEMNAME_40400084_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<key id="40400085" class="flight" name="和平象征" feature="SurvivalContents03" />
-	<key id="40400086" class="flight" name="ITEMNAME_40400086_NAME:[F]GlobalNpc" feature="GlobalNpc" />
 	<key id="40400087" class="flight" name="圆月热气球" />
 	<key id="40400088" class="flight" name="鸭鸭风扇" />
 	<key id="40400089" class="flight" name="粉红梅花扇" />
 	<key id="40400090" class="flight" name="一挥而就松竹笔" />
-	<key id="40400091" class="flight" name="纷飞的黄色花瓣" feature="SurvivalContents03" />
 	<key id="40400092" name="粉红梅花扇" />
 	<key id="40400093" name="飞翔吧！翻车鱼" />
 	<key id="40400094" class="flight" name="皎洁满月" />
@@ -29410,7 +28756,6 @@
 	<key id="40400107" class="flight" name="宇宙统治者" />
 	<key id="40400108" name="皎洁满月" />
 	<key id="40400109" class="flight" name="祈雨青蛙之歌 " />
-	<key id="40400110" class="flight" name="ITEMNAME_40400110_NAME:[F]GlobalNpc" feature="GlobalNpc" />
 	<key id="40400111" class="flight" name="天空堡垒降落船" />
 	<key id="40400112" class="flight" name="漂浮品克缤气球" />
 	<key id="40400113" class="flight" name="阿尔贝托缤碰碰车" feature="Colosseum01" />
@@ -30999,8 +30344,6 @@
 	<key id="50100413" class="UGC" name="时尚墙砖方块" />
 	<key id="50100414" class="UGC" name="时尚之字形方块" />
 	<key id="50100415" class="UGC" name="粉木方块" />
-	<key id="50100416" class="UGC" name="ITEMNAME_50100416_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50100417" class="UGC" name="ITEMNAME_50100417_NAME:[F]GlobalNpc" feature="GlobalNpc" />
 	<key id="50100418" class="UGC" name="玫瑰园绿草方块" />
 	<key id="50100419" class="UGC" name="红玫瑰方块" />
 	<key id="50100420" class="UGC" name="萧瑟木方块" />
@@ -31970,36 +31313,6 @@
 	<key id="50200938" class="UGC" name="治愈地毯" />
 	<key id="50200939" class="UGC" name="派对冰桶" />
 	<key id="50200940" class="UGC" name="漂浮星纹气球" />
-	<key id="50200941" class="UGC" name="ITEMNAME_50200941_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200942" class="UGC" name="ITEMNAME_50200942_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200943" class="UGC" name="ITEMNAME_50200943_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200944" class="UGC" name="ITEMNAME_50200944_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200945" class="UGC" name="ITEMNAME_50200945_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200946" class="UGC" name="ITEMNAME_50200946_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200947" class="UGC" name="ITEMNAME_50200947_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200948" class="UGC" name="ITEMNAME_50200948_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200949" class="UGC" name="ITEMNAME_50200949_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200950" class="UGC" name="ITEMNAME_50200950_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200951" class="UGC" name="ITEMNAME_50200951_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200952" class="UGC" name="ITEMNAME_50200952_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200953" class="UGC" name="ITEMNAME_50200953_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200954" class="UGC" name="ITEMNAME_50200954_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200955" class="UGC" name="ITEMNAME_50200955_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200956" class="UGC" name="ITEMNAME_50200956_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200957" class="UGC" name="ITEMNAME_50200957_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200958" class="UGC" name="ITEMNAME_50200958_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200959" class="UGC" name="ITEMNAME_50200959_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200960" class="UGC" name="ITEMNAME_50200960_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200961" class="UGC" name="ITEMNAME_50200961_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200962" class="UGC" name="ITEMNAME_50200962_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200963" class="UGC" name="ITEMNAME_50200963_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200964" class="UGC" name="ITEMNAME_50200964_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200965" class="UGC" name="ITEMNAME_50200965_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200966" class="UGC" name="ITEMNAME_50200966_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200967" class="UGC" name="ITEMNAME_50200967_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200968" class="UGC" name="ITEMNAME_50200968_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200969" class="UGC" name="ITEMNAME_50200969_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="50200970" class="UGC" name="ITEMNAME_50200970_NAME:[F]GlobalNpc" feature="GlobalNpc" />
 	<key id="50200971" class="UGC" name="蓝鬼火树" />
 	<key id="50200972" class="UGC" name="独眼鬼篱笆" />
 	<key id="50200973" class="UGC" name="独眼龙灯火" />
@@ -32838,17 +32151,11 @@
 	<key id="50600260" class="ride" name="月饼云朵马车" />
 	<key id="50600261" class="ride" name="逃跑的霸王龙" />
 	<key id="50600262" class="ride" name="RV-9000" />
-	<key id="50600263" class="ride" name="ITEMNAME_50600263_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<key id="50600264" class="ride" name="ITEMNAME_50600264_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<key id="50600265" class="ride" name="ITEMNAME_50600265_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<key id="50600266" class="ride" name="ITEMNAME_50600266_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
 	<key id="50600267" class="ride" name="浪漫花车自行车" />
 	<key id="50600268" class="ride" name="胖猫尼尔" />
 	<key id="50600269" class="ride" name="奶白色胖猫" />
 	<key id="50600270" class="ride" name="香甜的巧克力冰淇淋车" />
 	<key id="50600271" name="雪花雪橇" />
-	<key id="50600272" class="ride" name="我喜爱的米特抱枕" feature="SurvivalContents03" />
-	<key id="50600273" class="ride" name="萌萌普洛克斯" feature="SurvivalContents03" />
 	<key id="50600274" name="骨碌碌太空球" />
 	<key id="50600275" name="美味的冰淇淋车" />
 	<key id="50600276" name="胖猫" />
@@ -33020,7 +32327,6 @@
 	<key id="50730038" class="charm" name="得摩斯纪念品" feature="DarkCastle" />
 	<key id="50730039" class="charm" name="夜蚀纪念品" feature="DarkCastle" />
 	<key id="50730040" class="charm" name="副船长科洛纪念品" feature="PirateOcean" />
-	<key id="50730041" class="charm" name="埃尔凯温纪念品" feature="Timaion01" />
 	<key id="50740001" class="charm" name="巨角怪战士纪念品" />
 	<key id="50740002" class="charm" name="遗忘者的悲伤" />
 	<key id="50740003" class="charm" name="炎魔头颅" feature="Season3" />
@@ -33094,8 +32400,6 @@
 	<key id="50740073" class="charm" name="女王缤大战优胜纪念品" feature="Colosseum01" />
 	<key id="50740074" class="charm" name="荣誉的黄金女王缤纪念品" feature="Colosseum01" />
 	<key id="50740075" class="charm" name="埃尔凯温·凯伊纪念品" feature="Kritias_Turka01" />
-	<key id="50740076" class="charm" name="迪迈文纪念品" feature="Kritias_Turka02" />
-	<key id="50740077" class="charm" name="图尔卡纪念品" feature="Kritias_Turka03" />
 	<key id="50750001" class="charm" name="无情的初级猎人" />
 	<key id="50750002" class="charm" name="无情的见习猎人" />
 	<key id="50750003" class="charm" name="无情的熟练猎人" />
@@ -33545,7 +32849,6 @@
 	<key id="59200358" name="維修補償套餐一" />
 	<key id="59200359" class="package" name="猫咪管家套装禮包" />
 	<key id="59200361" class="package" name="白狐套装禮包" />
-	<key id="59200362" class="package" name="ITEMNAME_59200362_NAME:[F]GlobalNpc" feature="GlobalNpc" />
 	<key id="59200363" class="package" name="咏夜之诗套装禮包" />
 	<key id="59200364" class="package" name="蝶恋翩飞时装禮包" />
 	<key id="59200365" name="점검 보상 패키지 2" />
@@ -33670,7 +32973,6 @@
 	<key id="59400073" class="PetPack" name="野兔宠物蛋" />
 	<key id="59400074" class="PetPack" name="红熊猫宠物蛋" />
 	<key id="59400075" class="PetPack" name="惊吓猫宠物蛋" />
-	<key id="59400076" class="PetPack" name="ITEMNAME_59400076_NAME:[F]GlobalNpc" feature="GlobalNpc" />
 	<key id="59400077" name="红熊猫宠物蛋" />
 	<key id="59400078" name="阿里宠物蛋" />
 	<key id="59400079" name="小黄猫蛋" />
@@ -34016,18 +33318,6 @@
 	<key id="70200062" class="gem" name="对话框徽章：月明之夜" />
 	<key id="70200063" class="gem" name="对话框徽章：哈比果" />
 	<key id="70200064" class="gem" name="对话框徽章：铃儿响叮当" />
-	<key id="70200065" class="gem" name="对话框徽章：射手座" feature="HappyBirthday" />
-	<key id="70200066" class="gem" name="对话框徽章：摩羯座" feature="HappyBirthday" />
-	<key id="70200067" class="gem" name="对话框徽章：水瓶座" feature="HappyBirthday" />
-	<key id="70200068" class="gem" name="对话框徽章：双鱼座" feature="HappyBirthday" />
-	<key id="70200069" class="gem" name="对话框徽章：白羊座" feature="HappyBirthday" />
-	<key id="70200070" class="gem" name="对话框徽章：金牛座" feature="HappyBirthday" />
-	<key id="70200071" class="gem" name="对话框徽章：双子座" feature="HappyBirthday" />
-	<key id="70200072" class="gem" name="对话框徽章：巨蟹座" feature="HappyBirthday" />
-	<key id="70200073" class="gem" name="对话框徽章：狮子座" feature="HappyBirthday" />
-	<key id="70200074" class="gem" name="对话框徽章：处女座" feature="HappyBirthday" />
-	<key id="70200075" class="gem" name="对话框徽章：天秤座" feature="HappyBirthday" />
-	<key id="70200076" class="gem" name="对话框徽章：天蝎座" feature="HappyBirthday" />
 	<key id="70200077" class="gem" name="对话框徽章：跳舞的旋律" />
 	<key id="70200078" class="gem" name="对话框徽章：黑风" />
 	<key id="70200079" class="gem" name="对话框徽章：冒险岛联盟" />
@@ -34299,7 +33589,6 @@
 	<key id="70300154" class="gem" name="名牌徽章：度假" />
 	<key id="70300155" class="gem" name="ITEMNAME_70300155_NAME:[F]ItemKR" feature="ItemKR" />
 	<key id="70300156" class="gem" name="ITEMNAME_70300156_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-	<key id="70300157" class="gem" name="名牌徽章：勇猛标识" feature="PvPRankingDuelMode" />
 	<key id="70300158" class="gem" name="名牌徽章：热乎乎小猪包" />
 	<key id="70300159" class="gem" name="名牌徽章：游戏之城" />
 	<key id="70300160" class="gem" name="名牌徽章：神秘的埃内尔" />
@@ -34310,7 +33599,6 @@
 	<key id="70300165" class="gem" name="名牌徽章：海之日" />
 	<key id="70300166" class="gem" name="ITEMNAME_70300166_NAME:[F]ItemKR" feature="ItemKR" />
 	<key id="70300167" class="gem" name="名牌徽章：萌猫咪咪" />
-	<key id="70300168" class="gem" name="ITEMNAME_70300168_NAME:[F]GlobalNpc" feature="GlobalNpc" />
 	<key id="70300169" class="gem" name="名牌徽章：我们的好友小黄鸭" />
 	<key id="70300170" class="gem" name="名牌徽章：明媚夏天" />
 	<key id="70300171" class="gem" name="名牌徽章：山岳日" />
@@ -34671,7 +33959,6 @@
 	<key id="90000017" class="money" name="暗影币" />
 	<key id="90000018" class="money" name="影子碎片" />
 	<key id="90000019" name="点数杆" />
-	<key id="90000020" class="money" name="红蘑菇" feature="RedMerat" />
 	<key id="90000021" class="money" name="公会基金" />
 	<key id="90000022" class="money" name="重生币" />
 	<key id="90000023" class="money" name="资深冒险家点数" />
