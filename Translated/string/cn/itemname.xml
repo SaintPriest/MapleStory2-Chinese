@@ -752,8 +752,8 @@
 	<key id="11050063" class="mouth" name="纷飞花瓣" />
 	<key id="11050064" class="mouth" name="纷飞花瓣" />
 	<key id="11050065" class="mouth" name="厚厚的小丑嘴唇" />
-	<key id="11050067" class="mouth" name="精致婚礼粉色玫瑰（男）" feature="Wedding" />
-	<key id="11050068" class="mouth" name="精致婚礼粉色玫瑰（女）" feature="Wedding" />
+	<key id="11050067" class="mouth" name="精緻婚禮粉色玫瑰（男）" feature="Wedding" />
+	<key id="11050068" class="mouth" name="精緻婚禮粉色玫瑰（女）" feature="Wedding" />
 	<key id="11099999" class="system" name="透明功能 面饰" />
 	<key id="11120002" name="（网吧）干练虎纹眼镜" feature="ItemKR" />
 	<key id="11120004" name="彩色太阳镜（男）" />
@@ -1413,8 +1413,8 @@
 	<key id="11250197" name="忠诚冒险家的时尚耳环（30天）" />
 	<key id="11250199" class="earring" name="冬日童话耳环（男）" />
 	<key id="11250200" class="earring" name="冬日童话耳环（女）" />
-	<key id="11250210" class="earring" name="精致婚礼灵石耳环（男）" feature="Wedding" />
-	<key id="11250211" class="earring" name="精致婚礼灵石耳环（女）" feature="Wedding" />
+	<key id="11250210" class="earring" name="精緻婚禮靈石耳環（男）" feature="Wedding" />
+	<key id="11250211" class="earring" name="精緻婚禮靈石耳環（女）" feature="Wedding" />
 	<key id="11260044" class="earring" name="仿制的暴烈耳环" />
 	<key id="11260089" class="earring" name="至暗耳环" feature="Level60Item" />
 	<key id="11260091" class="earring" name="流浪冒险家的遗产：古董耳环" feature="Level60Item" />
@@ -3192,8 +3192,8 @@
 	<key id="11320362" class="hat" name="魔术师羽毛帽子（女）" />
 	<key id="11320363" name="巧克力羊角面包（男）" />
 	<key id="11320364" name="巧克力羊角面包（女）" />
-	<key id="11320365" class="hat" name="스페셜 웨딩 러블리 햇 (남)" feature="Wedding" />
-	<key id="11320366" class="hat" name="스페셜 웨딩 러블리 티아라 (여)" feature="Wedding" />
+	<key id="11320365" class="hat" name="精緻婚禮可愛帽子（男）" feature="Wedding" />
+	<key id="11320366" class="hat" name="精緻婚禮可愛王冠（女）" feature="Wedding" />
 	<key id="11320367" class="hat" name="旋舞花滑发夹（男）" />
 	<key id="11320368" class="hat" name="旋舞花滑发夹（女）" />
 	<key id="11320369" name="塞壬头冠（男）" />
@@ -3370,9 +3370,9 @@
 	<key id="11320543" name="Dark Wind Vigilance Headgear" />
 	<key id="11320544" name="金殿雲龍玉冠（男）" />
 	<key id="11320545" name="金殿雲龍牡丹客棧（女）" />
-	<key id="11320546" name="Lone Spirit Feather" />
-	<key id="11320547" name="Sweet Dreams Sleeping Hat" />
-	<key id="11320548" name="Sweet Dreams Ribbon Cap" />
+	<key id="11320546" name="精神宗主羽毛" />
+	<key id="11320547" name="甜蜜夢鄉帽" />
+	<key id="11320548" name="甜蜜夢鄉絲帶帽" />
 	<key id="11320549" name="Studded Leather Cap" />
 	<key id="11320550" name="鉚釘皮帽（女）" />
 	<key id="11320628" name="调度员护目镜（男）" />
@@ -8316,8 +8316,8 @@
 	<key id="11610037" class="gloves" name="机能型侦察兵手套（女）" />
 	<key id="11610038" class="gloves" name="咏夜之诗手套（男）" />
 	<key id="11610039" class="gloves" name="咏夜之诗手套（女）" />
-	<key id="11610042" class="gloves" name="精致婚礼灵石戒指（男）" feature="Wedding" />
-	<key id="11610043" class="gloves" name="精致婚礼灵石手饰（女）" feature="Wedding" />
+	<key id="11610042" class="gloves" name="精緻婚禮靈石戒指（男）" feature="Wedding" />
+	<key id="11610043" class="gloves" name="精緻婚禮靈石手飾（女）" feature="Wedding" />
 	<key id="11620001" class="gloves" name="花式哥特手套（男）" />
 	<key id="11620002" class="gloves" name="花式哥特手套（女）" />
 	<key id="11620003" class="gloves" name="酷萌黑喵校服手套（男）" />
@@ -10660,8 +10660,8 @@
 	<key id="11710051" class="shoes" name="机能型侦察兵鞋子（女）" />
 	<key id="11710052" class="shoes" name="咏夜之诗鞋子（男）" />
 	<key id="11710053" class="shoes" name="咏夜之诗鞋子（女）" />
-	<key id="11710056" class="shoes" name="精致婚礼乐福鞋（男）" feature="Wedding" />
-	<key id="11710057" class="shoes" name="精致婚礼水晶鞋（女）" feature="Wedding" />
+	<key id="11710056" class="shoes" name="精緻婚禮樂福鞋（男）" feature="Wedding" />
+	<key id="11710057" class="shoes" name="精緻婚禮水晶鞋（女）" feature="Wedding" />
 	<key id="11720001" class="shoes" name="花式哥特鞋（男）" />
 	<key id="11720002" class="shoes" name="花式哥特鞋（女）" />
 	<key id="11720003" class="shoes" name="酷萌黑喵校服皮靴（男）" />
@@ -13370,8 +13370,8 @@
 	<key id="12200720" class="dress" name="（网吧）精英冒险家侦查盔甲（重炮手）" feature="Level70Item" />
 	<key id="12200721" class="dress" name="（网吧）精英冒险幻影套服（侠盗）" feature="Level70Item" />
 	<key id="12200722" class="dress" name="（网吧）精英冒险家紧身外套（刺客）" feature="Level70Item" />
-	<key id="12200725" class="dress" name="精致婚礼胸花正装（男）" feature="Wedding" />
-	<key id="12200726" class="dress" name="精致婚礼闪耀长裙（女）" feature="Wedding" />
+	<key id="12200725" class="dress" name="精緻婚禮胸花正装（男）" feature="Wedding" />
+	<key id="12200726" class="dress" name="精緻婚禮閃耀長裙（女）" feature="Wedding" />
 	<key id="12209999" class="dress" name="血色挽歌连身衣" />
 	<key id="12220001" class="dress" name="花式哥特舞会正装（男）" />
 	<key id="12220002" class="dress" name="花式哥特舞会裙子（女）" />
@@ -22917,7 +22917,7 @@
 	<key id="20302959" class="package" name="派对婚礼预订礼物" feature="Wedding" />
 	<key id="20302960" class="package" name="婚后派对券自选箱" feature="Wedding" />
 	<key id="20302961" class="package" name="豪华婚礼预订礼物" feature="Wedding" />
-	<key id="20302962" class="package" name="精致婚礼时装箱" feature="Wedding" />
+	<key id="20302962" class="package" name="精緻婚禮時装箱" feature="Wedding" />
 	<key id="20302963" class="package" name="萝娜的耀眼礼物" feature="Wedding" />
 	<key id="20302964" class="package" name="暖心夫妻称号自选箱" feature="Wedding" />
 	<key id="20302965" class="package" name="爱神之爱情装修箱" feature="Wedding" />
@@ -32197,7 +32197,7 @@
 	<key id="50600312" name="极速方块" feature="22_04" />
 	<key id="50600313" name="哞哞斗牛" feature="22_05" />
 	<key id="50600314" class="ride" name="乘着硕大樱花瓣" />
-	<key id="50600315" name="날아라 더키볼 소화기" feature="22_09" />
+	<key id="50600315" name="飛吧!小鴨滅火器" feature="22_09" />
 	<key id="50600316" class="ride" name="我的爱布里切靠垫" />
 	<key id="50600317" class="ride" name="我的爱康达尔靠垫" />
 	<key id="50600318" class="ride" name="我的爱夜舞靠垫" />
