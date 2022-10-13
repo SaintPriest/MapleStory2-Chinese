@@ -1794,6 +1794,8 @@
   <key id="11000135" name="清除布莱克缤气球" feature="Event" locale="CN" />
   <key id="11000137" name="调查箱子" feature="Event" />
   <key id="11000138" name="放飞布莱克缤气球" feature="22_04" />
+  <key id="11000139" name="放飞布莱克缤气球" feature="22_07" />
+	<key id="11000140" name="放飞布莱克缤气球" feature="22_10" />
   <key id="11100001" name="挤牛奶" />
   <key id="11100002" name="采集鸡蛋" />
   <key id="11100003" name="挤牛奶" />

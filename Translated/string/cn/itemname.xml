@@ -760,11 +760,15 @@
 	<key id="11120005" name="彩色太阳镜（女）" />
 	<key id="11120006" name="时尚黑超（男）" />
 	<key id="11120007" name="时尚黑超（女）" />
+	<key id="11120008" name="경호원 선글라스 (남)" />
 	<key id="11120009" name="半框眼镜（男）" />
 	<key id="11120010" name="半框眼镜（女）" />
+	<key id="11120013" name="경호원 선글라스 (여)" />
 	<key id="11120014" name="（网吧）黑色卫生眼罩" feature="ItemKR" />
 	<key id="11120017" name="条纹兔子太阳镜（男）" />
 	<key id="11120018" name="条纹兔子太阳镜（女）" />
+	<key id="11120019" name="스트라이프 바니 선글라스 (남)" />
+	<key id="11120020" name="스트라이프 바니 선글라스 (여)" />
 	<key id="11120021" name="（网吧）骨纹眼罩" feature="ItemKR" />
 	<key id="11120024" name="（网吧）机械护目镜" feature="ItemKR" />
 	<key id="11120025" class="eye" name="绯红爱心眼罩（男）" />
@@ -1270,6 +1274,10 @@
 	<key id="11220698" name="다크문 키튼 귀고리 (여)" />
 	<key id="11220699" name="미니 할로윈 이어링 (남)" />
 	<key id="11220700" name="미니 할로윈 이어링 (여)" />
+	<key id="11220701" name="스트리트 래퍼 귀고리 (남)" />
+	<key id="11220702" name="스트리트 래퍼 귀고리 (여)" />
+	<key id="11220703" name="하트 메탈릭 이어링 (남)" />
+	<key id="11220704" name="하트 메탈릭 이어링 (여)" />
 	<key id="11230031" class="earring" name="绝境耳环" />
 	<key id="11230044" class="earring" name="暴烈耳环" />
 	<key id="11240044" class="earring" name="闪耀暴烈耳环" />
@@ -1824,6 +1832,7 @@
 	<key id="11300387" class="hat" name="深褐色羽毛" />
 	<key id="11300388" class="hat" name="诡夜狂欢帽" />
 	<key id="11300389" class="hat" name="异形战士头巾" />
+	<key id="11300390" name="플라이트 헬멧" />
 	<key id="11300391" class="hat" name="诡夜节南瓜帽" />
 	<key id="11300392" class="hat" name="诡夜节蝙蝠南瓜帽" />
 	<key id="11300393" name="毛茸茸猫耳（男）" />
@@ -3375,6 +3384,8 @@
 	<key id="11320548" name="甜蜜夢鄉絲帶帽" />
 	<key id="11320549" name="Studded Leather Cap" />
 	<key id="11320550" name="鉚釘皮帽（女）" />
+	<key id="11320551" name="메탈 헤드폰 (남)" />
+	<key id="11320552" name="메탈 헤드폰 (여)" />
 	<key id="11320628" name="调度员护目镜（男）" />
 	<key id="11320629" name="调度员护目镜（女）" />
 	<key id="11320630" name="幸福旋律帽子（男）" />
@@ -3473,6 +3484,14 @@
 	<key id="11320724" name="다크문 키튼 모자 (여)" />
 	<key id="11320725" name="할로할로 햇 (남)" />
 	<key id="11320726" name="할로할로 햇 (여)" />
+	<key id="11320727" name="스트리트 래퍼 모자 (남)" />
+	<key id="11320728" name="스트리트 래퍼 모자 (여)" />
+	<key id="11320729" name="하트 버니 베레모 (남)" />
+	<key id="11320730" name="하트 버니 헤어밴드 (여)" />
+	<key id="11320731" name="아기 공룡 모자 (남)" />
+	<key id="11320732" name="아기 공룡 모자 (여)" />
+	<key id="11320733" name="인페르노 혼 (남)" />
+	<key id="11320734" name="인페르노 혼 (여)" />
 	<key id="11330073" class="hat" name="黑色雨燕头盔" />
 	<key id="11330077" class="hat" name="炫光幻灵巫术帽" />
 	<key id="11330082" class="hat" name="长虹贯日游侠帽" />
@@ -5119,6 +5138,8 @@
 	<key id="11420647" name="地狱火盔甲上装（女）" />
 	<key id="11420648" name="魔幻诡夜节衬衫（男）" />
 	<key id="11420649" name="魔幻诡夜节衬衫（女）" />
+	<key id="11420650" name="인페르노 갑옷 상의 (남)" />
+	<key id="11420651" name="인페르노 갑옷 상의 (여)" />
 	<key id="11430048" class="coat" name="黑色雨燕" />
 	<key id="11430054" class="coat" name="暗影尖刺衬衣" />
 	<key id="11430055" class="coat" name="疯狂护肩锁子甲" />
@@ -6574,6 +6595,8 @@
 	<key id="11520647" name="地狱火盔甲裤子（女）" />
 	<key id="11520648" name="魔幻诡夜节短裤（男）" />
 	<key id="11520649" name="魔幻诡夜节短裤（女）" />
+	<key id="11520650" name="인페르노 갑옷 하의 (남)" />
+	<key id="11520651" name="인페르노 갑옷 하의 (여)" />
 	<key id="11530047" class="pants" name="黑色雨燕裤子" />
 	<key id="11530053" class="pants" name="暗影尖刺裤子" />
 	<key id="11530054" class="pants" name="疯狂系带防具" />
@@ -7402,6 +7425,8 @@
 	<key id="11600346" class="gloves" name="魔幻诡夜节手套（男）" />
 	<key id="11600347" class="gloves" name="魔幻诡夜节手套（女）" />
 	<key id="11600348" class="gloves" name="异形战士手套" />
+	<key id="11600349" name="플라이트 글러브 (남)" />
+	<key id="11600350" name="플라이트 글러브 (여)" />
 	<key id="11600353" class="gloves" name="闪光战士手套" />
 	<key id="11600354" class="gloves" name="闪光魔法手套" />
 	<key id="11600355" class="gloves" name="闪光射手手套" />
@@ -8750,6 +8775,14 @@
 	<key id="11620715" name="다크문 키튼 장갑 (여)" />
 	<key id="11620716" name="매지컬 할로윈 장갑 (남)" />
 	<key id="11620717" name="매지컬 할로윈 장갑 (여)" />
+	<key id="11620718" name="스트리트 래퍼 장갑 (남)" />
+	<key id="11620719" name="스트리트 래퍼 장갑 (여)" />
+	<key id="11620720" name="하트 버니 포인트 링 (남)" />
+	<key id="11620721" name="하트 버니 포인트 링 (여)" />
+	<key id="11620722" name="아기 공룡 장갑 (남)" />
+	<key id="11620723" name="아기 공룡 장갑 (여)" />
+	<key id="11620724" name="인페르노 완갑 (남)" />
+	<key id="11620725" name="인페르노 완갑 (여)" />
 	<key id="11630040" class="gloves" name="黑色雨燕护手" />
 	<key id="11630044" class="gloves" name="炫光幻灵巫术护臂" />
 	<key id="11630047" class="gloves" name="长虹贯日游侠手套" />
@@ -9681,6 +9714,8 @@
 	<key id="11700378" class="shoes" name="魔幻诡夜节靴（男）" />
 	<key id="11700379" class="shoes" name="魔幻诡夜节靴（女）" />
 	<key id="11700380" class="shoes" name="异形战士靴" />
+	<key id="11700381" name="플라이트 부츠 (남)" />
+	<key id="11700382" name="플라이트 부츠 (여)" />
 	<key id="11700385" class="shoes" name="闪光战士鞋" />
 	<key id="11700386" class="shoes" name="闪光魔法鞋" />
 	<key id="11700387" class="shoes" name="闪光射手鞋" />
@@ -11152,6 +11187,14 @@
 	<key id="11720718" name="다크문 키튼 신발 (여)" />
 	<key id="11720719" name="매지컬 할로윈 부츠 (남)" />
 	<key id="11720720" name="매지컬 할로윈 부츠 (여)" />
+	<key id="11720721" name="스트리트 래퍼 신발 (남)" />
+	<key id="11720722" name="스트리트 래퍼 신발 (여)" />
+	<key id="11720723" name="하트 레더 부츠 (남)" />
+	<key id="11720724" name="하트 레더 슈즈 (여)" />
+	<key id="11720725" name="아기 공룡 신발 (남)" />
+	<key id="11720726" name="아기 공룡 신발 (여)" />
+	<key id="11720727" name="인페르노 부츠 (남)" />
+	<key id="11720728" name="인페르노 부츠 (여)" />
 	<key id="11730059" class="shoes" name="黑色雨燕靴子" />
 	<key id="11730064" class="shoes" name="炫光幻灵巫术靴子" />
 	<key id="11730068" class="shoes" name="长虹贯日游侠靴子" />
@@ -12105,6 +12148,8 @@
 	<key id="11820477" name="南瓜巫师之翼（女）" />
 	<key id="11820478" name="东方天使翅膀（男）" />
 	<key id="11820479" name="东方天使翅膀（女）" />
+	<key id="11820480" name="펌킨 위치 윙 (남)" />
+	<key id="11820481" name="펌킨 위치 윙 (여)" />
 	<key id="11820498" name="星光穿梭披风（男）" />
 	<key id="11820499" name="星光穿梭披风（女）" />
 	<key id="11820500" name="软滑云朵披风（男）" />
@@ -12182,14 +12227,18 @@
 	<key id="11820681" name="特莱雅宫廷厨师魔法厨具（女）" />
 	<key id="11820682" name="萌萌狗尾巴" />
 	<key id="11820683" name="仙人掌气球披风（男）" />
-	<key id="11820682" name="코코 퍼피 테일" />
-	<key id="11820683" name="선인장 풍선 망토 (남)" />
 	<key id="11820684" name="仙人掌气球披风（女）" />
 	<key id="11820685" name="海边浪漫尤克里里" />
 	<key id="11820686" name="로열 다크니스 페더 윙 (남)" />
 	<key id="11820687" name="로열 다크니스 페더 윙 (여)" />
 	<key id="11820688" name="다크문 키튼 망토 (남)" />
 	<key id="11820689" name="다크문 키튼 망토 (여)" />
+	<key id="11820690" name="스트리트 래퍼 스프레이 (남)" />
+	<key id="11820691" name="스트리트 래퍼 스프레이 (여)" />
+	<key id="11820692" name="하트 버니돌 (남)" />
+	<key id="11820693" name="하트 버니돌 (여)" />
+	<key id="11820694" name="아기 공룡 꼬리 (남)" />
+	<key id="11820695" name="아기 공룡 꼬리 (여)" />
 	<key id="11830046" class="mantle" name="绝境披风" />
 	<key id="11830060" class="mantle" name="暴烈披风" />
 	<key id="11840060" class="mantle" name="闪耀暴烈披风" />
@@ -13024,6 +13073,7 @@
 	<key id="12200273" class="dress" name="闪耀之星校服（男）" />
 	<key id="12200274" class="dress" name="闪耀之星校服（女）" />
 	<key id="12200275" class="dress" name="结实魔法师外套" />
+	<key id="12200276" name="플라이트 슈트 (남)" />
 	<key id="12200277" class="dress" name="黑猫外套（男）" />
 	<key id="12200278" class="dress" name="黑猫外套（女）" />
 	<key id="12200279" class="dress" name="可爱兔女郎外套（男）" />
@@ -13083,6 +13133,7 @@
 	<key id="12200333" class="dress" name="欢乐暖冬外套（男）" />
 	<key id="12200334" class="dress" name="欢乐暖冬连衣裙（女）" />
 	<key id="12200335" class="dress" name="喵喵条纹猫咪外套" />
+	<key id="12200336" name="플라이트 슈트 (여)" />
 	<key id="12200337" class="dress" name="斑点猫咪外套" />
 	<key id="12200339" class="dress" name="喵喵花猫外套" />
 	<key id="12200341" class="dress" name="甜蜜梦乡睡服（男）" />
@@ -13803,6 +13854,12 @@
 	<key id="12220713" name="로열 다크니스 드레스 (여)" />
 	<key id="12220714" name="다크문 키튼 전신 (남)" />
 	<key id="12220715" name="다크문 키튼 전신 (여)" />
+	<key id="12220716" name="스트리트 래퍼 전신 (남)" />
+	<key id="12220717" name="스트리트 래퍼 전신 (여)" />
+	<key id="12220718" name="하트 서스펜더 셔츠 앤 팬츠 (남)" />
+	<key id="12220719" name="하트 서스펜더 플리츠 원피스 (여)" />
+	<key id="12220720" name="아기 공룡 옷 (남)" />
+	<key id="12220721" name="아기 공룡 옷 (여)" />
 	<key id="12230024" class="dress" name="炫光幻灵巫术外套" />
 	<key id="12230026" class="dress" name="长虹贯日游侠外套" />
 	<key id="12230029" class="dress" name="创世之信仰长袍" />
@@ -20584,6 +20641,7 @@
 	<key id="20200129" class="consume" name="表情动作：面对面跳舞" />
 	<key id="20200130" name="액션 수강증 : 소환된 악령 핌" />
 	<key id="20200131" class="consume" name="表情动作：热身运动" />
+	<key id="20200132" name="액션 수강증 : 인터넷 스타 BJ" />
 	<key id="20201001" class="New가챠전용" name="表情动作：扑倒" />
 	<key id="20201002" class="New가챠전용" name="表情动作：睡觉" />
 	<key id="20201003" class="New가챠전용" name="表情动作：啪啦啪啦舞" />
@@ -20727,6 +20785,12 @@
 	<key id="20201141" name="액션 수강증 : 미워" />
 	<key id="20201142" name="액션 수강증 : 우주공간" />
 	<key id="20201143" name="액션 수강증 : 검은 그림자" />
+	<key id="20201144" name="액션 수강증 : 가위" />
+	<key id="20201145" name="액션 수강증 : 바위" />
+	<key id="20201146" name="액션 수강증 : 보" />
+	<key id="20201147" name="액션 수강증 : 바니바니 댄스" />
+	<key id="20201148" name="액션 수강증 : 폴짝폴짝 댄스" />
+	<key id="20201149" name="액션 수강증 : 인형극" />
 	<key id="20210001" class="consume" name="双人表情动作：拥抱" />
 	<key id="20210002" class="consume" name="双人表情动作：一言为定" />
 	<key id="20210003" class="consume" name="双人表情动作：初雪" />
@@ -20782,6 +20846,7 @@
 	<key id="20210054" name="双人表情动作：行礼" />
 	<key id="20210055" name="雙人表情動作：與小雞拍手" />
 	<key id="20210056" name="雙人表情動作：不给糖就搗蛋！" />
+	<key id="20210057" name="2인 액션 수강증 : 서프라이즈 에그" />
 	<key id="20211001" class="New가챠전용" name="双人表情动作：一言为定" />
 	<key id="20211002" class="New가챠전용" name="双人表情动作：初雪" />
 	<key id="20211003" class="New가챠전용" name="双人表情动作：甜蜜糖果" />
@@ -23008,6 +23073,7 @@
 	<key id="20303052" name="召唤队伍卷轴：10个" />
 	<key id="20303053" name="魔法生产券：50张" />
 	<key id="20303054" class="package" name="3级时装宝石自选箱" />
+	<key id="20303055" name="건설 패키지 : 택배박스" />
 	<key id="20303087" class="consume" name="幻梦独角兽武器礼盒" />
 	<key id="20303088" name="幻梦独角兽武器礼盒" />
 	<key id="20303090" class="package" name="幽翼绯影武器箱" feature="Level70Item" />
@@ -23606,6 +23672,7 @@
 	<key id="22001043" name="小黃鴨靚耀扭蛋（22年8月）" feature="22_07" />
 	<key id="22001067" name="小黃鴨靚耀扭蛋（22年9月）" feature="22_08" />
 	<key id="22001069" name="小黃鴨靚耀扭蛋（22年10月）" feature="22_09" />
+	<key id="22001071" name="22년 11월 더키의 꾸미기 캡슐" feature="22_10" />
 	<key id="22002001" class="randomBox" name="绿水灵奇趣蛋（第1期）" />
 	<key id="22002002" class="randomBox" name="绿水灵奇趣蛋（第2期）" />
 	<key id="22002003" class="randomBox" name="绿水灵奇趣蛋（第3期）" />
@@ -23673,6 +23740,7 @@
 	<key id="22201043" name="小黃鴨靚耀硬幣（22年8月）" feature="22_07" />
 	<key id="22201067" name="小黃鴨靚耀硬幣（22年9月）" feature="22_08" />
 	<key id="22201069" name="小黃鴨靚耀硬幣（22年10月）" feature="22_09" />
+	<key id="22201071" name="22년 11월 더키의 꾸미기 코인" feature="22_10" />
 	<key id="22202001" class="randomBox" name="綠水靈奇趣硬幣（第1期）" />
 	<key id="22202002" class="randomBox" name="綠水靈奇趣硬幣（第2期）" />
 	<key id="22202003" class="randomBox" name="綠水靈奇趣硬幣（第3期）" />
@@ -28820,6 +28888,7 @@
 	<key id="40410030" name="旋转棒棒糖" />
 	<key id="40410031" class="New가챠전용" name="土豆热狗" feature="22_03" />
 	<key id="40410032" name="마녀 고양이 빗자루" />
+	<key id="40410033" name="별에서 온 고양이" />
 	<key id="40419999" name="策划飞行技" />
 	<key id="40420024" name="爆竹红灯" />
 	<key id="40420027" name="飞空福袋" />
@@ -32197,7 +32266,7 @@
 	<key id="50600312" name="极速方块" feature="22_04" />
 	<key id="50600313" name="哞哞斗牛" feature="22_05" />
 	<key id="50600314" class="ride" name="乘着硕大樱花瓣" />
-	<key id="50600315" name="飛吧!小鴨滅火器" feature="22_09" />
+	<key id="50600315" name="飛吧!勇敢的小鴨滅火器" feature="22_09" />
 	<key id="50600316" class="ride" name="我的爱布里切靠垫" />
 	<key id="50600317" class="ride" name="我的爱康达尔靠垫" />
 	<key id="50600318" class="ride" name="我的爱夜舞靠垫" />
@@ -32221,10 +32290,12 @@
 	<key id="50600337" name="输液支架" />
 	<key id="50600337" name="링거 거치대" />
 	<key id="50600338" class="ride" name="改造的黑色竞速摩托车" />
-	<key id="50600339" name="마비노기 나오 쿠션" />
-	<key id="50600340" name="솜뭉치 구름" />
 	<key id="50600339" name="韩服专属" />
 	<key id="50600340" name="棉花团云" />
+	<key id="50600341" name="페리오닉 매머드" />
+	<key id="50600342" name="링거 거치대" />
+	<key id="50600343" name="길들인 티라노사우루스" />
+	<key id="50600344" name="탈주한 티라노사우루스" />
 	<key id="50610001" class="New가챠전용" name="滴溜溜旋转杯" />
 	<key id="50610002" class="New가챠전용" name="高贵的驯鹿" />
 	<key id="50610003" class="New가챠전용" name="恼火的胡萝卜驴" />
@@ -32266,7 +32337,7 @@
 	<key id="50620016" name="闪耀驯鹿马车" />
 	<key id="50620017" name="胖嘟嘟的小黄鸭妈妈船" />
 	<key id="50620237" name="雅致秋千" />
-	<key id="50620238" name="出動!小鴨消防隊" feature="22_09" />
+	<key id="50620238" name="出動!勇敢的小鴨消防隊" feature="22_09" />
 	<key id="50700004" class="charm" name="索菲女王雕像" />
 	<key id="50700005" class="charm" name="卡尔·布莱姆雕像" />
 	<key id="50700006" class="charm" name="马诺维奇雕像" />
@@ -33421,6 +33492,7 @@
 	<key id="70200178" name="对话框徽章：西瓜" feature="22_06" />
 	<key id="70200179" name="말풍선 배지 : 용감한 더키 소방대원" feature="22_09" />
 	<key id="70200180" name="말풍선 배지 : 돈다발" />
+	<key id="70200181" name="말풍선 배지 : 그래피티" />
 	<key id="70210001" class="New가챠전용" name="对话框徽章：蓝色全息图" />
 	<key id="70210002" class="New가챠전용" name="对话框徽章：快乐暖冬" />
 	<key id="70210003" class="New가챠전용" name="对话框徽章：胖丁小白" />
@@ -33627,6 +33699,7 @@
 	<key id="70300197" name="名牌徽章：西瓜" feature="22_06" />
 	<key id="70300198" name="이름표 배지 : 용감한 더키 소방대원" feature="22_09" />
 	<key id="70300199" name="이름표 배지 : 돈다발" />
+	<key id="70300200" name="이름표 배지 : 그래피티" />
 	<key id="70310001" class="New가챠전용" name="名牌徽章：健壮雪人" />
 	<key id="70310002" class="New가챠전용" name="名牌徽章：快乐暖冬" />
 	<key id="70310003" class="New가챠전용" name="名牌徽章：胖嘟嘟白喵" />
@@ -33729,6 +33802,7 @@
 	<key id="70401020" name="伤害字体徽章：度假胜地" />
 	<key id="70420001" name="伤害字体徽章：闪耀之星" />
 	<key id="70420035" name="伤害字体徽章：纸杯蛋糕" />
+	<key id="70420035" name="대미지 폰트 배지 : 컵케이크" />
 	<key id="70500001" class="gem" name="墓碑徽章：尼哈儿王朝之棺" />
 	<key id="70500002" class="gem" name="墓碑徽章：早安" />
 	<key id="70500003" class="gem" name="墓碑徽章：得到妥善维护的坟墓" />
@@ -33762,6 +33836,7 @@
 	<key id="70500031" name="石碑徽章：南瓜灯" />
 	<key id="70500032" name="墓碑徽章：神秘香炉" />
 	<key id="70500033" name="墓碑徽章：小天使" />
+	<key id="70500034" name="비석 배지 : 외계 운석" />
 	<key id="70501001" class="New가챠전용" name="墓碑徽章：枯木" />
 	<key id="70501002" class="New가챠전용" name="墓碑徽章：雪人" />
 	<key id="70501003" class="New가챠전용" name="墓碑徽章：大钟" />
@@ -33817,8 +33892,9 @@
 	<key id="70600033" name="救生圈徽章：五色龙舟" />
 	<key id="70600034" class="gem" name="救生圈徽章：绿海马" />
 	<key id="70600035" class="gem" name="救生圈徽章：紫海马" />
-	<key id="70600036" name="수영 튜브 배지 : 도도한 플라밍고" />
 	<key id="70600036" name="游泳圈徽章：高傲火烈鸟" />
+	<key id="70600037" name="수영 튜브 배지 : 끼룩끼룩 갈매기 나무판자" />
+	<key id="70600038" name="수영 튜브 배지 : 판다" />
 	<key id="70601001" class="New가챠전용" name="救生圈徽章：牛油果" />
 	<key id="70601002" class="New가챠전용" name="救生圈徽章：雪人" />
 	<key id="70601003" class="New가챠전용" name="救生圈徽章：神秘的蛇颈龙" />
@@ -33843,6 +33919,7 @@
 	<key id="70700002" class="gem" name="钓鱼徽章：软乎猫爪" />
 	<key id="70700003" class="gem" name="钓鱼徽章：热乎乎的鲷鱼烧" />
 	<key id="70700004" class="gem" name="钓鱼徽章：小狗" />
+	<key id="70700005" name="낚시 배지 : 말랑 고양이발" />
 	<key id="70700006" class="gem" name="钓鱼徽章：妖精" />
 	<key id="70700007" class="gem" name="钓鱼徽章：冰企鹅" />
 	<key id="70700008" class="gem" name="钓鱼徽章：诡夜节" />

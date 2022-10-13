@@ -17458,7 +17458,7 @@
   <key id="1101162707015419" feature="Wedding" npc="아이비" name="很高兴见到你，$MyPCName$，需要帮忙吗？" />
   <key id="1101162707015420" feature="Wedding" npc="pc" name="说想变更结婚礼堂预约。" />
   <key id="1101162707015422" feature="Wedding" npc="아이비" name="好的，马上给您变更预约。" />
-  <key id="1101162707015423" feature="Wedding" npc="아이비" name="请先确认预约信息，然后做出最终决定吧。&#xA;若对方同意取消，则邮件发送&lt;font color=&quot;#ffd200&quot;&gt;可免费预约相同等级结婚礼堂的优惠券&lt;/font&gt;。请从邮箱领取优惠券保存到背包。优惠券的有效期为30天，请注意在有效期内使用。&#xA;若对方不同意，则不发送优惠券。" />
+  <key id="1101162707015423" feature="Wedding" npc="아이비" name="請先確認預約信息，然後做出最終決定吧。&#xA;若對方同意取消，則郵件發送&lt;font color=&quot;#ffd200&quot;&gt;可免費預約相同等級結婚禮堂的優惠券&lt;/font&gt;。請從郵箱領取優惠券保存到背包。優惠券的有效期為30天，請注意在有效期內使用。&#xA;若對方不同意，無法取消預訂" />
   <key id="1101162707015424" feature="Wedding" npc="위즈 하모니" name="欢迎$MyPCName$~需要帮忙吗？" />
   <key id="1101162707015425" feature="Wedding" npc="pc" name="说想结婚。" />
   <key id="1101162707015426" feature="Wedding" npc="pc" name="咨询结婚礼堂的预约方法。" />
@@ -17500,7 +17500,7 @@
   <key id="1101162707015463" feature="Wedding" npc="위즈 하모니" name="欢迎$MyPCName$~需要帮忙吗？" />
   <key id="1101162707015464" feature="Wedding" npc="pc" name="说想变更结婚礼堂预约。" />
   <key id="1101162707015466" feature="Wedding" npc="위즈 하모니" name="知道~啦，我这就来帮忙！ " />
-  <key id="1101162707015467" feature="Wedding" npc="위즈 하모니" name="请先确认预约信息，然后做出最终决定吧。&#xA;若对方同意取消，则邮件发送&lt;font color=&quot;#ffd200&quot;&gt;可免费预约相同等级结婚礼堂的优惠券&lt;/font&gt;。请从邮箱领取优惠券保存到背包。优惠券的有效期为30天，请注意在有效期内使用。&#xA;若对方不同意，则不发送优惠券。" />
+  <key id="1101162707015467" feature="Wedding" npc="위즈 하모니" name="請先確認預約信息，然後做出最終決定吧。&#xA;若對方同意取消，則郵件發送&lt;font color=&quot;#ffd200&quot;&gt;可免費預約相同等級結婚禮堂的優惠券&lt;/font&gt;。請從郵箱領取優惠券保存到背包。優惠券的有效期為30天，請注意在有效期內使用。&#xA;若對方不同意，無法取消預訂。" />
   <key id="1101173110001798" npc="트루" name="你是来乘坐驶向$map:02000062$的船只的吗？" />
   <key id="1101173110001799" npc="pc" name="说是的。" />
   <key id="1101173110001800" npc="트루" name="这可怎么办呢……&#xA;因为女王陛下觐见仪式的缘故，前往$map:02000062$的人特别多，&#xA;所以要想准备好船只，还得需要一些时间……" />
@@ -17586,7 +17586,7 @@
   <key id="1106134307015517" feature="Wedding" npc="아이비" name="很高兴见到你，$MyPCName$，需要帮忙吗？" />
   <key id="1106134307015518" feature="Wedding" npc="pc" name="说想变更结婚礼堂预约。" />
   <key id="1106134307015520" feature="Wedding" npc="아이비" name="好的，明白。马上给您变更预约。&#xA;变更时，对方也要一起到这里同意才能变更，记得一起过来哦。" />
-  <key id="1106134307015521" feature="Wedding" npc="아이비" name="请先确认预约信息，然后做出最终决定吧。&#xA;若对方同意取消，则邮件发送&lt;font color=&quot;#ffd200&quot;&gt;可免费预约相同等级结婚礼堂的优惠券&lt;/font&gt;。请从邮箱领取优惠券保存到背包。优惠券的有效期为30天，请注意在有效期内使用。&#xA;若对方不同意，则不发送优惠券。" />
+  <key id="1106134307015521" feature="Wedding" npc="아이비" name="請先確認預約信息，然後做出最終決定吧。&#xA;若對方同意取消，則郵件發送&lt;font color=&quot;#ffd200&quot;&gt;可免費預約相同等級結婚禮堂的優惠券&lt;/font&gt;。請從郵箱領取優惠券保存到背包。優惠券的有效期為30天，請注意在有效期內使用。&#xA;若對方不同意，無法取消預訂。" />
   <key id="1106143507015522" feature="Wedding" npc="쟈니스" name="若想举办完美的婚礼，摄影棚必不可少！" />
   <key id="1106143507015524" feature="Wedding" npc="쟈니스" name="用相机的取景器瞄准心爱之人，这个过程好美妙~&#xA;试着用照片记录下我们在一起的这一刻吧~" />
   <key id="1106143507015528" feature="Wedding" npc="쟈니스" name="好的，那现在开始关闭场所。请大家慢走~" />
@@ -17707,14 +17707,14 @@
   <key id="1106201207015669" feature="Wedding" npc="흐뭇" name="很高兴见到你，$MyPCName$，需要帮忙吗？" />
   <key id="1106201207015670" feature="Wedding" npc="pc" name="说想变更结婚礼堂预约。" />
   <key id="1106201207015672" feature="Wedding" npc="흐뭇" name="好的，明白。马上给您变更预约。&#xA;变更时，对方也要一起到这里同意才能变更，记得一起过来哦。" />
-  <key id="1106201207015673" feature="Wedding" npc="흐뭇" name="请先确认预约信息，然后做出最终决定吧。&#xA;若对方同意取消，则邮件发送&lt;font color=&quot;#ffd200&quot;&gt;可免费预约相同等级结婚礼堂的优惠券&lt;/font&gt;。请从邮箱领取优惠券保存到背包。优惠券的有效期为30天，请注意在有效期内使用。&#xA;若对方不同意，则不发送优惠券。" />
+  <key id="1106201207015673" feature="Wedding" npc="흐뭇" name="請先確認預約信息，然後做出最終決定吧。&#xA;若對方同意取消，則郵件發送&lt;font color=&quot;#ffd200&quot;&gt;可免費預約相同等級結婚禮堂的優惠券&lt;/font&gt;。請從郵箱領取優惠券保存到背包。優惠券的有效期為30天，請注意在有效期內使用。&#xA;若對方不同意，無法取消預訂。" />
   <key id="1106201207015674" feature="Wedding" npc="흐뭇" name="很高兴见到你，$MyPCName$，有什么需要我帮忙的吗？" />
   <key id="1106201207015675" feature="Wedding" npc="pc" name="说想结婚。" />
   <key id="1106201207015676" feature="Wedding" npc="흐뭇" name="唔……看样子您貌似不久前刚经历了离婚……&#xA;现在就开始一场新的婚姻，似乎有些操之过急，&#xA;请再过一段时间再来找我吧。" />
   <key id="1106201207015677" feature="Wedding" npc="흐뭇" name="很高兴见到你，$MyPCName$，需要帮忙吗？" />
   <key id="1106201207015678" feature="Wedding" npc="pc" name="说想变更结婚礼堂预约。" />
   <key id="1106201207015680" feature="Wedding" npc="흐뭇" name="好的，马上给您变更预约。" />
-  <key id="1106201207015681" feature="Wedding" npc="흐뭇" name="请先确认预约信息，然后做出最终决定吧。&#xA;若对方同意取消，则邮件发送&lt;font color=&quot;#ffd200&quot;&gt;可免费预约相同等级结婚礼堂的优惠券&lt;/font&gt;。请从邮箱领取优惠券保存到背包。优惠券的有效期为30天，请注意在有效期内使用。&#xA;若对方不同意，则不发送优惠券。" />
+  <key id="1106201207015681" feature="Wedding" npc="흐뭇" name="請先確認預約信息，然後做出最終決定吧。&#xA;若對方同意取消，則郵件發送&lt;font color=&quot;#ffd200&quot;&gt;可免費預約相同等級結婚禮堂的優惠券&lt;/font&gt;。請從郵箱領取優惠券保存到背包。優惠券的有效期為30天，請注意在有效期內使用。&#xA;若對方不同意，無法取消預訂。" />
   <key id="1106210607015682" feature="Wedding" npc="프로미" name="如果您已经预订了结婚礼堂，就去发喜帖吧！我来帮忙！" />
   <key id="1106210607015683" feature="Wedding" npc="프로미" name="预订结婚礼堂后，就可以发喜帖，&#xA;但每张喜帖需要支付1,000金币的手续费，&#xA;毕竟我们制作喜帖需要一些成本，还请谅解~" />
   <key id="1106210807015682" feature="Wedding" npc="프로미" name="您预订婚礼了呀，要发喜帖吗？" />
@@ -18061,7 +18061,7 @@
   <key id="1111144407015706" feature="Wedding" npc="위즈 하모니" name="很高兴见到你，$MyPCName$，需要帮忙吗？" />
   <key id="1111144407015707" feature="Wedding" npc="pc" name="说想变更结婚礼堂预约。" />
   <key id="1111144407015709" feature="Wedding" npc="위즈 하모니" name="好的，明白。马上给您变更预约。&#xA;变更时，对方也要一起到这里同意才能变更，记得一起过来哦。" />
-  <key id="1111144407015710" feature="Wedding" npc="위즈 하모니" name="请先确认预约信息，然后做出最终决定吧。&#xA;若对方同意取消，则邮件发送&lt;font color=&quot;#ffd200&quot;&gt;可免费预约相同等级结婚礼堂的优惠券&lt;/font&gt;。请从邮箱领取优惠券保存到背包。优惠券的有效期为30天，请注意在有效期内使用。&#xA;若对方不同意，则不发送优惠券。" />
+  <key id="1111144407015710" feature="Wedding" npc="위즈 하모니" name="請先確認預約信息，然後做出最終決定吧。&#xA;若對方同意取消，則郵件發送&lt;font color=&quot;#ffd200&quot;&gt;可免費預約相同等級結婚禮堂的優惠券&lt;/font&gt;。請從郵箱領取優惠券保存到背包。優惠券的有效期為30天，請注意在有效期內使用。&#xA;若對方不同意，無法取消預訂。" />
   <key id="1111205007015703" feature="Wedding" npc="콘대르" name="今天天气真好，真适合结婚！" />
   <key id="1111205007015704" feature="Wedding" npc="콘대르" name="好久不见！惊不惊喜？" />
   <key id="1111205007015705" feature="Wedding" npc="pc" name="你到底在这儿做什么呢……？" />
