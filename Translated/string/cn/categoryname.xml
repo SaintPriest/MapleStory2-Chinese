@@ -555,29 +555,35 @@
   <key id="10104102" name="金色缎带套装" feature="22_05" />
   <key id="10104103" name="开心的春游套装" feature="22_05" />
   <key id="10104104" name="热情流浪音乐套装" feature="22_05" />
-  <key id="10104201" name="쿨링쿨링 마린 세트" feature="22_06" />
-  <key id="10104202" name="갈매기 해적단 세트" feature="22_06" />
-  <key id="10104203" name="아쿠아 썸머 세트" feature="22_06" />
-  <key id="10104204" name="청개굴 세트" feature="22_06" />
-  <key id="10104301" name="세이레네스 세트" feature="22_07" />
-  <key id="10104302" name="유니콘 챔피언 세트" feature="22_07" />
-  <key id="10104303" name="해변의 낭만 세트" feature="22_07" />
-  <key id="10104304" name="썬플라워 비치 세트" feature="22_07" />
-  <key id="10104305" name="웨폰 박스" feature="22_07" />
-  <key id="10106701" name="폴 레빗 세트" feature="22_08" />
-  <key id="10106702" name="블러디 뱀파이어 세트" feature="22_08" />
-  <key id="10106703" name="가을 소풍 세트" feature="22_08" />
-  <key id="10106704" name="견습 파티셰 세트" feature="22_08" />
-  <key id="10106801" name="숲의 정령 세트" feature="22_08" />
-  <key id="10106802" name="다크 캣 펑키 세트" feature="22_08" />
-  <key id="10106803" name="장난꾸러기 요정 세트" feature="22_08" />
-  <key id="10106804" name="트윙클 스타 교복 세트" feature="22_08" />
-  <key id="10106805" name="웨폰 박스" feature="22_08" />
-  <key id="10106901" name="Gold Sand Dragon Set" feature="22_09" />
-	<key id="10106902" name="All Hallows&apos; Set" feature="22_09" />
-	<key id="10106903" name="Spirit One Set" feature="22_09" />
-	<key id="10106904" name="Sweet Dream Set" feature="22_09" />
+  <key id="10104201" name="清涼水手套裝" feature="22_06" />
+  <key id="10104202" name="海鷗海盜團套裝" feature="22_06" />
+  <key id="10104203" name="碧水夏日套裝" feature="22_06" />
+  <key id="10104204" name="旅行青蛙套裝" feature="22_06" />
+  <key id="10104301" name="海妖塞王套裝" feature="22_07" />
+  <key id="10104302" name="幻夢獨角獸套裝" feature="22_07" />
+  <key id="10104303" name="海邊的浪漫套裝" feature="22_07" />
+  <key id="10104304" name="向日葵沙灘套裝" feature="22_07" />
+  <key id="10104305" name="武器箱" feature="22_07" />
+  <key id="10106701" name="保羅兔套裝" feature="22_08" />
+  <key id="10106702" name="赤色吸血鬼套裝" feature="22_08" />
+  <key id="10106703" name="秋遊套裝" feature="22_08" />
+  <key id="10106704" name="見習糕點師套裝" feature="22_08" />
+  <key id="10106705" name="黑貓套裝" feature="22_08" />
+  <key id="10106801" name="森林精靈套装" feature="22_08" />
+  <key id="10106802" name="酷萌黑喵套装" feature="22_08" />
+  <key id="10106803" name="顽皮妖精套装" feature="22_08" />
+  <key id="10106804" name="闪耀之星校服套装" feature="22_08" />
+  <key id="10106805" name="武器箱" feature="22_08" />
+  <key id="10106901" name="金絲雲龍套裝" feature="22_09" />
+	<key id="10106902" name="詭夜狂歡套裝" feature="22_09" />
+	<key id="10106903" name="精神宗主套裝" feature="22_09" />
+	<key id="10106904" name="甜蜜夢鄉套裝" feature="22_09" />
 	<key id="10106905" name="樂器" feature="22_09" />
+  <key id="10107101" name="街頭說唱套裝" feature="22_10" />
+	<key id="10107102" name="甜心兔兔套装" feature="22_10" />
+	<key id="10107103" name="飛行套裝" feature="22_10" />
+	<key id="10107104" name="萌萌哒恐龙套装" feature="22_10" />
+	<key id="10107105" name="建築" feature="22_10" />
   <key id="10200100" name="单品时装" />
   <key id="10200101" name="坐骑" />
   <key id="10200102" name="徽章" />
@@ -645,17 +651,17 @@
   <key id="10450115" name="宠物" />
   <key id="10450116" name="乐器" />
   <key id="10450117" name="其他" />
-  <key id="10450201" name="Romantic Wedding Set" />
-	<key id="10450202" name="Royal Darkness Set" />
-	<key id="10450203" name="Pumpkin Witch Set" />
-	<key id="10450204" name="Pumpkin Hollow Set" />
-	<key id="10450205" name="Darkmoon Kitten Set" />
-	<key id="10450206" name="Naughty Little Devil Set" />
-	<key id="10450207" name="Maple Alliance Set" />
-	<key id="10450208" name="Royal Guard Set" />
-	<key id="10450209" name="Green Hood Set" />
-	<key id="10450210" name="Lumiknight Set" />
-	<key id="10450211" name="Dark Wind Set" />
+  <key id="10450201" name="浪漫婚禮套裝" />
+	<key id="10450202" name="咏夜之诗套装" />
+	<key id="10450203" name="南瓜巫師套裝" />
+	<key id="10450204" name="南瓜詭夜節套裝" />
+	<key id="10450205" name="暗月貓咪套装" />
+	<key id="10450206" name="搗蛋鬼小惡魔套裝" />
+	<key id="10450207" name="冒險島聯盟套裝" />
+	<key id="10450208" name="特萊雅近衛隊套裝" />
+	<key id="10450209" name="綠披風套裝" />
+	<key id="10450210" name="光明騎士團套裝" />
+	<key id="10450211" name="黑風套裝" />
 	<key id="10450212" name="武器箱" />
 	<key id="10450213" name="徽章" />
 	<key id="10450214" name="坐騎" />
