@@ -5295,26 +5295,26 @@
   <quest questID="89000588" name="60레벨 달성" manual="60레벨 달성" complete="60레벨 달성" count="1" feature="22_06" />
   <quest questID="89000589" name="70레벨 달성" manual="70레벨 달성하기" complete="70레벨 달성하기" count="1" feature="22_06" />
   <quest questID="89000590" name="80레벨 달성" manual="80레벨 달성하기" complete="80레벨 달성하기" count="1" feature="22_06" />
-  <quest questID="89000591" name="트라이아에서 인사" manual="트라이아에서 1회 /안녕, 하고 인사하기" complete="트라이아에서 1회 /안녕, 하고 인사하기" count="1" feature="22_11" />
-  <quest questID="89000592" name="다른 사람 집 1회 방문" manual="다른 사람 집 1회 방문" complete="다른 사람 집 1회 방문" count="1" feature="22_11" />
-  <quest questID="89000593" name="비행해서 50m 이동하기" manual="비행 탈것 타고 50m 비행하기" complete="비행 탈것 타고 50m 비행하기" count="1" feature="22_11" />
-  <quest questID="89000594" name="지상 탈것 타고 100m 달리기" manual="지상 탈것 타고 100m 달리기" complete="지상 탈것 타고 100m 달리기" count="1" feature="22_11" />
-  <quest questID="89000595" name="두둥실 1000m 비행하기" manual="비행 탈것 타고 1000m 비행하기" complete="비행 탈것 타고 1000m 비행하기" count="1" feature="22_11" />
-  <quest questID="89000596" name="스킨 소켓에 루미스톤 1개 장착" feature="22_11" />
-  <quest questID="89000597" name="뷰티살롱, 염색공방, 성형외과 중 한 군데 방문" manual="뷰티살롱, 염색공방, 성형외과 중 한 군데 방문" complete="뷰티살롱, 염색공방, 성형외과 중 한 군데 방문" count="1" feature="22_11" />
-  <quest questID="89000598" name="몬스터 1000마리 처치" manual="몬스터 1000마리 처치하기" complete="몬스터 1000마리 처치하기" count="1" feature="22_11" />
-  <quest questID="89000599" name="몬스터 5000마리 처치" manual="몬스터 5000마리 처치하기" complete="몬스터 5000마리 처치하기" count="1" feature="22_11" />
-  <quest questID="89000600" name="필드보스 3회 처치" manual="필드보스 3회 처치하기" complete="필드보스 3회 처치하기" count="1" feature="22_11" />
-  <quest questID="89000601" name="필드 보스 10마리 처치" manual="* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.&#xA;* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.&#xA;&#xA;파티를 맺은 길드원 2명과 함께 필드 보스 10마리 처치하기" complete="* 나 자신과 길드원 2명을 포함한 3인 파티로 진행해야 합니다.&#xA;* 파티를 맺은 길드원과 함께 같은 필드에서 진행해야 인정됩니다.&#xA;&#xA;파티를 맺은 길드원 2명과 함께 필드 보스 10마리 처치하기" count="1" feature="22_11" />
-  <quest questID="89000602" name="MC케이 이벤트 3회 참여" manual="* MC케이 이벤트는 매 시 5분, 35분에 참여할 수 있습니다.&#xA;&#xA;MC케이 이벤트 3회 참여하기" complete="* MC케이 이벤트는 매 시 5분, 35분에 참여할 수 있습니다.&#xA;&#xA;MC케이 이벤트 3회 참여하기" count="1" feature="22_11" />
-  <quest questID="89000603" name="MC케이 이벤트 5회 참여" manual="MC케이 이벤트 5회 참여하기" complete="MC케이 이벤트 5회 참여하기" count="1" feature="22_11" />
-  <quest questID="89000604" name="MC케이 이벤트 10회 참여" manual="* MC케이 이벤트는 매 시 5분, 35분에 참여할 수 있습니다.&#xA;&#xA;MC케이 이벤트 10회 참여하기" complete="* MC케이 이벤트는 매 시 5분, 35분에 참여할 수 있습니다.&#xA;&#xA;MC케이 이벤트 10회 참여하기" count="1" feature="22_11" />
-  <quest questID="89000605" name="황금 보물 상자 10회 열기" manual="황금 보물 상자 10회 열기" complete="황금 보물 상자 10회 열기" count="1" feature="22_11" />
-  <quest questID="89000606" name="모험[어려움] 던전 5회 클리어" manual="모험[어려움] 던전 클리어하기" complete="모험[어려움] 던전 클리어하기" count="1" feature="22_11" />
-  <quest questID="89000607" name="모험[어려움] 던전 10회 클리어" manual="모험[어려움] 던전 클리어하기" complete="모험[어려움] 던전 클리어하기" count="1" feature="22_11" />
-  <quest questID="89000608" name="모험[어려움] 던전 20회 클리어" manual="모험[어려움] 던전 클리어하기" complete="모험[어려움] 던전 클리어하기" count="1" feature="22_11" />
-  <quest questID="89000609" name="70레벨 달성" manual="70레벨 달성하기" complete="70레벨 달성하기" count="1" feature="22_11" />
-  <quest questID="89000610" name="80레벨 달성" manual="80레벨 달성하기" complete="80레벨 달성하기" count="1" feature="22_11" />
+  <quest questID="89000591" name="在特莱雅打招呼" manual="在特莱雅说1次/你好" complete="在特莱雅说1次/你好" count="1" feature="22_11" />
+  <quest questID="89000592" name="拜访1次其他人的家" manual="拜访1次其他人的家" complete="拜访1次其他人的家" count="1" feature="22_11" />
+  <quest questID="89000593" name="飞行移动50米" manual="搭乘飞行坐骑飞行50米" complete="搭乘飞行坐骑飞行50米" count="1" feature="22_11" />
+  <quest questID="89000594" name="骑上陆地坐骑奔跑100米" manual="骑上陆地坐骑奔跑100米" complete="骑上陆地坐骑奔跑100米" count="1" feature="22_11" />
+  <quest questID="89000595" name="飘浮飞行1000米" manual="搭乘飞行坐骑飞行1000米" complete="搭乘飞行坐骑飞行1000米" count="1" feature="22_11" />
+  <quest questID="89000596" name="鑲嵌1個時裝寶石" feature="22_11" />
+  <quest questID="89000597" name="前往美容沙龙、染色工坊、整形外科中的一处" manual="前往美容沙龙、染色工坊、整形外科中的一处" complete="前往美容沙龙、染色工坊、整形外科中的一处" count="1" feature="22_11" />
+  <quest questID="89000598" name="消灭1000只怪物" manual="消灭1000只怪物" complete="消灭1000只怪物" count="1" feature="22_11" />
+  <quest questID="89000599" name="消灭5000只怪物" manual="消灭5000只怪物" complete="消灭5000只怪物" count="1" feature="22_11" />
+  <quest questID="89000600" name="击败3次野外首领" manual="击败3次野外首领" complete="击败3次野外首领" count="1" feature="22_11" />
+  <quest questID="89000601" name="击败10次野外首领" manual="击败10次野外首领" complete="击败10次野外首领" count="1" feature="22_11" />
+  <quest questID="89000603" name="参加3次MC凯伊活动" manual="参加3次MC凯伊活动" complete="参加3次MC凯伊活动" count="1" feature="22_11" />
+  <quest questID="89000603" name="参加5次MC凯伊活动" manual="参加5次MC凯伊活动" complete="参加5次MC凯伊活动" count="1" feature="22_11" />
+  <quest questID="89000604" name="参加10次MC凯伊活动" manual="参加10次MC凯伊活动" complete="参加10次MC凯伊活动" count="1" feature="22_11" />
+  <quest questID="89000605" name="寻找黄金宝箱" manual="寻找10个黄金宝箱" complete="寻找10个黄金宝箱" count="1" feature="22_11" />
+  <quest questID="89000606" name="通关5次冒险[困难]副本" manual="通关冒险[困难]副本" complete="通关冒险[困难]副本" count="1" feature="22_11" />
+  <quest questID="89000607" name="通关10次冒险[困难]副本" manual="通关冒险[困难]副本" complete="通关冒险[困难]副本" count="1" feature="22_11" />
+  <quest questID="89000608" name="通关20次冒险[困难]副本" manual="通关冒险[困难]副本" complete="通关冒险[困难]副本" count="1" feature="22_11" />
+  <quest questID="89000609" name="达到70级" manual="达到70级" complete="达到70级" count="1" feature="22_11" />
+  <quest questID="89000610" name="达到80级" manual="达到80级" complete="达到80级" count="1" feature="22_11" />
   <quest questID="89010009" name="消灭副本首领30次" manual="需要攻打的副本首领：&#xA;$npc:24000409$、$npc:22000047$、$npc:23100007$、$npc:23100025$，&#xA;$npc:23100055$、$npc:23100077$、$npc:24001601$、$npc:23100006$等&#xA; &#xA;* 不包括生命裂痕副本。&#xA;* 不包括勇气考场副本。&#xA;&#xA;消灭30次冒险副本首领" complete="需要攻打的副本首领：&#xA;$npc:24000409$、$npc:22000047$、$npc:23100007$、$npc:23100025$，&#xA;$npc:23100055$、$npc:23100077$、$npc:24001601$、$npc:23100006$等&#xA; &#xA;* 不包括生命裂痕副本。&#xA;* 不包括勇气考场副本。&#xA;&#xA;消灭30次冒险副本首领" count="1" feature="QuestCN" />
   <quest questID="89010010" name="加入超过2个社团" manual="加入社团并拥有2个以上社团" complete="加入社团并拥有2个以上社团" count="1" feature="QuestCN" />
   <quest questID="89010011" name="在女王镇使用烟花、荧光棒或者鼓掌" manual="在女王镇使用烟花、荧光棒或者鼓掌" complete="在女王镇使用烟花、荧光棒或者鼓掌" count="1" feature="QuestCN" />

@@ -830,4 +830,7 @@
   <key id="10000890" name="高音上不去" feature="DungeonOS04" />
   <key id="10000891" name="777 週年快樂！" />
   <key id="10000892" name="勇敢的鴨子消防員" feature="Event" />
+  <key id="10000893" name="讀心術" feature="Event" />
+	<key id="10000894" name="與對方一致的" feature="Event" />
+	<key id="10000895" name="不怕失敗的" feature="Event" />
 </ms2>

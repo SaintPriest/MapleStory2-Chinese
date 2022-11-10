@@ -391,6 +391,7 @@
   <key id="21250002" name="（账号）限时挑战：击败$npc:23000055$" />
   <key id="21250003" name="（账号）限时挑战：击败$npc:23000007$" />
   <key id="21300001" name="黑暗支配者" />
+  <key id="21300001" name="丘陵支配者" locale="KR" />
   <key id="21300002" name="失败的痛苦" />
   <key id="21300003" name="$map:65000001$的支配者" />
   <key id="21300004" name="全都给我跪下！" />
@@ -465,33 +466,6 @@
   <key id="21300073" name="坚持就是胜利" feature="SurvivalContents01" />
   <key id="21300074" name="获得蘑菇大王青睐的方法" feature="SurvivalContents01" />
   <key id="21300075" name="乌龟太过分了！" feature="Season1" />
-  <key id="21300076" name="ACHIEVENAME_21300076_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300077" name="征服$item:20000985$" feature="SurvivalContents03" />
-  <key id="21300078" name="征服$item:20000980$" feature="SurvivalContents03" />
-  <key id="21300079" name="ACHIEVENAME_21300079_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300080" name="ACHIEVENAME_21300080_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300081" name="ACHIEVENAME_21300081_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300082" name="ACHIEVENAME_21300082_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300083" name="ACHIEVENAME_21300083_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300084" name="ACHIEVENAME_21300084_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300085" name="ACHIEVENAME_21300085_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300086" name="ACHIEVENAME_21300086_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300087" name="ACHIEVENAME_21300087_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300088" name="ACHIEVENAME_21300088_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300089" name="ACHIEVENAME_21300089_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300090" name="ACHIEVENAME_21300090_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300091" name="ACHIEVENAME_21300091_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300092" name="ACHIEVENAME_21300092_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300093" name="ACHIEVENAME_21300093_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300094" name="ACHIEVENAME_21300094_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300095" name="ACHIEVENAME_21300095_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300096" name="ACHIEVENAME_21300096_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300097" name="ACHIEVENAME_21300097_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300098" name="ACHIEVENAME_21300098_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300099" name="ACHIEVENAME_21300099_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300100" name="ACHIEVENAME_21300100_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300101" name="ACHIEVENAME_21300101_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="21300102" name="ACHIEVENAME_21300102_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
   <key id="21300103" name="人偶之宅参与者" />
   <key id="21300104" name="哐当！猛砸" />
   <key id="21300105" name="(账号)蓝鲁克变温和了" feature="DungeonOS01" />
@@ -1001,18 +975,6 @@
   <key id="22200437" name="$dungeonTitle:29005001$的宝物" feature="TreasureMap01" />
   <key id="22200438" name="征服$dungeonTitle:29004001$！" feature="TreasureMap01" />
   <key id="22200439" name="征服$dungeonTitle:29005001$！" feature="TreasureMap01" />
-  <key id="22200440" name="$map:02020013$的黄金宝箱" feature="Timaion01" />
-  <key id="22200441" name="$map:02020014$的黄金宝箱" feature="Timaion01" />
-  <key id="22200442" name="$map:02020016$的黄金宝箱" feature="Timaion01" />
-  <key id="22200443" name="$map:02020011$的黄金宝箱" feature="Timaion01" />
-  <key id="22200444" name="$map:02020017$的黄金宝箱" feature="Timaion01" />
-  <key id="22200445" name="$map:02020018$的黄金宝箱" feature="Timaion01" />
-  <key id="22200446" name="$map:02020002$的黄金宝箱" feature="Timaion01" />
-  <key id="22200447" name="$map:02020001$的黄金宝箱" feature="Timaion01" />
-  <key id="22200448" name="$map:02020003$的黄金宝箱" feature="Timaion01" />
-  <key id="22200449" name="$map:02020006$的黄金宝箱" feature="Timaion01" />
-  <key id="22200450" name="$map:02020004$的黄金宝箱" feature="Timaion01" />
-  <key id="22200451" name="$map:02020010$的黄金宝箱" feature="Timaion01" />
   <key id="22200452" name="保持力量均衡" feature="Season2" />
   <key id="22200453" name="Biubiu！" feature="Season3" />
   <key id="22200454" name="谢谢你帮忙！" feature="Season1" />
@@ -1064,17 +1026,6 @@
   <key id="22210014" name="守卫森林和平之人" feature="Season1" />
   <key id="22210016" name="哎唷好热啊！" feature="Season1" />
   <key id="22210017" name="（账号）没有任何问题了！" feature="ContentsGuide01" />
-  <key id="22210018" name="纪念暑期版本专属体验服！" feature="JobChangeFGT" />
-  <key id="22210019" name="ACHIEVENAME_22210019_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="22210020" name="ACHIEVENAME_22210020_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="22210021" name="ACHIEVENAME_22210021_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="22210022" name="ACHIEVENAME_22210022_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="22210023" name="ACHIEVENAME_22210023_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="22210024" name="热热身吧？" feature="SurvivalContents03" />
-  <key id="22210025" name="ACHIEVENAME_22210025_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="22210026" name="ACHIEVENAME_22210026_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="22210027" name="ACHIEVENAME_22210027_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="22210028" name="ACHIEVENAME_22210028_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
   <key id="22210046" name="进入洞穴" feature="Kritias_2018_12" />
   <key id="22210047" name="在花丛里" feature="Kritias_2018_12" />
   <key id="22210048" name="喜欢虫子" feature="Kritias_2018_12" />
@@ -1194,8 +1145,6 @@
   <key id="22500002" name="天空堡垒之光" feature="FameContents" />
   <key id="22500003" name="天空堡垒的希望" feature="FameContents" />
   <key id="22500004" name="天空堡垒的英雄" feature="FameContents" />
-  <key id="22500005" name="天空堡垒的传奇" feature="FameContents02" />
-  <key id="22500006" name="天空堡垒的神话" feature="FameContents02" />
   <key id="22500007" name="联盟士兵" feature="FameContents" />
   <key id="22500008" name="联盟分队长" feature="FameContents" />
   <key id="22500009" name="联盟军官" feature="FameContents" />
@@ -1559,8 +1508,6 @@
   <key id="23100271" name="高级厨师" feature="MasterySecond" />
   <key id="23100272" name="专业厨师（1）" feature="MasterySecond" />
   <key id="23100273" name="初级驯兽师" feature="PetBattle" />
-  <key id="23100274" name="中级驯兽师" feature="Develop" />
-  <key id="23100275" name="高级驯兽师" feature="Develop" />
   <key id="23100276" name="外形各异的好朋友" feature="PetBattle" />
   <key id="23100277" name="木琴演奏者" />
   <key id="23100278" name="口琴演奏者" />
@@ -1679,10 +1626,6 @@
   <key id="23100407" name="浪漫的夏日夜晚" />
   <key id="23100408" name="跟着节拍跳起来！" />
   <key id="23100409" name="感受夏日的激情" />
-  <key id="23100410" name="ACHIEVENAME_23100410_NAME:[F]JPInstrument" feature="JPInstrument" />
-  <key id="23100411" name="ACHIEVENAME_23100411_NAME:[F]JPInstrument" feature="JPInstrument" />
-  <key id="23100412" name="ACHIEVENAME_23100412_NAME:[F]JPInstrument" feature="JPInstrument" />
-  <key id="23100413" name="ACHIEVENAME_23100413_NAME:[F]JPInstrument" feature="JPInstrument" />
   <key id="23100414" name="无法保证会变成什么模样！" />
   <key id="23100415" name="你到底是什么人？！" />
   <key id="23100416" name="照亮浪漫的秋夜~" />
@@ -1758,7 +1701,6 @@
   <key id="23200039" name="非你不可！" feature="PetRemake01" />
   <key id="23200040" name="准备完成！" feature="Season1" />
   <key id="23200041" name="对未来的我投资" feature="Season1" />
-  <key id="23200042" name="ACHIEVENAME_23200042_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
   <key id="23200043" name="极限突破" feature="UnlimitedEnchant" />
   <key id="23300002" name="胖乎乎的小羊" />
   <key id="23300003" name="时尚潮人" />
@@ -1875,21 +1817,26 @@
   <key id="23400046" name="参与1周年世界首领" feature="WorldChampionMushroom" locale="CN" />
   <key id="23400047" name="（账号）欢庆1周年！" locale="CN" />
   <key id="23400049" name="（帐号）圣诞老人的礼物" locale="CN" />
+  <key id="23400050" name="恋之巧克力职人" locale="KR" />
   <key id="23400051" name="恋之巧克力职人" locale="CN" />
   <key id="23400053" name="（账号）画蓝图的人" feature="Blueprint" locale="CN" />
   <key id="23400054" name="（账号）华丽的极致" locale="CN" />
   <key id="23400055" name="（帐号）咏夜之诗" locale="CN" />
+  <key id="23400056" name="秀出你的頭髮！" feature="MassiveHideAndSeek" locale="KR" />
+  <key id="23400057" name="捉迷藏王者" feature="MassiveHideAndSeek" locale="KR" />
   <key id="23400058" name="2020恋之巧克力职人" feature="Event" locale="CN" />
   <key id="23500001" name="（账号）快乐之家" />
   <key id="23500003" name="（账号）土地爷" />
   <key id="23500004" name="（账号）清爽的香皂味道" />
   <key id="23500005" name="（账号）今天吃什么呢？" />
+  <key id="23500006" name="（帳號）煉金術基礎" locale="KR" />
   <key id="23500007" name="（账号）宝石工匠" />
   <key id="23500008" name="（账号）新朋友" />
   <key id="23500009" name="（账号）我的管家是戒指工匠" />
   <key id="23500010" name="（账号）我的管家是项链工匠" />
   <key id="23500011" name="（账号）我的管家是饮料专家" />
   <key id="23500012" name="（账号）我的管家是厨师" />
+  <key id="23500013" name="（帳號）我的管家是煉金術士" locale="KR" />
   <key id="23500014" name="（账号）好朋友" />
   <key id="23500015" name="（账号）他和她的个人信息" />
   <key id="23500016" name="（账号）你是明星建筑师哦" />
@@ -1962,6 +1909,7 @@
   <key id="92000005" name="（账号）冒险岛2 新纪录达成纪念礼物" />
   <key id="92000006" name="（账号）喝喝看~ $item:20000317$!" />
   <key id="92000007" name="圣诞琪琪的圣诞礼物" />
+  <key id="92000008" name="有錢人的誕生" locale="KR" />
   <key id="92000009" name="反击的开始，第一次达成！" />
   <key id="92000010" name="反击的开始，第二次达成！" />
   <key id="92000011" name="甜蜜的情人节！（1）" />
@@ -1979,6 +1927,7 @@
   <key id="92000023" name="超级英雄的诞生" />
   <key id="92000024" name="冒险岛世界最初的骑士" />
   <key id="92000025" name="冒险岛世界最后的骑士" />
+  <key id="92000026" name="（账号）武器太多了!" feature="Zakum01" locale="KR" />
   <key id="92000027" name="好想吃扎昆" />
   <key id="92000028" name="冒险岛22周年庆！" />
   <key id="92000029" name="小粉红品克缤！" />
@@ -2014,6 +1963,8 @@
   <key id="92000059" name="品克缤首位征服者" />
   <key id="92000060" name="冲破黑暗" locale="CN" />
   <key id="92000061" name="向扎昆前进" />
+  <key id="92000062" name="令人心碎的情人節的第一份禮物" locale="KR" />
+  <key id="92000063" name="激動人心的情人節第二份禮物" locale="KR" />
   <key id="92000064" name="甜蜜可可礼物，一！" locale="CN" />
   <key id="92000065" name="甜蜜可可礼物，二！" locale="CN" />
   <key id="92000066" name="甜蜜可可礼物，三！" locale="CN" />
@@ -2030,6 +1981,9 @@
   <key id="92000077" name="甜蜜可可礼物，十四！" locale="CN" />
   <key id="92000078" name="甜蜜可可礼物，十五！" locale="CN" />
   <key id="92000079" name="石头剪刀布之王！" locale="CN" />
+  <key id="92000080" name="白色情人節的第一份禮物" locale="KR" />
+  <key id="92000081" name="白色情人節的第二份禮物" locale="KR" />
+  <key id="92000082" name="白色情人節的第三份禮物" locale="KR" />
   <key id="92000083" name="单身光荣礼物1" locale="CN" />
   <key id="92000084" name="单身光荣礼物2" locale="CN" />
   <key id="92000085" name="相爱万岁礼物1" locale="CN" />
@@ -2039,15 +1993,26 @@
   <key id="92000089" name="相爱万岁礼物1" locale="CN" />
   <key id="92000090" name="相爱万岁礼物2" locale="CN" />
   <key id="92000091" name="樱花树的主人" />
+  <key id="92000092" name="1000天在一起" locale="KR" />
+  <key id="92000093" name="粉絲藝術藝術家" locale="KR" />
   <key id="92000094" name="孢子不可怕！" feature="WorldChampionMushroom" />
   <key id="92000095" name="彩虹水灵的好友" />
   <key id="92000096" name="彩虹水灵饲养员" />
+  <key id="92000098" name="冒險島2 三週年快樂！" locale="KR" />
   <key id="92000099" name="火热烈日" locale="CN" />
   <key id="92000100" name="豪华热销礼包购买人" locale="CN" />
   <key id="92000101" name="尊享热销礼包购买人" locale="CN" />
   <key id="92000102" name="尊贵热销礼包购买人" locale="CN" />
   <key id="92000103" name="至尊热销礼包购买人" locale="CN" />
+  <key id="92000104" name="9월 풍성한 가을 릴레이 첫번째 패키지 구매자" locale="KR" />
+  <key id="92000105" name="9월 풍성한 가을 릴레이 두번째 패키지 구매자" locale="KR" />
+  <key id="92000106" name="9월 풍성한 가을 릴레이 세번째 패키지 구매자" locale="KR" />
+  <key id="92000107" name="9월 풍성한 가을 릴레이 네번째 패키지 구매자" locale="KR" />
   <key id="92000108" name="1周年最终庆典" locale="CN" />
+  <key id="92000112" name="10월 풍성한 가을 릴레이 첫번째 패키지 구매자" locale="KR" />
+  <key id="92000113" name="10월 풍성한 가을 릴레이 두번째 패키지 구매자" locale="KR" />
+  <key id="92000114" name="10월 풍성한 가을 릴레이 세번째 패키지 구매자" locale="KR" />
+  <key id="92000115" name="10월 풍성한 가을 릴레이 네번째 패키지 구매자" locale="KR" />
   <key id="92000117" name="小南瓜的朋友" />
   <key id="92000118" name="小南瓜饲养员" />
   <key id="92000119" name="枫树的主人" />
@@ -2062,7 +2027,11 @@
   <key id="92000135" name="无败者" feature="Event" />
   <key id="92000136" name="读心者" feature="Event" />
   <key id="92000137" name="故意输的人" feature="Event" />
+  <key id="92000138" name="找到我的伴侶！" feature="Event" locale="KR" />
+  <key id="92000139" name="承諾的贏家" feature="Event" locale="KR" />
+  <key id="92000140" name="刺穿心臟的人" feature="Event" locale="KR" />
   <key id="92000141" name="寻找你的搭档!" feature="Event" locale="CN" />
+  <key id="92000142" name="喜歡戰鬥的人" feature="Event" locale="KR" />
   <key id="92000143" name="天生的胜利者" feature="Event" locale="CN" />
   <key id="92000144" name="樱花树殿堂" feature="Event" locale="CN" />
   <key id="92000146" name="小黄鸭的灵魂伴侣" feature="Event" />
