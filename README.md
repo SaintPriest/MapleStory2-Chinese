@@ -12,7 +12,7 @@ Lastest-KMS2: 提取原始Xml，最新版本
 Translated: 已翻譯的Xml，使用Google Translate和Papago翻譯
 
 ## Pull-Request 規則
-僅可修改string\cn裡的檔案，其他檔案一率不接受修改
+僅可修改Translated裡的檔案，其他檔案一率不接受修改
 
 Latest-KMS2一律限專案擁有著修改
 
