@@ -5867,7 +5867,8 @@
   <key id="s_gamedictionary_npc_content" value="地区：{0}\n种类：{1}" />
   <!-- 소켓 주문서 -->
   <key id="s_itemsocket_scroll_desc" value="使用{0}。\n100%激活的插槽将变为&lt;FONT color='#ffd200'&gt;{1}个&lt;/font&gt;。\n使用道具后将无法复原。" feature="ItemSocketSystem" />
-  <!-- {1} :새로운 활성화 소켓 개수 --><key id="s_itemsocket_scroll_tradableCountDeduction_desc" value="&lt;FONT color='#FF5F5F'&gt;\n扩展插槽后，饰品将变为无法交易状态。&lt;/FONT&gt;" feature="ItemSocketSystem" />
+  <!-- {1} :새로운 활성화 소켓 개수 -->
+  <key id="s_itemsocket_scroll_tradableCountDeduction_desc" value="&lt;FONT color='#FF5F5F'&gt;\n扩展插槽后，饰品将变为无法交易状态。&lt;/FONT&gt;" feature="ItemSocketSystem" />
   <key id="s_itemsocket_scroll_result" value="开启的插槽将变为&lt;FONT color='#ffd200'&gt;{0}个&lt;/font&gt;。\n（当前开启插槽数量：{1}个）" feature="ItemSocketSystem" />
   <!-- {0}:새로운 활성화 소켓 개수, {1}:현재 활성화 소켓 개수, {2}:최대 소켓 개수 -->
   <key id="s_itemsocket_scroll_success_prob" value="成功几率{0}%" feature="ItemSocketSystem" />
@@ -5887,7 +5888,8 @@
   <key id="s_itemsocket_scroll_error_have_not_scroll" value="该卷轴不存在。\n请关闭窗口，再重新尝试。" feature="ItemSocketSystem" />
   <!-- 메세지 박스 -->
   <key id="s_itemsocket_scroll_error_have_not_item" value="该道具不存在。\n请关闭窗口，再重新尝试。" feature="ItemSocketSystem" />
-  <!-- 메세지 박스 --><key id="s_itemsocket_scroll_error_already_socket_unlock_msgbox" value="已开启的插槽已在{0}个以上。\n请选择其他道具。" feature="ItemSocketSystem" />
+  <!-- 메세지 박스 -->
+  <key id="s_itemsocket_scroll_error_already_socket_unlock_msgbox" value="已开启的插槽已在{0}个以上。\n请选择其他道具。" feature="ItemSocketSystem" />
   <!-- 메세지 박스 {0}:새로운 활성화 소켓 개수-->
   <key id="s_itemsocket_scroll_ask_continue_socket_unlock" value="若使用卷轴，则已开启的插槽将变为&lt;FONT color='#ffd200'&gt;{0}个&lt;/font&gt;。\n不过，所选道具的最大插槽为{1}个，\n所以开启的插槽将变为&lt;FONT color='#FF5f5f'&gt;{2}个&lt;/font&gt;。\n是否继续？" feature="ItemSocketSystem" />
   <!-- 메세지 박스 {0}:새로운 활성화 소켓 수 {1}:최대 소켓 수, {2}:활성화될 소켓 수-->
@@ -5895,13 +5897,15 @@
   <key id="s_itemsocket_scroll_error_invalid_target" value="无效的道具。" feature="ItemSocketSystem" />
   <key id="s_itemsocket_scroll_error_invalid_scroll" value="无效的卷轴。" feature="ItemSocketSystem" />
   <key id="s_itemsocket_scroll_error_invalid_disable" value="选择的道具无法使用该卷轴。" feature="ItemSocketSystem" />
-  <!-- maxCount :0개인 경우 --><key id="s_itemsocket_scroll_error_impossible_slot" value="选择的道具无法使用该卷轴。" feature="ItemSocketSystem" />
+  <!-- maxCount :0개인 경우 -->
+  <key id="s_itemsocket_scroll_error_impossible_slot" value="选择的道具无法使用该卷轴。" feature="ItemSocketSystem" />
   <key id="s_itemsocket_scroll_error_impossible_usepart" value="选择的道具无法使用该卷轴。" feature="ItemSocketSystem" />
   <key id="s_itemsocket_scroll_error_impossible_rank" value="选择的道具级别不符，无法使用该卷轴。" feature="ItemSocketSystem" />
   <key id="s_itemsocket_scroll_error_impossible_level" value="选择的道具等级不符，无法使用该卷轴。" feature="ItemSocketSystem" />
   <key id="s_itemsocket_scroll_error_socket_unlock_all" value="所选道具已无法再扩展插槽。" feature="ItemSocketSystem" />
   <key id="s_itemsocket_scroll_error_already_socket_unlock" value="已开启卷轴中所指定数量的插槽。" feature="ItemSocketSystem" />
-  <!-- 소켓 주문서 :서버에서 받은 에러 처리 --><key id="s_itemsocket_scroll_error_server_fail_unlock_socket" value="插槽开启失败。" feature="ItemSocketSystem" />
+  <!-- 소켓 주문서 :서버에서 받은 에러 처리 -->
+  <key id="s_itemsocket_scroll_error_server_fail_unlock_socket" value="插槽开启失败。" feature="ItemSocketSystem" />
   <key id="s_itemsocket_scroll_error_server_fail_consume_scroll" value="使用卷轴失败。" feature="ItemSocketSystem" />
   <key id="s_itemsocket_scroll_error_server_default" value="插槽卷轴错误：code=[{0},{1}]" feature="ItemSocketSystem" />
   <key id="s_itemslot_exchange_count_enable" value="&lt;FONT color='#FFD200'&gt;{0}&lt;/FONT&gt;/{1}" />
@@ -6246,7 +6250,8 @@
   <key id="s_ugcHousingPoint_Reward_Desc3" value="&lt;FONT color='#FFD200' size='15' &gt;第3阶段装饰度礼物\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;点击[领取]即可获得装饰度礼物。\n\n&lt;FONT color='#FFFFFF' &gt;第3阶段礼物目录&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;&lt;FONT color='#909090'&gt;：可获得以下道具之一。&lt;/FONT&gt;&lt;FONT color='#00A2ED'&gt;\n   - 免费频道聊天券\n   - free腾云飞行呼叫器\n   - 经验值2倍券\n   - 装修方块箱子\n   - 白色药草\n&lt;/FONT&gt;" />
   <key id="s_ugcHousingPoint_Reward_Desc4" value="&lt;FONT color='#FFD200' size='15' &gt;第4阶段装饰度礼物\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;点击[领取]即可获得装饰度礼物。\n\n&lt;FONT color='#FFFFFF' &gt;第4阶段礼物目录&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;&lt;FONT color='#909090'&gt;：可获得以下道具之一。&lt;/FONT&gt;&lt;FONT color='#00A2ED'&gt;\n   - 免费频道聊天券\n   - free腾云飞行呼叫器\n   - 经验值2倍券\n   - 装修方块箱子\n   - 白色药草\n&lt;/FONT&gt;" />
   <key id="s_ugcHousingPoint_Reward_Desc5" value="&lt;FONT color='#FFD200' size='15' &gt;第5阶段装饰度礼物\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#909090'&gt;点击[领取]即可获得装饰度礼物。\n\n&lt;FONT color='#FFFFFF' &gt;第5阶段礼物目录&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;&lt;FONT color='#909090'&gt;：可获得以下道具之一。&lt;/FONT&gt;&lt;FONT color='#00A2ED'&gt;\n   - 免费频道聊天券\n   - free腾云飞行呼叫器\n   - 经验值2倍券\n   - 装修方块箱子\n   - 免费世界聊天券\n   - 特制红色药草\n\n&lt;FONT color='#FFFFFF' &gt;5阶段附加礼物&lt;/FONT&gt;\n &lt;/FONT&gt;&lt;FONT color='#909090'&gt;：可额外获得以下道具之一。&lt;/FONT&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;FONT color='#00A2ED'&gt;\n   - 分解的方块碎片\n&lt;/FONT&gt;" />
-  <!-- 가차폰 --><key id="s_lullu_key_not_enough_money" value="金币不足，无法购买神秘箱子。" />
+  <!-- 가차폰 -->
+  <key id="s_lullu_key_not_enough_money" value="金币不足，无法购买神秘箱子。" />
   <key id="s_lullu_key_not_enough_box" value="&lt;FONT color='#FFD200'&gt;\n$item:{2}$不足。&lt;/FONT&gt;\n\n不足的箱子可以使用金币购买。\n确定现在购买不足的箱子，并使用$item:{1}$吗？\n\n支付金额：{0}金币\n\n&lt;FONT color='#FF5F5F'&gt;支付成功后，后续$item:{2}$不足时，将自动购买不足的箱子。\n自动支付选项可以通过下端的确认箱解除。\n\n&lt;/FONT&gt;" />
   <key id="s_lullu_key_not_enough_item" value="$item:{0}$道具不足。" />
   <key id="s_lullu_key_not_enough_item_shop_link" value="$item:{0}$不足。\n要前往蓝蘑菇商店购买吗？" />
@@ -6904,7 +6909,8 @@
   <key id="s_character_skill_charging" value="1阶段" />
   <key id="s_character_skill_charging2" value="2阶段" />
   <key id="s_character_skill_chargingmax" value="最高" />
-  <!-- Discord Message --><key id="s_discord_msg_party" value="STRINGCOMMON_S_DISCORD_MSG_PARTY_VALUE:[F]Discord" feature="Discord" />
+  <!-- Discord Message -->
+  <key id="s_discord_msg_party" value="STRINGCOMMON_S_DISCORD_MSG_PARTY_VALUE:[F]Discord" feature="Discord" />
   <key id="s_discord_msg_solo" value="STRINGCOMMON_S_DISCORD_MSG_SOLO_VALUE:[F]Discord" feature="Discord" />
   <key id="s_discord_msg_details" value="STRINGCOMMON_S_DISCORD_MSG_DETAILS_VALUE:[F]Discord" feature="Discord" />
   <key id="s_discord_msg_standby" value="STRINGCOMMON_S_DISCORD_MSG_STANDBY_VALUE:[F]Discord" feature="Discord" />
