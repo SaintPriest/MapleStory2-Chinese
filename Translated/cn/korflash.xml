@@ -3114,7 +3114,7 @@
   <key id="$s_vip_dialog_title" value="会员" />
   <key id="$s_vip_dialog_title_desc" value="会员专享福利，同一个大区下全角色通用！" />
   <key id="$s_vip_dialog_benefit_title" value="会员特权" />
-  <key id="$s_vip_dialog_benefit_desc" value="◆所有地图可免费使用腾云空中快线无限次传送\n◆狩猎怪物时获得的经验和金币增加20%。\n◆在莉莉处进行强化所消耗材料减免20%。\n◆1:1金币交易手续费和蘑菇币复活费用减免50%。\n◆角色的移动速度增加5%（PVP地区除外）。\n◆通过背包界面可以随时随地开启银行保险箱。\n◆可以使用会员专用副本和标志。\n◆每日提供会员专用特制白色药水等专用道具。" />
+  <key id="$s_vip_dialog_benefit_desc" value="◆狩猎怪物时获得的经验和金币增加20%。\n◆在莉莉处进行强化所消耗材料减免20%。\n◆1:1金币交易手续费和蘑菇币复活费用减免50%。\n◆角色的移动速度增加5%（PVP地区除外）。\n◆通过背包界面可以随时随地开启银行保险箱。\n◆可以使用会员专用副本和标志。\n◆每日提供会员专用特制白色药水等专用道具。" />
   <key id="$s_vip_dialog_benefit_desc" value=" ◆ 狩猎怪物时额外获得20%经验值和金币。\n ◆ 在莉莉处强化所消耗的材料减免20%。\n ◆ 1对1金币交易手续费减免50%。\n ◆ 角色移动速度提升5%（PVP地区除外）。\n ◆ 可以随时随地通过背包使用银行金库。\n ◆ 可以使用会员专用副本和徽章。\n ◆ 每天提供会员专用特制白色药水等专用道具。" locale="CN" />
   <key id="$s_vip_dialog_benefit_item_title" value="会员每日福利道具" />
   <key id="$s_vip_dialog_buy_button" value="购买" />

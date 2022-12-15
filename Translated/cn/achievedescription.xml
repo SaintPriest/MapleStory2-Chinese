@@ -145,15 +145,24 @@
 	<achieve id="21230012" desc="团队：&quot;在$dungeonTitle:20004002$&quot;消灭{0}次$npc:23090005$" complete="目前为止，在团队：&quot;$dungeonTitle:20004002$&quot;中已消灭{0}次$npc:23090005$！" feature="Season3" />
 	<achieve id="21230013" desc="和$npc:23000001$对战，并击败其{0}次" complete="目前为止，参加了{0}次击败$npc:23000001$！" feature="Season1" />
 	<achieve id="21230014" desc="和$npc:23000008$对战，并击败其{0}次" complete="目前为止，参加了{0}次击败$npc:23000008$！" feature="Season1" />
+	<achieve id="21230015" desc="和$npc:23000007$对战，并击败其{0}次" complete="目前为止，参加了{0}次击败$npc:23000007$！" feature="Season1" locale="KR" />
 	<achieve id="21230016" desc="和$npc:23000054$对战，并击败其{0}次" complete="目前为止，参加了{0}次击败$npc:23000054$！" feature="Season1" />
+	<achieve id="21230017" desc="和$npc:23000056$对战，并击败其{0}次" complete="目前为止，参加了{0}次击败$npc:23000056$！" feature="Season3" locale="KR" />
 	<achieve id="21230018" desc="和$npc:23000035$对战，并击败其{0}次" complete="目前为止，参加了{0}次击败$npc:23000035$！" feature="Season2" />
 	<achieve id="21230019" desc="和$npc:23000034$对战，并击败其{0}次" complete="目前为止，参加了{0}次击败$npc:23000034$！" feature="Season3" />
 	<achieve id="21230020" desc="击败$npc:23000071${0}次" complete="目前为止，击败$npc:23000071${0}次！" feature="Zakum01" />
+	<achieve id="21230021" desc="和$npc:23000055$对战，并击败其{0}次" complete="目前为止，参加了{0}次击败$npc:23000055$！" feature="Season2" locale="KR" />
+	<achieve id="21230022" desc="밤 11시 59분에 나의 마지막 일격으로 $npc:23000017$ 처치하기" complete="밤 11시 59분에 나의 마지막 일격으로 $npc:23000017$ 처치!" feature="Season2" locale="KR" />
 	<achieve id="21230023" desc="和$npc:23000013$对战，并击败其{0}次" complete="目前为止，参加了{0}次击败$npc:23000013$！" feature="Season1" />
+	<achieve id="21230024" desc="击败$npc:23000039${0}次" complete="目前为止，击败$npc:23000039${0}次！" feature="Season1" locale="KR" />
 	<achieve id="21230025" desc="和$npc:23000047$对战，并击败其{0}次" complete="目前为止，参加了{0}次击败$npc:23000047$！" feature="Season2" />
+	<achieve id="21230026" desc="击败$npc:23000015${0}次" complete="目前为止，击败$npc:23000015${0}次！" feature="Season2" locale="KR" />
+	<achieve id="21230027" desc="击败$npc:23000077${0}次" complete="目前为止，击败$npc:23000077${0}次！" feature="Season2" locale="KR" />
 	<achieve id="21230028" desc="和$npc:23000045$对战，并击败其{0}次" complete="目前为止，参加了{0}次击败$npc:23000045$！" feature="Season3" />
 	<achieve id="21230029" desc="团队：在&quot;$dungeonTitle:20014002$&quot;消灭$npc:23000011${0}次" complete="已在团队：&quot;$dungeonTitle:20014002$&quot;中消灭$npc:23000011${0}次！" feature="Season3" />
 	<achieve id="21230030" desc="和$npc:23000012$对战，并击败其{0}次" complete="目前为止，参加了{0}次击败$npc:23000012$！" feature="Season3" />
+	<achieve id="21230031" desc="击败$npc:23000033${0}次" complete="目前为止，击败$npc:23000033${0}次！" feature="Season3" locale="KR" />
+	<achieve id="21230032" desc="击败$npc:23000041${0}次" complete="目前为止，击败$npc:23000041${0}次！" feature="Season2" locale="KR" />
 	<achieve id="21230033" desc="团队：在&quot;$dungeonTitle:20014002$&quot;面对$npc:23000011${0}次" complete="已在团队：&quot;$dungeonTitle:20014002$&quot;中面对$npc:23000011${0}次！" feature="Season3" />
 	<achieve id="21230034" desc="冒险：在&quot;$dungeonTitle:20010001$&quot;消灭$npc:23100015${0}次" complete="已在冒险：&quot;$dungeonTitle:20010001$&quot;中消灭$npc:23100015${0}次！" feature="DungeonBoss_4P" />
 	<achieve id="21230035" desc="冒险：在&quot;$dungeonTitle:20003001$&quot;消灭$npc:23100021${0}次" complete="已在冒险：&quot;$dungeonTitle:20003001$&quot;中消灭$npc:23100021${0}次！" feature="DungeonBoss_4P" />
@@ -293,20 +302,33 @@
 	<achieve id="21231002" desc="使用最后一击击败$npc:23000018${0}次" complete="使用最后一击击败$npc:23000018${0}次" feature="Season1" />
 	<achieve id="21231003" desc="使用最后一击击败$npc:23000019${0}次" complete="使用最后一击击败$npc:23000019${0}次" feature="Season1" />
 	<achieve id="21231004" desc="使用最后一击击败$npc:23000017${0}次" complete="使用最后一击击败$npc:23000017${0}次" feature="Season2" />
+	<achieve id="21231005" desc="使用最后一击击败$npc:23000025${0}次" complete="使用最后一击击败$npc:23000025${0}次" feature="Season2" locale="KR" />
 	<achieve id="21231006" desc="使用最后一击击败$npc:23000099${0}次" complete="使用最后一击击败$npc:23000099${0}次" feature="Season2" />
 	<achieve id="21231007" desc="使用最后一击击败$npc:23000020${0}次" complete="使用最后一击击败$npc:23000020${0}次" feature="Season1" />
+	<achieve id="21231008" desc="使用最后一击击败$npc:23000100${0}次" complete="使用最后一击击败$npc:23000100${0}次" feature="Season1" locale="KR" />
 	<achieve id="21231009" desc="使用最后一击击败$npc:23000026${0}次" complete="使用最后一击击败$npc:23000026${0}次" feature="Season3" />
+	<achieve id="21231010" desc="使用最后一击击败$npc:23000006${0}次" complete="使用最后一击击败$npc:23000006${0}次" feature="Season3" locale="KR" />
+	<achieve id="21231011" desc="使用最后一击击败$npc:23000021${0}次" complete="使用最后一击击败$npc:23000021${0}次" feature="Season2" locale="KR" />
 	<achieve id="21231012" desc="使用最后一击击败$npc:23090005${0}次" complete="使用最后一击击败$npc:23090005${0}次" feature="Season3" />
 	<achieve id="21231013" desc="使用最后一击击败$npc:23000001${0}次" complete="使用最后一击击败$npc:23000001${0}次" feature="Season1" />
 	<achieve id="21231014" desc="使用最后一击击败$npc:23000008${0}次" complete="使用最后一击击败$npc:23000008${0}次" feature="Season1" />
+	<achieve id="21231015" desc="使用最后一击击败$npc:23000007${0}次" complete="使用最后一击击败$npc:23000007${0}次" feature="Season1" locale="KR" />
 	<achieve id="21231016" desc="使用最后一击击败$npc:23000054${0}次" complete="使用最后一击击败$npc:23000054${0}次" feature="Season1" />
+	<achieve id="21231017" desc="使用最后一击击败$npc:23000056${0}次" complete="使用最后一击击败$npc:23000056${0}次" feature="Season3" locale="KR" />
 	<achieve id="21231018" desc="使用最后一击击败$npc:23000035${0}次" complete="使用最后一击击败$npc:23000035${0}次" feature="Season2" />
 	<achieve id="21231019" desc="使用最后一击击败$npc:23000034${0}次" complete="使用最后一击击败$npc:23000034${0}次" feature="Season3" />
 	<achieve id="21231020" desc="使用最后一击击败$npc:23000071${0}次" complete="使用最后一击击败$npc:23000071${0}次" feature="Zakum01" />
 	<achieve id="21231021" desc="使用最后一击击败$npc:23000013${0}次" complete="使用最后一击击败$npc:23000013${0}次" feature="Season1" />
+	<achieve id="21231022" desc="使用最后一击击败$npc:23000039${0}次" complete="使用最后一击击败$npc:23000039${0}次" feature="Season1" locale="KR" />
 	<achieve id="21231023" desc="使用最后一击击败$npc:23000047${0}次" complete="使用最后一击击败$npc:23000047${0}次" feature="Season2" />
+	<achieve id="21231024" desc="使用最后一击击败$npc:23000015${0}次" complete="使用最后一击击败$npc:23000015${0}次" feature="Season2" locale="KR" />
+	<achieve id="21231025" desc="使用最后一击击败$npc:23000077${0}次" complete="使用最后一击击败$npc:23000077${0}次" feature="Season2" locale="KR" />
+	<achieve id="21231026" desc="使用最后一击击败$npc:23000045${0}次" complete="使用最后一击击败$npc:23000045${0}次" feature="Season3" locale="KR" />
 	<achieve id="21231027" desc="以我的最后一击团队：&quot;$dungeonTitle:20014002$&quot;消灭$npc:23000011$ {0}次" complete="以我的最后一击在团队：&quot;$dungeonTitle:20014002$&quot;消灭 $npc:23000011$ {0}次" feature="Season3" />
 	<achieve id="21231028" desc="使用最后一击击败$npc:23000012${0}次" complete="使用最后一击击败$npc:23000012${0}次" feature="Season3" />
+	<achieve id="21231029" desc="使用最后一击击败$npc:23000033${0}次" complete="使用最后一击击败$npc:23000033${0}次" feature="Season3" locale="KR" />
+	<achieve id="21231030" desc="使用最后一击击败$npc:23000055${0}次" complete="使用最后一击击败$npc:23000055${0}次" feature="Season1" locale="KR" />
+	<achieve id="21231031" desc="使用最后一击击败$npc:23000041${0}次" complete="使用最后一击击败$npc:23000041${0}次" feature="Season2" locale="KR" />
 	<achieve id="21231032" desc="使用最后一击击败$npc:23000009${0}次" complete="使用最后一击击败$npc:23000009${0}次" feature="KarkarIsland" />
 	<achieve id="21231033" desc="使用最后一击击败$npc:23000057${0}次" complete="使用最后一击击败$npc:23000057${0}次" feature="KarkarIsland" />
 	<achieve id="21231034" desc="使用最后一击击败$npc:23000029${0}次" complete="使用最后一击击败$npc:23000029${0}次" feature="KarkarIsland" />
@@ -348,14 +370,28 @@
 	<achieve id="21233003" desc="被$npc:23000017$旋转后飞出的角击中，战败{0}次" complete="目前为止，被$npc:23000017$旋转后飞出的角击中，战败{0}次" feature="Season2" />
 	<achieve id="21233004" desc="抓住$npc:23000019$飞行" complete="抓住$npc:23000019$飞行" feature="Season1" />
 	<achieve id="21233005" desc="抓住$npc:23000020$飞行" complete="抓住$npc:23000020$飞行" feature="Season1" />
+	<achieve id="21233006" desc="抓住$npc:23000021$飞行" complete="抓住$npc:23000021$飞行" feature="Season2" locale="KR" />
+	<achieve id="21233007" desc='모험[일반] : &quot;$dungeonTitle:20002001$&quot;에서 $npc:23100100$$pp:가,이$ 일으킨 성난 회오리에 휩쓸려 비석에 {0}번 깔리기' complete='지금까지 모험[일반] : &quot;$dungeonTitle:20002001$&quot;에서 $npc:23100100$$pp:가,이$ 일으킨 성난 회오리에 휩쓸려 비석에 {0}번 깔림' feature="Season1" locale="KR" />
+	<achieve id="21233008" desc='모험[일반] : &quot;$dungeonTitle:20001001$&quot;에서 $npc:23100006$$pp:가,이$ 일으킨 냉기 회오리에 휩쓸려 비석에 {0}번 깔리기' complete='지금까지 모험[일반] : &quot;$dungeonTitle:20001001$&quot;에서 $npc:23100006$$pp:가,이$ 일으킨 냉기 회오리에 휩쓸려 비석에 {0}번 깔림' feature="Season3" locale="KR" />
+	<achieve id="21233009" desc='모험[일반] : &quot;$dungeonTitle:20001001$&quot;에서 $npc:23100006$의 고드름에 맞아 비석에 {0}번 깔리기' complete='지금까지 모험[일반] : &quot;$dungeonTitle:20001001$&quot;에서 $npc:23100006$의 고드름에 맞아 비석에 {0}번 깔림' feature="Season3" locale="KR" />
+	<achieve id="21233010" desc='모험[일반] : &quot;$dungeonTitle:20009001$&quot;에서 $npc:23100055$의 전기 공격에 감전 당하기' complete='모험[일반] : &quot;$dungeonTitle:20009001$&quot;에서  $npc:23100055$의 전기 공격에 감전 당하기' feature="Season1" locale="KR" />
+	<achieve id="21233011" desc='모험[일반] : &quot;$dungeonTitle:20006001$&quot;에서 $npc:23200007$의 회전 레이저 공격을 맞고 비석에 {0}번 깔리기' complete='지금까지 모험[일반] : &quot;$dungeonTitle:20006001$&quot;에서 $npc:23200007$의 회전 레이저 공격을 맞고 비석에 {0}번 깔림' feature="Season1" locale="KR" />
 	<achieve id="21233012" desc="被$npc:23000035$的露脸攻击命中{0}次" complete="目前为止，被$npc:23000035$攻击了{0}次" feature="Season2" />
 	<achieve id="21233013" desc="被$npc:23000034$的素颜攻击命中{0}次" complete="目前为止，被$npc:23000034$攻击了{0}次" feature="Season3" />
+	<achieve id="21233014" desc='모험[일반] : &quot;$dungeonTitle:20015001$&quot;에서 $npc:23100033$의 얼굴 마법진을 밟아 소인으로 변하기' complete='모험[일반] : &quot;$dungeonTitle:20015001$&quot;에서 $npc:23100033$의 얼굴 마법진을 밟아 소인으로 변하기' feature="Season3" locale="KR" />
+	<achieve id="21233015" desc="$npc:23100056$의 지뢰 폭발에 당해 {0}번 기절하기" complete="지금까지 $npc:23100056$의 지뢰 폭발에 당해 {0}번 기절" feature="Season3" locale="KR" />
+	<achieve id="21233016" desc="$npc:23100041$의 고속 회전 망치에 한 대도 맞지 않고 {0}번 버티기" complete="지금까지 $npc:23100041$의 고속 회전 망치에 한 대도 맞지 않고 {0}번 버티기" feature="Season2" locale="KR" />
 	<achieve id="21233017" desc="团队：&quot;在$dungeonTitle:20004002$&quot;被$npc:23090005$的黑暗之钩命中，战败{0}次" complete="目前为止，在团队：&quot;$dungeonTitle:20004002$&quot;中已被$npc:23090005$挥舞的黑暗之钩击中，战败{0}次" feature="Season3" />
 	<achieve id="21233018" desc="被$npc:23000071$的手掌拍扁{0}次" complete="目前为止，被$npc:23000071$的手掌拍扁{0}次" feature="Zakum01" />
 	<achieve id="21233019" desc="收到$npc:23000071$的死亡宣告{0}次" complete="目前为止，从$npc:23000071$那里收到{0}次死亡宣告" feature="Zakum01" />
 	<achieve id="21233021" desc="被$npc:23001001$挨揍，摔倒{0}次" complete="目前为止，被$npc:23001001$挨揍，摔倒{0}次" feature="Gigantica01" />
 	<achieve id="21240001" desc="收集精英和首领怪物的狩猎成就{0}个" complete="目前为止，收集精英和首领怪物的狩猎成就{0}个！" feature="Season1" />
-	<achieve id="21300001" desc="在黑暗之地打败其他玩家{0}次" complete="目前为止，在黑暗之地打败其他玩家{0}次" feature="Season1" />
+	<achieve id="21250001" desc="8분 안에 모험[일반] : $npc:23000100$ 처치하기" complete="8분 안에 모험[일반] : $npc:23000100$ 처치!" feature="Season1" locale="KR" />
+	<achieve id="21250002" desc="8분 안에 모험[일반] : $npc:23000055$ 처치하기" complete="8분 안에 모험[일반] : $npc:23000055$ 처치!" feature="Season1" locale="KR" />
+	<achieve id="21250003" desc="8분 안에 모험[일반] : $npc:23000007$ 처치하기" complete="8분 안에 모험[일반] : $npc:23000007$ 처치!" feature="Season1" locale="KR" />
+	<achieve id="21300001" desc="무법자의 언덕에서 다른 캐릭터를 {0}회 쓰러뜨리기" complete="지금까지 무법자의 언덕에서 다른 캐릭터를 {0}회 쓰러뜨림" feature="Season1" locale="KR" />
+	<achieve id="21300001" desc="어둠의 땅에서 다른 캐릭터를 {0}회 쓰러뜨리기" complete="지금까지 어둠의 땅에서 다른 캐릭터를 {0}회 쓰러뜨림" feature="Season1" />
+	<achieve id="21300002" desc="在黑暗之地被其他玩家打败{0}次" complete="目前为止，在黑暗之地被其他玩家打败{0}次" feature="Season1" />
 	<achieve id="21300002" desc="在黑暗之地被其他玩家打败{0}次" complete="目前为止，在黑暗之地被其他玩家打败{0}次" feature="Season1" />
 	<achieve id="21300003" desc="在$map:65000001$中获胜{0}次" complete="目前为止，在$map:65000001$中获胜{0}次" feature="Season1" />
 	<achieve id="21300004" desc="在$map:65000001$中打败其他玩家{0}次" complete="目前为止，在$map:65000001$中打败其他玩家{0}次" feature="Season1" />
@@ -363,6 +399,11 @@
 	<achieve id="21300006" desc="在$map:65000002$中获胜{0}次" complete="目前为止，在$map:65000002$中获胜{0}次" feature="Season1" />
 	<achieve id="21300007" desc="在$map:65000002$中打败其他玩家{0}次" complete="目前为止，在$map:65000002$中打败其他玩家{0}次" feature="Season1" />
 	<achieve id="21300008" desc="在$map:65000002$中被其他玩家打败{0}次" complete="目前为止，在$map:65000002$中被其他玩家打败{0}次" feature="Season1" />
+	<achieve id="21300009" desc="$map:64000001$에서 상대 길드원을 {0}회 쓰러뜨리기" complete="지금까지 $map:64000001$에서 상대 길드원을 {0}회 쓰러뜨림" feature="Season1" locale="KR" />
+	<achieve id="21300010" desc="$map:64000001$에서 상대 길드원에게 {0}회 쓰러지기" complete="지금까지 $map:64000001$에서 상대 길드원에게 {0}회 쓰러짐" feature="Season1" locale="KR" />
+	<achieve id="21300011" desc="$map:64000001$에서 상대 길드를 물리치고 {0}회 승리하기" complete="지금까지 $map:64000001$에서 상대 길드를 물리치고 {0}회 승리" feature="Season1" locale="KR" />
+	<achieve id="21300012" desc="길드 챔피언십 {0}회 참가하기" complete="지금까지 길드 챔피언십 {0}회 참가" feature="Season1" locale="KR" />
+	<achieve id="21300013" desc="길드 챔피언십에서 1위 달성하기 (정기 점검 시 달성)" complete="길드 챔피언십에서 1위 달성" feature="Season1" locale="KR" />
 	<achieve id="21300014" desc="参加冒险竞技场或是活动PVP{0}次" complete="目前为止，参加冒险竞技场或活动PVP {0}次" feature="Season1" />
 	<achieve id="21300015" desc="在$map:65000003$中获胜{0}次" complete="目前为止，在$map:65000003$中获胜{0}次" feature="Season1" />
 	<achieve id="21300016" desc="在$map:65000003$中打败对方队员{0}名" complete="目前为止，在$map:65000003$中打败对方队员{0}名" feature="Season1" />
@@ -425,33 +466,6 @@
 	<achieve id="21300073" desc="菇岛求生的单人模式中生存{0}" complete="在菇岛求生的单人模式中累计生存{0}" feature="SurvivalContents01" />
 	<achieve id="21300074" desc="参与{0}次菇岛求生" complete="参与{0}次菇岛求生" feature="SurvivalContents01" />
 	<achieve id="21300075" desc="接受$npcName:23000018$的多重攻击" complete="接受$npcName:23000018$的多重攻击" feature="Season1" />
-	<achieve id="21300076" desc="ACHIEVEDESCRIPTION_21300076_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_21300076_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<achieve id="21300077" desc="在菇岛求生比赛中单场比赛至少获得100个$item:20000985$" complete="单场比赛累计获得$item:20000985$超出100个" feature="SurvivalContents03" />
-	<achieve id="21300078" desc="在菇岛求生比赛中单场比赛至少获得100个$item:20000980$" complete="单场比赛累计获得$item:20000980$超出100个" feature="SurvivalContents03" />
-	<achieve id="21300079" desc="ACHIEVEDESCRIPTION_21300079_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_21300079_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<achieve id="21300080" desc="在菇岛求生单场比赛中打败3名以上参赛者" complete="单场比赛累计打倒3名以上参赛者" feature="SurvivalContents03" />
-	<achieve id="21300081" desc="在菇岛求生中未击倒任何人并进入前20名" complete="在菇岛求生中未击倒任何人并进入前20名" feature="SurvivalContents03" />
-	<achieve id="21300082" desc="在菇岛求生单场比赛中打败10只以上怪物" complete="单场比赛累计打倒怪物超过10只" feature="SurvivalContents03" />
-	<achieve id="21300083" desc="ACHIEVEDESCRIPTION_21300083_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_21300083_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<achieve id="21300084" desc="在菇岛求生比赛中单场比赛至少获得15个$item:20000733$" complete="单场比赛累计获得$item:20000733$超出15个" feature="SurvivalContents03" />
-	<achieve id="21300085" desc="在菇岛求生比赛中单场比赛至少获得15个$item:20000902$" complete="单场比赛累计获得$item:20000902$超出15个" feature="SurvivalContents03" />
-	<achieve id="21300086" desc="在菇岛求生比赛中单场比赛至少获得15个$item:20000737$" complete="单场比赛累计获得$item:20000737$超出15个" feature="SurvivalContents03" />
-	<achieve id="21300087" desc="在菇岛求生比赛中单场比赛至少获得15个$item:20000967$" complete="单场比赛累计获得$item:20000967$超出15个" feature="SurvivalContents03" />
-	<achieve id="21300088" desc="在菇岛求生比赛中单场比赛至少获得15个$item:20000980$" complete="单场比赛累计获得$item:20000980$超出15个" feature="SurvivalContents03" />
-	<achieve id="21300089" desc="在菇岛求生比赛中单场比赛至少获得15个$item:30001099$" complete="单场比赛累计获得$item:30001099$超出15个" feature="SurvivalContents03" />
-	<achieve id="21300090" desc="在菇岛求生比赛中单场比赛至少获得15个$item:20000898$" complete="单场比赛累计获得$item:20000898$超出15个" feature="SurvivalContents03" />
-	<achieve id="21300091" desc="在菇岛求生比赛中单场比赛至少获得15个$item:20000906$" complete="单场比赛累计获得$item:20000906$超出15个" feature="SurvivalContents03" />
-	<achieve id="21300092" desc="在菇岛求生比赛中单场比赛至少获得15个$item:20000743$" complete="单场比赛累计获得$item:20000743$超出15个" feature="SurvivalContents03" />
-	<achieve id="21300093" desc="在菇岛求生比赛中单场比赛至少获得15个$item:20000899$" complete="单场比赛累计获得$item:20000899$超出15个" feature="SurvivalContents03" />
-	<achieve id="21300094" desc="在菇岛求生中使用$item:20000885$打倒{0}人" complete="目前累计使用$item:20000885$打倒{0}人" feature="SurvivalContents03" />
-	<achieve id="21300095" desc="在菇岛求生中使用$item:20000744$打倒{0}人" complete="目前累计使用$item:20000744$打倒{0}人" feature="SurvivalContents03" />
-	<achieve id="21300096" desc="在菇岛求生中使用$item:20000898$打倒{0}人" complete="目前累计使用$item:20000898$打倒{0}人" feature="SurvivalContents03" />
-	<achieve id="21300097" desc="在菇岛求生中使用$item:20000906$打倒{0}人" complete="目前累计使用$item:20000906$打倒{0}人" feature="SurvivalContents03" />
-	<achieve id="21300098" desc="在菇岛求生中使用$item:20000743$打倒{0}人" complete="目前累计使用$item:20000743$打倒{0}人" feature="SurvivalContents03" />
-	<achieve id="21300099" desc="在菇岛求生中使用$item:20000899$打倒{0}人" complete="目前累计使用$item:20000899$打倒{0}人" feature="SurvivalContents03" />
-	<achieve id="21300100" desc="ACHIEVEDESCRIPTION_21300100_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_21300100_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<achieve id="21300101" desc="ACHIEVEDESCRIPTION_21300101_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_21300101_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<achieve id="21300102" desc="ACHIEVEDESCRIPTION_21300102_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_21300102_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
 	<achieve id="21300103" desc="参加{0}次$map:61000035$" complete="到目前为止，参加{0}次$map:61000035$" feature="Season1" />
 	<achieve id="21300104" desc="在$map:61000035$击败其他玩家{0}次" complete="到目前为止，在$map:61000035$击败{0}次其他玩家" feature="Season1" />
 	<achieve id="21300105" desc="打败$npc:23000400${0}次" complete="打败$npc:23000400${0}次" feature="DungeonOS01" />
@@ -541,6 +555,7 @@
 	<achieve id="22200016" desc="访问$map:02000202$" complete="访问$map:02000202$！" feature="Season1" />
 	<achieve id="22200017" desc="访问$map:02000124$" complete="访问$map:02000124$！" feature="Season1" />
 	<achieve id="22200018" desc="打开$map:02000138$的路灯{0}次" complete="目前为止，打开$map:02000138$的路灯{0}次" feature="Season1" />
+	<achieve id="22200019" desc="$item:30000181$ {0}개를 $map:02000001$에 있는 $npcName:11000327$에게 전달하기" complete="지금까지 $item:30000181$ {0}개를 $npcName:11000327$에게 전달" feature="Season1" locale="KR" />
 	<achieve id="22200020" desc="获得$item:13200028$" complete="获得$item:13200028$" feature="Season3" />
 	<achieve id="22200021" desc="获得$item:11300119$" complete="获得$item:11300119$" feature="Season2" />
 	<achieve id="22200022" desc="获得$item:30000069$" complete="获得$item:30000069$" feature="Season1" />
@@ -702,8 +717,6 @@
 	<achieve id="22200179" desc="开启$map:03000056$所有的黄金宝箱" complete="$map:03000056$的黄金宝箱已全部开启！" feature="Season3" />
 	<achieve id="22200180" desc="开启$map:03000089$所有的黄金宝箱" complete="$map:03000089$的黄金宝箱已全部开启！" feature="Season3" />
 	<achieve id="22200181" desc="开启$map:03000101$所有的黄金宝箱" complete="$map:03000101$的黄金宝箱已全部开启！" feature="Season3" />
-	<achieve id="22200182" desc="开启$map:03000005$所有的黄金宝箱" complete="$map:03000005$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200183" desc="开启$map:03000044$所有的黄金宝箱" complete="$map:03000044$的黄金宝箱已全部开启！" feature="Develop" />
 	<achieve id="22200184" desc="发现$map:52000037$" complete="发现$map:52000037$！" feature="Season1" />
 	<achieve id="22200185" desc="完成黑暗之地和扭曲空间{0}张地图的探险" complete="目前为止，完成了黑暗之地和扭曲空间{0}张地图的探险" feature="Season1" />
 	<achieve id="22200186" desc="冒险：完成&quot;$dungeonTitle:21001001$&quot; {0}次" complete="冒险：完成&quot;$dungeonTitle:21001001$&quot; {0}次" feature="Season1" />
@@ -779,48 +792,9 @@
 	<achieve id="22200256" desc="开启$map:03000046$所有的黄金宝箱" complete="$map:03000046$的黄金宝箱已全部开启！" feature="Season3" />
 	<achieve id="22200257" desc="开启$map:03000038$所有的黄金宝箱" complete="$map:03000038$的黄金宝箱已全部开启！" feature="Season3" />
 	<achieve id="22200258" desc="开启$map:02000129$所有的黄金宝箱" complete="$map:02000129$的黄金宝箱已全部开启！" feature="Season3" />
-	<achieve id="22200259" desc="开启$map:03000010$所有的黄金宝箱" complete="$map:03000010$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200260" desc="开启$map:03000023$所有的黄金宝箱" complete="$map:03000023$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200261" desc="开启$map:03000042$所有的黄金宝箱" complete="$map:03000042$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200262" desc="开启$map:03000048$所有的黄金宝箱" complete="$map:03000048$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200263" desc="开启$map:03000050$所有的黄金宝箱" complete="$map:03000050$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200264" desc="开启$map:03000053$所有的黄金宝箱" complete="$map:03000053$的黄金宝箱已全部开启！" feature="Develop" />
 	<achieve id="22200265" desc="开启$map:03000060$所有的黄金宝箱" complete="$map:03000060$的黄金宝箱已全部开启！" feature="Season3" />
-	<achieve id="22200266" desc="开启$map:03000063$所有的黄金宝箱" complete="$map:03000063$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200267" desc="开启$map:03000067$所有的黄金宝箱" complete="$map:03000067$的黄金宝箱已全部开启！" feature="Develop" />
 	<achieve id="22200268" desc="开启$map:03000090$所有的黄金宝箱" complete="$map:03000090$的黄金宝箱已全部开启！" feature="Season3" />
-	<achieve id="22200269" desc="开启$map:03000102$所有的黄金宝箱" complete="$map:03000102$的黄金宝箱已全部开启！" feature="Develop" />
 	<achieve id="22200270" desc="开启$map:03000103$所有的黄金宝箱" complete="$map:03000103$的黄金宝箱已全部开启！" feature="Season3" />
-	<achieve id="22200271" desc="开启$map:03000108$所有的黄金宝箱" complete="$map:03000108$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200272" desc="开启$map:03000112$所有的黄金宝箱" complete="$map:03000112$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200273" desc="开启$map:03000113$所有的黄金宝箱" complete="$map:03000113$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200274" desc="开启$map:03000129$所有的黄金宝箱" complete="$map:03000129$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200275" desc="开启$map:03000131$所有的黄金宝箱" complete="$map:03000131$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200276" desc="开启$map:03000132$所有的黄金宝箱" complete="$map:03000132$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200277" desc="开启$map:03000148$所有的黄金宝箱" complete="$map:03000148$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200278" desc="开启$map:03000162$所有的黄金宝箱" complete="$map:03000162$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200279" desc="开启$map:03000163$所有的黄金宝箱" complete="$map:03000163$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200280" desc="开启$map:03000167$所有的黄金宝箱" complete="$map:03000167$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200281" desc="开启$map:03000172$所有的黄金宝箱" complete="$map:03000172$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200282" desc="开启$map:03000180$所有的黄金宝箱" complete="$map:03000180$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200283" desc="开启$map:03000181$所有的黄金宝箱" complete="$map:03000181$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200284" desc="开启$map:03000182$所有的黄金宝箱" complete="$map:03000182$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200285" desc="开启$map:03000183$所有的黄金宝箱" complete="$map:03000183$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200286" desc="开启$map:03000187$所有的黄金宝箱" complete="$map:03000187$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200287" desc="开启$map:03000214$所有的黄金宝箱" complete="$map:03000214$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200288" desc="开启$map:03000265$所有的黄金宝箱" complete="$map:03000265$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200289" desc="开启$map:03000267$所有的黄金宝箱" complete="$map:03000267$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200290" desc="开启$map:03000269$所有的黄金宝箱" complete="$map:03000269$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200291" desc="开启$map:03000270$所有的黄金宝箱" complete="$map:03000270$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200292" desc="开启$map:03000271$所有的黄金宝箱" complete="$map:03000271$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200293" desc="开启$map:03000272$所有的黄金宝箱" complete="$map:03000272$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200294" desc="开启$map:03000273$所有的黄金宝箱" complete="$map:03000273$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200295" desc="开启$map:03000274$所有的黄金宝箱" complete="$map:03000274$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200296" desc="开启$map:03000275$所有的黄金宝箱" complete="$map:03000275$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200297" desc="开启$map:03000276$所有的黄金宝箱" complete="$map:03000276$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200298" desc="开启$map:03000277$所有的黄金宝箱" complete="$map:03000277$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200299" desc="开启$map:03000278$所有的黄金宝箱" complete="$map:03000278$的黄金宝箱已全部开启！" feature="Develop" />
-	<achieve id="22200300" desc="开启$map:03000279$所有的黄金宝箱" complete="$map:03000279$的黄金宝箱已全部开启！" feature="Develop" />
 	<achieve id="22200301" desc="冒险：在&quot;$dungeonTitle:25001001$&quot;消灭$npc:24001101$和$npc:24001102${0}次" complete="冒险：在&quot;$dungeonTitle:25001001$&quot;消灭$npc:24001101$和$npc:24001102${0}次！" feature="Season1" />
 	<achieve id="22200302" desc="冒险：净化&quot;$dungeonTitle:25001001$&quot; {0}次" complete="冒险：净化&quot;$dungeonTitle:25001001$&quot;{0}次" feature="Season1" />
 	<achieve id="22200303" desc="冒险：在&quot;$dungeonTitle:25000001$&quot;消灭怪兽幻灵{0}次" complete="冒险：在&quot;$dungeonTitle:25000001$&quot;消灭怪兽幻灵{0}次！" feature="Season3" />
@@ -959,18 +933,6 @@
 	<achieve id="22200437" desc="在$dungeonTitle:29005001$中获得{0}次宝物" complete="目前为止在$dungeonTitle:29005001$中获得{0}次宝物" feature="TreasureMap01" />
 	<achieve id="22200438" desc="在$dungeonTitle:29004001$中获得18000分以上" complete="在$dungeonTitle:29004001$获得18000分以上" feature="TreasureMap01" />
 	<achieve id="22200439" desc="在$dungeonTitle:29005001$中获得28000分以上" complete="在$dungeonTitle:29005001$获得28000分以上" feature="TreasureMap01" />
-	<achieve id="22200440" desc="开启$map:02020013$所有的黄金宝箱" complete="$map:02020013$的黄金宝箱已全部开启！" feature="Timaion01" />
-	<achieve id="22200441" desc="开启$map:02020014$所有的黄金宝箱" complete="$map:02020014$的黄金宝箱已全部开启！" feature="Timaion01" />
-	<achieve id="22200442" desc="开启$map:02020016$所有的黄金宝箱" complete="$map:02020016$的黄金宝箱已全部开启！" feature="Timaion01" />
-	<achieve id="22200443" desc="开启$map:02020011$所有的黄金宝箱" complete="$map:02020011$的黄金宝箱已全部开启！" feature="Timaion01" />
-	<achieve id="22200444" desc="开启$map:02020017$所有的黄金宝箱" complete="$map:02020017$的黄金宝箱已全部开启！" feature="Timaion01" />
-	<achieve id="22200445" desc="开启$map:02020018$所有的黄金宝箱" complete="$map:02020018$的黄金宝箱已全部开启！" feature="Timaion01" />
-	<achieve id="22200446" desc="开启$map:02020002$所有的黄金宝箱" complete="$map:02020002$的黄金宝箱已全部开启！" feature="Timaion01" />
-	<achieve id="22200447" desc="开启$map:02020001$所有的黄金宝箱" complete="$map:02020001$的黄金宝箱已全部开启！" feature="Timaion01" />
-	<achieve id="22200448" desc="开启$map:02020003$所有的黄金宝箱" complete="$map:02020003$的黄金宝箱已全部开启！" feature="Timaion01" />
-	<achieve id="22200449" desc="开启$map:02020006$所有的黄金宝箱" complete="$map:02020006$的黄金宝箱已全部开启！" feature="Timaion01" />
-	<achieve id="22200450" desc="开启$map:02020004$所有的黄金宝箱" complete="$map:02020004$的黄金宝箱已全部开启！" feature="Timaion01" />
-	<achieve id="22200451" desc="开启$map:02020010$所有的黄金宝箱" complete="$map:02020010$的黄金宝箱已全部开启！" feature="Timaion01" />
 	<achieve id="22200452" desc="在$map:02000066$修理次元门，治疗伤兵并与其一同作战" complete="在$map:02000066$修理次元门，治疗伤兵并与其一同作战" feature="Season2" />
 	<achieve id="22200453" desc="对涌向$map:02000334$的敌人投掷炸弹和导弹" complete="对涌向$map:02000334$的敌人投掷炸弹和导弹" feature="Season3" />
 	<achieve id="22200454" desc="帮助处于危机的妖精" complete="帮助处于危机的妖精" feature="Season1" />
@@ -1028,17 +990,6 @@
 	<achieve id="22210014" desc="冒险：完成{0}次&quot;$dungeonTitle:21001001$, $dungeonTitle:25001001$, $dungeonTitle:25004001$&quot;中任1个" complete="冒险：完成{0}次&quot;$dungeonTitle:21001001$, $dungeonTitle:25001001$, $dungeonTitle:25004001$&quot;中任1个" feature="Season1" />
 	<achieve id="22210016" desc="在熔岩中累计坚持1分钟" complete="在熔岩中累计坚持1分钟" feature="Season1" />
 	<achieve id="22210017" desc="完成在房屋中学习的冒险岛学院课程" complete="已完成在房屋中学习的冒险岛学院课程！" feature="ContentsGuide01" />
-	<achieve id="22210018" desc="纪念暑期版本专属体验服。" complete="纪念暑期版本专属体验服。" feature="JobChangeFGT" />
-	<achieve id="22210019" desc="ACHIEVEDESCRIPTION_22210019_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_22210019_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<achieve id="22210020" desc="ACHIEVEDESCRIPTION_22210020_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_22210020_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<achieve id="22210021" desc="ACHIEVEDESCRIPTION_22210021_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_22210021_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<achieve id="22210022" desc="ACHIEVEDESCRIPTION_22210022_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_22210022_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<achieve id="22210023" desc="ACHIEVEDESCRIPTION_22210023_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_22210023_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<achieve id="22210024" desc="ACHIEVEDESCRIPTION_22210024_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_22210024_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<achieve id="22210025" desc="ACHIEVEDESCRIPTION_22210025_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_22210025_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<achieve id="22210026" desc="ACHIEVEDESCRIPTION_22210026_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_22210026_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<achieve id="22210027" desc="击败$map:02000499$的$npc:29000403${0}次" complete="ACHIEVEDESCRIPTION_22210027_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
-	<achieve id="22210028" desc="ACHIEVEDESCRIPTION_22210028_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_22210028_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
 	<achieve id="22210046" desc="在$map:80000017$调查{0}个大矿石" complete="目前为止在$map:80000017$调查了{0}个大矿石" feature="Kritias_2018_12" />
 	<achieve id="22210047" desc="在$map:80000018$调查{0}个大型花朵" complete="目前为止在$map:80000017$调查了{0}个大型花朵" feature="Kritias_2018_12" />
 	<achieve id="22210048" desc="在$map:80000019$调查{0}个大虫子" complete="目前为止在$map:80000017$调查了{0}个大虫子" feature="Kritias_2018_12" />
@@ -1077,6 +1028,7 @@
 	<achieve id="22300022" desc="完成主线任务“$quest:10001390$”" complete="完成主线任务“$quest:10001390$”" feature="Season1" />
 	<achieve id="22300023" desc="完成主线任务“$quest:10001393$”" complete="完成主线任务“$quest:10001393$”" feature="Season1" />
 	<achieve id="22300024" desc="完成“攀爬者”故事中的“$quest:20001122$”任务" complete="完成“攀爬者”故事中的“$quest:20001122$”任务！" feature="Season1" />
+	<achieve id="22300025" desc='&quot;$quest:90000000$&quot; 퀘스트 완료하기' complete='&quot;$quest:90000000$&quot; 퀘스트 완료' feature="Season1" locale="KR" />
 	<achieve id="22300026" desc="完成“$quest:10002442$”任务" complete="完成“$quest:10002442$”任务" feature="Season1" />
 	<achieve id="22300027" desc="完成“英雄之路：飞跃”故事中的“$quest:10002504$”任务" complete="完成“英雄之路：飞跃”故事中的“$quest:10002504$”任务！" feature="Season2" />
 	<achieve id="22300028" desc="和$map:02000187$的$npcName:11001032$见面，并完成“$quest:30000022$”任务" complete="和$map:02000187$的$npcName:11001032$见面，并完成“$quest:30000022$”任务！" feature="Season3" />
@@ -1157,8 +1109,6 @@
 	<achieve id="22500002" desc="在天空堡垒势力中达成一个“高”声望" complete="在天空堡垒势力中达成一个“高”声望" feature="FameContents" />
 	<achieve id="22500003" desc="在天空堡垒势力中达成一个“很高”声望" complete="在天空堡垒势力中达成一个“很高”声望" feature="FameContents" />
 	<achieve id="22500004" desc="在天空堡垒势力中达成一个“英雄”声望" complete="在天空堡垒势力中达成一个“英雄”声望" feature="FameContents" />
-	<achieve id="22500005" desc="在天空堡垒势力中达成一个“传说”声望" complete="在天空堡垒势力中达成一个“传说”声望" feature="FameContents02" />
-	<achieve id="22500006" desc="在天空堡垒势力中达成一个“神话”声望" complete="在天空堡垒势力中达成一个“神话”声望" feature="FameContents02" />
 	<achieve id="22500007" desc="达成冒险岛联盟“一般”声望" complete="达成冒险岛联盟“一般”声望" feature="FameContents" />
 	<achieve id="22500008" desc="达成冒险岛联盟“高”声望" complete="达成冒险岛联盟“高”声望" feature="FameContents" />
 	<achieve id="22500009" desc="达成冒险岛联盟“很高”声望" complete="达成冒险岛联盟“很高”声望" feature="FameContents" />
@@ -1263,6 +1213,7 @@
 	<achieve id="23100009" desc="击打其他角色的墓碑，帮助其复活{0}次" complete="击打其他角色的墓碑，帮助其复活{0}次" feature="Season1" />
 	<achieve id="23100010" desc="抓住怪物{0}" complete="目前为止，抓住怪物的时间为{0}" feature="Season1" />
 	<achieve id="23100011" desc="加入公会" complete="加入公会" feature="Season1" />
+	<achieve id="23100012" desc="500 이상의 추락 대미지 {0}번 경험하기" complete="500 이상의 추락 대미지 {0}번 경험" feature="Season1" locale="KR" />
 	<achieve id="23100013" desc="从9米以上的高度坠落{0}次" complete="目前为止，从9米以上的高度坠落{0}次" feature="Season1" />
 	<achieve id="23100014" desc="更改头像{0}次" complete="目前为止，更改头像{0}次" feature="Season1" />
 	<achieve id="23100015" desc="在$map:61000001$中说“你好”或“鞠躬”{0}次" complete="在$map:61000001$中说“你好”或“鞠躬”{0}次" feature="Season1" />
@@ -1308,6 +1259,7 @@
 	<achieve id="23100058" desc="搜集全部的3种果肉饮料类成就" complete="搜集全部的3种果肉饮料类成就" feature="Season1" />
 	<achieve id="23100059" desc="收集所有吃了让人幸福的食物成就" complete="收集所有吃了让人幸福的食物成就" feature="Season1" />
 	<achieve id="23100060" desc="收集所有的烧烤烹饪成就" complete="收集所有的烧烤烹饪成就！" feature="Season1" />
+	<achieve id="23100061" desc="$item:20000208$ {0}회 사용하기" complete="지금까지 $item:20000208$ {0}회 사용" feature="Season1" locale="KR" />
 	<achieve id="23100062" desc="使用{0}次$item:20000209$" complete="目前为止，使用了{0}次$item:20000209$" feature="Season1" />
 	<achieve id="23100063" desc="吹{0}次$item:20000210$" complete="目前为止，呼叫了{0}次$item:20000210$" feature="Season1" />
 	<achieve id="23100064" desc="品尝{0}次$item:20000211$" complete="目前为止，喝了{0}次$item:20000211$" feature="Season1" />
@@ -1316,14 +1268,18 @@
 	<achieve id="23100067" desc="使用{0}次$item:20000214$" complete="目前为止，使用了{0}次$item:20000214$" feature="Season1" />
 	<achieve id="23100068" desc="使用{0}次$item:20000215$" complete="目前为止，使用了{0}次$item:20000215$" feature="Season1" />
 	<achieve id="23100069" desc="使用{0}次$item:20000216$" complete="目前为止，使用了{0}次$item:20000216$" feature="Season1" />
+	<achieve id="23100070" desc="使用{0}次$item:20000217$" complete="目前为止，使用了{0}次$item:20000217$" feature="Season1" locale="KR" />
 	<achieve id="23100071" desc="使用{0}次$item:20000218$" complete="目前为止，使用了{0}次$item:20000218$" feature="Season1" />
 	<achieve id="23100072" desc="使用{0}次$item:20000219$" complete="目前为止，使用了{0}次$item:20000219$" feature="Season1" />
 	<achieve id="23100073" desc="使用{0}次$item:20000220$" complete="目前为止，使用了{0}次$item:20000220$" feature="Season1" />
 	<achieve id="23100074" desc="使用{0}次$item:20000221$" complete="目前为止，使用了{0}次$item:20000221$" feature="Season1" />
+	<achieve id="23100075" desc="使用{0}次$item:20000222$" complete="目前为止，使用了{0}次$item:20000222$" feature="Season1" locale="KR" />
+	<achieve id="23100076" desc="使用{0}次$item:20000223$" complete="目前为止，使用了{0}次$item:20000222$" feature="Season1" locale="KR" />
 	<achieve id="23100077" desc="观看{0}次$item:20000224$" complete="目前为止，查看了{0}次$item:20000224$" feature="Season1" />
 	<achieve id="23100078" desc="使用{0}次$item:20000225$" complete="目前为止，使用了{0}次$item:20000225$" feature="Season1" />
 	<achieve id="23100079" desc="使用{0}次$item:20000226$" complete="目前为止，使用了{0}次$item:20000226$" feature="Season1" />
 	<achieve id="23100080" desc="使用{0}次$item:20000227$" complete="目前为止，使用了{0}次$item:20000227$" feature="Season1" />
+	<achieve id="23100081" desc="使用{0}次$item:20000228$" complete="目前为止，使用了{0}次$item:20000228$" feature="Season1" locale="KR" />
 	<achieve id="23100082" desc="使用{0}次$item:20000229$" complete="目前为止，使用了{0}次$item:20000229$" feature="Season1" />
 	<achieve id="23100083" desc="阅读{0}次$item:20000230$" complete="目前为止，阅读了{0}次$item:20000230$" feature="Season1" />
 	<achieve id="23100084" desc="阅读{0}次$item:20000231$" complete="目前为止，阅读了{0}次$item:20000231$" feature="Season1" />
@@ -1332,6 +1288,7 @@
 	<achieve id="23100087" desc="使用自己或他人家中的$item:50400041$" complete="使用自己或他人家中的$item:50400041$" feature="Season1" />
 	<achieve id="23100088" desc="使用自己或他人家中的$item:50400054$" complete="使用自己或他人家中的$item:50400054$" feature="Season1" />
 	<achieve id="23100089" desc="使用{0}次$item:20000237$" complete="目前为止，使用了{0}次$item:20000237$" feature="Season1" />
+	<achieve id="23100090" desc="使用{0}次$item:20000238$" complete="目前为止，使用了{0}次$item:20000238$" feature="Season1" locale="KR" />
 	<achieve id="23100091" desc="使用{0}次$item:20000068$" complete="目前为止，使用了{0}次$item:20000068$" feature="Season1" />
 	<achieve id="23100092" desc="在自己或他人家中的壁炉点火" complete="在自己或他人家中的壁炉点火完毕！" feature="Season1" />
 	<achieve id="23100093" desc="观看自己或他人家中的超薄电视" complete="观看自己或他人家中的超薄电视完毕！" feature="Season1" />
@@ -1371,6 +1328,9 @@
 	<achieve id="23100127" desc="在自己或他人家中启动$item:50400109$" complete="在自己或他人家中启动$item:50400109$完毕！" feature="Season1" />
 	<achieve id="23100128" desc="在自己或他人家中启动$item:50400110$" complete="在自己或他人家中启动$item:50400110$完毕！" feature="Season1" />
 	<achieve id="23100129" desc="在自己或他人家中启动$item:50400111$" complete="在自己或他人家中启动$item:50400111$完毕！" feature="Season1" />
+	<achieve id="23100130" desc="在自己或他人家中启动$item:50400112$" complete="在自己或他人家中启动$item:50400112$完毕！" feature="Season1" locale="KR" />
+	<achieve id="23100131" desc="在自己或他人家中启动$item:50400113$" complete="在自己或他人家中启动$item:50400113$完毕！" feature="Season1" locale="KR" />
+	<achieve id="23100132" desc="在自己或他人家中启动$item:50400114$" complete="在自己或他人家中启动$item:50400114$完毕！" feature="Season1" locale="KR" />
 	<achieve id="23100133" desc="在自己或他人家中启动$item:50400115$" complete="在自己或他人家中启动$item:50400115$完毕！" feature="Season1" />
 	<achieve id="23100134" desc="在自己或他人家中启动$item:50400116$" complete="在自己或他人家中启动$item:50400116$完毕！" feature="Season1" />
 	<achieve id="23100135" desc="第一次钓鱼成功，成为初级钓手" complete="第一次钓鱼成功，成为初级钓手" feature="Season1" />
@@ -1412,6 +1372,8 @@
 	<achieve id="23100171" desc="在自己或他人家中使用$item:50400117$" complete="在自己或他人家中使用$item:50400117$" feature="Season1" />
 	<achieve id="23100172" desc="在自己或他人家中使用$item:50400118$" complete="在自己或他人家中使用$item:50400118$" feature="Season1" />
 	<achieve id="23100173" desc="在自己或他人家中使用$item:50400119$" complete="在自己或他人家中使用$item:50400119$" feature="Season1" />
+	<achieve id="23100174" desc="在自己或他人家中使用$item:50400120$" complete="在自己或他人家中启动$item:50400120$完毕！" feature="Season1" locale="KR" />
+	<achieve id="23100175" desc="在自己或他人家中使用$item:50400121$" complete="在自己或他人家中启动$item:50400121$完毕！" feature="Season1" locale="KR" />
 	<achieve id="23100176" desc="在自己或他人家中启动$item:50400122$" complete="在自己或他人家中启动$item:50400122$完毕！" feature="Season1" />
 	<achieve id="23100177" desc="在自己或他人家中启动$item:50400123$" complete="在自己或他人家中启动$item:50400123$完毕！" feature="Season1" />
 	<achieve id="23100178" desc="通过电子吉他演奏使熟练度提升至{0}" complete="完成电子吉他演奏并使熟练度提升至{0}" feature="Season1" />
@@ -1510,8 +1472,6 @@
 	<achieve id="23100271" desc="烹饪熟练度提升至{0}阶段" complete="烹饪熟练度达到了12阶段" feature="MasterySecond" />
 	<achieve id="23100272" desc="烹饪熟练度提升至{0}阶段" complete="烹饪熟练度达到了13阶段" feature="MasterySecond" />
 	<achieve id="23100273" desc="将宠物捕捉熟练度提升至{0}阶段" complete="将宠物捕捉熟练度提升至了{0}阶段" feature="PetBattle" />
-	<achieve id="23100274" desc="将宠物捕捉熟练度提升至{0}阶段" complete="将宠物捕捉熟练度提升至了{0}阶段" feature="Develop" />
-	<achieve id="23100275" desc="将宠物捕捉熟练度提升至{0}阶段" complete="将宠物捕捉熟练度提升至了{0}阶段" feature="Develop" />
 	<achieve id="23100276" desc="在图鉴中收集{0}只宠物" complete="在图鉴中收集了{0}只宠物" feature="PetBattle" />
 	<achieve id="23100277" desc="通过演奏木琴将熟练度提升至{0}" complete="通过演奏木琴将熟练度提升至{0}" feature="Season1" />
 	<achieve id="23100278" desc="通过演奏口琴将熟练度提升至{0}" complete="通过演奏口琴将熟练度提升至{0}" feature="Season1" />
@@ -1630,10 +1590,6 @@
 	<achieve id="23100407" desc="在自己或他人家中使用$item:50400336$" complete="在自己或他人家中使用$item:50400336$ - 完成" feature="Season1" />
 	<achieve id="23100408" desc="在自己或他人家中使用$item:50400337$" complete="在自己或他人家中使用$item:50400337$ - 完成" feature="Season1" />
 	<achieve id="23100409" desc="在自己或他人家中使用$item:50400338$" complete="在自己或他人家中使用$item:50400338$ - 完成" feature="Season1" />
-	<achieve id="23100410" desc="ACHIEVEDESCRIPTION_23100410_DESC:[F]JPInstrument" complete="ACHIEVEDESCRIPTION_23100410_COMPLETE:[F]JPInstrument" feature="JPInstrument" />
-	<achieve id="23100411" desc="ACHIEVEDESCRIPTION_23100411_DESC:[F]JPInstrument" complete="ACHIEVEDESCRIPTION_23100411_COMPLETE:[F]JPInstrument" feature="JPInstrument" />
-	<achieve id="23100412" desc="ACHIEVEDESCRIPTION_23100412_DESC:[F]JPInstrument" complete="ACHIEVEDESCRIPTION_23100412_COMPLETE:[F]JPInstrument" feature="JPInstrument" />
-	<achieve id="23100413" desc="ACHIEVEDESCRIPTION_23100413_DESC:[F]JPInstrument" complete="ACHIEVEDESCRIPTION_23100413_COMPLETE:[F]JPInstrument" feature="JPInstrument" />
 	<achieve id="23100414" desc="在我的房屋或其他人的房屋使用$item:50400339$" complete="在我的房屋或其他人的房屋使用$item:50400339$- 完成" feature="Season1" />
 	<achieve id="23100415" desc="在我的房屋或其他人的房屋使用$item:50400340$" complete="在我的房屋或其他人的房屋使用$item:50400340$- 完成" feature="Season1" />
 	<achieve id="23100416" desc="在我的房屋或其他人的房屋使用$item:50400342$" complete="在我的房屋或其他人的房屋使用$item:50400342$- 完成" feature="Season1" />
@@ -1681,6 +1637,7 @@
 	<achieve id="23200012" desc="在商店中消耗$item:90000006${0}个" complete="目前为止，在商店消费了{0}个$item:90000006$" feature="Season1" />
 	<achieve id="23200013" desc="获得{0}个$item:90000017$" complete="目前为止，获得了{0}个$item:90000017$" feature="Season1" />
 	<achieve id="23200014" desc="在商店中消费{0}个$item:90000017$" complete="目前为止，在商店中消费了{0}个$item:90000017$" feature="Season1" />
+	<achieve id="23200015" desc="한 달 동안 디자이너스샵 누적 판매 20만 메럿 달성하기 (정기 점검 시 달성)" complete="한 달 동안 디자이너스샵 누적 판매 20만 메럿 달성!" feature="Season1" locale="KR" />
 	<achieve id="23200016" desc="成为本月的明星建筑师" complete="成为本月的明星建筑师！" feature="Season1" />
 	<achieve id="23200017" desc="使装备道具成功+10" complete="使装备道具成功+10" feature="Season1" />
 	<achieve id="23200018" desc="使装备道具成功+11" complete="使装备道具成功+11" feature="Season1" />
@@ -1707,7 +1664,6 @@
 	<achieve id="23200039" desc="单只宠物更改附加能力的次数最多可达{0}次" complete="至今为止，单只宠物变更附加能力的次数最多为{0}次" feature="PetRemake01" />
 	<achieve id="23200040" desc="道具点数达到{0}点" complete="道具点数达到{0}点" feature="Season1" />
 	<achieve id="23200041" desc="在商城使用500蘑菇币" complete="在商城使用500蘑菇币" feature="Season1" />
-	<achieve id="23200042" desc="ACHIEVEDESCRIPTION_23200042_DESC:[F]SurvivalContents03" complete="ACHIEVEDESCRIPTION_23200042_COMPLETE:[F]SurvivalContents03" feature="SurvivalContents03" />
 	<achieve id="23200043" desc="完成{0}次极限突破 - 完成" complete="完成{0}次极限突破" feature="UnlimitedEnchant" />
 	<achieve id="23300002" desc="收集所有绵羊类坐骑成就" complete="搜集所有绵羊类坐骑成就完毕！" feature="Season1" />
 	<achieve id="23300003" desc="收集所有最新流行的杂志" complete="收集所有最新流行的杂志完毕！" feature="Season1" />
@@ -1824,21 +1780,28 @@
 	<achieve id="23400046" desc="参与1周年世界首领获得 {0}次奖励" complete="获得{0}次1周年世界首领奖励" feature="WorldChampionMushroom" locale="CN" />
 	<achieve id="23400047" desc="使用{0}次$item:20301889$" complete="已使用{0}次$item:20301889$" locale="CN" />
 	<achieve id="23400049" desc="$item:20302181$使用{0}次" complete="目前为止$item:20302181$使用{0}次" locale="CN" />
+	<achieve id="23400050" desc="$item:20001150$使用{0}次" complete="目前为止$item:20001150$使用{0}次" locale="KR" />
 	<achieve id="23400051" desc="获得$item:20001294${0}次" complete="至今为止获得$item:20001294$ {0}次" locale="CN" />
 	<achieve id="23400053" desc="在活动期间制作1次蓝图" complete="在活动期间制作1次蓝图" feature="Blueprint" locale="CN" />
 	<achieve id="23400054" desc="$item:20302590$使用{0}次" complete="到目前为止使用$item:20302590${0}次" locale="CN" />
 	<achieve id="23400055" desc="$item:20302816$使用{0}次" complete="目前为止，$item:20302816$使用{0}次" locale="CN" />
+	<achieve id="23400056" desc="숨바꼭질에 {0}회 참여하기" complete="숨바꼭질에 {0}회 참여" feature="MassiveHideAndSeek" locale="KR" />
+	<achieve id="23400057" desc="숨바꼭질에서 {0}회 우승하기" complete="숨바꼭질에서 {0}회 우승" feature="MassiveHideAndSeek" locale="KR" />
 	<achieve id="23400058" desc="获得{0}次$item:20001769$" complete="目前为止获得{0}次$item:20001769$" feature="Event" locale="CN" />
 	<achieve id="23500001" desc="签约大地型不动产" complete="完成对大地型不动产的签约" feature="Season1" />
 	<achieve id="23500003" desc="延长不动产合约{0}次" complete="目前为止，延长了不动产合约{0}次" feature="Season1" />
 	<achieve id="23500004" desc="在自己家中安装$item:50400035$或$item:50400036$" complete="在自己家中安装$item:50400035$或$item:50400036$完毕！" feature="Season1" />
 	<achieve id="23500005" desc="在自己家中设置管家烹饪工具" complete="在自己家中设置管家烹饪工具完毕！" feature="Season1" />
+	<achieve id="23500006" desc="메이드 연금도구를 내 집에 설치해보기" complete="메이드 연금도구를 내 집에 설치 완료" feature="Season1" locale="KR" />
 	<achieve id="23500007" desc="在自己家中设置管家工艺工具" complete="在自己家中设置管家工艺工具完毕！" feature="Season1" />
 	<achieve id="23500008" desc="给自己家中雇用管家" complete="为自己家中雇佣管家！" feature="Season1" />
 	<achieve id="23500009" desc="从戒指制作专业管家那里获得{0}个$item:12030049$" complete="从戒指制作专业管家那里获得{0}个$item:12030049$ - 完成！" feature="Season1" />
+	<achieve id="23500009" desc="从戒指制作专业管家那里获得{0}个$item:12000045$" complete="从戒指制作专业管家那里获得{0}个$item:12000045$ - 完成！" feature="Season1" locale="KR" />
 	<achieve id="23500010" desc="从项链制作专业管家那里获得{0}个$item:11930056$" complete="从项链制作专业管家那里获得{0}个$item:11930056$ - 完成！" feature="Season1" />
+	<achieve id="23500010" desc="从项链制作专业管家那里获得{0}个$item:11900054$" complete="从项链制作专业管家那里获得{0}个$item:11900054$ - 完成！" feature="Season1" locale="KR" />
 	<achieve id="23500011" desc="从饮料制作专业管家那里获得{0}个$item:20000110$" complete="从饮料制作专业管家那里获得{0}个$item:20000110$！" feature="Season1" />
 	<achieve id="23500012" desc="从烹饪制作专业管家那里获得{0}个$item:20000091$" complete="从烹饪制作专业管家那里获得{0}个$item:20000091$！" feature="Season1" />
+	<achieve id="23500013" desc="연금술 전문 메이드로부터 $item:20000027$ {0}개 획득하기" complete="연금술 전문 메이드로부터 $item:20000027$ {0}개 획득!" feature="Season1" locale="KR" />
 	<achieve id="23500014" desc="管家的亲密度达到{0}级" complete="目前为止，管家的亲密度达到{0}阶段" feature="Season1" />
 	<achieve id="23500015" desc="更改管家档案{0}次" complete="目前为止，变更管家的档案{0}次" feature="Season1" />
 	<achieve id="23500016" desc="参加推荐明星建筑师{0}次" complete="参加{0}次推荐明星建筑师" feature="Season1" />
@@ -1852,6 +1815,15 @@
 	<achieve id="23500024" desc="装饰度分数达到1,100点" complete="装饰度分数1,100点达成" feature="UGCMapRenewal" />
 	<achieve id="23500025" desc="制作1次蓝图" complete="制作1次蓝图" feature="Blueprint" />
 	<achieve id="23500026" desc="在自己家中安装$item:50201169$" complete="在自己家中安装$item:50201169$-完成" />
+	<achieve id="90000006" desc="길드 챔피언십 시즌1 경기에 {0}회 참가하기" complete="길드 챔피언십 시즌1 경기에 총 {0}회 참가" feature="Season1" locale="KR" />
+	<achieve id="90000010" desc="길드 챔피언십 1시즌에 참가한 길드 중 1위 달성하기" complete="길드 챔피언십 1시즌에 참가한 길드 중 1위 달성!" feature="Season1" locale="KR" />
+	<achieve id="90000011" desc="길드 챔피언십 2시즌에 참가한 길드 중 1위 달성하기" complete="길드 챔피언십 2시즌에 참가한 길드 중 1위 달성!" feature="Season1" locale="KR" />
+	<achieve id="90000012" desc="길드 챔피언십 3시즌에 참가한 길드 중 1위 달성하기" complete="길드 챔피언십 3시즌에 참가한 길드 중 1위 달성!" feature="Season1" locale="KR" />
+	<achieve id="90000013" desc="길드 챔피언십 4시즌에 참가한 길드 중 1위 달성하기" complete="길드 챔피언십 4시즌에 참가한 길드 중 1위 달성!" feature="Season1" locale="KR" />
+	<achieve id="90000014" desc="길드 챔피언십 5시즌에 참가한 길드 중 1위 달성하기" complete="길드 챔피언십 5시즌에 참가한 길드 중 1위 달성!" feature="Season1" locale="KR" />
+	<achieve id="90000015" desc="길드 챔피언십 3-2시즌에 참가한 길드 중 1위 달성하기" complete="길드 챔피언십 3-2시즌에 참가한 길드 중 1위 달성!" feature="Season1" locale="KR" />
+	<achieve id="90000016" desc="봄맞이 길드 대전에 참가한 길드 중 1위 달성하기" complete="봄맞이 길드 대전에 참가한 길드 중 1위 달성!" feature="Season1" locale="KR" />
+	<achieve id="90000017" desc="가을맞이 길드 대전에 참가한 길드 중 1위 달성하기" complete="가을맞이 길드 대전에 참가한 길드 중 1위 달성!" feature="Season1" locale="KR" />
 	<achieve id="90100000" desc="转职" complete="转职完成！" feature="JobChange_01" />
 	<achieve id="90100001" desc="转职成圣堂武士" complete="转职为圣堂武士！" feature="JobChange_01" />
 	<achieve id="90100002" desc="转职为嗜血战士" complete="转职为嗜血战士！" feature="JobChange_01" />
@@ -1864,8 +1836,39 @@
 	<achieve id="90100009" desc="转职为符文剑神" complete="转职为符文剑神！" feature="JobChange_01" />
 	<achieve id="90100010" desc="转职为拳皇" complete="转职为拳皇！" feature="JobChange_01" />
 	<achieve id="90100011" desc="转职为灵魂束缚者" complete="转职为灵魂束缚者！" feature="JobChange_01" />
+	<achieve id="91000001" desc="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기" complete="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!" feature="Season1" locale="KR" />
+	<achieve id="91000002" desc="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기" complete="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!" feature="Season1" locale="KR" />
+	<achieve id="91000003" desc="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기" complete="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!" feature="Season1" locale="KR" />
+	<achieve id="91000004" desc="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기" complete="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!" feature="Season1" locale="KR" />
+	<achieve id="91000005" desc="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기" complete="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!" feature="Season1" locale="KR" />
+	<achieve id="91000006" desc="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기" complete="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!" feature="Season1" locale="KR" />
+	<achieve id="91000007" desc="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기" complete="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!" feature="Season1" locale="KR" />
+	<achieve id="91000008" desc="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기" complete="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!" feature="Season1" locale="KR" />
+	<achieve id="91000009" desc="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기" complete="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!" feature="Season1" locale="KR" />
+	<achieve id="91000010" desc="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성하기" complete="한 달 동안 디자이너스샵 누적 판매 20만 메럿 1회 달성!" feature="Season1" locale="KR" />
+	<achieve id="91001001" desc="이달의 스타 건축가 되기" complete="이달의 스타 건축가 등극!" feature="Season1" locale="KR" />
+	<achieve id="91001002" desc="이달의 스타 건축가 되기" complete="이달의 스타 건축가 등극!" feature="Season1" locale="KR" />
+	<achieve id="91001003" desc="이달의 스타 건축가 되기" complete="이달의 스타 건축가 등극!" feature="Season1" locale="KR" />
+	<achieve id="91001004" desc="이달의 스타 건축가 되기" complete="이달의 스타 건축가 등극!" feature="Season1" locale="KR" />
+	<achieve id="91001005" desc="이달의 스타 건축가 되기" complete="이달의 스타 건축가 등극!" feature="Season1" locale="KR" />
+	<achieve id="91001006" desc="이달의 스타 건축가 되기" complete="이달의 스타 건축가 등극!" feature="Season1" locale="KR" />
+	<achieve id="91001007" desc="이달의 스타 건축가 되기" complete="이달의 스타 건축가 등극!" feature="Season1" locale="KR" />
+	<achieve id="91001008" desc="이달의 스타 건축가 되기" complete="이달의 스타 건축가 등극!" feature="Season1" locale="KR" />
+	<achieve id="91001009" desc="이달의 스타 건축가 되기" complete="이달의 스타 건축가 등극!" feature="Season1" locale="KR" />
+	<achieve id="91001010" desc="이달의 스타 건축가 되기" complete="이달의 스타 건축가 등극!" feature="Season1" locale="KR" />
+	<achieve id="92000001" desc="$item:30000406$로 $npc:11001120$$pp:를,을$ 돌려 선물 100번 받기" complete="$item:30000406$로 $npc:11001120$$pp:를,을$ 돌려 선물 100번 받기" feature="Season1" locale="KR" />
+	<achieve id="92000002" desc="메이플스토리2 명예 기자 되기" complete="메이플스토리2 명예 기자 되기" feature="Season1" locale="KR" />
+	<achieve id="92000003" desc="메이플스토리2 정보통 리포터 되기" complete="메이플스토리2 정보통 리포터 되기" feature="Season1" locale="KR" />
+	<achieve id="92000004" desc="메이플스토리2 캐릭터 $item:20000306$ 열어보기" complete="메이플스토리2 캐릭터 $item:20000306$ 열어보기" feature="Season1" locale="KR" />
+	<achieve id="92000005" desc="$item:20000318$ 열어보기" complete="$item:20000318$ 열어보기" feature="Season3" locale="KR" />
+	<achieve id="92000006" desc="$item:20000317$ {0}개 마시기" complete="$item:20000317$ {0}개 마시기" feature="Season1" locale="KR" />
+	<achieve id="92000007" desc="$item:20300598$ {0}개 획득하기" complete="$item:20300598$ {0}개 획득" feature="Season1" locale="KR" />
+	<achieve id="92000008" desc="$item:20300618$ 5개 획득하기" complete="$item:20300618$ 5개 획득" feature="Season1" locale="KR" />
 	<achieve id="92000009" desc="完成“龙族的足迹，暗黑气息”任务" complete="完成“龙族的足迹，暗黑气息”任务！" feature="Season1" />
 	<achieve id="92000010" desc="完成“浮出水面的莉莉丝之城”任务" complete="完成“浮出水面的莉莉丝之城”任务！" feature="Season1" />
+	<achieve id="92000011" desc="$item:20300637$ 3개 획득하기" complete="$item:20300637$ 3개 획득" feature="Season1" locale="KR" />
+	<achieve id="92000012" desc="$item:20300637$ 5개 획득하기" complete="$item:20300637$ 5개 획득" feature="Season1" locale="KR" />
+	<achieve id="92000013" desc="$item:20300637$ 10개 획득하기" complete="$item:20300637$ 10개 획득" feature="Season1" locale="KR" />
 	<achieve id="92000014" desc="进入参与OX有奖竞猜最多的前200名" complete="进入参与OX有奖竞猜最多的前200名" feature="Season1" locale="CN" />
 	<achieve id="92000015" desc="打开$item:20000471$" complete="打开$item:20000471$" feature="Season3" locale="CN" />
 	<achieve id="92000016" desc="通过钓鱼钓到{0}次大鱼" complete="通过钓鱼成功钓到{0}次大鱼" feature="Season1" />
@@ -1878,6 +1881,7 @@
 	<achieve id="92000023" desc="被选定为获得“亲切勇士证物”最多的TOP20玩家" complete="被评为获得“亲切勇士证物”最多的TOP20玩家" feature="Season1" />
 	<achieve id="92000024" desc="获得$item:30000784$30个" complete="获得$item:30000784$30个" feature="Season1" />
 	<achieve id="92000025" desc="被选定为“最后的骑士之诞生”" complete="选定为“最后的骑士之诞生”" feature="Season1" />
+	<achieve id="92000026" desc="$npc:23000071$의 팔 하나 제거하기" complete="$npc:23000071$의 팔 하나 제거!" feature="Zakum01" locale="KR" />
 	<achieve id="92000027" desc="通过任务完成奖励获得100个$item:20000596$" complete="通过任务完成奖励获得$item:20000596$100个" feature="Season1" />
 	<achieve id="92000028" desc="获得$item:30000781$50个" complete="获得$item:30000781$50个" feature="Season1" />
 	<achieve id="92000029" desc="通过任务完成奖励获得10个$item:20000622$" complete="获得10个$item:20000622$作为任务完成奖励" feature="Season1" />
@@ -1902,6 +1906,15 @@
 	<achieve id="92000048" desc="获得100个$item:20301005$" complete="获得100个$item:20301005$" locale="CN" />
 	<achieve id="92000049" desc="获得5个$item:20301038$" complete="获得5个$item:20301038$" locale="CN" />
 	<achieve id="92000050" desc="获得10个$item:20301071$" complete="获得10个$item:20301071$" locale="CN" />
+	<achieve id="92000051" desc="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기" complete="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정" feature="Season1" locale="KR" />
+	<achieve id="92000052" desc="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기" complete="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정" feature="Season1" locale="KR" />
+	<achieve id="92000053" desc="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기" complete="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정" feature="Season1" locale="KR" />
+	<achieve id="92000054" desc="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기" complete="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정" feature="Season1" locale="KR" />
+	<achieve id="92000055" desc="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기" complete="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정" feature="Season1" locale="KR" />
+	<achieve id="92000056" desc="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기" complete="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정" feature="Season1" locale="KR" />
+	<achieve id="92000057" desc="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기" complete="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정" feature="Season1" locale="KR" />
+	<achieve id="92000058" desc="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기" complete="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정" feature="Season1" locale="KR" />
+	<achieve id="92000059" desc="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정되기" complete="핑크빈을 가장 먼저 처치한 명예의 전당 TOP10 파티원에 선정" feature="Season1" locale="KR" />
 	<achieve id="92000060" desc="入选黑暗洪流第1赛季各职业排名TOP50" complete="入选黑暗洪流第1赛季各职业排名TOP50" locale="CN" />
 	<achieve id="92000061" desc="通过任务完成奖励获得30个$item:20000691$" complete="通过任务完成奖励获得30个$item:20000691$" feature="Season1" />
 	<achieve id="92000062" desc="那里怎么冒出巧克力？完成5次任务" complete="那里怎么冒出巧克力？完成5次任务" feature="Season1" />
@@ -1934,15 +1947,26 @@
 	<achieve id="92000089" desc="完成相爱万岁任务" complete="完成相爱万岁任务" locale="CN" />
 	<achieve id="92000090" desc="完成相爱万岁任务" complete="完成相爱万岁任务" locale="CN" />
 	<achieve id="92000091" desc="给樱花树浇水100次" complete="给樱花树浇水100次" />
+	<achieve id="92000092" desc="메이플스토리2 1000일을 함께 맞이하기" complete="메이플스토리2 1000일, 함께해 주셔서 고맙습니다!" locale="KR" />
+	<achieve id="92000093" desc="메이플스토리2 1000일 맞이 전시회에 작품 전시하기" complete="메이플스토리2 1000일 맞이 전시회에 작품 전시" locale="KR" />
 	<achieve id="92000094" desc="使用{0}个$item:20301428$" complete="{0}个$item:20301428$使用完成" feature="WorldChampionMushroom" />
 	<achieve id="92000095" desc="在其他房屋陪$npc:50400282$玩耍2次" complete="在其他房屋陪$npc:50400282$玩耍2次完成" />
 	<achieve id="92000096" desc="使彩虹水灵的成长度增加100点" complete="彩虹水灵的成长度已增加100点" />
+	<achieve id="92000098" desc="$item:30001154$ {0}개 모으기" complete="$item:30001154$ {0}개 모으기 완료" locale="KR" />
 	<achieve id="92000099" desc="完成2次[寻找阳光]任务" complete="完成2次[寻找阳光]任务" locale="CN" />
 	<achieve id="92000100" desc="购买豪华热销礼包" complete="购买豪华热销礼包" locale="CN" />
 	<achieve id="92000101" desc="购买尊享热销礼包" complete="购买尊享热销礼包" locale="CN" />
 	<achieve id="92000102" desc="购买尊贵热销礼包" complete="购买尊贵热销礼包" locale="CN" />
 	<achieve id="92000103" desc="购买至尊热销礼包" complete="购买至尊热销礼包" locale="CN" />
+	<achieve id="92000104" desc="9월 풍성한 가을 첫번째 패키지 구매하기" complete="9월 풍성한 가을 첫번째 패키지 구매" locale="KR" />
+	<achieve id="92000105" desc="9월 풍성한 가을 두번째 패키지 구매하기" complete="9월 풍성한 가을 두번째 패키지 구매" locale="KR" />
+	<achieve id="92000106" desc="9월 풍성한 가을 세번째 패키지 구매하기" complete="9월 풍성한 가을 세번째 패키지 구매" locale="KR" />
+	<achieve id="92000107" desc="9월 풍성한 가을 네번째 패키지 구매하기" complete="9월 풍성한 가을 네번째 패키지 구매" locale="KR" />
 	<achieve id="92000108" desc="完成3次欢乐1周年派对任务，并领取3次$item:20301971$" complete="完成3次欢乐1周年派对任务，并领取3次$item:20301971$" locale="CN" />
+	<achieve id="92000112" desc="10월 풍성한 가을 첫번째 패키지 구매하기" complete="10월 풍성한 가을 첫번째 패키지 구매" locale="KR" />
+	<achieve id="92000113" desc="10월 풍성한 가을 두번째 패키지 구매하기" complete="10월 풍성한 가을 두번째 패키지 구매" locale="KR" />
+	<achieve id="92000114" desc="10월 풍성한 가을 세번째 패키지 구매하기" complete="10월 풍성한 가을 세번째 패키지 구매" locale="KR" />
+	<achieve id="92000115" desc="10월 풍성한 가을 네번째 패키지 구매하기" complete="10월 풍성한 가을 네번째 패키지 구매" locale="KR" />
 	<achieve id="92000117" desc="在别人家陪$npc:50400309$玩3次" complete="在别人家陪$npc:50400309$玩3次完毕" />
 	<achieve id="92000118" desc="在自己家给$npc:50400309$喂10次饲料" complete="在自己家给$npc:50400309$喂10次饲料完毕" />
 	<achieve id="92000119" desc="给枫树施100次$item:20302065$" complete="给枫树施100次$item:20302065$完毕" />
@@ -1953,15 +1977,29 @@
 	<achieve id="92000124" desc="在石头剪刀布活动中获胜30次" complete="在石头剪刀布活动中获胜30次" locale="CN" />
 	<achieve id="92000125" desc="[实习圣诞鹿讨厌黑暗]完成12次任务" complete="[实习圣诞鹿讨厌黑暗]完成12次任务" locale="CN" />
 	<achieve id="92000126" desc="[装扮实习圣诞鹿和圣诞树]完成12次任务" complete="[装扮实习圣诞鹿和圣诞树]完成12次任务" locale="CN" />
-	<achieve id="92000129" desc="完成“$quest:80010290$”任务，获得3个$item:20302276$" complete="完成“$quest:80010290$”任务，获得3个$item:20302276$" locale="CN" />
+	<achieve id="92000127" desc="参与{0}次$map:61000022$" complete="参与{0}次$map:61000022$" />
+	<achieve id="92000129" desc='&quot;$quest:80010290$&quot; 퀘스트 완료하고 $item:20302276$ 3개 받기' complete='&quot;$quest:80010290$&quot; 퀘스트 완료하고 $item:20302276$ 3개 받기 완료' locale="CN" />
+	<achieve id="92000135" desc="윈터 가위바위보 이벤트에서 승리 20회 달성하기" complete="윈터 가위바위보 이벤트에서 승리 20회 달성" feature="Event" locale="KR" />
+	<achieve id="92000136" desc="윈터 가위바위보 이벤트에서 무승부 20회 달성하기" complete="윈터 가위바위보 이벤트에서 무승부 20회 달성" feature="Event" locale="KR" />
+	<achieve id="92000137" desc="윈터 가위바위보 이벤트에서 패배 20회 달성하기" complete="윈터 가위바위보 이벤트에서 패배 20회 달성" feature="Event" locale="KR" />
+	<achieve id="92000138" desc="술래잡기 미션 : 오늘의 짝꿍 퀘스트 7회 완료하기" complete="술래잡기 미션 : 오늘의 짝꿍 퀘스트 7회 완료" feature="Event" locale="KR" />
+	<achieve id="92000139" desc="풍성한 가을 가위바위보 이벤트에서 승리 20회 달성하기" complete="풍성한 가을 가위바위보 이벤트에서 승리 20회 달성" feature="Event" locale="KR" />
+	<achieve id="92000140" desc="풍성한 가을 가위바위보 이벤트에서 무승부 20회 달성하기" complete="풍성한 가을 가위바위보 이벤트에서 무승부 20회 달성" feature="Event" locale="KR" />
 	<achieve id="92000141" desc="捉迷藏任务：完成10次今日搭档任务" complete="捉迷藏任务：完成10次今日搭档任务" feature="Event" locale="CN" />
+	<achieve id="92000142" desc="풍성한 가을 가위바위보 이벤트에서 패배 20회 달성하기" complete="풍성한 가을 가위바위보 이벤트에서 패배 20회 달성" feature="Event" locale="KR" />
 	<achieve id="92000143" desc="在金秋石头剪刀布活动中，胜利20次。" complete="在金秋石头剪刀布活动中，胜利20次。" feature="Event" locale="CN" />
 	<achieve id="92000144" desc="给樱花树浇水100次" complete="给樱花树浇水100次 - 完成" feature="Event" locale="CN" />
+	<achieve id="92000145" desc="$item:50400335$을 작동하기" complete="$item:50400335$을 작동하기" feature="Event" locale="KR" />
 	<achieve id="92000146" desc="用$item:20302691$给小黄鸭游池充气100次" complete="用$item:20302691$给小黄鸭游池充气100次" feature="Event" />
 	<achieve id="92000147" desc="在别人的房屋，与$npc:50400341$玩耍3次。" complete="在别人的房屋，与$npc:50400341$玩耍3次。 - 完成" feature="Event" locale="CN" />
+	<achieve id="92000147" desc="在别人的房屋，与$npc:50400341$玩耍3次。" complete="在别人的房屋，与$npc:50400341$玩耍3次。 - 完成" feature="Event" locale="KR" />
 	<achieve id="92000148" desc="在我的房屋给$npc:50400341$喂食15次。" complete="在我的房屋给$npc:50400341$喂食15次。- 完成" feature="Event" locale="CN" />
+	<achieve id="92000148" desc="在我的房屋给$npc:50400341$喂食15次。" complete="在我的房屋给$npc:50400341$喂食15次。- 完成" feature="Event" locale="KR" />
 	<achieve id="92000149" desc="往$map:02000064$的锅里投入100次$item:30001431$" complete="往$map:02000064$的锅里投入100次$item:30001431$ - 完成" feature="Event" />
+	<achieve id="92000149" desc="往$map:02000064$的锅里投入100次$item:30001431$" complete="往$map:02000064$的锅里投入100次$item:30001431$ - 完成" feature="Event" locale="KR" />
 	<achieve id="92000150" desc="参与6周年活动，收集纪念品。" complete="参与6周年活动，收集纪念品。" feature="Event" />
+	<achieve id="92000150" desc="参与6周年活动，收集纪念品。" complete="参与6周年活动，收集纪念品。" feature="Event" locale="KR" />
+	<achieve id="92000151" desc="购买全套组合礼包" complete="购买全套组合礼包" locale="KR" />
 	<achieve id="92000151" desc="购买全套组合礼包" complete="购买全套组合礼包" locale="CN" />
 	<achieve id="92000152" desc="参与4周年活动，收集纪念品。" complete="参与4周年活动，收集纪念品。" feature="Event" locale="CN" />
 	<achieve id="92000153" desc="参与{0}次$map:61000022$" complete="参与{0}次$map:61000022$" feature="Event" locale="CN" />
