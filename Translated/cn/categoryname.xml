@@ -596,6 +596,11 @@
 	<key id="10105104" name="高山滑雪套装" feature="22_12" />
 	<key id="10105105" name="武器箱" feature="22_12" />
 	<key id="10105106" name="樂器" feature="22_12" />
+	<key id="10105201" name="小红帽套装" feature="23_01" />
+	<key id="10105202" name="熊宝宝套装" feature="23_01" />
+	<key id="10105203" name="街头风御寒套装" feature="23_01" />
+	<key id="10105204" name="医者仁心套装" feature="23_01" />
+	<key id="10105205" name="武器箱" feature="23_01" />
 	<key id="10200100" name="单品时装" />
 	<key id="10200101" name="坐骑" />
 	<key id="10200102" name="徽章" />

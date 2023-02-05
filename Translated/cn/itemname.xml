@@ -659,6 +659,8 @@
 	<key id="11020006" class="mouth" name="机能型侦察兵面罩（女）" />
 	<key id="11020039" class="mouth" name="小红帽的巧克力饼干（男）" />
 	<key id="11020040" class="mouth" name="小红帽的巧克力饼干（女）" />
+	<key id="11020041" name="小红帽的巧克力饼干（男）" />
+	<key id="11020042" name="小红帽的巧克力饼干（女）" />
 	<key id="11020111" class="mouth" name="专家用铅笔（男）" />
 	<key id="11020112" class="mouth" name="专家用铅笔（女）" />
 	<key id="11020113" name="泡泡糖（男）" />
@@ -721,6 +723,7 @@
 	<key id="11050021" class="mouth" name="Alpha测试面罩" />
 	<key id="11050022" class="mouth" name="防毒面具" />
 	<key id="11050023" class="mouth" name="鸭嘴" />
+	<key id="11050024" name="防毒面具" feature="23_01" />
 	<key id="11050025" class="mouth" name="吹卷口哨" />
 	<key id="11050026" class="mouth" name="口哨" />
 	<key id="11050027" class="mouth" name="薄荷冰棒" />
@@ -848,6 +851,7 @@
 	<key id="11150019" class="eye" name="经典半框眼镜" />
 	<key id="11150020" class="eye" name="冒险家太阳镜" />
 	<key id="11150021" class="eye" name="骨纹眼罩" />
+	<key id="11150022" name="半圆眼镜" />
 	<key id="11150023" class="eye" name="圆形彩色眼镜" />
 	<key id="11150024" class="eye" name="机械护目镜" />
 	<key id="11150025" class="eye" name="夹鼻眼镜" />
@@ -892,6 +896,8 @@
 	<key id="11150078" name="单片眼镜（男）" />
 	<key id="11150079" name="单片眼镜（女）" />
 	<key id="11150080" name="假面舞会眼罩（女）" />
+	<key id="11150081" name="假面舞会眼罩（男）" />
+	<key id="11150082" name="假面舞会眼罩（女）" />
 	<key id="11199999" class="system" name="透明功能_眼饰" />
 	<key id="11200001" class="earring" name="蓝宝石耳环" />
 	<key id="11200002" class="earring" name="小星星耳环" />
@@ -1213,6 +1219,8 @@
 	<key id="11220521" name="可爱心形耳环（女）" />
 	<key id="11220522" name="热带樱桃耳环（男）" />
 	<key id="11220523" name="热带樱桃耳环（女）" />
+	<key id="11220524" name="医者仁心药丸耳环（男）" />
+	<key id="11220525" name="医者仁心药丸耳环（女）" />
 	<key id="11220628" name="调度员耳环（男）" />
 	<key id="11220629" name="调度员耳环（女）" />
 	<key id="11220630" name="幸福旋律耳环（男）" />
@@ -1288,6 +1296,8 @@
 	<key id="11220702" name="街头说唱耳环（女）" />
 	<key id="11220703" name="甜心金属耳环（男）" />
 	<key id="11220704" name="甜心金属耳环（女）" />
+	<key id="11220705" name="迷你诡夜节耳环（男）" />
+	<key id="11220706" name="迷你诡夜节耳环（女）" />
 	<key id="11230031" class="earring" name="绝境耳环" />
 	<key id="11230044" class="earring" name="暴烈耳环" />
 	<key id="11240044" class="earring" name="闪耀暴烈耳环" />
@@ -1415,6 +1425,8 @@
 	<key id="11250139" class="earring" name="热情水滴耳环（女）" />
 	<key id="11250173" class="earring" name="海边浪漫菠萝耳环" />
 	<key id="11250174" class="earring" name="夏日庆典达摩耳环" />
+	<key id="11250175" name="熊宝宝果冻耳环（男）" />
+	<key id="11250176" name="熊宝宝果冻耳环（女）" />
 	<key id="11250177" class="earring" name="宝石贝壳耳环（男）" />
 	<key id="11250178" class="earring" name="宝石贝壳耳环（女）" />
 	<key id="11250181" class="earring" name="特莱雅宫廷厨师耳环（男）" />
@@ -2301,6 +2313,7 @@
 	<key id="11300899" class="hat" name="大绒球便帽" />
 	<key id="11300900" name="欢乐暖冬王冠（男）" />
 	<key id="11300901" name="欢乐暖冬王冠（女）" />
+	<key id="11300902" name="喵喵果冻耳麦" />
 	<key id="11300913" class="hat" name="（网吧）侦探帽" />
 	<key id="11300914" class="hat" name="（网吧）可爱大型贝雷帽" />
 	<key id="11300915" class="hat" name="（网吧）纯洁蝴蝶结发箍" />
@@ -2789,6 +2802,7 @@
 	<key id="11301547" class="hat" name="德布拉克之角" />
 	<key id="11301548" class="hat" name="混沌之角" />
 	<key id="11301551" class="hat" name="乖巧龙猫帽" />
+	<key id="11301552" name="乖巧龙猫帽" />
 	<key id="11301562" name="转圈圈风车" />
 	<key id="11301571" class="hat" name="ITEMNAME_11301571_NAME:[F]ItemKR" feature="ItemKR" />
 	<key id="11301572" class="hat" name="（网吧）精英冒险家战斗头盔（骑士）" feature="Level70Item" />
@@ -3425,6 +3439,11 @@
 	<key id="11320568" name="高山滑雪护目镜（女）" />
 	<key id="11320569" name="黑色兔耳发箍（男）" />
 	<key id="11320570" name="黑色兔耳发箍（女）" />
+	<key id="11320571" name="头顶的小花猫" />
+	<key id="11320572" name="可爱小熊贝雷帽（男）" />
+	<key id="11320573" name="可爱小熊贝雷帽（女）" />
+	<key id="11320574" name="医者仁心帽子（男）" />
+	<key id="11320575" name="医者仁心帽子（女）" />
 	<key id="11320628" name="调度员护目镜（男）" />
 	<key id="11320629" name="调度员护目镜（女）" />
 	<key id="11320630" name="幸福旋律帽子（男）" />
@@ -3531,6 +3550,12 @@
 	<key id="11320732" name="萌萌哒恐龙帽子（女）" />
 	<key id="11320733" name="地狱火之角（男）" />
 	<key id="11320734" name="地狱火之角（女）" />
+	<key id="11320735" name="小红帽的帽子（男）" />
+	<key id="11320736" name="小红帽的帽子（女）" />
+	<key id="11320737" name="街头风波乐帽（男）" />
+	<key id="11320738" name="街头风波乐帽（女）" />
+	<key id="11320739" name="假面舞会帽（男）" />
+	<key id="11320740" name="假面舞会帽（女）" />
 	<key id="11330073" class="hat" name="黑色雨燕头盔" />
 	<key id="11330077" class="hat" name="炫光幻灵巫术帽" />
 	<key id="11330082" class="hat" name="长虹贯日游侠帽" />
@@ -8551,6 +8576,8 @@
 	<key id="11620174" name="冰雪玫瑰戒指（女）" />
 	<key id="11620175" name="雪之传说手套（男）" />
 	<key id="11620176" name="雪之传说手套（女）" />
+	<key id="11620177" name="精美小花手镯（男）" />
+	<key id="11620178" name="精美小花手镯（女）" />
 	<key id="11620201" class="gloves" name="宝石糖果戒指（男）" />
 	<key id="11620202" class="gloves" name="宝石糖果戒指（女）" />
 	<key id="11620203" class="gloves" name="流氓兔头带（男）" />
@@ -8749,6 +8776,8 @@
 	<key id="11620549" name="厚厚的针织手套（女）" />
 	<key id="11620550" name="高山滑雪手套（男）" />
 	<key id="11620551" name="高山滑雪手套（女）" />
+	<key id="11620552" name="医者仁心戒指（男）" />
+	<key id="11620553" name="医者仁心戒指（女）" />
 	<key id="11620626" name="宝石糖果戒指（男）" />
 	<key id="11620627" name="宝石糖果戒指（女）" />
 	<key id="11620628" name="调度员手套（男）" />
@@ -8847,6 +8876,12 @@
 	<key id="11620723" name="萌萌哒恐龙手套（女）" />
 	<key id="11620724" name="地狱火腕甲（男）" />
 	<key id="11620725" name="地狱火腕甲（女）" />
+	<key id="11620726" name="小红帽的手套（男）" />
+	<key id="11620727" name="小红帽的手套（女）" />
+	<key id="11620728" name="街头风链条戒指（男）" />
+	<key id="11620729" name="街头风链条戒指（女）" />
+	<key id="11620730" name="假面舞会手套（男）" />
+	<key id="11620731" name="假面舞会手套（女）" />
 	<key id="11630040" class="gloves" name="黑色雨燕护手" />
 	<key id="11630044" class="gloves" name="炫光幻灵巫术护臂" />
 	<key id="11630047" class="gloves" name="长虹贯日游侠手套" />
@@ -10937,10 +10972,12 @@
 	<key id="11720185" name="快乐暖冬皮靴（女）" />
 	<key id="11720186" name="基本款高帮布鞋（男）" />
 	<key id="11720187" name="基本款高帮布鞋（女）" />
-	<key id="11720188" name="摩登韩服金装花鞋（男）" />
-	<key id="11720189" name="摩登韩服金装云鞋（女）" />
+	<key id="11720188" name="冰雪水晶长靴（男）" />
+	<key id="11720189" name="冰雪水晶凉鞋（女）" />
 	<key id="11720190" name="雪之传说长靴（男）" />
 	<key id="11720191" name="雪之传说鞋子（女）" />
+	<key id="11720192" name="精美饰带皮鞋（男）" />
+	<key id="11720193" name="精美饰带皮鞋（女）" />
 	<key id="11720203" class="shoes" name="流氓兔鞋（男）" />
 	<key id="11720204" class="shoes" name="流氓兔鞋（女）" />
 	<key id="11720209" class="shoes" name="活泼帆船鞋（男）" />
@@ -11181,6 +11218,8 @@
 	<key id="11720555" name="胖胖品克缤鞋（女）" />
 	<key id="11720556" name="高山滑雪靴子（男）" />
 	<key id="11720557" name="高山滑雪靴子（女）" />
+	<key id="11720558" name="医者仁心鞋子（男）" />
+	<key id="11720559" name="医者仁心鞋子（女）" />
 	<key id="11720628" name="调度员鞋子（男）" />
 	<key id="11720629" name="调度员鞋子（女）" />
 	<key id="11720630" name="幸福旋律鞋子（男）" />
@@ -11282,6 +11321,12 @@
 	<key id="11720726" name="萌萌哒恐龙鞋子（女）" />
 	<key id="11720727" name="地狱火之靴（男）" />
 	<key id="11720728" name="地狱火之靴（女）" />
+	<key id="11720729" name="小红帽的鞋子（男）" />
+	<key id="11720730" name="小红帽的鞋子（女）" />
+	<key id="11720731" name="魔幻诡夜节靴（男）" />
+	<key id="11720732" name="魔幻诡夜节靴（女）" />
+	<key id="11720733" name="冒险岛四分卫球鞋（男）" />
+	<key id="11720734" name="冒险岛四分卫球鞋（女）" />
 	<key id="11730059" class="shoes" name="黑色雨燕靴子" />
 	<key id="11730064" class="shoes" name="炫光幻灵巫术靴子" />
 	<key id="11730068" class="shoes" name="长虹贯日游侠靴子" />
@@ -12280,6 +12325,8 @@
 	<key id="11820631" name="幸福旋律扬声器（女）" />
 	<key id="11820632" name="小红帽的面包篮（男）" />
 	<key id="11820633" name="小红帽的面包篮（女）" />
+	<key id="11820634" name="小红帽的面包篮（男）" />
+	<key id="11820635" name="小红帽的面包篮（女）" />
 	<key id="11820638" name="奥林匹斯神之翼（男）" />
 	<key id="11820639" name="奥林匹斯神之翼（女）" />
 	<key id="11820640" name="清爽柠檬披风（男）" />
@@ -12533,6 +12580,8 @@
 	<key id="11850245" class="mantle" name="海边浪漫尤克里里" />
 	<key id="11850246" class="mantle" name="猪猪蚊香披风（男）" />
 	<key id="11850247" class="mantle" name="猪猪蚊香披风（女）" />
+	<key id="11850248" name="小黄鸭宝宝三色气球披风（男）" />
+	<key id="11850249" name="小黄鸭宝宝三色气球披风（女）" />
 	<key id="11850252" class="mantle" name="特莱雅宫廷厨师魔法厨具（男）" />
 	<key id="11850253" class="mantle" name="特莱雅宫廷厨师魔法厨具（女）" />
 	<key id="11850254" class="mantle" name="机能型侦察兵披风（男）" />
@@ -13700,6 +13749,8 @@
 	<key id="12220183" name="冰雪精灵连衣裙（女）" />
 	<key id="12220184" name="雪之传说外套（男）" />
 	<key id="12220185" name="雪之传说外套（女）" />
+	<key id="12220186" name="斗篷款牛仔连身衣（男）" />
+	<key id="12220187" name="斗篷款牛仔连衣裙（女）" />
 	<key id="12220193" class="dress" name="格子夹克紧身牛仔裤（男）" />
 	<key id="12220194" class="dress" name="格子夹克紧身牛仔裤（女）" />
 	<key id="12220203" class="dress" name="流氓兔松紧带短裤（男）" />
@@ -13889,6 +13940,8 @@
 	<key id="12220535" name="胖胖品克缤外套（女）" />
 	<key id="12220536" name="高山滑雪连身服（男）" />
 	<key id="12220537" name="高山滑雪连身服（女）" />
+	<key id="12220538" name="医者仁心白大褂（男）" />
+	<key id="12220539" name="医者仁心白大褂（女）" />
 	<key id="12220628" name="调度员外套（男）" />
 	<key id="12220629" name="调度员外套（女）" />
 	<key id="12220630" name="幸福旋律萌动制服（男）" />
@@ -13983,6 +14036,12 @@
 	<key id="12220719" name="甜心背带百褶连衣裙（女）" />
 	<key id="12220720" name="萌萌哒恐龙衣服（男）" />
 	<key id="12220721" name="萌萌哒恐龙衣服（女）" />
+	<key id="12220722" name="小红帽的连身衣（男）" />
+	<key id="12220723" name="小红帽的连身衣（女）" />
+	<key id="12220724" name="赤色骑士外套（男）" />
+	<key id="12220725" name="赤色皇后裙（女）" />
+	<key id="12220726" name="黑白两件套衬衫（男）" />
+	<key id="12220727" name="黑白两件套衬衫（女）" />
 	<key id="12230024" class="dress" name="炫光幻灵巫术外套" />
 	<key id="12230026" class="dress" name="长虹贯日游侠外套" />
 	<key id="12230029" class="dress" name="创世之信仰长袍" />
@@ -14468,6 +14527,7 @@
 	<key id="13100334" name="浪漫婚礼匕首（短剑）" />
 	<key id="13100335" name="银河匕首（短刀）" />
 	<key id="13100336" name="雪之传说匕首（短刀）" />
+	<key id="13100337" name="泡泡猫短刀" />
 	<key id="13120001" name="雪晶匕首（短刀）" />
 	<key id="13120002" name="灵灵黄金手铃（短刀）" />
 	<key id="13120003" name="雪晶匕首（短刀）" />
@@ -14867,6 +14927,7 @@
 	<key id="13200329" name="浪漫婚礼长剑（长剑)" />
 	<key id="13200330" name="银河长剑（长剑）" />
 	<key id="13200331" name="雪之传说长剑（长剑）" />
+	<key id="13200332" name="泡泡猫长剑" />
 	<key id="13209001" class="longsword" name="旧罗马长剑" />
 	<key id="13220001" name="雪晶长剑（长剑）" />
 	<key id="13220002" name="甜蜜暖冬糖果（长剑）" />
@@ -15263,6 +15324,7 @@
 	<key id="13300328" name="浪漫婚礼魔杖（魔杖）" />
 	<key id="13300329" name="银河魔杖（魔杖）" />
 	<key id="13300330" name="雪之传说魔杖（魔杖）" />
+	<key id="13300331" name="泡泡猫魔杖" />
 	<key id="13320001" name="雪晶魔杖（魔杖）" />
 	<key id="13320002" name="暖冬神圣权杖（魔杖）" />
 	<key id="13320003" name="雪晶魔杖（魔杖）" />
@@ -15662,6 +15724,7 @@
 	<key id="13400327" name="浪漫婚礼飞镖（飞镖）" />
 	<key id="13400328" name="银河镖（飞镖）" />
 	<key id="13400329" name="雪之传说飞镖（飞镖）" />
+	<key id="13400330" name="泡泡猫镖" />
 	<key id="13420001" name="雪晶之星（飞镖）" />
 	<key id="13420002" name="冬季一品红（飞镖）" />
 	<key id="13420003" name="雪晶之星（飞镖）" />
@@ -16019,6 +16082,7 @@
 	<key id="14000290" name="浪漫婚礼法典（法典)" />
 	<key id="14000291" name="银河魔法书（法典）" />
 	<key id="14000292" name="雪之传说法典（法典）" />
+	<key id="14000293" name="泡泡猫法典" />
 	<key id="14020001" name="雪晶之书（法典）" />
 	<key id="14020002" name="暖冬梦想之盒（法典）" />
 	<key id="14020003" name="雪晶之书（法典）" />
@@ -16376,6 +16440,7 @@
 	<key id="14100299" name="浪漫婚礼盾（盾牌）" />
 	<key id="14100300" name="银河盾牌 (盾牌)" />
 	<key id="14100301" name="雪之传说盾（盾牌）" />
+	<key id="14100302" name="泡泡猫盾牌" />
 	<key id="14120001" name="雪晶盾牌（盾牌）" />
 	<key id="14120002" name="微笑姜饼（盾牌）" />
 	<key id="14120003" name="雪晶盾牌（盾牌）" />
@@ -16772,6 +16837,7 @@
 	<key id="15000333" name="浪漫婚礼巨剑（巨剑)" />
 	<key id="15000334" name="银河巨剑（巨剑）" />
 	<key id="15000335" name="雪之传说巨剑（巨剑）" />
+	<key id="15000336" name="泡泡猫巨剑" />
 	<key id="15020001" name="雪晶巨剑（巨剑）" />
 	<key id="15020002" name="甜蜜温和雪人（巨剑）" />
 	<key id="15020003" name="雪晶巨剑（巨剑）" />
@@ -17170,6 +17236,7 @@
 	<key id="15100325" name="浪漫婚礼弓（弓）" />
 	<key id="15100326" name="银河弓（弓）" />
 	<key id="15100327" name="雪之传说弓（弓）" />
+	<key id="15100328" name="泡泡猫弓" />
 	<key id="15109001" class="bow" name="旧短弓" />
 	<key id="15120001" name="雪晶弓（弓）" />
 	<key id="15120002" name="璀璨星光鲁道夫角（弓）" />
@@ -17571,6 +17638,7 @@
 	<key id="15200332" name="浪漫婚礼法杖（法杖)" />
 	<key id="15200333" name="银河法杖（法杖）" />
 	<key id="15200334" name="雪之传说法杖（法杖）" />
+	<key id="15200335" name="泡泡猫法杖" />
 	<key id="15209001" class="staff" name="旧见习法杖" />
 	<key id="15220001" name="雪晶法杖（法杖）" />
 	<key id="15220002" name="白雪铃铛花环（法杖）" />
@@ -17970,6 +18038,7 @@
 	<key id="15300328" name="浪漫婚礼火炮（火炮)" />
 	<key id="15300329" name="银河火炮（火炮）" />
 	<key id="15300330" name="雪之传说火炮（火炮）" />
+	<key id="15300331" name="泡泡猫火炮" />
 	<key id="15320001" name="雪晶火炮（火炮）" />
 	<key id="15320002" name="迷你圣诞树（火炮）" />
 	<key id="15320003" name="雪晶火炮（火炮）" />
@@ -18341,6 +18410,7 @@
 	<key id="15400315" name="浪漫婚礼长刀（长刀)" />
 	<key id="15400316" name="银河长刀（长刀）" />
 	<key id="15400317" name="雪之传说长刀（长刀）" />
+	<key id="15400318" name="泡泡猫长刀" />
 	<key id="15420001" name="雪晶长刀（长刀）" />
 	<key id="15420002" name="星光剑（长刀）" />
 	<key id="15420003" name="雪晶长刀（长刀）" />
@@ -18634,6 +18704,7 @@
 	<key id="15500227" class="knuckle" name="精英冒险拳套" feature="Level70Item" />
 	<key id="15500228" class="knuckle" name="泡泡猫拳套" />
 	<key id="15500230" name="泡泡猫拳套" />
+	<key id="15500231" name="泡泡猫拳套" />
 	<key id="15500501" class="knuckle" name="喵喵拳套（拳套）" feature="Striker" />
 	<key id="15500502" class="knuckle" name="冰鲨拳套（拳套）" feature="Striker" />
 	<key id="15500503" class="knuckle" name="红色海虾（拳套）" feature="Striker" />
@@ -18980,6 +19051,7 @@
 	<key id="15600229" class="orb" name="精英冒险启灵珠" feature="Level70Item" />
 	<key id="15600230" class="orb" name="泡泡猫启灵珠" />
 	<key id="15600232" name="泡泡猫启灵珠" />
+	<key id="15600233" name="泡泡猫启灵珠" />
 	<key id="15600501" class="orb" name="伊夫利特水晶启灵珠（启灵珠）" feature="SoulBinder" />
 	<key id="15600502" class="orb" name="香甜的纸杯蛋糕（启灵珠）" feature="SoulBinder" />
 	<key id="15600503" class="orb" name="清凉西瓜甜品（启灵珠）" feature="SoulBinder" />
@@ -20235,7 +20307,7 @@
 	<key id="20001298" class="consume" name="馄饨" />
 	<key id="20001299" class="consume" name="青团" />
 	<key id="20001300" class="consume" name="荷叶饭" />
-	<key id="20001301" class="consume" name="ITEMNAME_20001301_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="20001301" class="consume" name="称号：레알" feature="ItemKR" />
 	<key id="20001302" class="consume" name="熊熊燃烧爱心糖" />
 	<key id="20001303" class="consume" name="称号：今日搭档" />
 	<key id="20001304" class="consume" name="粉色涂料" />
@@ -20249,14 +20321,15 @@
 	<key id="20001312" class="consume" name="孤独的炸酱面" />
 	<key id="20001313" class="consume" name="仙鹟之羽烟花" />
 	<key id="20001318" class="consume" name="生命药水" />
-	<key id="20001320" class="consume" name="ITEMNAME_20001320_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="20001320" class="consume" name="称号：박물관에 다녀온" feature="ItemKR" />
 	<key id="20001322" class="consume" name="60级升级药水" />
 	<key id="20001323" class="consume" name="称号：穿越时间的" />
 	<key id="20001324" class="consume" name="称号：共同度过4周年的" feature="ItemKR" />
 	<key id="20001325" name="称号：共同度过4周年的" />
 	<key id="20001326" class="consume" name="生日蛋糕爆竹" feature="ItemKR" />
 	<key id="20001327" class="consume" name="力量火花烟花" />
-	<key id="20001328" name="칭호 : 메 2022.2.22 투" feature="ItemKR" />
+	<key id="20001328" name="称号：枫迷2022" feature="ItemKR" />
+	<key id="20001329" name="称号：2023年的今天！" />
 	<key id="20001330" class="consume" name="粉红啾啾糖果" />
 	<key id="20001331" class="consume" name="特制战士药水" />
 	<key id="20001332" class="consume" name="特制魔法师药水" />
@@ -20833,6 +20906,12 @@
 	<key id="20200133" name="表情动作：羞涩的告白" />
 	<key id="20200134" name="表情动作：冥想" />
 	<key id="20200135" name="表情动作：啊哈" />
+	<key id="20200136" name="表情动作：温暖的半身浴" />
+	<key id="20200137" name="表情动作：与巴比亲吻" />
+	<key id="20200138" name="表情动作：与露比亲吻" />
+	<key id="20200139" name="表情动作：浪漫求婚" />
+	<key id="20200140" name="表情动作：接受求婚" />
+	<key id="20200141" name="表情动作：拒绝求婚" />
 	<key id="20201001" class="New가챠전용" name="表情动作：扑倒" />
 	<key id="20201002" class="New가챠전용" name="表情动作：睡觉" />
 	<key id="20201003" class="New가챠전용" name="表情动作：啪啦啪啦舞" />
@@ -20992,6 +21071,7 @@
 	<key id="20201157" name="表情动作：不高兴" />
 	<key id="20201158" name="表情动作：坐下来呜呜大哭" />
 	<key id="20201159" name="表情动作：机械舞" />
+	<key id="20201160" name="表情动作：飞吻" />
 	<key id="20210001" class="consume" name="双人表情动作：拥抱" />
 	<key id="20210002" class="consume" name="双人表情动作：一言为定" />
 	<key id="20210003" class="consume" name="双人表情动作：初雪" />
@@ -21049,6 +21129,7 @@
 	<key id="20210056" name="雙人表情動作：不给糖就搗蛋！" />
 	<key id="20210057" name="雙人表情動作：彩蛋" />
 	<key id="20210058" name="双人表情动作：温馨暖冬节" />
+	<key id="20210059" name="双人表情动作：甜蜜糖果" />
 	<key id="20211001" class="New가챠전용" name="双人表情动作：一言为定" />
 	<key id="20211002" class="New가챠전용" name="双人表情动作：初雪" />
 	<key id="20211003" class="New가챠전용" name="双人表情动作：甜蜜糖果" />
@@ -21548,6 +21629,7 @@
 	<key id="20300481" class="consume" name="丰盛的中秋便当" />
 	<key id="20300482" class="consume" name="丰盛的中秋便当：30个" />
 	<key id="20300483" class="consume" name="丰盛的中秋便当：50个" />
+	<key id="20300484" name="23週年禮盒" />
 	<key id="20300486" class="consume" name="亮闪闪的粉末箱子" />
 	<key id="20300487" class="consume" name="冒险岛乐园宝物箱" />
 	<key id="20300488" class="consume" name="幸运金币包裹" />
@@ -22503,8 +22585,9 @@
 	<key id="20301694" name="托德的研磨石选择箱" />
 	<key id="20301695" name="发光的祝福之石" feature="SkinSocket" />
 	<key id="20301696" name="托德的研磨石选择箱" />
-	<key id="20301697" name="미니 게임 : 숨바꼭질 M 12" feature="22_06" />
+	<key id="20301697" name="小遊戲：捉迷藏 M 12" feature="22_06" />
 	<key id="20301698" name="萬聖節武器箱" />
+	<key id="20301699" name="会员7天体验券" />
 	<key id="20301713" class="package" name="3级时装宝石选择箱（账号）" feature="SkinSocket" />
 	<key id="20301714" class="package" name="2级时装宝石选择箱" feature="SkinSocket" />
 	<key id="20301715" class="package" name="特别属性固定卷轴箱子" feature="OptionBlock01" />
@@ -23018,6 +23101,7 @@
 	<key id="20302620" class="package" name="小粉末自选箱" />
 	<key id="20302621" class="consume" name="泡泡猫武器箱" />
 	<key id="20302622" name="泡泡猫武器箱" />
+	<key id="20302623" name="泡泡猫武器箱" />
 	<key id="20302626" class="consume" name="麦特核心" feature="GemMeta" />
 	<key id="20302629" class="package" name="ITEMNAME_20302629_NAME:[F]ItemKR" feature="ItemKR" />
 	<key id="20302630" class="package" name="ITEMNAME_20302630_NAME:[F]ItemKR" feature="ItemKR" />
@@ -23113,6 +23197,7 @@
 	<key id="20302810" class="consume" name="ITEMNAME_20302810_NAME:[F]ItemKR" feature="ItemKR" />
 	<key id="20302811" class="package" name="4级时装宝石自选箱" />
 	<key id="20302812" class="package" name="ITEMNAME_20302812_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="20302813" name="免费世界聊天券" />
 	<key id="20302814" class="consume" name="建筑禮包：神秘实验室" />
 	<key id="20302819" class="consume" name="免费装备染色券" />
 	<key id="20302820" class="consume" name="免费皮肤手术券" />
@@ -23512,7 +23597,8 @@
 	<key id="20303379" name="春意盎然禮包" feature="22_04" />
 	<key id="20303380" name="+15 캐릭터 귀속 파이어 프리즘 무기 상자" feature="Level70Item" />
 	<key id="20303381" name="浪漫婚禮武器箱" />
-	<key id="20303382" name="聖誕快樂套餐" />
+	<key id="20303382" name="聖誕快樂箱" />
+	<key id="20303383" name="麦特核心" feature="GemMeta" />
 	<key id="20304000" name="小黃鴨靚耀扭蛋（第5期）：10个" />
 	<key id="20304001" name="彩色水晶（10个）选择箱碎片：30个" />
 	<key id="20320001" name="冰水灵之箱碎片" />
@@ -23885,6 +23971,7 @@
 	<key id="22001042" name="小黃鴨靚耀扭蛋（22年7月）" feature="22_06" />
 	<key id="22001043" name="小黃鴨靚耀扭蛋（22年8月）" feature="22_07" />
 	<key id="22001051" name="小黃鴨靚耀扭蛋（23年1月）" feature="22_12" />
+	<key id="22001053" name="小黃鴨靚耀扭蛋（23年2月）" feature="23_01" />
 	<key id="22001067" name="小黃鴨靚耀扭蛋（22年9月）" feature="22_08" />
 	<key id="22001069" name="小黃鴨靚耀扭蛋（22年10月）" feature="22_09" />
 	<key id="22001071" name="小黃鴨靚耀扭蛋（22年11月）" feature="22_10" />
@@ -23955,6 +24042,7 @@
 	<key id="22201042" name="小黃鴨靚耀硬幣（22年7月）" feature="22_06" />
 	<key id="22201043" name="小黃鴨靚耀硬幣（22年8月）" feature="22_07" />
 	<key id="22201051" name="小黃鴨靚耀硬幣（23年1月）" feature="22_12" />
+	<key id="22201053" name="小黃鴨靚耀硬幣（23年2月）" feature="23_01" />
 	<key id="22201067" name="小黃鴨靚耀硬幣（22年9月）" feature="22_08" />
 	<key id="22201069" name="小黃鴨靚耀硬幣（22年10月）" feature="22_09" />
 	<key id="22201071" name="小黃鴨靚耀硬幣（22年11月）" feature="22_10" />
@@ -25101,7 +25189,7 @@
 	<key id="30001189" class="consume" name="鲁米纳眼镜" feature="LumiStoneJewelBox_01" />
 	<key id="30001190" class="mission" name="星光庆典币" />
 	<key id="30001191" class="mission" name="互帮互助币" />
-	<key id="30001192" class="mission" name="ITEMNAME_30001192_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="30001192" class="mission" name="柔軟蓬鬆的麵團" feature="ItemKR" />
 	<key id="30001193" class="mission" name="清香艾蒿" feature="ItemKR" />
 	<key id="30001194" class="mission" name="甜蜜蜂蜜" feature="ItemKR" />
 	<key id="30001195" class="mission" name="野生艾蒿" feature="ItemKR" />
@@ -25214,17 +25302,17 @@
 	<key id="30001306" class="etc" name="托德的研磨石" feature="EnchantReformation01" />
 	<key id="30001307" class="etc" name="托德的研磨石" feature="EnchantReformation01" />
 	<key id="30001308" class="etc" name="闪耀彩虹糖（1个能力）" feature="PetRemakeBlock01" />
-	<key id="30001309" class="mission" name="ITEMNAME_30001309_NAME:[F]ItemKR" feature="ItemKR" />
-	<key id="30001310" class="mission" name="ITEMNAME_30001310_NAME:[F]ItemKR" feature="ItemKR" />
-	<key id="30001311" class="mission" name="ITEMNAME_30001311_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="30001309" class="mission" name="바" feature="ItemKR" />
+	<key id="30001310" class="mission" name="깥" feature="ItemKR" />
+	<key id="30001311" class="mission" name="은" feature="ItemKR" />
 	<key id="30001312" class="mission" name="大米" feature="ItemKR" />
 	<key id="30001313" name="水晶碎片（2,000个）箱子碎片" />
 	<key id="30001314" class="mission" name="你" feature="ItemKR" />
 	<key id="30001315" class="mission" name="冒" feature="ItemKR" />
 	<key id="30001316" class="mission" name="2" feature="ItemKR" />
 	<key id="30001317" class="mission" name="的" feature="ItemKR" />
-	<key id="30001318" class="mission" name="ITEMNAME_30001318_NAME:[F]ItemKR" feature="ItemKR" />
-	<key id="30001319" class="mission" name="ITEMNAME_30001319_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="30001318" class="mission" name="따" feature="ItemKR" />
+	<key id="30001319" class="mission" name="뜻" feature="ItemKR" />
 	<key id="30001320" class="mission" name="你" feature="ItemKR" />
 	<key id="30001330" name="电容结晶（500个）箱子碎片" />
 	<key id="30001331" name="特殊时装水晶（600个）箱子碎片" />
@@ -25263,36 +25351,37 @@
 	<key id="30001366" class="mission" name="狡猾的泰布拉的蓝色体液" feature="Fame_Geo01" />
 	<key id="30001367" class="mission" name="红色球体" feature="Fame_Geo01" />
 	<key id="30001368" class="mission" name="盾牌碎片" feature="Fame_Geo01" />
-	<key id="30001369" class="etc" name="ITEMNAME_30001369_NAME:[F]ItemKR" feature="ItemKR" />
-	<key id="30001370" class="etc" name="ITEMNAME_30001370_NAME:[F]ItemKR" feature="ItemKR" />
-	<key id="30001371" class="etc" name="ITEMNAME_30001371_NAME:[F]ItemKR" feature="ItemKR" />
-	<key id="30001372" class="etc" name="ITEMNAME_30001372_NAME:[F]ItemKR" feature="ItemKR" />
-	<key id="30001373" class="etc" name="ITEMNAME_30001373_NAME:[F]ItemKR" feature="ItemKR" />
-	<key id="30001374" class="etc" name="ITEMNAME_30001374_NAME:[F]ItemKR" feature="ItemKR" />
-	<key id="30001375" class="etc" name="ITEMNAME_30001375_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="30001369" class="etc" name="韓服現金劵碎片" feature="ItemKR" />
+	<key id="30001370" class="etc" name="韓服現金劵：10元" feature="ItemKR" />
+	<key id="30001371" class="etc" name="韓服現金劵：100元" feature="ItemKR" />
+	<key id="30001372" class="etc" name="韓服現金劵：1,000元" feature="ItemKR" />
+	<key id="30001373" class="etc" name="韓服現金劵：5,000元" feature="ItemKR" />
+	<key id="30001374" class="etc" name="韓服現金劵：10,000元" feature="ItemKR" />
+	<key id="30001375" class="etc" name="韓服現金劵：30,000元" feature="ItemKR" />
 	<key id="30001376" class="etc" name="格奥克凭证" feature="Fame_Geo01" />
 	<key id="30001377" class="mission" name="彩纸" feature="ItemKR" />
 	<key id="30001378" class="mission" name="尖钉" feature="ItemKR" />
 	<key id="30001379" class="mission" name="木杆" feature="ItemKR" />
 	<key id="30001380" class="mission" name="小风车" feature="ItemKR" />
 	<key id="30001381" name="严冬冒险岛硬币" />
-	<key id="30001382" class="etc" name="ITEMNAME_30001382_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="30001382" class="etc" name="韓服現金劵：300元" feature="ItemKR" />
+	<key id="30001384" name="免费整容券" />
 	<key id="30001391" class="consume" name="经验值药水：13,500,000" />
 	<key id="30001392" class="consume" name="经验值药水：5,000,000" />
 	<key id="30001393" class="mission" name="时间的碎片" feature="ItemKR" />
 	<key id="30001394" class="mission" name="小黄鸭纪念币" feature="ItemKR" />
 	<key id="30001395" class="mission" name="埃尔凯温设计图" feature="Kritias_Epic02" />
 	<key id="30001396" class="etc" name="克里蒂亚斯龙蛋" feature="Level70Item" />
-	<key id="30001397" name="ITEMNAME_30001397_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="30001397" name="富貴秋剪刀石頭布硬幣" feature="ItemKR" />
 	<key id="30001410" class="mission" name="相扶相助币" feature="ItemKR" />
-	<key id="30001422" class="mission" name="ITEMNAME_30001422_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="30001422" class="mission" name="太陽幣" feature="ItemKR" />
 	<key id="30001431" class="mission" name="腐烂的南瓜" />
 	<key id="30001432" class="mission" name="琥珀宝石" />
 	<key id="30001433" class="mission" name="幽灵鱼" />
 	<key id="30001434" name="種子袋：皇家大道南部" />
 	<key id="30001435" name="初见的花籽" />
 	<key id="30001436" name="種子袋：黄金海岸“111”" />
-	<key id="30001437" class="mission" name="ITEMNAME_30001437_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="30001437" class="mission" name="혁이 사인 CD" feature="ItemKR" />
 	<key id="30001438" class="mission" name="柔软的狗尾草" />
 	<key id="30001439" class="mission" name="害虫一扫光！" />
 	<key id="30001440" class="mission" name="不灭的火光" />
@@ -25308,14 +25397,14 @@
 	<key id="30001487" class="mission" name="陈旧玩具熊" feature="EpicApocalypse01" />
 	<key id="30001488" class="mission" name="褶皱的信件" feature="EpicApocalypse01" />
 	<key id="30001489" class="potion" name="超级活力药草" />
-	<key id="30001500" class="mission" name="ITEMNAME_30001500_NAME:[F]ItemKR" feature="ItemKR" />
-	<key id="30001501" class="mission" name="ITEMNAME_30001501_NAME:[F]ItemKR" feature="ItemKR" />
-	<key id="30001502" class="mission" name="ITEMNAME_30001502_NAME:[F]ItemKR" feature="ItemKR" />
-	<key id="30001503" class="mission" name="ITEMNAME_30001503_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="30001500" class="mission" name="年糕" feature="ItemKR" />
+	<key id="30001501" class="mission" name="牛肉" feature="ItemKR" />
+	<key id="30001502" class="mission" name="裝飾" feature="ItemKR" />
+	<key id="30001503" class="mission" name="年糕湯" feature="ItemKR" />
 	<key id="30001504" class="mission" name="演奏经验值2倍券（30分钟）" />
-	<key id="30001505" class="mission" name="ITEMNAME_30001505_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="30001505" class="mission" name="黑豆幣" feature="ItemKR" />
 	<key id="30001508" name="超级活力药草" />
-	<key id="30001509" class="etc" name="ITEMNAME_30001509_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="30001509" class="etc" name="春風的禮物" feature="ItemKR" />
 	<key id="30001510" class="etc" name="捉迷藏币" feature="ItemKR" />
 	<key id="30001512" class="etc" name="花瓣纪念币" feature="ItemKR" />
 	<key id="30001514" class="etc" name="5周年蘑菇大王硬币" feature="WorldChampionMushroom" />
@@ -25858,7 +25947,7 @@
 	<key id="31001005" class="enchant" name="ITEMNAME_31001005_NAME:[F]ItemKR" feature="ItemKR" />
 	<key id="31001006" class="enchant" name="史诗级属性变更券（单手）" feature="ItemKR" />
 	<key id="31001007" class="enchant" name="史诗级属性变更券（双手）" feature="ItemKR" />
-	<key id="31001008" class="enchant" name="ITEMNAME_31001008_NAME:[F]ItemKR" feature="ItemKR" />
+	<key id="31001008" class="enchant" name="50~99級卓越级属性变更券（防具）" feature="ItemKR" />
 	<key id="31001009" class="enchant" name="50~99級卓越级属性变更券（饰品）" feature="ItemKR" />
 	<key id="31001010" class="enchant" name="卓越级属性变更券（单手）" feature="ItemKR" />
 	<key id="31001011" class="enchant" name="卓越级属性变更券（双手）" feature="ItemKR" />
@@ -29082,6 +29171,7 @@
 	<key id="40400142" name="皎洁满月" />
 	<key id="40400143" name="品克缤碰碰车" />
 	<key id="40400144" name="加尔术尼" />
+	<key id="40400145" name="毕方" />
 	<key id="40410001" class="New가챠전용" name="南瓜派" />
 	<key id="40410002" class="New가챠전용" name="魔女猫咪扫帚" />
 	<key id="40410003" class="New가챠전용" name="两只小黄鹂" />
@@ -32514,7 +32604,7 @@
 	<key id="50600333" name="双人度假自行车" />
 	<key id="50600334" name="小巧的购物车" />
 	<key id="50600335" class="ride" name="光明守护者贪吃鬼" feature="Fame_Geo01" />
-	<key id="50600337" name="輸液支架" />
+	<key id="50600336" name="戴毛绒帽的羊驼" />
 	<key id="50600337" name="輸液支架" />
 	<key id="50600338" class="ride" name="改造的黑色竞速摩托车" />
 	<key id="50600339" name="韩服专属" />
@@ -32525,6 +32615,8 @@
 	<key id="50600344" name="逃跑的霸王龙" />
 	<key id="50600345" name="银河狐" />
 	<key id="50600346" name="雪花雪橇" />
+	<key id="50600347" name="甜蜜须后水" />
+	<key id="50600348" name="豪华天鹅绒马车" />
 	<key id="50610001" class="New가챠전용" name="滴溜溜旋转杯" />
 	<key id="50610002" class="New가챠전용" name="高贵的驯鹿" />
 	<key id="50610003" class="New가챠전용" name="恼火的胡萝卜驴" />
@@ -33147,7 +33239,7 @@
 	<key id="59200355" class="package" name="热带时装禮包" />
 	<key id="59200356" name="雄伟之翼外形禮包" />
 	<key id="59200357" class="package" name="仙鹟之羽套装禮包" />
-	<key id="59200358" name="維修補償套餐一" />
+	<key id="59200358" name="維修補償箱" />
 	<key id="59200359" class="package" name="猫咪管家套装禮包" />
 	<key id="59200361" class="package" name="白狐套装禮包" />
 	<key id="59200363" class="package" name="咏夜之诗套装禮包" />
@@ -33725,6 +33817,7 @@
 	<key id="70200181" name="对话框徽章：涂鸦" />
 	<key id="70200182" name="对话框徽章：粉嫩品克缤" />
 	<key id="70200183" name="对话框徽章：云画之月" />
+	<key id="70200184" name="对话框徽章：莓果奶油" />
 	<key id="70210001" class="New가챠전용" name="对话框徽章：蓝色全息图" />
 	<key id="70210002" class="New가챠전용" name="对话框徽章：快乐暖冬" />
 	<key id="70210003" class="New가챠전용" name="对话框徽章：胖丁小白" />
@@ -33831,6 +33924,7 @@
 	<key id="70300086" class="gem" name="名牌徽章：甜甜蛋糕" />
 	<key id="70300087" class="gem" name="名牌徽章：盛夏假日" />
 	<key id="70300088" class="gem" name="名牌徽章：向日葵" />
+	<key id="70300089" name="名牌徽章：莓果奶油" />
 	<key id="70300090" class="gem" name="名牌徽章：初级幸存者" feature="SurvivalContents01" />
 	<key id="70300091" class="gem" name="名牌徽章：甜蜜爆米花" />
 	<key id="70300092" class="gem" name="名牌徽章：闪电骑手" />
@@ -34016,6 +34110,8 @@
 	<key id="70400053" name="伤害字体徽章：棉花糖" />
 	<key id="70400054" name="伤害字体徽章：莓果奶油" />
 	<key id="70400055" name="伤害字体徽章：闪亮金币" />
+	<key id="70400056" name="伤害字体徽章：枫迷之日" />
+	<key id="70400057" name="伤害字体徽章：莓果奶油" />
 	<key id="70401001" class="New가챠전용" name="伤害字体徽章：闪耀黄金" />
 	<key id="70401002" class="New가챠전용" name="伤害字体徽章：雪花纷飞" />
 	<key id="70401003" class="New가챠전용" name="伤害字体徽章：软乎乎的玉兔" />
@@ -34037,9 +34133,9 @@
 	<key id="70401019" name="伤害字体徽章：愉快郊游" />
 	<key id="70401020" name="伤害字体徽章：度假胜地" />
 	<key id="70401021" name="伤害字体徽章：可爱品克缤" />
+	<key id="70401022" name="伤害字体徽章：云画之月" />
 	<key id="70420001" name="伤害字体徽章：闪耀之星" />
 	<key id="70420002" name="伤害字体徽章：闪耀之星" />
-	<key id="70420035" name="伤害字体徽章：纸杯蛋糕" />
 	<key id="70420035" name="伤害字体徽章：纸杯蛋糕" />
 	<key id="70500001" class="gem" name="墓碑徽章：尼哈儿王朝之棺" />
 	<key id="70500002" class="gem" name="墓碑徽章：早安" />
@@ -34075,6 +34171,7 @@
 	<key id="70500032" name="墓碑徽章：神秘香炉" />
 	<key id="70500033" name="墓碑徽章：小天使" />
 	<key id="70500034" name="墓碑徽章：外星陨石" />
+	<key id="70500035" name="墓碑徽章：相爱时刻" />
 	<key id="70501001" class="New가챠전용" name="墓碑徽章：枯木" />
 	<key id="70501002" class="New가챠전용" name="墓碑徽章：雪人" />
 	<key id="70501003" class="New가챠전용" name="墓碑徽章：大钟" />
@@ -34135,6 +34232,7 @@
 	<key id="70600036" name="救生圈徽章：高傲火烈鸟" />
 	<key id="70600037" name="救生圈徽章：海鸥木板" />
 	<key id="70600038" name="救生圈徽章：熊猫" />
+	<key id="70600039" name="救生圈徽章：草莓甜甜圈" />
 	<key id="70601001" class="New가챠전용" name="救生圈徽章：牛油果" />
 	<key id="70601002" class="New가챠전용" name="救生圈徽章：雪人" />
 	<key id="70601003" class="New가챠전용" name="救生圈徽章：神秘的蛇颈龙" />
@@ -34221,6 +34319,7 @@
 	<key id="70711021" name="钓鱼徽章：烤串" feature="22_05" />
 	<key id="70711022" name="钓鱼徽章：诡夜节" />
 	<key id="70711023" name="钓鱼徽章：银色妖精" />
+	<key id="70711024" name="钓鱼徽章：心" />
 	<key id="70720001" name="钓鱼徽章：柔软品克缤" />
 	<key id="70720002" name="钓鱼徽章：柔软品克缤" />
 	<key id="70800001" class="gem" name="情侣特效徽章：甜蜜爱心" />

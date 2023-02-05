@@ -201,7 +201,7 @@
   <key id="$s_gameoption_tab_input" value="操作设置" />
   <key id="$s_gameoption_minimum" value="最小化" />
   <key id="$s_gameoption_maximum" value="最大化" />
-  <key id="$s_gameoption_tab_account" value="账号" />
+  <key id="$s_gameoption_tab_account" value="帳號" />
   <key id="$s_gameoption_tab_language" value="语言设置" />
   <key id="$s_gameoption_tab_agreement" value="授权信息" />
   <key id="$s_gameoption_category_camera" value="操作及镜头" />
@@ -218,7 +218,7 @@
   <key id="$s_gameoption_category_input_gamepad" value="游戏手柄专用" />
   <key id="$s_gameoption_category_input_debug" value="调试" />
   <key id="$s_gameoption_category_optimizer" value="优化" />
-  <key id="$s_gameoption_category_account_security" value="账号安全" />
+  <key id="$s_gameoption_category_account_security" value="帳號安全" />
   <key id="$s_gameoption_category_language_select" value="语言设置" />
   <key id="$s_gameoption_category_personealinfo_agreement" value="授权信息" />
   <key id="$s_gameoption_title" value="环境设置" />
@@ -367,7 +367,7 @@
   <key id="$s_gameoption_singleriding" value="独坐双人坐骑" />
   <key id="$s_gameoption_muteAll" value="静音" />
   <key id="$s_gameoption_playAll" value="一直播放声音" />
-  <key id="$s_gameoption_disable_job_sound" value="使用通用语音" />
+  <key id="$s_gameoption_disable_job_sound" value="關閉角色語音" />
   <key id="$s_gameoption_mainSoundStep" value="总体音量" />
   <key id="$s_gameoption_bgmSoundStep" value="背景音乐" />
   <key id="$s_gameoption_effectSoundStep" value="基本特效效果音" />
@@ -942,9 +942,9 @@
   <key id="$s_tooltip_myinfo_guild" value="&lt;FONT color='#FFD200' size='15' &gt;公会&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n显示角色加入的公会信息。" />
   <key id="$s_tooltip_myinfo_birthday" value="&lt;FONT color='#FFD200' size='15' &gt;冒险的开始&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n我的角色最初开始冒险的日子。" />
   <!--미사용-->
-  <key id="$s_tooltip_myinfo_address" value="&lt;FONT color='#FFD200' size='15' &gt;地址&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n角色居住的房屋地址。\n账号内的所有角色共享一个家。" />
+  <key id="$s_tooltip_myinfo_address" value="&lt;FONT color='#FFD200' size='15' &gt;地址&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n角色居住的房屋地址。\n帳號内的所有角色共享一个家。" />
   <key id="$s_tooltip_myinfo_job" value="&lt;FONT color='#FFD200' size='15' &gt;职业&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n显示角色的职业。" />
-  <key id="$s_tooltip_myinfo_good_interior_point" value="&lt;FONT color='#FFD200' size='15' &gt;建筑师点数&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#8dd502'&gt;本月建筑师点数/累计建筑师点数&lt;/FONT&gt;\n访问我家的人可以把我推荐为明星建筑师。\n每次被推荐为明星建筑师时，可以积累建筑师点数。\n建筑师点数分为每月更新的“本月建筑师点数”和迄今为止\n获得的“累计建筑师点数”。\n明星建筑师每个账号每天只能推荐1名。" />
+  <key id="$s_tooltip_myinfo_good_interior_point" value="&lt;FONT color='#FFD200' size='15' &gt;建筑师点数&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n&lt;FONT color='#8dd502'&gt;本月建筑师点数/累计建筑师点数&lt;/FONT&gt;\n访问我家的人可以把我推荐为明星建筑师。\n每次被推荐为明星建筑师时，可以积累建筑师点数。\n建筑师点数分为每月更新的“本月建筑师点数”和迄今为止\n获得的“累计建筑师点数”。\n明星建筑师每个帳號每天只能推荐1名。" />
   <!--메인 UI 툴 팁-->
   <key id="$s_tooltip_myinfo_hp" value="&lt;FONT color='#FFD200' size='15' &gt;生命&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n角色的生命栏。\n生命为0时，角色将变成墓碑，无法行动。" />
   <key id="$s_tooltip_myinfo_sp" value="&lt;FONT color='#FFD200' size='15' &gt;能量&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n角色使用战斗技能时需要消耗能量。\n能量全部耗尽时，无法使用技能。\n每隔一段时间，能量都会自动恢复。" />
@@ -966,7 +966,7 @@
   <key id="$s_tooltip_myinfo_gem_fishing" value="&lt;FONT color='#FFD200' size='15' &gt;钓鱼徽章&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n可变更自身角色的钓鱼竿与钓鱼椅的外形。" feature="GemFishingRod" />
   <key id="$s_tooltip_myinfo_gem_autoMastery" value="&lt;FONT color='#FFD200' size='15' &gt;自动生产徽章&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n在采矿、采集、畜牧、栽培中连续生产，直到生产概率降至0为止。" feature="AutoMastery02" />
   <key id="$s_tooltip_myinfo_gem_effect" value="&lt;FONT color='#FFD200' size='15' &gt;特效徽章&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n在我的角色周围出现特效。" feature="GemEffect" />
-  <key id="$s_tooltip_myinfo_adventure_level" value="&lt;FONT color='#FFD200' size='15' &gt;冒险等级&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n本人账号的冒险等级。" feature="AdventureLevel" />
+  <key id="$s_tooltip_myinfo_adventure_level" value="&lt;FONT color='#FFD200' size='15' &gt;冒险等级&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n本人帳號的冒险等级。" feature="AdventureLevel" />
   <key id="$s_tooltip_myinfo_gem_petSkin" value="&lt;FONT color='#FFD200' size='15' &gt;宠物时装徽章&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n将当前召唤宠物的外形变身成徽章上设定的外形。\n宠物外形和宠物攻击时的面貌发生变化，但宠物的能力值不会改变。" feature="GemPetSkin" />
   <key id="$s_tooltip_myinfo_gem_meta" value="&lt;FONT color='#FFD200' size='15' &gt;麦特徽章&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n麦特徽章的能力值可以适用在角色上。" feature="GemMeta" />
   <!--미니맵 정보 툴 팁-->
@@ -1109,7 +1109,7 @@
   <key id="$s_tooltip_gameoption_sound_category" value="&lt;FONT color='#FFD200' size='15' &gt;基本设置&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n可以调节各种声音的音量。" />
   <key id="$s_tooltip_gameoption_input_category" value="&lt;FONT color='#FFD200' size='15' &gt;基本设置&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n可以调整键盘设置。" />
   <key id="$s_tooltip_gameoption_optimizer_category" value="&lt;FONT color='#FFD200' size='15' &gt;最优&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n可以更改为最优的设置。" />
-  <key id="$s_tooltip_gameoption_account" value="&lt;FONT color='#FFD200' size='15' &gt;账号&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n可以进行账号相关设定。" />
+  <key id="$s_tooltip_gameoption_account" value="&lt;FONT color='#FFD200' size='15' &gt;帳號&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n可以进行帳號相关设定。" />
   <key id="$s_tooltip_gameoption_language" value="&lt;FONT color='#FFD200' size='15' &gt;语言设置&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n可以更改语言设置。" />
   <key id="$s_tooltip_gameoption_slider_grade" value="{0}级" />
   <key id="$s_tooltip_gameoption_agreement" value="&lt;FONT color='#FFD200' size='15' &gt;授权信息&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n可进行个人信息相关设置。" />
@@ -1404,7 +1404,8 @@
 	<key id="$s_warehouse_get_expired" value="&lt;FONT color='#FF5F5F' &gt;기간만료&lt;/FONT&gt;"/>
 	<key id="$s_warehouse_empty" value="보관 중인 아이템이 없습니다."/>
 	<key id="$s_warehouse_get_all" value="한번에 받기"/>
-	<key id="$s_warehouse_get_all_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;한번에 받기&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n현재 페이지에 보관된 아이템을 한번에 받을 수 있습니다."/>-->
+	<key id="$s_warehouse_get_all_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;한번에 받기&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n현재 페이지에 보관된 아이템을 한번에 받을 수 있습니다."/>
+  -->
   <!--20161124미사용-->
   <!-- trade dialog -->
   <key id="$s_trade_confirm" value="交易" />
@@ -1981,7 +1982,7 @@
   <key id="$s_blackmarket_notice_search" value="可以查看在交易行中出售的物品。\n请设置搜索条件，搜索想要的物品。" />
   <key id="$s_blackmarket_notice_regist" value="请登记想要出售的物品。\n交易行会负责帮你出售。" />
   <key id="$s_blackmarket_notice_search_loading" value="交易行正在搜索中。\n请耐心等待。" />
-  <key id="$s_blackmarket_notice_my_account_item" value="&lt;FONT color='#FFD200'&gt;[我登记的道具（账号）]&lt;/FONT&gt;" />
+  <key id="$s_blackmarket_notice_my_account_item" value="&lt;FONT color='#FFD200'&gt;[我登记的道具（帳號）]&lt;/FONT&gt;" />
   <key id="$s_blackmarket_notice_hide" value="&lt;FONT color='#FF5F5F'&gt;[停止交易物品]请取消出售，然后重新登记。&lt;/FONT&gt;" />
   <key id="$s_blackmarket_notice_expired" value="&lt;FONT color='#FF5F5F'&gt;[到期物品]请回收物品后重新登记。&lt;/FONT&gt;" />
   <key id="$s_mesoMarket_list_column_price" value="价格" />
@@ -1995,7 +1996,7 @@
   <key id="$s_mesoMarket_current_meso" value="当前持有金币" />
   <key id="$s_mesoMarket_search_sale_meso" value="搜索出售金币" />
   <key id="$s_mesoMarket_own_product_expired" value="&lt;FONT color='#FF5F5F'&gt;[到期物品]请回收物品后重新登记。&lt;/FONT&gt;" />
-  <key id="$s_mesoMarket_own_product" value="&lt;FONT color='#FFD200'&gt;[我所登记的金币（账号）]&lt;/FONT&gt;" />
+  <key id="$s_mesoMarket_own_product" value="&lt;FONT color='#FFD200'&gt;[我所登记的金币（帳號）]&lt;/FONT&gt;" />
   <key id="$s_mesoMarket_myMerat" value="我的蓝蘑菇币" />
   <key id="$s_mesoMarket_myToken" value="现有金额" feature="MesoMarketNA" />
   <key id="$s_mesoMarket_myMerat_tooltip" value="可用于购买金币的蘑菇币。" />
@@ -2291,7 +2292,7 @@
   <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_all" value="&lt;FONT color='#FFD200' size='15' &gt;全部&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n显示所有性别可以穿戴的时装。" />
   <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_male" value="&lt;FONT color='#FFD200' size='15' &gt;男性&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n只显示男性角色可以穿戴的时装。" />
   <key id="$s_meratmarket_tooltip_shop_radio_filter_gender_female" value="&lt;FONT color='#FFD200' size='15' &gt;女性&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n只显示女性角色可以穿戴的时装。" />
-  <key id="$s_meratmarket_tooltip_myshop_btn_addnew" value="&lt;FONT color='#FFD200' size='15' &gt;登记新商品&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n将我制作的设计道具在设计师商店中登记出售。\n每个账号最多可以登记出售20件设计商品。" />
+  <key id="$s_meratmarket_tooltip_myshop_btn_addnew" value="&lt;FONT color='#FFD200' size='15' &gt;登记新商品&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n将我制作的设计道具在设计师商店中登记出售。\n每个帳號最多可以登记出售20件设计商品。" />
   <key id="$s_meratmarket_tooltip_myshop_btn_calculate" value="&lt;FONT color='#FFD200' size='15' &gt;领取结算金额&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n领取设计商品出售之后的收益。\n只有出售后经过7天的金额才能领取。" />
   <key id="$s_meratmarket_tooltip_myshop_btn_history" value="&lt;FONT color='#FFD200' size='15' &gt;查看结算明细&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n可以查看还未结算的销售收益\n的详细内容和预计结算金额。" />
   <key id="$s_meratmarket_tooltip_basket_check_all" value="&lt;FONT color='#FFD200' size='15' &gt;全选&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n选择购物车中的所有物品。" />
@@ -2423,7 +2424,7 @@
   <key id="$s_home_info_tooltip_btn_homename_modify" value="&lt;FONT color='#FFD200' size='15' &gt;更改房屋名称&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n可以更改我的房屋名称。" />
   <key id="$s_home_info_tooltip_btn_visitors_book" value="&lt;FONT color='#FFD200' size='15' &gt;签名簿&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n可以打开签名簿，留下签名。\n请留下访问记录。" />
   <key id="$s_home_info_tooltip_btn_homeleave" value="&lt;FONT color='#FFD200' size='15' &gt;走出房屋&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n可以立刻移动到屋外。\n立刻回到之前所在的位置。" />
-  <key id="$s_home_info_tooltip_btn_recommend" value="&lt;FONT color='#FFD200' size='15' &gt;推荐&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n可将这座房屋的主人推荐为明星建筑师。\n推荐时，房屋主人的建筑师点数会提升。\n每个账号每天只能推荐一次明星建筑师。" />
+  <key id="$s_home_info_tooltip_btn_recommend" value="&lt;FONT color='#FFD200' size='15' &gt;推荐&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n可将这座房屋的主人推荐为明星建筑师。\n推荐时，房屋主人的建筑师点数会提升。\n每个帳號每天只能推荐一次明星建筑师。" />
   <key id="$s_home_info_tooltip_btn_report" value="&lt;FONT color='#FFD200' size='15' &gt;举报&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n举报这座房屋的主人。" />
   <key id="$s_home_info_tooltip_btn_housing_mode" value="&lt;FONT color='#FFD200' size='15' &gt;前往/终止装修模式&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n在装修模式中，即便不购买建筑材料，也可对房屋进行装饰，体验效果。\n可前往装修模式或终止装修模式。" />
   <key id="$s_home_info_tooltip_btn_housing_save" value="&lt;FONT color='#FFD200' size='15' &gt;保存及使用&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n将目前的室内装修保存为样板\n或将之前保存的样板配置到现在的室内。" />
@@ -2513,7 +2514,7 @@
   <key id="$s_survival_observe_observing_target" value="现在正在观看{0}的游戏。" feature="SurvivalContents01" />
   <key id="$s_survival_observe_quit_observe" value=" 结束" feature="SurvivalContents01" />
   <!-- Login -->
-  <key id="$s_login_msg_id" value="账号" />
+  <key id="$s_login_msg_id" value="帳號" />
   <key id="$s_login_msg_pwd" value="密码" />
   <key id="$s_login_msg_login" value="登录" />
   <key id="$s_enchantscroll_title_enchant" value="强化卷轴" />
@@ -3118,7 +3119,7 @@
   <key id="$s_vip_dialog_benefit_desc" value=" ◆ 狩猎怪物时额外获得20%经验值和金币。\n ◆ 在莉莉处强化所消耗的材料减免20%。\n ◆ 1对1金币交易手续费减免50%。\n ◆ 角色移动速度提升5%（PVP地区除外）。\n ◆ 可以随时随地通过背包使用银行金库。\n ◆ 可以使用会员专用副本和徽章。\n ◆ 每天提供会员专用特制白色药水等专用道具。" locale="CN" />
   <key id="$s_vip_dialog_benefit_item_title" value="会员每日福利道具" />
   <key id="$s_vip_dialog_buy_button" value="购买" />
-  <key id="$s_vip_dialog_desc" value="※会员福利道具每个账号每日仅限领取1次。领取记录将在每日24点重置。" />
+  <key id="$s_vip_dialog_desc" value="※会员福利道具每个帳號每日仅限领取1次。领取记录将在每日24点重置。" />
   <key id="$s_vip_dialog_benefit_item_get_button" value="领取" />
   <key id="$s_vip_goods_dialog_title" value="购买会员" />
   <key id="$s_vip_goods_dialog_desc" value="※会员一经购买可立即生效，若在使用期限尚未到期时购买，则剩余时间将自动延长。" />
@@ -3217,7 +3218,7 @@
   <key id="$s_gameranking_dialog_search_no_item" value="没有搜索结果。" />
   <key id="$s_gameranking_dialog_search_no_category" value="请选择要查看的排行榜。" />
   <key id="$s_gameranking_dialog_reward_guide" value="说明" />
-  <key id="$s_gameranking_dialog_reward_tooltip_darkstream" value="&lt;FONT color='#FFD200' size='15' &gt;黑暗洪流排名及奖励说明&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n排名以2周为单位，根据职业进行统计\n玩家可根据排名，获得以下奖励。\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n- 第1名：古妖精王腰带\n- 2～10名：古妖精腰带\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n各次排名奖励将在该次活动结束后的第二天通过邮件发放。\n玩家最多可查看最近4次的排名记录。\n奖励将发给账号内排名最高的1个角色。" feature="TimeAttackDungeon" />
+  <key id="$s_gameranking_dialog_reward_tooltip_darkstream" value="&lt;FONT color='#FFD200' size='15' &gt;黑暗洪流排名及奖励说明&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n排名以2周为单位，根据职业进行统计\n玩家可根据排名，获得以下奖励。\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n- 第1名：古妖精王腰带\n- 2～10名：古妖精腰带\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n各次排名奖励将在该次活动结束后的第二天通过邮件发放。\n玩家最多可查看最近4次的排名记录。\n奖励将发给帳號内排名最高的1个角色。" feature="TimeAttackDungeon" />
   <key id="$s_gameranking_dialog_reward_tooltip_worldchampion" value="&lt;FONT color='#FFD200' size='15' &gt;蘑菇大王赛季时间及奖励公告&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n排名以周为单位，按职业区分统计\n可根据排名获得奖励。\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n详细奖励公告请查看活动公告页面。\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n各赛季排名奖励将在赛季结束后的周四以邮件形式发放。\n赛季排名最多保留近4次纪录。" />
   <key id="$s_gameranking_dialog_reward_tooltip_pvp" value="&lt;FONT color='#FFD200' size='15' &gt;冒险竞技场排名及奖励说明&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n每4周维护时将根据下列条件，通过邮件发放奖励。\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n- 第1名：10,000,000金币\n- 第2名：5,000,000金币\n- 第3名：3,000,000金币\n- 4~10名：2,000,000金币 \n- 11~100名：1,000,000金币\n- 黄金等级以上：500,000金币&lt;/FONT&gt;\n" />
   <key id="$s_gameranking_dialog_reward_tooltip_guildpvp" value="&lt;FONT color='#FFD200' size='15' &gt;公会冠军战排名及奖励说明&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n奖励可能会根据不同赛季而呈现出差异。&lt;/FONT&gt;\n" />
@@ -3317,7 +3318,7 @@
   <key id="$s_ugc_extra_cn_screenshot" value="截图" />
   <!-- 스탬프 이벤트 -->
   <key id="$s_stamp_dialog_title" value="集章活动" />
-  <key id="$s_stamp_dialog_description" value="&lt;FONT color='#ffd200'&gt;达成目标&lt;/FONT&gt;时，可获得对应图章。\n&#xA;鼠标移动至图章上方可查看收集条件~\n&#xA;收集图章达指定数量，可获得以下奖励。\n&#xA;图章搜集及图章奖励为账号通用。" />
+  <key id="$s_stamp_dialog_description" value="&lt;FONT color='#ffd200'&gt;达成目标&lt;/FONT&gt;时，可获得对应图章。\n&#xA;鼠标移动至图章上方可查看收集条件~\n&#xA;收集图章达指定数量，可获得以下奖励。\n&#xA;图章搜集及图章奖励为帳號通用。" />
   <key id="$s_stamp_dialog_description2" value="※如果有暂时无法获得的图章，请在提升等级之后或者等到更新之后再进行尝试～" />
   <key id="$s_stamp_dialog_complete" value="最终图章奖励" />
   <key id="$s_stamp_dialog_reward" value="图章奖励" />
@@ -3465,8 +3466,8 @@
   <key id="$s_mentoring_mentor_search_mentor" value="寻找回归冒险家" feature="Mentoring" />
   <key id="$s_mentoring_mentor_party_reward" value="◆ 和回归冒险家一起通关冒险副本，可获得10点学员点数\n◆ 和学员一起通关活动副本，可获得10点资深冒险家点数\n◆ 和学员一起通关团队副本，可获得20点学员点数\n◆ 和非学员的回归角色一起通关冒险[普通/困难]副本，可获得原定学员点数的10%" feature="Mentoring" />
   <key id="$s_mentoring_register_button" value="确定" feature="Mentoring" />
-  <key id="$s_mentoring_register_mentee_user" value="只能将账号内的1个角色指定为回归角色。\n确定要将该角色指定为回归角色吗？" feature="Mentoring" />
-  <key id="$s_mentoring_register_mentor_user" value="只能将账号内的1个角色指定为资深冒险家。\n确定要指定该角色为资深冒险家吗？" feature="Mentoring" />
+  <key id="$s_mentoring_register_mentee_user" value="只能将帳號内的1个角色指定为回归角色。\n确定要将该角色指定为回归角色吗？" feature="Mentoring" />
+  <key id="$s_mentoring_register_mentor_user" value="只能将帳號内的1个角色指定为资深冒险家。\n确定要指定该角色为资深冒险家吗？" feature="Mentoring" />
   <key id="$s_mentoring_reward_title" value="登录福利" feature="Mentoring" />
   <key id="$s_mentoring_reward_coin" value="回归冒险家点数" feature="Mentoring" />
   <key id="$s_mentoring_reward_button" value="领取登录奖励" feature="Mentoring" />
@@ -3520,9 +3521,9 @@
   <key id="$s_selectsuperworldchat_use_coupon" value="请选择1个要使用的超级世界聊天券。" />
   <key id="$s_selectsuperworldchat_select_button" value="选择完毕" />
   <!-- 슈반다의 오픈 갤러리 -->
-  <key id="$s_gallery_title" value="米勒的秋季畫廊" />
+  <key id="$s_gallery_title" value="米勒的冬季畫廊" />
   <key id="$s_gallery_card_open_count" value="米勒的卡牌任務" />
-  <key id="$s_gallery_desc_1" value="至2022年10月13日维護前！" />
+  <key id="$s_gallery_desc_1" value="至2023年2月9日维護前！" />
   <key id="$s_gallery_desc_2" value="完成今天的任務後，領取最终獎勵吧！" />
   <key id="$s_gallery_board_reward_button" value="領取獎勵" />
   <key id="$s_gallery_board_reward_title" value="最终獎勵" />
@@ -3893,7 +3894,7 @@
   <key id="$s_weddinghall_reservation_confirm_publicable" value="是否公开" feature="Wedding" />
   <key id="$s_weddinghall_reservation_confirm_public" value="在婚礼告示栏公开" feature="Wedding" />
   <key id="$s_weddinghall_reservation_confirm_price" value="结算金额" feature="Wedding" />
-  <key id="$s_weddinghall_reservation_confirm_tooltip" value="※只有最初预约的角色才能变更结婚礼堂的预约，而且至少要提前3小时。\n※只有最初预约的角色才能取消结婚礼堂的预约。若对方同意取消，则赠送可免费预约相同等级结婚礼堂的优惠券（有效期30天）。若对方不同意取消，则不赠送优惠券。\n※订婚、结婚、离婚调解状态中的角色无法使用性别更改券。" feature="Wedding" />
+  <key id="$s_weddinghall_reservation_confirm_tooltip" value="※只有最初预约的角色才能变更结婚礼堂的预约，而且至少要提前3小时。\n※只有最初预约的角色才能取消结婚礼堂的预约。若对方同意取消，则赠送可免费预约相同等级结婚礼堂的优惠券（有效期30天）。若对方不同意取消，则無法取消婚禮。\n※订婚、结婚、离婚调解状态中的角色无法使用性别更改券。" feature="Wedding" />
   <key id="$s_weddinghall_reservation_confirm_private" value="仅通过喜帖、聊天邀请" feature="Wedding" />
   <key id="$s_weddinghall_enter_button_type1" value="入场" feature="Wedding" />
   <key id="$s_weddinghall_enter_button_type2" value="查看可入场的婚礼" feature="Wedding" />
@@ -3906,18 +3907,18 @@
   <key id="$s_wedding_dialog_my_message" value="我留的消息" feature="Wedding" />
   <key id="$s_wedding_dialog_divorce" value="确认" feature="Wedding" />
   <key id="$s_wedding_dialog_divorce_request_" value="已接受离婚申请。" feature="Wedding" />
-  <key id="$s_wedding_dialog_info_tooltip" value="点击后可以查看说明，以及累积的亲密度。" feature="Wedding" />
+  <key id="$s_wedding_dialog_info_tooltip" value="点击后可以查看说明，以及累積的親密度。" feature="Wedding" />
   <key id="$s_wedding_dialog_message_save" value="保存" feature="Wedding" />
   <key id="$s_wedding_dialog_message_cancel" value="取消" feature="Wedding" />
   <key id="$s_wedding_dialog_default_message" value="请输入留言" feature="Wedding" />
-  <key id="$s_wedding_dialog_skill_receive" value="领取" feature="Wedding" />
-  <key id="$s_wedding_affinity_title" value="亲密度" feature="Wedding" />
-  <key id="$s_wedding_affinity_info_title" value="亲密度获取方法" feature="Wedding" />
-  <key id="$s_wedding_affinity_info_desc1" value="亲密度每天按照以下标准积累。" feature="Wedding" />
-  <key id="$s_wedding_affinity_info_desc2" value="婚姻时间\n结婚后每天积累5分。\n\n夫妻签到\n夫妻每人登陆游戏一次，各积累5分。\n\n情侣签名\n夫妻二人每次留下情侣留言时，各积累5分。" feature="Wedding" />
-  <key id="$s_wedding_affinity_info_desc3" value="* 夫妻之中，若有人在每日的0点~24点之间没有登陆游戏，\n第二天将会扣除5分亲密度。" feature="Wedding" />
-  <key id="$s_wedding_affinity_info_tab" value="亲密度获取方法" feature="Wedding" />
-  <key id="$s_wedding_affinity_info_history" value="查询积累亲密度" feature="Wedding" />
+  <key id="$s_wedding_dialog_skill_receive" value="領取" feature="Wedding" />
+  <key id="$s_wedding_affinity_title" value="親密度" feature="Wedding" />
+  <key id="$s_wedding_affinity_info_title" value="親密度獲取方法" feature="Wedding" />
+  <key id="$s_wedding_affinity_info_desc1" value="親密度每天按照以下標准累積。" feature="Wedding" />
+  <key id="$s_wedding_affinity_info_desc2" value="婚姻時間\n结婚後每天累積5分。\n\n夫妻簽到\n夫妻每人登陸遊戲一次，各累積5分。\n\n情侣留言\n夫妻二人每次留下情侣留言時，各累積5分。留言不可與昨天相同" feature="Wedding" />
+  <key id="$s_wedding_affinity_info_desc3" value="* 夫妻之中，若有人在每日的0點至24點之間沒有登陸遊戲，\n第二天將會扣除5分親密度。" feature="Wedding" />
+  <key id="$s_wedding_affinity_info_tab" value="親密度獲取方法" feature="Wedding" />
+  <key id="$s_wedding_affinity_info_history" value="查詢累積的親密度" feature="Wedding" />
   <key id="$s_wedding_invitation_title" value="发送喜帖" feature="Wedding" />
   <key id="$s_wedding_invitation_add" value="添加" feature="Wedding" />
   <key id="$s_wedding_invitation_send" value="发送" feature="Wedding" />
