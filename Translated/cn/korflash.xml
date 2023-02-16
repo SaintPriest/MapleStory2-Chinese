@@ -553,6 +553,7 @@
   <key id="$s_gamemenu_btn_MeratCharge" value="蘑菇币充值商店" />
   <key id="$s_gamemenu_btn_pssbshop" value="纪念币商店" />
   <key id="$s_gamemenu_btn_collectitemgroupevent" value="合成麦特核心" feature="Event" locale="CN" />
+  <key id="$s_gamemenu_btn_collectitemgroupevent" value="合成麦特核心" feature="Event" locale="KR" />
   <key id="$s_gamemenu_btn_bingoevent" value="宾果" />
   <key id="$s_gamemenu_btn_wedding" value="结婚" feature="Wedding" />
   <!--건설모드전환버튼-->
@@ -3805,8 +3806,11 @@
   <key id="$s_sidepopup_fieldwar_enter" value="进入" feature="" />
   <!-- UICollectItemGroupEventDialog -->
   <key id="$s_collect_item_group_event_dialog_title" value="合成麦特核心" feature="Event" locale="CN" />
+  <key id="$s_collect_item_group_event_dialog_title" value="合成麦特核心" feature="Event" locale="KR" />
   <key id="$s_collect_item_group_event_dialog_desc1" value="*收集麦特核心后，点击[领取合成奖励]就可以获得奖励。" feature="Event" locale="CN" />
+  <key id="$s_collect_item_group_event_dialog_desc1" value="*收集麦特核心后，点击[领取合成奖励]就可以获得奖励。" feature="Event" locale="KR" />
   <key id="$s_collect_item_group_event_dialog_desc2" value="*合成奖励时，不会消耗原有的奖励。" feature="Event" locale="CN" />
+  <key id="$s_collect_item_group_event_dialog_desc2" value="*合成奖励时，不会消耗原有的奖励。" feature="Event" locale="KR" />
   <key id="$s_collect_item_group_event_dialog_guide" value="请通过打猎、演奏、钓鱼收集麦特核心，然后合成它们！可以获得更好属性的麦特徽章哦！" feature="Event" />
   <key id="$s_collect_item_group_event_dialog_recieve_button" value="领取合成奖励" feature="Event" />
   <!-- UIChatEmoticonDialog -->
