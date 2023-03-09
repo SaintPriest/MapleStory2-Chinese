@@ -2057,4 +2057,7 @@
 	<key id="92000159" name="讀心者" feature="Event" />
 	<key id="92000160" name="與對方一致的" feature="Event" />
 	<key id="92000161" name="不怕輸的" feature="Event" />
+	<key id="92000162" name="讀心者" feature="Event" />
+	<key id="92000163" name="與對方一致的" feature="Event" />
+	<key id="92000164" name="不怕輸的" feature="Event" />
 </ms2>

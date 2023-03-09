@@ -6593,6 +6593,7 @@
   <key id="s_cutscene_skip_msg_nextState" value="将中止播放动画进入下个阶段。要继续吗？" />
   <key id="s_galleryevent_cannot_open_card" value="无法翻开卡片。" />
   <key id="s_galleryevent_invalid_event" value="无法参与该活动。" />
+  <key id="s_gallery_desc_end_date" value="在{0}年{1}月{2}日維護前!" />
   <key id="s_item_treasure_map_button_appraise" value="鉴定" />
   <key id="s_item_treasure_map_button_back" value="返回" />
   <key id="s_item_treasure_map_appraise_cost" value="鉴定费用：{0}金币" />

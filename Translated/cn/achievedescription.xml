@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
 	<achieve id="21100001" desc="转职为骑士" complete="转职为骑士" feature="Season1" />
 	<achieve id="21100002" desc="转职为狂战士" complete="转职为狂战士" feature="Season1" />
@@ -2012,4 +2011,7 @@
 	<achieve id="92000159" desc="在石头剪刀布活动中胜利20次。" complete="在石头剪刀布活动中胜利20次。" feature="Event" locale="KR" />
 	<achieve id="92000160" desc="在石头剪刀布活动中平手20次。" complete="在石头剪刀布活动中平手20次。" feature="Event" locale="KR" />
 	<achieve id="92000161" desc="在石头剪刀布活动中失败20次。" complete="在石头剪刀布活动中失败20次。" feature="Event" locale="KR" />
+	<achieve id="92000162" desc="在石头剪刀布活动中胜利20次。" complete="在石头剪刀布活动中胜利20次。" feature="Event" locale="KR" />
+	<achieve id="92000163" desc="在石头剪刀布活动中平手20次。" complete="在石头剪刀布活动中平手20次。" feature="Event" locale="KR" />
+	<achieve id="92000164" desc="在石头剪刀布活动中失败20次。" complete="在石头剪刀布活动中失败20次。" feature="Event" locale="KR" />
 </ms2>
