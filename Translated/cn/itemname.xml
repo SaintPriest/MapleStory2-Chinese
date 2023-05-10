@@ -253,6 +253,7 @@
 	<key id="10200257" class="hair" name="男版空气刘海" />
 	<key id="10200258" class="hair" name="欧式俏皮卷发" />
 	<key id="10200259" class="hair" name="可爱半扎双马尾" />
+	<key id="10200264" class="hair" name="迷人的仙女頭髮" />
 	<key id="10200265" class="hair" name="烫卷编发马尾辫" />
 	<key id="10300001" class="face" name="刚毅脸型" />
 	<key id="10300002" class="face" name="聪明脸型" />
@@ -700,6 +701,8 @@
 	<key id="11020409" name="专家用铅笔（男）" />
 	<key id="11020410" name="专家用铅笔（女）" />
 	<key id="11020411" name="红色脸谱" />
+	<key id="11020412" name="专家用铅笔（男）" />
+	<key id="11020413" name="专家用铅笔（女）" />
 	<key id="11050001" class="mouth" name="甜蜜棒棒糖" />
 	<key id="11050002" class="mouth" name="帅气绅士胡须" />
 	<key id="11050003" class="mouth" name="泡泡糖" />
@@ -736,6 +739,8 @@
 	<key id="11050034" name="热情玫瑰" />
 	<key id="11050035" class="mouth" name="专家专用笔" />
 	<key id="11050036" class="mouth" name="风车" />
+	<key id="11050037" name="吹卷口哨" />
+	<key id="11050038" name="泡泡糖" />
 	<key id="11050039" class="mouth" name="红色脸谱" />
 	<key id="11050040" class="mouth" name="黑色脸谱" />
 	<key id="11050041" class="mouth" name="桃粉脸谱" />
@@ -841,6 +846,8 @@
 	<key id="11120646" name="假面舞会眼罩（男）" />
 	<key id="11120647" name="假面舞会眼罩（女）" />
 	<key id="11120648" name="条纹兔子太阳镜" />
+	<key id="11120649" name="大镜框牛角眼镜（男）" />
+	<key id="11120650" name="大镜框牛角眼镜（女）" />
 	<key id="11150001" class="eye" name="简洁牛角眼镜" />
 	<key id="11150002" class="eye" name="干练虎纹眼镜" />
 	<key id="11150003" class="eye" name="时尚黑超" />
@@ -1229,6 +1236,8 @@
 	<key id="11220475" name="蝴蝶梦耳环（女）" />
 	<key id="11220478" name="东方天使耳环（男）" />
 	<key id="11220479" name="东方天使耳环（女）" />
+	<key id="11220480" name="东方天使耳环（男）" />
+	<key id="11220481" name="东方天使耳环（女）" />
 	<key id="11220494" name="雪球耳环（男）" />
 	<key id="11220495" name="雪球耳环（女）" />
 	<key id="11220498" name="星光穿梭耳环（男）" />
@@ -1333,6 +1342,13 @@
 	<key id="11220704" name="甜心金属耳环（女）" />
 	<key id="11220705" name="街头风金属耳环（男）" />
 	<key id="11220706" name="街头风金属耳环（女）" />
+	<key id="11220707" name="特莱雅宫廷画师耳环（男）" />
+	<key id="11220708" name="特莱雅宫廷画师耳环（女）" />
+	<key id="11220709" name="小精灵金属耳环" />
+	<key id="11220710" name="蝴蝶君主耳环（男）" />
+	<key id="11220711" name="蝴蝶君主耳环（女）" />
+	<key id="11220712" name="蝶恋翩飞耳环（男）" />
+	<key id="11220713" name="蝶恋翩飞耳环（女）" />
 	<key id="11230031" class="earring" name="绝境耳环" />
 	<key id="11230044" class="earring" name="暴烈耳环" />
 	<key id="11240044" class="earring" name="闪耀暴烈耳环" />
@@ -1443,6 +1459,8 @@
 	<key id="11250111" class="earring" name="堕落天使耳环（男）" />
 	<key id="11250112" class="earring" name="堕落天使耳环（女）" />
 	<key id="11250113" name="欢乐暖冬耳环（女）" />
+	<key id="11250114" name="天界仙人耳环（男）" />
+	<key id="11250115" name="天界仙女耳环（女）" />
 	<key id="11250121" class="earring" name="魔法学校修炼生耳环（男）" />
 	<key id="11250122" class="earring" name="魔法学校修炼生耳环（女）" />
 	<key id="11250123" class="earring" name="婚礼心形耳环（男）" />
@@ -2108,6 +2126,7 @@
 	<key id="11300613" class="hat" name="狂野火焰帽" />
 	<key id="11300614" class="hat" name="（活动）诱惑的高级头盔" feature="Striker" />
 	<key id="11300615" class="hat" name="婚礼丝带帽（男）" />
+	<key id="11300616" name="萌萌小官帽" />
 	<key id="11300624" class="hat" name="伊夫利特王冠（女）" />
 	<key id="11300631" class="hat" name="贤者喵的翻车鱼发夹" />
 	<key id="11300632" class="hat" name="冒险岛2情报通讯员帽子" />
@@ -2116,6 +2135,7 @@
 	<key id="11300637" class="hat" name="棒球安全头盔" />
 	<key id="11300638" class="hat" name="侦查员贝雷帽" />
 	<key id="11300639" class="hat" name="精神宗主羽毛" />
+	<key id="11300640" name="侦查员贝雷帽" />
 	<key id="11300641" class="hat" name="锤炼启灵师帽" />
 	<key id="11300642" class="hat" name="贪婪启灵帽" />
 	<key id="11300643" class="hat" name="黎明气息帽" />
@@ -2208,6 +2228,7 @@
 	<key id="11300738" class="hat" name="莉莉丝的角" />
 	<key id="11300739" class="hat" name="玉贯子装饰纱帽（男）" />
 	<key id="11300740" class="hat" name="毛绒绒的绣花防寒帽（女）" />
+	<key id="11300741" name="小黄鸡帽" />
 	<key id="11300742" class="hat" name="红枫铁甲头盔" />
 	<key id="11300743" class="hat" name="可爱心形丝带" />
 	<key id="11300744" class="hat" name="真诚帽" />
@@ -2946,6 +2967,7 @@
 	<key id="11304802" class="hat" name="玫瑰花头饰" />
 	<key id="11304803" class="hat" name="蝴蝶夹头饰" />
 	<key id="11304804" class="hat" name="跳舞花" />
+	<key id="11304805" name="贪睡兔帽子" />
 	<key id="11304806" class="hat" name="闪亮的南瓜帽" />
 	<key id="11304807" class="hat" name="圣诞银河帽" />
 	<key id="11304809" class="hat" name="阴森斗笠帽" />
@@ -3538,6 +3560,14 @@
 	<key id="11320611" name="黑金警察帽（女）" />
 	<key id="11320612" name="绵羊毛巾帽（男）" />
 	<key id="11320613" name="绵羊毛巾帽（女）" />
+	<key id="11320614" name="东方天使王冠（男）" />
+	<key id="11320615" name="东方天使花（女）" />
+	<key id="11320616" name="流氓兔头饰（男）" />
+	<key id="11320617" name="流氓兔头饰（女）" />
+	<key id="11320618" name="活泼缎带贝雷帽（男）" />
+	<key id="11320619" name="活泼缎带贝雷帽（女）" />
+	<key id="11320620" name="时尚猫咪棒球帽（男）" />
+	<key id="11320621" name="时尚猫咪棒球帽（女）" />
 	<key id="11320628" name="调度员护目镜（男）" />
 	<key id="11320629" name="调度员护目镜（女）" />
 	<key id="11320630" name="幸福旋律帽子（男）" />
@@ -3650,6 +3680,14 @@
 	<key id="11320738" name="街头风波乐帽（女）" />
 	<key id="11320739" name="假面舞会帽（男）" />
 	<key id="11320740" name="假面舞会帽（女）" />
+	<key id="11320741" name="特莱雅宫廷画师帽（男）" />
+	<key id="11320742" name="特莱雅宫廷画师帽（女）" />
+	<key id="11320743" name="蝴蝶君主角饰（男）" />
+	<key id="11320744" name="蝴蝶君主角饰（女）" />
+	<key id="11320745" name="蝶恋翩飞发夹（男）" />
+	<key id="11320746" name="蝶恋翩飞发夹（女）" />
+	<key id="11320747" name="闪耀之星贝雷帽（男）" />
+	<key id="11320748" name="闪耀之星贝雷帽（女）" />
 	<key id="11330073" class="hat" name="黑色雨燕头盔" />
 	<key id="11330077" class="hat" name="炫光幻灵巫术帽" />
 	<key id="11330082" class="hat" name="长虹贯日游侠帽" />
@@ -4167,6 +4205,8 @@
 	<key id="11390945" name="塔兰指挥官战斗发冠" feature="Level70Item" />
 	<key id="11390946" name="古代地狱君主头盔" feature="Level70Item" />
 	<key id="11390947" class="hat" name="年糕汤帽" feature="ItemKR" />
+	<key id="11390948" name="天界仙人发簪（男）" />
+	<key id="11390949" name="天界仙女花饰（女）" />
 	<key id="11391090" name="稳固之力战士帽" feature="ItemExtraction" />
 	<key id="11391091" name="稳固之力魔法师帽" feature="ItemExtraction" />
 	<key id="11391092" name="稳固之力弓箭手帽" feature="ItemExtraction" />
@@ -4641,6 +4681,7 @@
 	<key id="11400549" class="coat" name="女侦查员上装（女）" />
 	<key id="11400550" class="coat" name="设计卫衣（男）" />
 	<key id="11400551" class="coat" name="设计卫衣（女）" />
+	<key id="11400552" name="男侦查员上装（男）" />
 	<key id="11400553" class="coat" name="基础气功上装" />
 	<key id="11400554" class="coat" name="锤炼启灵师上装" />
 	<key id="11400555" class="coat" name="贪婪启灵上装" />
@@ -4670,6 +4711,7 @@
 	<key id="11400579" class="coat" name="永恒之冕·万物心念上衣" />
 	<key id="11400580" class="coat" name="荣耀之战斗上装" />
 	<key id="11400581" class="coat" name="荣耀之怒上装" />
+	<key id="11400582" name="女侦查员上装（女）" />
 	<key id="11400586" class="coat" name="荣耀之混乱上装" />
 	<key id="11400587" class="coat" name="荣耀之暗杀上装" />
 	<key id="11400588" class="coat" name="荣耀之咒术上装" />
@@ -6146,6 +6188,7 @@
 	<key id="11500465" class="pants" name="女侦查员裤子（女）" />
 	<key id="11500466" class="pants" name="精神宗主裤（男）" />
 	<key id="11500467" class="pants" name="精神宗主裤（女）" />
+	<key id="11500468" name="男侦查员裤子（男）" />
 	<key id="11500469" class="pants" name="基础气功裤子" />
 	<key id="11500470" class="pants" name="锤炼启灵师裤子" />
 	<key id="11500471" class="pants" name="贪婪启灵裤子" />
@@ -6175,6 +6218,7 @@
 	<key id="11500495" class="pants" name="永恒之冕·万物心念裤子" />
 	<key id="11500496" class="pants" name="荣耀之战斗腿甲" />
 	<key id="11500497" class="pants" name="荣耀之怒裤子" />
+	<key id="11500498" name="女侦查员裤子（女）" />
 	<key id="11500502" class="pants" name="荣耀之混乱裤子" />
 	<key id="11500503" class="pants" name="荣耀之暗杀裤子" />
 	<key id="11500504" class="pants" name="荣耀之咒术裤子" />
@@ -7856,6 +7900,7 @@
 	<key id="11600661" class="gloves" name="艾丽尔四叶草戒指" feature="MasterySecond" />
 	<key id="11600662" class="gloves" name="晶莹剔透的翡翠戒指（男）" />
 	<key id="11600663" class="gloves" name="五光十色戒指（女）" />
+	<key id="11600664" name="小黄鸡手部" />
 	<key id="11600665" class="gloves" name="红枫铁甲护手" />
 	<key id="11600669" class="gloves" name="雅利舒戒指（男）" />
 	<key id="11600670" class="gloves" name="雅利舒戒指（女）" />
@@ -8180,6 +8225,7 @@
 	<key id="11601016" class="gloves" name="冒险岛联盟黄金手套（男）" />
 	<key id="11601017" class="gloves" name="可爱碎花戒指（男）" />
 	<key id="11601018" class="gloves" name="可爱碎花戒指（女）" />
+	<key id="11601019" name="天界仙人手套（男）" />
 	<key id="11601030" class="gloves" name="深红炎魔战斗手套" feature="WorldBossDungeon" />
 	<key id="11601031" class="gloves" name="深红炎魔狂乱手套" feature="WorldBossDungeon" />
 	<key id="11601032" class="gloves" name="深红炎魔魔法手套" feature="WorldBossDungeon" />
@@ -8477,6 +8523,7 @@
 	<key id="11604704" class="gloves" name="越冬钛戒指（女）" />
 	<key id="11604705" class="gloves" name="忠诚冒险家的手套" />
 	<key id="11604706" name="忠诚冒险家的手套（30天）" />
+	<key id="11604707" name="天界仙女戒指（女）" />
 	<key id="11609001" class="gloves" name="磨砂皮革护手" />
 	<key id="11609002" class="gloves" name="磨砂神行手套" />
 	<key id="11609003" class="gloves" name="磨砂新手魔法师手套" />
@@ -8711,6 +8758,8 @@
 	<key id="11620204" class="gloves" name="流氓兔头带（女）" />
 	<key id="11620205" name="铆钉开口皮手套（男）" />
 	<key id="11620206" name="铆钉开口皮手套（女）" />
+	<key id="11620207" name="流氓兔头带（男）" />
+	<key id="11620208" name="流氓兔头带（女）" />
 	<key id="11620213" class="gloves" name="拳击手套（男）" />
 	<key id="11620214" class="gloves" name="拳击手套（女）" />
 	<key id="11620215" class="gloves" name="长束带手表（男）" />
@@ -8925,6 +8974,8 @@
 	<key id="11620557" name="星光兔毛皮手套（女）" />
 	<key id="11620558" name="胖胖布莱克缤手套（男）" />
 	<key id="11620559" name="胖胖布莱克缤手套（女）" />
+	<key id="11620560" name="东方天使戒指（男）" />
+	<key id="11620561" name="东方天使戒指（女）" />
 	<key id="11620626" name="宝石糖果戒指（男）" />
 	<key id="11620627" name="宝石糖果戒指（女）" />
 	<key id="11620628" name="调度员手套（男）" />
@@ -9031,6 +9082,12 @@
 	<key id="11620731" name="假面舞会手套（女）" />
 	<key id="11620732" name="宝石糖果戒指（男）" />
 	<key id="11620733" name="宝石糖果戒指（女）" />
+	<key id="11620734" name="特莱雅宫廷画师戒指（男）" />
+	<key id="11620735" name="特莱雅宫廷画师戒指（女）" />
+	<key id="11620736" name="蝴蝶君主手套（男）" />
+	<key id="11620737" name="蝴蝶君主手套（女）" />
+	<key id="11620738" name="蝶恋翩飞戒指（男）" />
+	<key id="11620739" name="蝶恋翩飞戒指（女）" />
 	<key id="11630040" class="gloves" name="黑色雨燕护手" />
 	<key id="11630044" class="gloves" name="炫光幻灵巫术护臂" />
 	<key id="11630047" class="gloves" name="长虹贯日游侠手套" />
@@ -10142,6 +10199,7 @@
 	<key id="11700604" class="shoes" name="女侦查员漫步鞋（女）" />
 	<key id="11700605" class="shoes" name="精神宗主鞋（男）" />
 	<key id="11700606" class="shoes" name="精神宗主鞋（女）" />
+	<key id="11700607" name="男侦查员漫步鞋（男）" />
 	<key id="11700608" class="shoes" name="基础气功鞋" />
 	<key id="11700609" class="shoes" name="锤炼启灵师鞋子" />
 	<key id="11700610" class="shoes" name="贪婪启灵鞋" />
@@ -10193,6 +10251,7 @@
 	<key id="11700656" class="shoes" name="沉默咒术鞋" />
 	<key id="11700657" class="shoes" name="沉默乱斗鞋" />
 	<key id="11700658" class="shoes" name="沉默意识鞋" />
+	<key id="11700659" name="女侦查员漫步鞋（女）" />
 	<key id="11700661" class="shoes" name="干练斯塔兹漫步鞋（男）" />
 	<key id="11700662" class="shoes" name="性感莉莉漫步鞋（女）" />
 	<key id="11700663" name="干练斯塔兹漫步鞋（男）" />
@@ -10248,6 +10307,7 @@
 	<key id="11700715" class="shoes" name="雷德巴乌工装靴" feature="MasterySecond" />
 	<key id="11700716" class="shoes" name="轻便的油鞋（男）" />
 	<key id="11700717" class="shoes" name="毛绒绒的羽毛鞋（女）" />
+	<key id="11700718" name="小黄鸡鞋" />
 	<key id="11700719" class="shoes" name="红枫铁甲靴子" />
 	<key id="11700720" class="shoes" name="真诚鞋" />
 	<key id="11700723" class="shoes" name="波澜鹿皮靴（男）" />
@@ -11159,6 +11219,10 @@
 	<key id="11720215" class="shoes" name="简单束带凉鞋（男）" />
 	<key id="11720216" class="shoes" name="蝴蝶结皮带凉鞋（女）" />
 	<key id="11720217" name="松软拖鞋（女）" />
+	<key id="11720218" name="流氓兔鞋（男）" />
+	<key id="11720219" name="流氓兔鞋（女）" />
+	<key id="11720220" name="活泼帆船鞋（男）" />
+	<key id="11720221" name="活泼帆船鞋（女）" />
 	<key id="11720231" class="shoes" name="骆驼色皮靴（男）" />
 	<key id="11720232" class="shoes" name="骆驼色皮靴（女）" />
 	<key id="11720233" name="骆驼色皮靴（男）" />
@@ -11223,6 +11287,8 @@
 	<key id="11720342" name="新街头风运动鞋（女）" />
 	<key id="11720343" name="麦格纳斯的游泳凉鞋（男）" />
 	<key id="11720344" name="扣带凉鞋（女）" />
+	<key id="11720345" name="新街头风运动鞋（男）" />
+	<key id="11720346" name="新街头风运动鞋（女）" />
 	<key id="11720349" class="shoes" name="威风的军乐队鞋（男）" />
 	<key id="11720350" class="shoes" name="威风的军乐队鞋（女）" />
 	<key id="11720351" class="shoes" name="冒险岛学生学园皮鞋（男）" />
@@ -11417,6 +11483,8 @@
 	<key id="11720563" name="星光兔皮靴（女）" />
 	<key id="11720564" name="胖胖布莱克缤鞋（男）" />
 	<key id="11720565" name="胖胖布莱克缤鞋（女）" />
+	<key id="11720566" name="东方天使鞋（男）" />
+	<key id="11720567" name="东方天使鞋（女）" />
 	<key id="11720628" name="调度员鞋子（男）" />
 	<key id="11720629" name="调度员鞋子（女）" />
 	<key id="11720630" name="幸福旋律鞋子（男）" />
@@ -11524,6 +11592,14 @@
 	<key id="11720732" name="街头风魔术贴运动鞋（女）" />
 	<key id="11720733" name="冒险岛四分卫球鞋（男）" />
 	<key id="11720734" name="冒险岛四分卫球鞋（女）" />
+	<key id="11720735" name="特莱雅宫廷画师鞋（男）" />
+	<key id="11720736" name="特莱雅宫廷画师鞋（女）" />
+	<key id="11720737" name="蝴蝶君主皮鞋（男）" />
+	<key id="11720738" name="蝴蝶君主皮鞋（女）" />
+	<key id="11720739" name="蝶恋翩飞皮鞋（男）" />
+	<key id="11720740" name="蝶恋翩飞皮鞋（女）" />
+	<key id="11720741" name="闪耀之星学生皮鞋（男）" />
+	<key id="11720742" name="闪耀之星学生皮鞋（女）" />
 	<key id="11730059" class="shoes" name="黑色雨燕靴子" />
 	<key id="11730064" class="shoes" name="炫光幻灵巫术靴子" />
 	<key id="11730068" class="shoes" name="长虹贯日游侠靴子" />
@@ -12003,6 +12079,8 @@
 	<key id="11790930" name="重生之启灵师战斗靴（LV56）" feature="ItemExtraction" />
 	<key id="11790933" class="shoes" name="天界仙人鞋（男）" />
 	<key id="11790934" class="shoes" name="天界仙女鞋（女）" />
+	<key id="11790935" name="天界仙人鞋（男）" />
+	<key id="11790936" name="天界仙女鞋（女）" />
 	<key id="11790946" class="shoes" name="古代神龙长靴" feature="Level70Item" />
 	<key id="11790947" class="shoes" name="塔兰战斗长靴" feature="Level70Item" />
 	<key id="11790948" class="shoes" name="塔兰指挥官战斗长靴" feature="Level70Item" />
@@ -12505,6 +12583,8 @@
 	<key id="11820479" name="东方天使翅膀（女）" />
 	<key id="11820480" name="南瓜巫師之翼 (男)" />
 	<key id="11820481" name="南瓜巫師之翼 (女)" />
+	<key id="11820482" name="东方天使翅膀（男）" />
+	<key id="11820483" name="东方天使翅膀（女）" />
 	<key id="11820498" name="星光穿梭披风（男）" />
 	<key id="11820499" name="星光穿梭披风（女）" />
 	<key id="11820500" name="软滑云朵披风（男）" />
@@ -12603,6 +12683,10 @@
 	<key id="11820693" name="甜心兔兔玩偶（女）" />
 	<key id="11820694" name="萌萌哒恐龙尾巴（男）" />
 	<key id="11820695" name="萌萌哒恐龙尾巴（女）" />
+	<key id="11820696" name="蝴蝶君主之翼（男）" />
+	<key id="11820697" name="蝴蝶君主之翼（女）" />
+	<key id="11820698" name="蝶恋翩飞翅膀（男）" />
+	<key id="11820699" name="蝶恋翩飞翅膀（女）" />
 	<key id="11830046" class="mantle" name="绝境披风" />
 	<key id="11830060" class="mantle" name="暴烈披风" />
 	<key id="11840060" class="mantle" name="闪耀暴烈披风" />
@@ -12783,15 +12867,18 @@
 	<key id="11850174" name="白色蝴蝶结猫咪尾巴" />
 	<key id="11850175" name="胖胖品克缤气球" />
 	<key id="11850176" class="mantle" name="冥王星披风" feature="LegendaryAccessory01" />
+	<key id="11850177" name="天界仙人披风（男）" />
 	<key id="11850178" class="mantle" name="黑猫蝴蝶结铃铛尾巴（男）" />
 	<key id="11850179" class="mantle" name="黑猫蝴蝶结铃铛尾巴（女）" />
 	<key id="11850180" class="mantle" name="设计短披风" />
+	<key id="11850181" name="天界仙女披风（女）" />
 	<key id="11850182" class="mantle" name="魔法学校修炼生披风（男）" />
 	<key id="11850183" class="mantle" name="魔法学校修炼生披风（女）" />
 	<key id="11850184" name="魔法学校修炼生披风（男）" />
 	<key id="11850185" name="魔法学校修炼生披风（女）" />
 	<key id="11850186" class="mantle" name="花花兔彩虹披风（男）" />
 	<key id="11850187" class="mantle" name="花花兔彩虹披风（女）" />
+	<key id="11850188" name="小鸡背包" />
 	<key id="11850190" class="mantle" name="小黄鸭宝宝三色气球披风（男）" />
 	<key id="11850191" class="mantle" name="小黄鸭宝宝三色气球披风（女）" />
 	<key id="11850192" class="mantle" name="宇宙飞行员UFO披风（男）" />
@@ -13654,6 +13741,7 @@
 	<key id="12200478" name="斑点兔兔外套" />
 	<key id="12200479" name="宽松衬衫毛衣（男）" />
 	<key id="12200480" name="宽松衬衫毛衣（女）" />
+	<key id="12200481" name="小黄鸡套装" />
 	<key id="12200488" class="dress" name="星光兔毛皮外套（男）" />
 	<key id="12200489" class="dress" name="星光兔毛皮外套（女）" />
 	<key id="12200490" class="dress" name="猫咪管家经典连身衣（男）" />
@@ -13772,6 +13860,7 @@
 	<key id="12200661" class="dress" name="冒险岛四分卫制服（男）" />
 	<key id="12200662" class="dress" name="冒险岛四分卫制服（女）" />
 	<key id="12200663" name="魔法学校修炼生连身衣（女）" />
+	<key id="12200664" name="天界仙人长袍（男）" />
 	<key id="12200665" class="dress" name="特莱雅宫廷厨师制服（男）" />
 	<key id="12200666" class="dress" name="特莱雅宫廷厨师制服（女）" />
 	<key id="12200667" class="dress" name="机能型侦察兵连身衣（男）" />
@@ -13794,6 +13883,7 @@
 	<key id="12200684" class="dress" name="蝶恋翩飞连衣裙（女）" />
 	<key id="12200685" class="dress" name="花式哥特舞会套装（男）" />
 	<key id="12200686" class="dress" name="花式哥特舞会裙（女）" />
+	<key id="12200687" name="天界仙女裙子（女）" />
 	<key id="12200693" class="dress" name="酷萌黑喵校服连身衣（男）" />
 	<key id="12200694" class="dress" name="酷萌黑喵校服连身衣（女）" />
 	<key id="12200695" class="dress" name="可爱双排扣风衣（男）" />
@@ -14009,8 +14099,14 @@
 	<key id="12220210" class="dress" name="活泼背带校服（女）" />
 	<key id="12220211" name="小黄鸭浴巾（男）" />
 	<key id="12220212" name="小黄鸭浴巾（女）" />
+	<key id="12220213" name="流氓兔松紧带短裤（男）" />
+	<key id="12220214" name="流氓兔裙（女）" />
 	<key id="12220215" class="dress" name="休闲吊带裤（男）" />
 	<key id="12220216" class="dress" name="纯洁的蝴蝶结褶皱连身衣（女）" />
+	<key id="12220217" name="活泼背带校服（男）" />
+	<key id="12220218" name="活泼背带校服（女）" />
+	<key id="12220219" name="街头牛仔吊带裤（男）" />
+	<key id="12220220" name="街头牛仔吊带裤（女）" />
 	<key id="12220239" class="dress" name="可爱兔女郎外套（男）" />
 	<key id="12220240" class="dress" name="可爱兔女郎外套（女）" />
 	<key id="12220241" name="可爱兔女郎外套（男）" />
@@ -14159,6 +14255,8 @@
 	<key id="12220481" name="南瓜巫師外套 (女)" />
 	<key id="12220482" name="金丝云龙礼服（男）" />
 	<key id="12220483" name="金丝云龙礼服（女）" />
+	<key id="12220484" name="东方天使长袍（男）" />
+	<key id="12220485" name="东方天使裙子（女）" />
 	<key id="12220492" name="甜蜜梦乡睡服（男）" />
 	<key id="12220493" name="甜蜜梦乡睡服（女）" />
 	<key id="12220494" name="雪球外套（男）" />
@@ -14315,6 +14413,14 @@
 	<key id="12220725" name="街头风防风衣（女）" />
 	<key id="12220726" name="黑白两件套衬衫（男）" />
 	<key id="12220727" name="黑白两件套衬衫（女）" />
+	<key id="12220728" name="特莱雅宫廷画师围裙（男）" />
+	<key id="12220729" name="特莱雅宫廷画师围裙（女）" />
+	<key id="12220730" name="蝴蝶君主套装（男）" />
+	<key id="12220731" name="蝴蝶君主裙（女）" />
+	<key id="12220732" name="蝶恋翩飞正装（男）" />
+	<key id="12220733" name="蝶恋翩飞连衣裙（女）" />
+	<key id="12220734" name="闪耀之星校服（男）" />
+	<key id="12220735" name="闪耀之星校服（女）" />
 	<key id="12230024" class="dress" name="炫光幻灵巫术外套" />
 	<key id="12230026" class="dress" name="长虹贯日游侠外套" />
 	<key id="12230029" class="dress" name="创世之信仰长袍" />
@@ -14645,6 +14751,7 @@
 	<key id="13100157" name="圣天使匕首 (短剑)" />
 	<key id="13100158" class="dagger" name="结实匕首" />
 	<key id="13100159" class="dagger" name="坚硬匕首" />
+	<key id="13100160" name="绘图角尺（短刀）" />
 	<key id="13100164" class="dagger" name="（活动）敏捷小刀" />
 	<key id="13100165" class="dagger" name="（活动）切肉小刀" />
 	<key id="13100166" class="dagger" name="（活动）短刀" />
@@ -14729,6 +14836,7 @@
 	<key id="13100255" class="dagger" name="雪晶匕首（短刀）" />
 	<key id="13100256" name="帝王黄金匕首（短刀）" />
 	<key id="13100257" name="帝王黄金匕首（短刀）" />
+	<key id="13100258" name="樱花匕首 （短刀）" />
 	<key id="13100262" class="dagger" name="黑风安腾托短刀" />
 	<key id="13100263" class="dagger" name="光明骑士团欧涅斯塔短刀" />
 	<key id="13100264" class="dagger" name="特莱雅近卫队纤细短刀" />
@@ -14804,6 +14912,7 @@
 	<key id="13100336" name="雪之传说匕首（短刀）" />
 	<key id="13100337" name="泡泡猫短刀" />
 	<key id="13100338" name="布莱克缤的双刃（短刀）" />
+	<key id="13100339" name="石蝶匕首（短刀）" />
 	<key id="13120001" name="雪晶匕首（短刀）" />
 	<key id="13120002" name="灵灵黄金手铃（短刀）" />
 	<key id="13120003" name="雪晶匕首（短刀）" />
@@ -15047,6 +15156,7 @@
 	<key id="13200150" class="longsword" name="冰冻瓦里斯剑（长剑）" />
 	<key id="13200151" class="longsword" name="漂亮水灵之刃（长剑）" />
 	<key id="13200152" name="漂亮水灵之刃（长剑）" />
+	<key id="13200153" name="漂亮水灵之刃（长剑）" />
 	<key id="13200154" class="longsword" name="结实长剑" />
 	<key id="13200155" class="longsword" name="坚硬长剑" />
 	<key id="13200160" class="longsword" name="（活动）罗马长剑" />
@@ -15132,6 +15242,7 @@
 	<key id="13200250" class="longsword" name="雪晶长剑（长剑）" />
 	<key id="13200251" name="帝王黄金长剑（长剑）" />
 	<key id="13200252" name="帝王黄金长剑（长剑）" />
+	<key id="13200253" name="樱花长剑（长剑）" />
 	<key id="13200257" class="longsword" name="黑风安腾托长剑" />
 	<key id="13200258" class="longsword" name="光明骑士团欧涅斯塔长剑" />
 	<key id="13200259" class="longsword" name="特莱雅近卫队纤细长剑" />
@@ -15207,6 +15318,7 @@
 	<key id="13200331" name="雪之传说长剑（长剑）" />
 	<key id="13200332" name="泡泡猫长剑" />
 	<key id="13200333" name="菜豆黑豆（长剑）" />
+	<key id="13200334" name="石蝶长剑（长剑）" />
 	<key id="13209001" class="longsword" name="旧罗马长剑" />
 	<key id="13220001" name="雪晶长剑（长剑）" />
 	<key id="13220002" name="甜蜜暖冬糖果（长剑）" />
@@ -15448,6 +15560,7 @@
 	<key id="13300152" name="辉赫天使魔杖（魔杖）" />
 	<key id="13300153" class="scepter" name="结实魔杖" />
 	<key id="13300154" class="scepter" name="坚硬魔杖" />
+	<key id="13300155" name="圆形水刷毛笔（魔杖）" />
 	<key id="13300159" class="scepter" name="（活动）标点魔杖" />
 	<key id="13300160" class="scepter" name="（活动）宝珠法杖" />
 	<key id="13300161" class="scepter" name="（活动）绿宝石魔杖" />
@@ -15531,6 +15644,7 @@
 	<key id="13300248" class="scepter" name="（入门级）轻质圣言魔杖" />
 	<key id="13300249" name="帝王黄金刷（魔杖）" />
 	<key id="13300250" name="帝王黄金刷（魔杖）" />
+	<key id="13300251" name="樱花魔杖（魔杖）" />
 	<key id="13300255" class="scepter" name="黑风安腾托魔杖" />
 	<key id="13300256" class="scepter" name="光明骑士团欧涅斯塔魔杖" />
 	<key id="13300257" class="scepter" name="特莱雅近卫队纤细魔杖" />
@@ -15607,6 +15721,7 @@
 	<key id="13300330" name="雪之传说魔杖（魔杖）" />
 	<key id="13300331" name="泡泡猫魔杖" />
 	<key id="13300332" name="布莱克缤的呼啸（魔杖）" />
+	<key id="13300333" name="石蝶魔杖（魔杖）" />
 	<key id="13320001" name="雪晶魔杖（魔杖）" />
 	<key id="13320002" name="暖冬神圣权杖（魔杖）" />
 	<key id="13320003" name="雪晶魔杖（魔杖）" />
@@ -15852,6 +15967,7 @@
 	<key id="13400150" name="圣天使之星 (镖)" />
 	<key id="13400151" class="javelin" name="结实镖" />
 	<key id="13400152" class="javelin" name="坚硬镖" />
+	<key id="13400153" name="黑板擦（镖）" />
 	<key id="13400157" class="javelin" name="（活动）手里剑" />
 	<key id="13400158" class="javelin" name="（活动）月灵镖" />
 	<key id="13400159" class="javelin" name="（活动）火灵镖" />
@@ -15934,6 +16050,7 @@
 	<key id="13400247" class="javelin" name="（入门级）轻质土灵镖" />
 	<key id="13400248" name="帝王黄金之星（飞镖）" />
 	<key id="13400249" name="帝王黄金之星（飞镖）" />
+	<key id="13400250" name="樱花之星 （飞镖）" />
 	<key id="13400254" class="javelin" name="黑风安腾托镖" />
 	<key id="13400255" class="javelin" name="光明骑士团欧涅斯塔镖" />
 	<key id="13400256" class="javelin" name="特莱雅近卫队纤细镖" />
@@ -16010,6 +16127,7 @@
 	<key id="13400329" name="雪之传说飞镖（飞镖）" />
 	<key id="13400330" name="泡泡猫镖" />
 	<key id="13400331" name="布莱克缤的飞针（飞镖）" />
+	<key id="13400332" name="石蝶镖（飞镖）" />
 	<key id="13420001" name="雪晶之星（飞镖）" />
 	<key id="13420002" name="冬季一品红（飞镖）" />
 	<key id="13420003" name="雪晶之星（飞镖）" />
@@ -16234,6 +16352,7 @@
 	<key id="14000129" name="圣天使圣经 (法典)" />
 	<key id="14000130" class="book" name="结实法典" />
 	<key id="14000131" class="book" name="坚硬法典" />
+	<key id="14000132" name="调色板（法典）" />
 	<key id="14000136" class="book" name="（活动）祭司入门书" />
 	<key id="14000137" class="book" name="（活动）圣殿入门书" />
 	<key id="14000138" class="book" name="（活动）知识法典" />
@@ -16295,6 +16414,7 @@
 	<key id="14000208" class="book" name="（入门级）轻质白银十字卷轴" />
 	<key id="14000209" name="帝王黄金卷轴（法典）" />
 	<key id="14000210" name="帝王黄金卷轴（法典）" />
+	<key id="14000211" name="樱花之书（法典）" />
 	<key id="14000215" class="book" name="黑风安腾托法典" />
 	<key id="14000216" class="book" name="光明骑士团欧涅斯塔法典" />
 	<key id="14000217" class="book" name="特莱雅近卫队纤细法典" />
@@ -16371,6 +16491,7 @@
 	<key id="14000292" name="雪之传说法典（法典）" />
 	<key id="14000293" name="泡泡猫法典" />
 	<key id="14000294" name="布莱克缤的迷你手册（法典）" />
+	<key id="14000295" name="石蝶法典（法典）" />
 	<key id="14020001" name="雪晶之书（法典）" />
 	<key id="14020002" name="暖冬梦想之盒（法典）" />
 	<key id="14020003" name="雪晶之书（法典）" />
@@ -16595,6 +16716,7 @@
 	<key id="14100138" name="圣天使盾牌 (盾牌)" />
 	<key id="14100139" class="shield" name="结实盾牌" />
 	<key id="14100140" class="shield" name="坚硬盾牌" />
+	<key id="14100141" name="水灵春天记事本（盾牌）" />
 	<key id="14100145" class="shield" name="（活动）圆盾" />
 	<key id="14100146" class="shield" name="（活动）木制鸢盾" />
 	<key id="14100147" class="shield" name="（活动）强化木盾" />
@@ -16656,6 +16778,7 @@
 	<key id="14100217" class="shield" name="（入门级）轻质鸢盾" />
 	<key id="14100218" name="帝王黄金盾（盾牌）" />
 	<key id="14100219" name="帝王黄金盾（盾牌）" />
+	<key id="14100220" name="樱花盾牌（盾牌）" />
 	<key id="14100224" class="shield" name="黑风安腾托盾牌" />
 	<key id="14100225" class="shield" name="光明骑士团欧涅斯塔盾牌" />
 	<key id="14100226" class="shield" name="特莱雅近卫队纤细盾牌" />
@@ -16732,6 +16855,7 @@
 	<key id="14100301" name="雪之传说盾（盾牌）" />
 	<key id="14100302" name="泡泡猫盾牌" />
 	<key id="14100303" name="露珠枫叶（盾牌）" />
+	<key id="14100304" name="石蝶盾（盾牌）" />
 	<key id="14120001" name="雪晶盾牌（盾牌）" />
 	<key id="14120002" name="微笑姜饼（盾牌）" />
 	<key id="14120003" name="雪晶盾牌（盾牌）" />
@@ -16972,6 +17096,7 @@
 	<key id="15000154" class="large sword" name="冰冻野蛮人剑（巨剑）" />
 	<key id="15000155" class="large sword" name="橡皮素描笔（巨剑）" />
 	<key id="15000156" name="橡皮素描笔（巨剑）" />
+	<key id="15000157" name="橡皮素描笔（巨剑）" />
 	<key id="15000158" class="large sword" name="结实巨剑" />
 	<key id="15000159" class="large sword" name="坚硬巨剑" />
 	<key id="15000164" class="large sword" name="（活动）维京剑" />
@@ -17056,6 +17181,7 @@
 	<key id="15000253" class="large sword" name="（入门级）轻质雄伟高地剑" />
 	<key id="15000254" name="帝王黄金巨剑（巨剑）" />
 	<key id="15000255" name="帝王黄金巨剑（巨剑）" />
+	<key id="15000256" name="樱花巨剑（巨剑）" />
 	<key id="15000260" class="large sword" name="黑风安腾托大剑" />
 	<key id="15000261" class="large sword" name="光明骑士团欧涅斯塔大剑" />
 	<key id="15000262" class="large sword" name="特莱雅近卫队纤细大剑" />
@@ -17132,6 +17258,7 @@
 	<key id="15000335" name="雪之传说巨剑（巨剑）" />
 	<key id="15000336" name="泡泡猫巨剑" />
 	<key id="15000337" name="布莱克缤的勺子（巨剑）" />
+	<key id="15000338" name="石蝶巨剑（巨剑）" />
 	<key id="15020001" name="雪晶巨剑（巨剑）" />
 	<key id="15020002" name="甜蜜温和雪人（巨剑）" />
 	<key id="15020003" name="雪晶巨剑（巨剑）" />
@@ -17376,6 +17503,7 @@
 	<key id="15100149" name="圣天使攀登者（弓）" />
 	<key id="15100150" class="bow" name="结实弓" />
 	<key id="15100151" class="bow" name="坚硬弓" />
+	<key id="15100152" name="精密量角器（弓）" />
 	<key id="15100156" class="bow" name="（活动）短弓" />
 	<key id="15100157" class="bow" name="（活动）猎弓" />
 	<key id="15100158" class="bow" name="（活动）战斗弓" />
@@ -17458,6 +17586,7 @@
 	<key id="15100245" class="bow" name="（入门级）轻质天堂之弓" />
 	<key id="15100246" name="帝王黄金弓（弓）" />
 	<key id="15100247" name="帝王黄金弓（弓）" />
+	<key id="15100248" name="樱花弓（弓）" />
 	<key id="15100252" class="bow" name="黑风安腾托弓" />
 	<key id="15100253" class="bow" name="光明骑士团欧涅斯塔弓" />
 	<key id="15100254" class="bow" name="特莱雅近卫队纤细弓" />
@@ -17534,6 +17663,7 @@
 	<key id="15100327" name="雪之传说弓（弓）" />
 	<key id="15100328" name="泡泡猫弓" />
 	<key id="15100329" name="布莱克缤的木弓（弓）" />
+	<key id="15100330" name="石蝶弓（弓）" />
 	<key id="15109001" class="bow" name="旧短弓" />
 	<key id="15120001" name="雪晶弓（弓）" />
 	<key id="15120002" name="璀璨星光鲁道夫角（弓）" />
@@ -17781,6 +17911,7 @@
 	<key id="15200156" name="圣天使法杖 (法杖)" />
 	<key id="15200157" class="staff" name="结实法杖" />
 	<key id="15200158" class="staff" name="坚硬法杖" />
+	<key id="15200159" name="尽收眼底放大镜（法杖）" />
 	<key id="15200163" class="staff" name="（活动）见习法杖" />
 	<key id="15200164" class="staff" name="（活动）弯曲法杖" />
 	<key id="15200165" class="staff" name="（活动）蓝宝石智慧之杖" />
@@ -17863,6 +17994,7 @@
 	<key id="15200252" class="staff" name="（入门级）轻质天使之翼" />
 	<key id="15200253" name="帝王黄金法杖（法杖）" />
 	<key id="15200254" name="帝王黄金法杖（法杖）" />
+	<key id="15200255" name="樱花法杖（法杖）" />
 	<key id="15200259" class="staff" name="黑风安腾托法杖" />
 	<key id="15200260" class="staff" name="光明骑士团欧涅斯塔法杖" />
 	<key id="15200261" class="staff" name="特莱雅近卫队纤细法杖" />
@@ -17939,6 +18071,7 @@
 	<key id="15200334" name="雪之传说法杖（法杖）" />
 	<key id="15200335" name="泡泡猫法杖" />
 	<key id="15200336" name="绵软布莱克缤（法杖）" />
+	<key id="15200337" name="石蝶法杖（法杖）" />
 	<key id="15209001" class="staff" name="旧见习法杖" />
 	<key id="15220001" name="雪晶法杖（法杖）" />
 	<key id="15220002" name="白雪铃铛花环（法杖）" />
@@ -18184,6 +18317,7 @@
 	<key id="15300150" name="圣天使火炮 (火炮)" />
 	<key id="15300151" class="cannon" name="结实火炮" />
 	<key id="15300152" class="cannon" name="坚硬火炮" />
+	<key id="15300153" name="彩色铅笔头（火炮）" />
 	<key id="15300157" class="cannon" name="（活动）六轮火炮" />
 	<key id="15300158" class="cannon" name="（活动）转轮火炮" />
 	<key id="15300159" class="cannon" name="（活动）单动式火炮" />
@@ -18266,6 +18400,7 @@
 	<key id="15300248" class="cannon" name="（入门级）简易阿斯特雷德火炮" />
 	<key id="15300249" name="帝王黄金火炮（火炮）" />
 	<key id="15300250" name="帝王黄金火炮（火炮）" />
+	<key id="15300251" name="樱花火炮（火炮）" />
 	<key id="15300255" class="cannon" name="黑风安腾托火炮" />
 	<key id="15300256" class="cannon" name="光明骑士团欧涅斯塔火炮" />
 	<key id="15300257" class="cannon" name="特莱雅近卫队纤细火炮" />
@@ -18342,6 +18477,7 @@
 	<key id="15300330" name="雪之传说火炮（火炮）" />
 	<key id="15300331" name="泡泡猫火炮" />
 	<key id="15300332" name="布莱克缤的呐喊（火炮）" />
+	<key id="15300333" name="石蝶火炮（火炮）" />
 	<key id="15320001" name="雪晶火炮（火炮）" />
 	<key id="15320002" name="迷你圣诞树（火炮）" />
 	<key id="15320003" name="雪晶火炮（火炮）" />
@@ -18610,6 +18746,7 @@
 	<key id="15400180" name="冒险岛联盟黄金长刀" />
 	<key id="15400181" name="海洋之光長刀" feature="22_07" />
 	<key id="15400182" class="blade" name="精英冒险家长刀" feature="Level60Item" />
+	<key id="15400183" name="石蝶长刀（长刀）" />
 	<key id="15400200" class="blade" name="（网吧）基础长刀" />
 	<key id="15400201" class="blade" name="（网吧）符文长刀" />
 	<key id="15400202" class="blade" name="（网吧）极真长刀" />
@@ -18627,6 +18764,7 @@
 	<key id="15400214" class="blade" name="冰冻杀戮（长刀）" />
 	<key id="15400215" class="blade" name="书法钢笔（长刀）" />
 	<key id="15400216" name="书法钢笔（长刀）" />
+	<key id="15400217" name="书法钢笔（长刀）" />
 	<key id="15400218" class="blade" name="结实的长刀" />
 	<key id="15400219" class="blade" name="坚硬的长刀" />
 	<key id="15400224" class="blade" name="（活动）组合长刀" />
@@ -18717,6 +18855,7 @@
 	<key id="15400318" name="泡泡猫长刀" />
 	<key id="15400319" name="音乐之星旋律（长刀）" />
 	<key id="15400320" name="布莱克缤的树叶（长刀）" />
+	<key id="15400321" name="樱花长刀（长刀）" />
 	<key id="15420001" name="雪晶长刀（长刀）" />
 	<key id="15420002" name="星光剑（长刀）" />
 	<key id="15420003" name="雪晶长刀（长刀）" />
@@ -19009,6 +19148,7 @@
 	<key id="15500226" class="knuckle" name="塔兰皇家拳套" feature="Level70Item" />
 	<key id="15500227" class="knuckle" name="精英冒险拳套" feature="Level70Item" />
 	<key id="15500228" class="knuckle" name="泡泡猫拳套" />
+	<key id="15500229" name="石蝶拳套（拳套）" feature="Striker" />
 	<key id="15500230" name="泡泡猫拳套" />
 	<key id="15500231" name="泡泡猫拳套" />
 	<key id="15500501" class="knuckle" name="喵喵拳套（拳套）" feature="Striker" />
@@ -19068,6 +19208,8 @@
 	<key id="15500555" name="圣天使拳套（拳套）" feature="Striker" />
 	<key id="15500556" name="音乐之星快板（拳套）" feature="Striker" />
 	<key id="15500557" name="布莱克缤的送货箱（拳套）" />
+	<key id="15500558" name="樱花拳套（拳套）" feature="Striker" />
+	<key id="15500559" name="大圆规（拳套）" feature="Striker" />
 	<key id="15520001" name="雪晶拳套（拳套）" />
 	<key id="15520002" name="乖巧的鲁道夫（拳套）" />
 	<key id="15520003" name="雪晶拳套（拳套）" />
@@ -19338,6 +19480,7 @@
 	<key id="15600199" class="orb" name="精英冒险家启灵珠" feature="Level60Item" />
 	<key id="15600200" name="石蝶启灵珠（启灵珠）" feature="SoulBinder" />
 	<key id="15600201" name="冒险岛联盟黄金启灵珠" />
+	<key id="15600202" name="石蝶启灵珠（启灵珠）" feature="SoulBinder" />
 	<key id="15600207" class="orb" name="强化黎明山隐启灵珠" feature="SoulBinder" />
 	<key id="15600208" class="orb" name="模糊的傲骨战意启灵珠" feature="Mastery" />
 	<key id="15600209" class="orb" name="神秘能量启灵珠" />
@@ -19420,6 +19563,8 @@
 	<key id="15600557" name="圣天使启灵珠（启灵珠）" feature="SoulBinder" />
 	<key id="15600558" name="音乐之星吟歌（启灵珠）" feature="SoulBinder" />
 	<key id="15600559" name="天使布莱克缤（启灵珠）" />
+	<key id="15600560" name="樱花启灵珠（启灵珠）" feature="SoulBinder" />
+	<key id="15600561" name="地球仪（启灵珠）" feature="SoulBinder" />
 	<key id="15620001" name="雪晶启灵珠（启灵珠）" />
 	<key id="15620002" name="丝带雪珠（启灵珠）" />
 	<key id="15620003" name="雪晶启灵珠（启灵珠）" />
@@ -21233,6 +21378,8 @@
 	<key id="20200143" name="表情动作：和波茵玩耍！" />
 	<key id="20200144" name="表情动作：羞涩的告白" />
 	<key id="20200145" name="表情动作：噗噗橙色蘑菇" />
+	<key id="20200146" name="表情动作：春日放风筝" />
+	<key id="20200147" name="表情动作：奔驰吧！" />
 	<key id="20201001" class="New가챠전용" name="表情动作：扑倒" />
 	<key id="20201002" class="New가챠전용" name="表情动作：睡觉" />
 	<key id="20201003" class="New가챠전용" name="表情动作：啪啦啪啦舞" />
@@ -21405,6 +21552,18 @@
 	<key id="20201170" name="表情动作：敬礼" />
 	<key id="20201171" name="表情动作：灯神" />
 	<key id="20201172" name="表情动作：灯羊" />
+	<key id="20201173" name="表情动作：赏花游" />
+	<key id="20201174" name="表情动作：欢乐墨西哥舞" />
+	<key id="20201175" name="表情动作：林中演奏" />
+	<key id="20201176" name="表情动作：荡秋千" />
+	<key id="20201177" name="表情动作：咚咚舞" />
+	<key id="20201178" name="表情动作：唱歌" />
+	<key id="20201179" name="表情动作：摇摇晃晃舞" />
+	<key id="20201180" name="表情动作：牵手舞蹈" />
+	<key id="20201181" name="表情动作：面对面跳舞" />
+	<key id="20201182" name="表情动作：呼呼大睡" />
+	<key id="20201183" name="表情动作：闹脾气" />
+	<key id="20201184" name="表情动作：睡觉" />
 	<key id="20210001" class="consume" name="双人表情动作：拥抱" />
 	<key id="20210002" class="consume" name="双人表情动作：一言为定" />
 	<key id="20210003" class="consume" name="双人表情动作：初雪" />
@@ -21464,6 +21623,7 @@
 	<key id="20210058" name="双人表情动作：温馨暖冬节" />
 	<key id="20210059" name="双人表情动作：甜蜜糖果" />
 	<key id="20210060" name="双人表情动作：情侣郊游" />
+	<key id="20210061" name="双人表情动作：草裙舞" />
 	<key id="20211001" class="New가챠전용" name="双人表情动作：一言为定" />
 	<key id="20211002" class="New가챠전용" name="双人表情动作：初雪" />
 	<key id="20211003" class="New가챠전용" name="双人表情动作：甜蜜糖果" />
@@ -21479,6 +21639,7 @@
 	<key id="20211013" class="New가챠전용" name="双人表情动作：初雪之日" />
 	<key id="20211014" class="New가챠전용" name="双人表情动作：放飞天灯" />
 	<key id="20211015" class="New가챠전용" name="双人表情动作：我们正在看电视" />
+	<key id="20211016" name="双人表情动作：我是你的依靠" />
 	<key id="20220001" name="双人表情动作：糖果之爱" />
 	<key id="20220002" name="表情动作：柔软品克缤" />
 	<key id="20220003" name="表情动作：柔软品克缤" />
@@ -22924,6 +23085,7 @@
 	<key id="20301698" name="萬聖節武器箱" />
 	<key id="20301699" name="会员7天体验券" />
 	<key id="20301700" name="音樂之星武器箱" />
+	<key id="20301701" name="石蝶武器箱" />
 	<key id="20301713" class="package" name="3级时装宝石选择箱（账号）" feature="SkinSocket" />
 	<key id="20301714" class="package" name="2级时装宝石选择箱" feature="SkinSocket" />
 	<key id="20301715" class="package" name="特别属性固定卷轴箱子" feature="OptionBlock01" />
@@ -23385,6 +23547,7 @@
 	<key id="20302458" class="package" name="传说上下装碎片选择箱" feature="ColosseumDungeon" />
 	<key id="20302459" class="package" name="传说武器碎片选择箱" feature="ColosseumDungeon" />
 	<key id="20302460" name="闪耀之星花式武器箱" />
+	<key id="20302461" name="闪耀之星花式武器箱" />
 	<key id="20302465" class="package" name="塞琳的宝物选择箱" feature="Level60Item" />
 	<key id="20302466" class="package" name="阿巴诺斯的宝物选择箱" feature="Level60Item" />
 	<key id="20302467" class="package" name="艾尔达的宝物选择箱" feature="Level60Item" />
@@ -23419,6 +23582,7 @@
 	<key id="20302533" class="consume" name="魔法铅笔" />
 	<key id="20302534" class="consume" name="加粗魔法铅笔" />
 	<key id="20302535" name="樱花武器箱" />
+	<key id="20302537" name="樱花武器箱" />
 	<key id="20302547" class="package" name="送给我的礼物箱" />
 	<key id="20302550" class="package" name="ITEMNAME_20302550_NAME:[F]ItemKR" feature="ItemKR" />
 	<key id="20302551" class="consume" name="黄金狮子武器箱" />
@@ -23941,6 +24105,7 @@
 	<key id="20303381" name="浪漫婚禮武器箱" />
 	<key id="20303382" name="聖誕快樂箱" />
 	<key id="20303383" name="麦特核心" feature="GemMeta" />
+	<key id="20303384" name="麦特核心" feature="GemMeta" />
 	<key id="20304000" name="小黃鴨靚耀扭蛋（第5期）：10个" />
 	<key id="20304001" name="彩色水晶（10个）选择箱碎片：30个" />
 	<key id="20320001" name="冰水灵之箱碎片" />
@@ -24313,6 +24478,7 @@
 	<key id="22001041" name="小黃鴨靚耀扭蛋（第24期）" feature="22_05" />
 	<key id="22001042" name="小黃鴨靚耀扭蛋（22年7月）" feature="22_06" />
 	<key id="22001043" name="小黃鴨靚耀扭蛋（22年8月）" feature="22_07" />
+	<key id="22001044" name="小黃鴨靚耀扭蛋（23年5月）" feature="23_04" />
 	<key id="22001051" name="小黃鴨靚耀扭蛋（23年1月）" feature="22_12" />
 	<key id="22001053" name="小黃鴨靚耀扭蛋（23年2月）" feature="23_01" />
 	<key id="22001067" name="小黃鴨靚耀扭蛋（22年9月）" feature="22_08" />
@@ -24388,6 +24554,7 @@
 	<key id="22201041" name="小黃鴨靚耀硬幣（第24期）" feature="22_05" />
 	<key id="22201042" name="小黃鴨靚耀硬幣（22年7月）" feature="22_06" />
 	<key id="22201043" name="小黃鴨靚耀硬幣（22年8月）" feature="22_07" />
+	<key id="22201044" name="小黃鴨靚耀硬幣（23年5月）" feature="23_04" />
 	<key id="22201051" name="小黃鴨靚耀硬幣（23年1月）" feature="22_12" />
 	<key id="22201053" name="小黃鴨靚耀硬幣（23年2月）" feature="23_01" />
 	<key id="22201067" name="小黃鴨靚耀硬幣（22年9月）" feature="22_08" />
@@ -27924,6 +28091,12 @@
 	<key id="34000124" name="品克缤电吉他" />
 	<key id="34000125" name="原木钢琴" />
 	<key id="34000126" name="原木小提琴" />
+	<key id="34000127" name="龙猫小提琴" />
+	<key id="34000128" name="龙猫大提琴" />
+	<key id="34000129" name="樱花经典钢琴" />
+	<key id="34000130" name="樱花经典吉他" />
+	<key id="34000131" name="靓粉陶笛" />
+	<key id="34000132" name="靓粉电颤琴" />
 	<key id="34100013" name="普里奥电吉他（3天）" />
 	<key id="34100014" name="普里奥低音吉他（3天）" />
 	<key id="34100015" name="普里奥手鼓（3天）" />
@@ -29569,6 +29742,8 @@
 	<key id="40410032" name="魔女猫咪扫帚" />
 	<key id="40410033" name="来自星星的猫咪" />
 	<key id="40410034" name="甜美奶油鲸鲨" />
+	<key id="40410035" name="浪漫彩虹旋律" />
+	<key id="40410036" name="妖精摇篮" />
 	<key id="40419999" name="策划飞行技" />
 	<key id="40420024" name="爆竹红灯" />
 	<key id="40420027" name="飞空福袋" />
@@ -32995,6 +33170,8 @@
 	<key id="50600359" name="双人度假自行车" />
 	<key id="50600360" name="毛茸茸的竖琴海豹" />
 	<key id="50600361" name="香甜的巧克力冰淇淋车" />
+	<key id="50600362" name="熊猫快递员" />
+	<key id="50600363" name="春日芬芳步行器" />
 	<key id="50610001" class="New가챠전용" name="滴溜溜旋转杯" />
 	<key id="50610002" class="New가챠전용" name="高贵的驯鹿" />
 	<key id="50610003" class="New가챠전용" name="恼火的胡萝卜驴" />
@@ -33038,8 +33215,10 @@
 	<key id="50620018" name="闪耀驯鹿马车" />
 	<key id="50620019" name="和熊妈妈一起散步" />
 	<key id="50620020" name="小巧的购物车" />
+	<key id="50620021" name="妖精森林花秋千" />
 	<key id="50620237" name="雅致秋千" />
 	<key id="50620238" name="出動!勇敢的小鴨消防隊" feature="22_09" />
+	<key id="50620239" name="雅致秋千" />
 	<key id="50700004" class="charm" name="索菲女王雕像" />
 	<key id="50700005" class="charm" name="卡尔·布莱姆雕像" />
 	<key id="50700006" class="charm" name="马诺维奇雕像" />
@@ -34204,6 +34383,8 @@
 	<key id="70200185" name="对话框徽章：堕落天使" />
 	<key id="70200186" name="对话框徽章：甜蜜爆米花" />
 	<key id="70200187" name="对话框徽章：摇滚品克缤" />
+	<key id="70200188" name="对话框徽章：数花花" />
+	<key id="70200189" name="对话框徽章：玫瑰人生" />
 	<key id="70210001" class="New가챠전용" name="对话框徽章：蓝色全息图" />
 	<key id="70210002" class="New가챠전용" name="对话框徽章：快乐暖冬" />
 	<key id="70210003" class="New가챠전용" name="对话框徽章：胖丁小白" />
@@ -34418,6 +34599,8 @@
 	<key id="70300200" name="名牌徽章：涂鸦" />
 	<key id="70300201" name="名牌徽章：堕落天使" />
 	<key id="70300202" name="名牌徽章：摇滚品克缤" />
+	<key id="70300203" name="名牌徽章：数花花" />
+	<key id="70300204" name="名牌徽章：玫瑰人生" />
 	<key id="70310001" class="New가챠전용" name="名牌徽章：健壮雪人" />
 	<key id="70310002" class="New가챠전용" name="名牌徽章：快乐暖冬" />
 	<key id="70310003" class="New가챠전용" name="名牌徽章：胖嘟嘟白喵" />
@@ -34501,6 +34684,7 @@
 	<key id="70400055" name="伤害字体徽章：闪亮金币" />
 	<key id="70400056" name="伤害字体徽章：枫迷之日" />
 	<key id="70400057" name="伤害字体徽章：莓果奶油" />
+	<key id="70400058" name="伤害字体徽章：啾啾小鸡仔" />
 	<key id="70401001" class="New가챠전용" name="伤害字体徽章：闪耀黄金" />
 	<key id="70401002" class="New가챠전용" name="伤害字体徽章：雪花纷飞" />
 	<key id="70401003" class="New가챠전용" name="伤害字体徽章：软乎乎的玉兔" />
@@ -34525,6 +34709,7 @@
 	<key id="70401022" name="伤害字体徽章：云画之月" />
 	<key id="70401023" name="伤害字体徽章：棉花糖" />
 	<key id="70401024" name="伤害字体徽章：愉快郊游" />
+	<key id="70401025" name="伤害字体徽章：松狮犬" />
 	<key id="70420001" name="伤害字体徽章：闪耀之星" />
 	<key id="70420002" name="伤害字体徽章：闪耀之星" />
 	<key id="70420035" name="伤害字体徽章：纸杯蛋糕" />
@@ -34583,6 +34768,8 @@
 	<key id="70501018" name="墓碑徽章：诡夜节南瓜" />
 	<key id="70501019" name="墓碑徽章：雪人" />
 	<key id="70501020" name="墓碑徽章：小天使" />
+	<key id="70501021" name="墓碑徽章：枯木" />
+	<key id="70501022" name="墓碑徽章：四叶草" />
 	<key id="70520001" name="墓碑徽章：品克缤" />
 	<key id="70520002" name="墓碑徽章：品克缤" />
 	<key id="70520022" name="墓碑徽章：红灯笼" />
@@ -34626,6 +34813,8 @@
 	<key id="70600038" name="救生圈徽章：熊猫" />
 	<key id="70600039" name="救生圈徽章：草莓甜甜圈" />
 	<key id="70600040" name="救生圈徽章：水光噗通" />
+	<key id="70600041" name="救生圈徽章：熊猫" />
+	<key id="70600042" name="救生圈徽章：绿海马" />
 	<key id="70601001" class="New가챠전용" name="救生圈徽章：牛油果" />
 	<key id="70601002" class="New가챠전용" name="救生圈徽章：雪人" />
 	<key id="70601003" class="New가챠전용" name="救生圈徽章：神秘的蛇颈龙" />
@@ -34691,6 +34880,7 @@
 	<key id="70700040" name="钓鱼徽章：光剑" />
 	<key id="70700041" name="钓鱼徽章：黑龙" />
 	<key id="70700042" name="钓鱼徽章：小猴子和香蕉" />
+	<key id="70700043" name="钓鱼徽章：妖精" />
 	<key id="70711001" class="New가챠전용" name="钓鱼徽章：粉粉魔法棒" />
 	<key id="70711002" class="New가챠전용" name="钓鱼徽章：炎魔" />
 	<key id="70711003" class="New가챠전용" name="钓鱼徽章：莉莉丝" />
@@ -34717,6 +34907,7 @@
 	<key id="70711024" name="钓鱼徽章：心" />
 	<key id="70711025" name="钓鱼徽章：粉粉魔法棒" />
 	<key id="70711026" name="钓鱼徽章：柔软布莱克缤" />
+	<key id="70711027" name="钓鱼徽章：红玫瑰" />
 	<key id="70720001" name="钓鱼徽章：柔软品克缤" />
 	<key id="70720002" name="钓鱼徽章：柔软品克缤" />
 	<key id="70800001" class="gem" name="情侣特效徽章：甜蜜爱心" />
