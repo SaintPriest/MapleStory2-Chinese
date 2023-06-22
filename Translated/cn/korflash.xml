@@ -2922,7 +2922,7 @@
 	<key id="$s_marketbill_notice_meratmarket_basket" value="" />
 	<key id="$s_marketbill_notice_meratmarket" value="在设计师商店购买的道具中，如果有违反政策的道具，该道具的设计将会消失，无法使用。\n购买道具时使用的蘑菇币会在3天内通过邮件返还。" />
 	<key id="$s_marketbill_notice_cashshop" value="在商城中购买的道具会存放在商城仓库中，必须移动到背包中才能使用。" />
-	<key id="$s_marketbill_notice_cashshop_gift" value="送出的禮物可以在收件人的現金倉庫中查看。" locale="KR" />
+	<key id="$s_marketbill_notice_cashshop_gift" value="送出的禮物可以在收件人的現金倉庫中查看。\n對方的現金倉庫在未領取的狀態下7天內可取消贈送" locale="KR" />
 	<key id="$s_mastery_dialog_title" value="生活技术" feature="Mastery" />
 	<key id="$s_mastery_guide_start" value="开始～！" feature="Mastery" />
 	<key id="$s_mastery_dialog_main_tab_gathering" value="生产" feature="Mastery" />

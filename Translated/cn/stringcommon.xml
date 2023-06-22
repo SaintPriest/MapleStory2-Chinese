@@ -5418,7 +5418,7 @@
   <!--악기 연주 숙련도 -->
   <key id="s_play_instrument_grade_Lv1" value="新手 演奏家" />
   <key id="s_play_instrument_grade_Lv2" value="中级 演奏家" />
-  <key id="s_play_instrument_grade_Lv3" value="高级演奏家" />
+  <key id="s_play_instrument_grade_Lv3" value="高级 演奏家" />
   <key id="s_play_instrument_grade_Lv4" value="专业 演奏家" />
   <!--악기 연주 -->
   <key id="s_msg_tooltip_musicscore_enable_playcount" value="&lt;FONT color='#FFD200'&gt;可演奏{0}次&lt;/font&gt;\n你可以使用乐器，进行演奏。" />
@@ -5498,6 +5498,7 @@
   <key id="s_play_instrument_instrument_category_name_37" value="长笛" />
   <key id="s_play_instrument_instrument_category_name_38" value="爵士钢琴" />
   <key id="s_play_instrument_instrument_category_name_39" value="法国号" />
+  <key id="s_play_instrument_instrument_category_name_40" value="管风琴" />
   <!--악보 제작 -->
   <key id="s_writemusic_complete_make" value="乐谱制作已完成。" />
   <key id="s_writemusic_playline_show_per_time" value="从时间来看" />
@@ -5678,7 +5679,7 @@
   <key id="s_skill_compact_control_default_tabname" value="组合键" />
   <key id="s_skill_level_max" value="最高" />
   <!-- Maplestory Title Name -->
-  <key id="s_window_title_name" value="冒险岛2 - 觉醒公测" />
+  <key id="s_window_title_name" value="MapleStory2 - A New Beginning" />
   <key id="s_smartpush_active" value="现在开始可以使用{0}功能。" />
   <key id="s_smartpush_autofishing" value="自动钓鱼" />
   <key id="s_smartpush_autofishing_active" value="自动钓鱼中" />
