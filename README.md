@@ -17,7 +17,7 @@ Translated: 已翻譯的Xml，使用Google Translate和Papago翻譯
 Latest-KMS2一律限專案擁有著修改
 
 ## 聯絡我
-Discord: bishop#2239
+Discord: bishopms
 
 ## 補充
 如果有更好的翻譯，請發布Issues，並附上說明或聯絡我
