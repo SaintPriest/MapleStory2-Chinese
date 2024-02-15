@@ -1,7 +1,9 @@
 # MapleStory2-Chinese
 此專案將提供中文化的MapleStory 2
 
-使用漢化請將GameOption.xml裡的language index 改為3
+使用漢化請將GameOption.xml裡的language index 改為3 (Please change the **language index** to "3" inside GameOption.xml before startup the game)
+
+GameOption.xml location is "C:\Nexon\MapleStory2\Config"
 
 徵求懂韓語、中文和想協助維護的人
 
@@ -16,10 +18,12 @@ Translated: 已翻譯的Xml，使用Google Translate和Papago翻譯
 
 Latest-KMS2一律限專案擁有著修改
 
-## 聯絡我
+## 聯絡我 (Contact me)
 Discord: bishopms
 
 ## 補充
 如果有更好的翻譯，請發布Issues，並附上說明或聯絡我
 
 如果此專案有幫助到你，可以在遊戲裡找我(priestDiana)donate個膠囊吧。
+
+## 注意! 這裡所有的Xml檔案皆不相容於MapleStars 2和Maple Stars 2 TW的client (These Xmls are not supported for MapleStars 2 and MapleStars2 TW client)
