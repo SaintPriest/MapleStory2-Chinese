@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
 	<key id="21100001" name="（账号）骑士之路" />
 	<key id="21100002" name="（账号）狂战士之路" />
@@ -2060,4 +2059,7 @@
 	<key id="92000162" name="讀心者" feature="Event" />
 	<key id="92000163" name="與對方一致的" feature="Event" />
 	<key id="92000164" name="不怕輸的" feature="Event" />
+	<key id="92000165" name="看到未來的人" feature="Event" />
+	<key id="92000166" name="一個視力極佳的人" feature="Event" />
+	<key id="92000167" name="享受失敗的人" feature="Event" />
 </ms2>

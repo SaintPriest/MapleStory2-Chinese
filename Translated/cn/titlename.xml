@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 데이터 툴 이용해서 사용해주세요. -->
 <ms2>
 	<key id="0" name="没有称号" />
 	<key id="1" name="{0}" feature="Club" />
@@ -821,4 +820,7 @@
 	<key id="10000899" name="展望未來的" feature="Event" />
 	<key id="10000900" name="配合的" feature="Event" />
 	<key id="10000901" name="冷靜下來" feature="Event" />
+	<key id="10000902" name="我來看看未來" feature="Event" />
+	<key id="10000903" name="優秀的移動視野" feature="Event" />
+	<key id="10000904" name="享受失敗" feature="Event" />
 </ms2>
