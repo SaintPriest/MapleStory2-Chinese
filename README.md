@@ -26,4 +26,4 @@ Discord: bishopms
 
 如果此專案有幫助到你，可以在遊戲裡找我(priestDiana)donate個膠囊吧。
 
-## 注意! 這裡所有的Xml檔案皆不相容於MapleStars 2和Maple Stars 2 TW的client (These Xmls are not supported for MapleStars 2 and MapleStars2 TW client)
+## 注意! 這裡所有的Xml檔案皆不相容於Maple Stars 2 TW客戶端 (These Xmls are not supported for MapleStars 2 TW client)
