@@ -19937,6 +19937,8 @@
 	<key id="20000281" class="consume" name="非凡集中药水" />
 	<key id="20000282" class="consume" name="钢铁之保护药水" />
 	<key id="20000283" name="远征队的骄傲药水" />
+	<key id="20000284" name="水丝蚓鱼饵" />
+	<key id="20000285" name="磁力鱼饵" />
 	<key id="20000288" class="consume" name="汽水" />
 	<key id="20000289" class="consume" name="红薯" />
 	<key id="20000290" class="consume" name="油炸调味卡特班翅膀" />
@@ -19974,6 +19976,7 @@
 	<key id="20000322" class="consume" name="闪光烟花" />
 	<key id="20000323" class="consume" name="心形烟花" />
 	<key id="20000324" class="consume" name="经验值1.5倍券" />
+	<key id="20000325" name="新手黄金鱼饵（1小时）" />
 	<key id="20000331" class="consume" name="有嚼劲的枫叶年糕" />
 	<key id="20000332" class="consume" name="甜甜枫叶年糕" />
 	<key id="20000333" class="consume" name="微苦枫叶年糕" />
