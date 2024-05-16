@@ -1780,6 +1780,26 @@
 			<material ui="100" />
 		</environment>
 	</item>
+	<item id="20000284">
+		<environment>
+			<basic stringTag="FishingLure" />
+			<property rank="1" type="2" iconCode="39" slotMax="9999" slotIcon="20000265" category="PS" blackMarketCategory="39" doNotPreview="1">
+				<sell price="1" />
+			</property>
+			<limit transferType="2" />
+			<skill skillID="90000262" />
+		</environment>
+	</item>
+	<item id="20000285">
+		<environment>
+			<basic stringTag="FishingLure" />
+			<property rank="1" type="2" iconCode="39" slotMax="9999" slotIcon="20000276" category="PS" blackMarketCategory="39" doNotPreview="1">
+				<sell price="1" />
+			</property>
+			<limit transferType="2" />
+			<skill skillID="90000280" />
+		</environment>
+	</item>
 	<item id="20000288">
 		<environment>
 			<property rank="1" type="2" iconCode="6" itemGroup="2" slotMax="9999" category="PS" blackMarketCategory="6" doNotPreview="1" />
@@ -2101,6 +2121,14 @@
 			<life expirationPeriod="2016-09-22-23-59-59" />
 			<limit transferType="1" />
 			<skill skillID="90000328" />
+		</environment>
+	</item>
+	<item id="20000325">
+		<environment>
+			<basic stringTag="FishingLure" />
+			<property rank="1" type="2" iconCode="39" slotMax="9999" slotIcon="20000307" category="PS" blackMarketCategory="39" doNotPreview="1" />
+			<limit transferType="2" />
+			<skill skillID="90000305" />
 		</environment>
 	</item>
 	<item id="20000331">

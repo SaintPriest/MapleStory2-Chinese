@@ -314,6 +314,7 @@
 			<tab name="1009" category="LuMoneyMount" priority="6" static="0" />
 			<tab name="1006" category="LuMoneyConstruct" priority="7" static="0" />
 			<tab name="1006" category="HabiConstruct" priority="6" static="0" />
+			<tab name="2081" category="Fish" priority="6" static="0" />
 			<tab name="1010" category="LuEtc" priority="7" static="0" />
 		</tab>
 	</category>

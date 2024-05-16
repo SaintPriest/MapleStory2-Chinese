@@ -19937,6 +19937,8 @@
 	<key id="20000281" class="consume" name="비상한 집중 물약" />
 	<key id="20000282" class="consume" name="강철의 보호 물약" />
 	<key id="20000283" name="원정대의 긍지물약" />
+	<key id="20000284" name="실지렁이 미끼" />
+	<key id="20000285" name="마그넷 미끼" />
 	<key id="20000288" class="consume" name="사이다" />
 	<key id="20000289" class="consume" name="고구마" />
 	<key id="20000290" class="consume" name="양념반 카트반 날개 튀김" />
@@ -19974,6 +19976,7 @@
 	<key id="20000322" class="consume" name="반짝 폭죽" />
 	<key id="20000323" class="consume" name="하트 폭죽" />
 	<key id="20000324" class="consume" name="경험치 1.5배 쿠폰" />
+	<key id="20000325" name="초보자용 황금 미끼(1시간)" />
 	<key id="20000331" class="consume" name="쫀득한 단풍 떡" />
 	<key id="20000332" class="consume" name="달콤한 단풍 떡" />
 	<key id="20000333" class="consume" name="쌉싸름 단풍 떡" />

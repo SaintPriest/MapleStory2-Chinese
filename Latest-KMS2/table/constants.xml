@@ -723,4 +723,9 @@
 	<v key="TencentCharacterCreateShutdownLeft" value="https://mxd2.qq.com/webplat/info/news_version3/22354/22355/22356/22357/m14455/202207/918694.shtml" locale="CN" />
 	<v key="TencentCharacterCreateShutdownRight" value="https://change.qq.com/cp/aoX85z7/index.html" locale="CN" />
 	<v key="LeadSkillMaxSlot" value="1" />
+	<v key="ProbabilityUrlDungeon" value="https://maplestory2.nexon.com/Probability/Dungeon" />
+	<v key="ProbabilityUrlPetCapture" value="https://maplestory2.nexon.com/Probability/PetCapture" />
+	<v key="ProbabilityUrlKeyAppraisal" value="https://maplestory2.nexon.com/Probability/Key" />
+	<v key="ProbabilityUrlEct" value="https://maplestory2.nexon.com/Probability/Etc" />
+	<v key="ProbabilityUrllifeSkills" value="https://maplestory2.nexon.com/Probability/Life" />
 </ms2>
