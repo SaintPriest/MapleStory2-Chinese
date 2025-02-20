@@ -1544,6 +1544,7 @@
   <key id="s_login_err_nxa_launcher" value="发射正在正常进行，请检查是否处于登录状态。" />
   <key id="s_ah_err_close" value="与服务器的连接中断。\n（{0}{1}）" />
   <key id="s_ngs_err_login_error" value="NGS登录错误。" />
+  <key id="s_login_err_create_account_block" value="該服務即將終止\n因此無法再建立新帳戶" />
   <!-- [접속 관련] -->
   <key id="s_gameoption_init" value="你要将设置初始化吗？" />
   <key id="s_gameoption_quickslot_warning" value="没有指定快捷键的快捷栏。你想就这样应用吗？" />
