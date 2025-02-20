@@ -1305,6 +1305,7 @@
 	<key id="s_login_err_main_atl" value="현재 서비스는 본인확인된 회원에 한하여 서비스 이용이 가능합니다." />
 	<key id="s_login_err_auto_external_block" value="고객님의 계정은 구계정입니다.\n구계정은 최초 1회 본인 인증이 필요합니다.\n\n본인인증 후, 정상적으로 게임 이용이 가능하십니다." />
 	<key id="s_login_err_tencent_signature" value="게임 인증에 실패했습니다.\n게임을 다시 실행해 주세요." />
+	<key id="s_login_err_create_account_block" value="서비스 종료가 예정되어\n신규 계정은 더 이상 생성할 수 없습니다." />
 	<key id="s_login_err_nxa_ticket" value="게임 인증에 실패했습니다.\n게임을 다시 실행해 주세요." />
 	<key id="s_login_err_nxa_launcher" value="런처가 정상 실행 중이고, 로그인 상태인지 확인해 주세요." />
 	<key id="s_ah_err_close" value="서버와 연결이 끊어졌습니다.\n({0}{1})" />
